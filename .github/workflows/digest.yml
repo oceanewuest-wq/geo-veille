@@ -31,3 +31,10 @@ jobs:
           git add docs/
           git diff --cached --quiet || git commit -m "Digest du $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Notification du matin (ntfy)
+        if: success()
+        run: |
+          curl -s -H "Title: Geopolitical news" -H "Tags: blossom" \
+            -d "Ton digest du matin est prêt 🌿 → https://oceanewuest-wq.github.io/geo-veille/" \
+            "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}" > /dev/null || true

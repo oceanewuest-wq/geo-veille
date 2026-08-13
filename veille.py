@@ -331,8 +331,11 @@ document.querySelectorAll('nav button').forEach(b => b.addEventListener('click',
 }));
 """
 
-FAVICON = ("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' "
-           "viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌸</text></svg>")
+# Icônes (docs/icon-*.png générées une fois, non écrasées par le script)
+TETES_ICONES = """<link rel="icon" href="icon-180.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2e7d4f">"""
 
 
 def meta_article(a, lang):
@@ -433,7 +436,7 @@ def construire_page(onglets, config, mode_brut, erreurs):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>Geopolitical news — {datetime.now().strftime("%b %d, %Y")}</title>
-<link rel="icon" href="{FAVICON}">
+{TETES_ICONES}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
