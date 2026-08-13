@@ -1,0 +1,61 @@
+{
+  "zones_suivies": [
+    "Moyen-Orient",
+    "Détroit d'Ormuz / Golfe Persique",
+    "Iran",
+    "Israël / Palestine / Liban"
+  ],
+
+  "requetes_google_news": [
+    { "nom": "Détroit d'Ormuz", "q": "\"Strait of Hormuz\" OR \"détroit d'Ormuz\"" },
+    { "nom": "Iran", "q": "Iran (sanctions OR nucléaire OR nuclear OR IRGC OR missile)" },
+    { "nom": "Moyen-Orient", "q": "Moyen-Orient (diplomatie OR conflit OR négociations)" },
+    { "nom": "Mer Rouge", "q": "\"Red Sea\" (Houthi OR shipping OR attack) OR \"mer Rouge\" Houthis" }
+  ],
+
+  "flux": {
+    "medias_fr": {
+      "label": "Médias FR",
+      "feeds": [
+        { "nom": "Le Monde — International", "url": "https://www.lemonde.fr/international/rss_full.xml" },
+        { "nom": "RFI — Monde", "url": "https://www.rfi.fr/fr/monde/rss" },
+        { "nom": "France 24 — Moyen-Orient", "url": "https://www.france24.com/fr/moyen-orient/rss" },
+        { "nom": "France 24 — Monde", "url": "https://www.france24.com/fr/rss" },
+        { "nom": "jeuxvideo.com", "url": "https://www.jeuxvideo.com/rss/rss.xml" },
+        { "nom": "Google News — Streamers FR", "url": "https://news.google.com/rss/search?q=Squeezie%20OR%20Kameto%20OR%20ZeratoR%20OR%20%22streamer%20fran%C3%A7ais%22%20OR%20%22Twitch%20France%22&hl=fr&gl=FR&ceid=FR%3Afr" },
+        { "nom": "Google News — Cinéma & Mode", "url": "https://news.google.com/rss/search?q=%22cin%C3%A9ma%20fran%C3%A7ais%22%20OR%20%22box-office%22%20OR%20%22Fashion%20Week%22%20OR%20d%C3%A9fil%C3%A9%20mode&hl=fr&gl=FR&ceid=FR%3Afr" }
+      ]
+    },
+    "medias_en": {
+      "label": "English media",
+      "feeds": [
+        { "nom": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+        { "nom": "Al Jazeera English", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+        { "nom": "The Guardian — World", "url": "https://www.theguardian.com/world/rss" }
+      ]
+    },
+    "think_tanks": {
+      "label": "Think tanks",
+      "feeds": [
+        { "nom": "International Crisis Group", "url": "https://www.crisisgroup.org/rss" },
+        { "nom": "War on the Rocks", "url": "https://warontherocks.com/feed/" },
+        { "nom": "ISW", "url": "https://www.understandingwar.org/rss.xml" }
+      ]
+    }
+  },
+
+  "themes": [
+    { "fr": "Politique & Diplomatie", "en": "Politics & Diplomacy", "emoji": "🕊️" },
+    { "fr": "Conflits & Sécurité", "en": "Conflicts & Security", "emoji": "🛡️" },
+    { "fr": "Économie & Énergie", "en": "Economy & Energy", "emoji": "📈" },
+    { "fr": "Société", "en": "Society", "emoji": "🎭" },
+    { "fr": "Sport", "en": "Sport", "emoji": "⚽" },
+    { "fr": "Presse · Cinéma · Mode", "en": "Press · Film · Fashion", "emoji": "🎬" },
+    { "fr": "Streamers & Gaming", "en": "Streamers & Gaming", "emoji": "🎮" }
+  ],
+
+  "fenetre_heures": 24,
+  "fenetre_heures_think_tanks": 168,
+  "max_articles_envoyes_au_llm": 60,
+  "nb_sujets_par_onglet": 14
+}
