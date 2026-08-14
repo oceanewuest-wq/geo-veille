@@ -39,7 +39,11 @@
       "feeds": [
         { "nom": "International Crisis Group", "url": "https://www.crisisgroup.org/rss" },
         { "nom": "War on the Rocks", "url": "https://warontherocks.com/feed/" },
-        { "nom": "ISW", "url": "https://www.understandingwar.org/rss.xml" }
+        { "nom": "ISW", "url": "https://www.understandingwar.org/rss.xml" },
+        { "nom": "IRIS (France)", "url": "https://www.iris-france.org/feed/" },
+        { "nom": "ECFR (Europe)", "url": "https://ecfr.eu/feed/" },
+        { "nom": "Lowy Institute (Australie)", "url": "https://www.lowyinstitute.org/the-interpreter/rss.xml" },
+        { "nom": "Responsible Statecraft (Quincy Institute)", "url": "https://responsiblestatecraft.org/feed/" }
       ]
     }
   },

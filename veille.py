@@ -435,7 +435,7 @@ def construire_page(onglets, config, mode_brut, erreurs):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>Geopolitical news — {datetime.now().strftime("%b %d, %Y")}</title>
+<title>News — {datetime.now().strftime("%b %d, %Y")}</title>
 {TETES_ICONES}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -443,7 +443,7 @@ def construire_page(onglets, config, mode_brut, erreurs):
 <style>{CSS}</style>
 </head>
 <body>
-<header><h1>Geopolitical news 🌸</h1><p>Generated on {date_en}</p></header>
+<header><h1>News 🌸</h1><p>Generated on {date_en}</p></header>
 {note}
 <nav>{"".join(nav)}</nav>
 {"".join(sections)}

@@ -1,6 +1,6 @@
 {
-  "name": "Geopolitical news",
-  "short_name": "Geo news",
+  "name": "News",
+  "short_name": "News",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#e3f2e7",
