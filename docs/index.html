@@ -75,10 +75,13 @@ details.formel[open] summary { margin-bottom:.3rem; }
         padding:.8rem 1rem; color:var(--sourdine); font-size:.85rem; margin-bottom:1rem; }
 footer { color:var(--sourdine); font-size:.78rem; margin-top:2rem; }
 footer b { color:var(--rose); }
+footer a { color:var(--rose); font-weight:800; text-decoration:none;
+        border:1px solid var(--bordure); border-radius:999px;
+        padding:.4rem .9rem; display:inline-block; margin-bottom:.6rem; }
 </style>
 </head>
 <body>
-<header><h1>News 🌸</h1><p>Generated on August 14, 2026 at 09:48</p></header>
+<header><h1>News 🌸</h1><p>Generated on August 14, 2026 at 10:16</p></header>
 
 <nav><button class="actif" data-cible="fr">Médias FR</button><button class="" data-cible="en">English media</button><button class="" data-cible="zones">By region</button><button class="" data-cible="thinktanks">Think tanks</button></nav>
 <section class="onglet actif" id="fr"><details class="theme-bloc" open><summary>🕊️ Politique &amp; Diplomatie<span class="compte">3</span></summary><article>
@@ -587,7 +590,8 @@ footer b { color:var(--rose); }
 </div>
 </article></details></section>
 <p class="note">Feeds with errors: ISW: HTTPError</p>
-<footer><b>geo-veille</b> — RSS + Gemini Flash · two registers: plain / formal ♡</footer>
+<footer><a href="widget.html">🌸 Add the home screen widget</a><br>
+<b>geo-veille</b> — RSS + Gemini Flash · two registers: plain / formal ♡</footer>
 <script>
 document.querySelectorAll('nav button').forEach(b => b.addEventListener('click', () => {
   document.querySelectorAll('nav button').forEach(x => x.classList.remove('actif'));

@@ -29,6 +29,8 @@ from pathlib import Path
 RACINE = Path(__file__).resolve().parent
 SORTIE = RACINE / "docs" / "index.html"
 CACHE = RACINE / "docs" / "digest.json"
+WIDGET = RACINE / "docs" / "widget.json"
+URL_PUBLIQUE = "https://oceanewuest-wq.github.io/geo-veille/"
 # Cascade : si un modèle est à court de quota gratuit (20 req/jour chacun) ou
 # indisponible, on passe au suivant.
 GEMINI_MODELES = ["gemini-flash-latest", "gemini-3.5-flash", "gemini-flash-lite-latest"]
@@ -320,6 +322,9 @@ details.formel[open] summary { margin-bottom:.3rem; }
         padding:.8rem 1rem; color:var(--sourdine); font-size:.85rem; margin-bottom:1rem; }
 footer { color:var(--sourdine); font-size:.78rem; margin-top:2rem; }
 footer b { color:var(--rose); }
+footer a { color:var(--rose); font-weight:800; text-decoration:none;
+        border:1px solid var(--bordure); border-radius:999px;
+        padding:.4rem .9rem; display:inline-block; margin-bottom:.6rem; }
 """
 
 JS = """
@@ -448,12 +453,47 @@ def construire_page(onglets, config, mode_brut, erreurs):
 <nav>{"".join(nav)}</nav>
 {"".join(sections)}
 {note_err}
-<footer><b>geo-veille</b> — RSS + Gemini Flash · two registers: plain / formal ♡</footer>
+<footer><a href="widget.html">🌸 Add the home screen widget</a><br>
+<b>geo-veille</b> — RSS + Gemini Flash · two registers: plain / formal ♡</footer>
 <script>{JS}</script>
 </body>
 </html>"""
     SORTIE.parent.mkdir(parents=True, exist_ok=True)
     SORTIE.write_text(page, encoding="utf-8")
+    ecrire_widget_json(onglets, config)
+
+
+def ecrire_widget_json(onglets, config):
+    """Petit fichier léger consommé par le widget iOS (Scriptable)."""
+    prefere = next((o for o in onglets if o[0] == "fr" and o[3]), None)
+    onglet = prefere or next((o for o in onglets if o[3]), None)
+    if onglet is None:
+        return
+    _, _, lang, sujets, articles = onglet
+
+    emoji_par_theme = {t[lang]: t["emoji"] for t in config["themes"]}
+    ordre = {t[lang]: i for i, t in enumerate(config["themes"])}
+    infos_par_url = {a["url"]: a for a in articles}
+    classes = sorted(sujets, key=lambda s: ordre.get(str(s.get("theme", "")), 99))
+
+    items = []
+    for s in classes[:10]:
+        urls = [u for u in (s.get("urls") or []) if isinstance(u, str) and u.startswith("http")]
+        src = next((infos_par_url[u] for u in urls if u in infos_par_url), None)
+        items.append({
+            "emoji": emoji_par_theme.get(str(s.get("theme", "")), "🌍"),
+            "theme": str(s.get("theme", "")),
+            "titre": str(s.get("titre", "")),
+            "zone": str(s.get("zone", "")),
+            "resume": str(s.get("en_clair", ""))[:220],
+            "source": meta_article(src, lang) if src else "",
+        })
+
+    WIDGET.write_text(json.dumps({
+        "genere_le": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "url": URL_PUBLIQUE,
+        "sujets": items,
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 # ── Cache (pour retravailler le HTML sans rappeler Gemini) ───────────────────

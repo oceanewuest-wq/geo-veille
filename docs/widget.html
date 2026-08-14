@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Widget — News</title>
+<link rel="icon" href="icon-180.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="theme-color" content="#2e7d4f">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+:root { --fond:#fdeef4; --carte:#ffffff; --texte:#2a1e25; --sourdine:#96798a;
+        --rose:#e0447c; --rose-doux:#fbdce9; --vert:#2e7d4f; --vert-doux:#e3f2e7;
+        --bordure:#f3d2e1; }
+@media (prefers-color-scheme: dark) {
+  :root { --fond:#221219; --carte:#2e1c26; --texte:#f7e9f0; --sourdine:#b596a5;
+          --rose:#ff7eb0; --rose-doux:#432234; --vert:#7fd191; --vert-doux:#20362a;
+          --bordure:#43293a; } }
+* { box-sizing:border-box; margin:0; }
+body { background:var(--fond); color:var(--texte);
+       font:16px/1.65 'Nunito',system-ui,sans-serif;
+       max-width:700px; margin:0 auto; padding:1.4rem 1rem 4rem; }
+h1 { font-family:'Fraunces',Georgia,serif; font-size:1.8rem; color:var(--rose); }
+.sous { color:var(--sourdine); font-size:.95rem; margin-top:.3rem; }
+h2 { font-size:.85rem; text-transform:uppercase; letter-spacing:.12em;
+     color:var(--vert); margin:1.8rem 0 .6rem; }
+h2 .num { background:var(--rose); color:#fff; border-radius:999px;
+     display:inline-block; width:1.5rem; height:1.5rem; line-height:1.5rem;
+     text-align:center; margin-right:.5rem; font-size:.8rem; }
+.carte { background:var(--carte); border:1px solid var(--bordure);
+     border-radius:16px; padding:1rem 1.15rem; box-shadow:0 2px 10px rgba(224,68,124,.06); }
+a.bouton { display:block; text-align:center; background:var(--rose); color:#fff;
+     text-decoration:none; font-weight:800; padding:.85rem 1rem; border-radius:999px;
+     margin:.2rem 0 .1rem; }
+a.lien { color:var(--rose); font-weight:700; }
+button.copier { background:var(--vert); color:#fff; border:0; border-radius:999px;
+     padding:.6rem 1.1rem; font:800 .85rem 'Nunito',system-ui,sans-serif; cursor:pointer; }
+pre { background:var(--vert-doux); border-radius:12px; padding:.8rem;
+     overflow-x:auto; font-size:.72rem; line-height:1.45; max-height:230px; }
+code { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; }
+ul { padding-left:1.15rem; } li { margin-bottom:.4rem; }
+.note { color:var(--sourdine); font-size:.85rem; margin-top:.5rem; }
+footer { color:var(--sourdine); font-size:.78rem; margin-top:2.2rem; text-align:center; }
+</style>
+</head>
+<body>
+
+<h1>Le widget 🌸</h1>
+<p class="sous">Les sujets du jour directement sur ton écran d'accueil. Gratuit, iPhone et iPad.</p>
+
+<h2><span class="num">1</span>Installer Scriptable</h2>
+<div class="carte">
+  <p>Une app gratuite qui permet d'afficher des widgets personnalisés.</p>
+  <p style="margin-top:.7rem"><a class="bouton" href="https://apps.apple.com/app/scriptable/id1405459188">Ouvrir dans l'App Store</a></p>
+</div>
+
+<h2><span class="num">2</span>Ajouter le script</h2>
+<div class="carte">
+  <p><b>Le plus simple</b> — une fois Scriptable installé, touche ce bouton depuis ton iPhone :</p>
+  <p><a class="bouton" id="oneTap" href="#">Ajouter le widget à Scriptable</a></p>
+  <p class="note">Si le bouton ne fait rien, utilise la méthode manuelle juste en dessous — elle marche à tous les coups.</p>
+
+  <p style="margin-top:1.1rem"><b>Méthode manuelle</b> :</p>
+  <ul>
+    <li>Copie le code ci-dessous</li>
+    <li>Ouvre Scriptable → bouton <b>+</b> en haut à droite</li>
+    <li>Colle le code, puis touche le titre en haut pour le nommer <b>News</b></li>
+  </ul>
+  <p style="margin:.6rem 0"><button class="copier" id="copier">Copier le code</button></p>
+  <pre><code id="code">Chargement…</code></pre>
+</div>
+
+<h2><span class="num">3</span>Poser le widget</h2>
+<div class="carte">
+  <ul>
+    <li>Reste appuyé sur l'écran d'accueil jusqu'à ce que les icônes bougent</li>
+    <li>Touche <b>+</b> en haut à gauche, cherche <b>Scriptable</b></li>
+    <li>Choisis la taille (moyen ou grand, c'est le plus lisible) et ajoute-le</li>
+    <li>Touche le widget une fois posé → <b>Modifier le widget</b> → <b>Script : News</b></li>
+  </ul>
+  <p class="note">Touche le widget pour ouvrir la page complète. iOS décide lui-même de la fréquence de mise à jour (en général dans l'heure).</p>
+</div>
+
+<footer>
+  <a class="lien" href="./">← Retour aux news</a>
+</footer>
+
+<script>
+const SRC = "news-widget.js";
+
+// Charge le code du widget pour l'afficher et le copier
+let codeSource = "";
+fetch(SRC + "?v=" + Date.now())
+  .then(r => r.text())
+  .then(t => { codeSource = t; document.getElementById("code").textContent = t; })
+  .catch(() => { document.getElementById("code").textContent =
+      "Impossible de charger le code — ouvre " + SRC + " directement."; });
+
+// Installation en un geste : Scriptable crée un script qui charge la dernière version
+const amorce =
+  'const r = new Request("' + new URL(SRC, location.href).href + '");\n' +
+  'const code = await r.loadString();\n' +
+  'await eval("(async () => {" + code + "})()");\n';
+document.getElementById("oneTap").href =
+  "scriptable:///add?name=News&source=" + encodeURIComponent(amorce);
+
+document.getElementById("copier").addEventListener("click", async (e) => {
+  try {
+    await navigator.clipboard.writeText(codeSource);
+    e.target.textContent = "Copié ✓";
+    setTimeout(() => { e.target.textContent = "Copier le code"; }, 2000);
+  } catch {
+    e.target.textContent = "Sélectionne le code à la main";
+  }
+});
+</script>
+</body>
+</html>
