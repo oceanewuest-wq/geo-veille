@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-16T05:22:56+00:00",
+ "genere_le": "2026-08-17T05:34:52+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions entre l'Iran et le Qatar sur la détention présumée de pilotes",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "L'Iran affirme que le Qatar retient prisonniers trois de ses pilotes de chasse depuis une attaque contre une base américaine au printemps, ce que Doha dément formellement. Cette querelle diplomatique souligne l'équilibre",
-   "source": "Le Monde — International · 15/08 22:48"
+   "titre": "Plan de paix pour Gaza et mission diplomatique de Jared Kushner",
+   "zone": "Israël / Palestine / Égypte",
+   "resume": "L'émissaire des États-Unis, Jared Kushner, tente de sauver un plan de paix pour Gaza en rencontrant les dirigeants israéliens et égyptiens, ainsi que le Hamas. Le mouvement palestinien avait accepté une proposition de tr",
+   "source": "Le Monde — International · 17/08 04:17"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Luttes de pouvoir à Téhéran autour des discussions avec Washington",
-   "zone": "Moyen-Orient / Iran",
-   "resume": "En Iran, les négociations avec les États-Unis sont ralenties par des luttes d'influence internes entre les Gardiens de la révolution, l'armée idéologique du régime, et le pouvoir présidentiel. Les Gardiens imposent leurs",
-   "source": "Le Monde — International · 16/08 04:00"
+   "titre": "Tensions franco-iraniennes et répression des échanges culturels",
+   "zone": "Iran / France",
+   "resume": "Le gouvernement iranien s'en prend désormais aux institutions culturelles françaises en arrêtant des diplomates et des artistes locaux. Cette décision montre que Téhéran durcit sa politique de contrôle et cherche à coupe",
+   "source": "Le Monde — International · 17/08 03:35"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tchad : Grâce présidentielle accordée à l'opposant Succès Masra",
-   "zone": "Afrique centrale (Tchad)",
-   "resume": "Au Tchad, le président a gracié neuf figures de l'opposition, permettant la libération de son ancien rival à l'élection présidentielle, Succès Masra. Condamné à une lourde peine de prison, l'opposant retrouve la liberté ",
-   "source": "France 24 — Monde · 15/08 20:20"
+   "titre": "Exercices militaires américano-sud-coréens et critiques de Donald Trump",
+   "zone": "Corée du Sud / États-Unis / Corée du Nord",
+   "resume": "Les armées américaine et sud-coréenne ont lancé leurs exercices militaires annuels, mais Donald Trump a publiquement demandé de les réduire pour ne pas fâcher le dictateur nord-coréen Kim Jong-un. Trump estime que ces en",
+   "source": "Le Monde — International · 16/08 23:14"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Lancement de la campagne présidentielle polarisée au Brésil",
+   "zone": "Brésil",
+   "resume": "La course à la présidence a commencé au Brésil avec un duel très serré entre le président de gauche Lula et Flávio Bolsonaro, le fils de l'ancien président de droite. Le pays est très divisé et les deux camps sont à égal",
+   "source": "France 24 — Monde · 17/08 03:22"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes israéliennes au Liban-Sud et pressions sur les négociations",
-   "zone": "Proche-Orient (Israël / Liban)",
-   "resume": "Des frappes aériennes israéliennes ont causé la mort d'au moins onze personnes dans le sud du Liban, poussant le Hezbollah à promettre des représailles. Dans le même temps, Israël réclame des pourparlers plus fermes avec",
-   "source": "Le Monde — International · 15/08 16:06"
+   "titre": "Fragilisation du cessez-le-feu entre Israël et le Hezbollah au Liban",
+   "zone": "Liban / Israël",
+   "resume": "Un accord de cessez-le-feu fragile existait depuis juin entre Israël et le Hezbollah libanais, mais de récents bombardements israéliens ont tué onze personnes dans le sud du Liban. Israël affirme avoir riposté à des atta",
+   "source": "Le Monde — International · 17/08 04:15"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade de frappes de drones et missiles entre l'Ukraine et la Russie",
-   "zone": "Europe orientale (Ukraine / Russie)",
-   "resume": "L'Ukraine et la Russie ont échangé des attaques aériennes d'une ampleur inédite, Moscou subissant des centaines de drones ukrainiens tandis que des missiles russes frappaient Kiev. L'Ukraine cible les usines militaires e",
-   "source": "© Gleb Garanich, Reuters · 16/08 04:43"
+   "titre": "L'Iran promet une prime pour l'élimination de soldats américains",
+   "zone": "Iran / États-Unis",
+   "resume": "L'Iran a officiellement promis une récompense d'au moins 30 000 dollars à quiconque capturerait ou tuerait un militaire américain. Cette provocation directe montre à quel point les relations entre l'Iran et les États-Uni",
+   "source": "© Vahid Salemi, AP · 16/08 15:44"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Intensification des frappes de drones entre l'Ukraine et la Russie",
+   "zone": "Ukraine / Russie",
+   "resume": "La guerre entre l'Ukraine et la Russie a franchi un nouveau cap avec des attaques massives de drones et de missiles sur les capitales des deux pays. L'Ukraine a envoyé des centaines de drones vers Moscou pour frapper le ",
+   "source": "Le Monde — International · 17/08 04:15"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Soupçons de transferts clandestins d'uranium de la RDC vers la Chine",
-   "zone": "Afrique centrale / Asie (RDC / Chine)",
-   "resume": "Des milliers de tonnes d'uranium congolais auraient été expédiées illégalement vers la Chine au cours des deux dernières décennies. L'uranium étant la matière première nécessaire à la production d'énergie nucléaire et d'",
-   "source": "Le Monde — International · 16/08 04:00"
+   "titre": "L'Australie développe sa filière de terres rares face à la Chine",
+   "zone": "Australie / Chine",
+   "resume": "L'Australie construit une usine pour traiter les terres rares, des métaux indispensables pour fabriquer des smartphones, des voitures électriques ou des éoliennes. Actuellement, la Chine contrôle presque tout ce marché, ",
+   "source": "Le Monde — International · 17/08 03:00"
   },
   {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "La Colombie demande un allègement tarifaire américain après un séisme",
-   "zone": "Amériques (Colombie / États-Unis)",
-   "resume": "Frappé par un tremblement de terre, le gouvernement colombien a demandé aux États-Unis de suspendre temporairement les taxes douanières appliquées à ses exportations. Ces droits de douane pèsent lourdement sur les financ",
-   "source": "Le Monde — International · 16/08 02:42"
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Victoire historique du Cameroun à la CAN féminine 2026",
+   "zone": "Afrique (Maroc / Cameroun / Malawi)",
+   "resume": "Les footballeuses du Cameroun ont écrit l'histoire en remportant pour la toute première fois la Coupe d'Afrique des Nations féminine face au Malawi. Le Malawi avait surpris tout le monde en arrivant en finale, mais les C",
+   "source": "© Fernando Vergara, AP · 16/08 21:00"
   },
   {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Séisme de magnitude 7,7 dans l'est de l'Indonésie",
-   "zone": "Asie du Sud-Est (Indonésie)",
-   "resume": "L'est de l'Indonésie a été ébranlé par un violent séisme de magnitude 7,7 qui a causé la mort de dizaines de personnes et d'importantes destructions. Par précaution face au risque de montée subite de la mer, des milliers",
-   "source": "Le Monde — International · 15/08 10:07"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Censure par le Conseil constitutionnel de la loi sur les réseaux sociaux",
-   "zone": "Europe (France)",
-   "resume": "Les juges constitutionnels français ont rejeté la loi qui voulait bloquer l'accès aux réseaux sociaux pour les moins de 15 ans, estimant le texte trop restrictif ou mal encadré légalement. Le gouvernement doit donc revoi",
-   "source": "France 24 — Monde · 15/08 12:12"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Émotion après la mort du professeur britannique Jason Arday",
-   "zone": "Europe (Royaume-Uni)",
-   "resume": "La mort de Jason Arday, qui était devenu le plus jeune professeur noir nommé à la prestigieuse université de Cambridge, suscite une profonde émotion au Royaume-Uni. Visé par des accusations professionnelles, l'universita",
-   "source": "Le Monde — International · 15/08 11:45"
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Félix Lebrun remporte son premier Grand Smash de tennis de table",
+   "zone": "Suède / France",
+   "resume": "Le jeune prodige français du tennis de table, Félix Lebrun, a remporté un tournoi majeur appelé le Grand Smash en Suède. C'est l'équivalent d'un tournoi de tennis de Roland-Garros ou de Wimbledon, et c'est une première h",
+   "source": "© Johan Nilsson, AFP · 16/08 18:38"
   }
  ]
 }
