@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-17T05:34:52+00:00",
+ "genere_le": "2026-08-18T05:32:09+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Plan de paix pour Gaza et mission diplomatique de Jared Kushner",
-   "zone": "Israël / Palestine / Égypte",
-   "resume": "L'émissaire des États-Unis, Jared Kushner, tente de sauver un plan de paix pour Gaza en rencontrant les dirigeants israéliens et égyptiens, ainsi que le Hamas. Le mouvement palestinien avait accepté une proposition de tr",
-   "source": "Le Monde — International · 17/08 04:17"
+   "titre": "Impasse sur le plan de paix américain à Gaza et exigences de désarmement",
+   "zone": "Israël / Palestine",
+   "resume": "Jared Kushner, le gendre et émissaire de Donald Trump, a tenté de débloquer les négociations de paix à Gaza en rencontrant les deux camps. Cependant, le Premier ministre israélien pose des conditions très strictes, notam",
+   "source": "France 24 — Monde · 17/08 20:01"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions franco-iraniennes et répression des échanges culturels",
-   "zone": "Iran / France",
-   "resume": "Le gouvernement iranien s'en prend désormais aux institutions culturelles françaises en arrêtant des diplomates et des artistes locaux. Cette décision montre que Téhéran durcit sa politique de contrôle et cherche à coupe",
-   "source": "Le Monde — International · 17/08 03:35"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Exercices militaires américano-sud-coréens et critiques de Donald Trump",
+   "titre": "Réduction des exercices militaires américains en Corée du Sud",
    "zone": "Corée du Sud / États-Unis / Corée du Nord",
-   "resume": "Les armées américaine et sud-coréenne ont lancé leurs exercices militaires annuels, mais Donald Trump a publiquement demandé de les réduire pour ne pas fâcher le dictateur nord-coréen Kim Jong-un. Trump estime que ces en",
-   "source": "Le Monde — International · 16/08 23:14"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Lancement de la campagne présidentielle polarisée au Brésil",
-   "zone": "Brésil",
-   "resume": "La course à la présidence a commencé au Brésil avec un duel très serré entre le président de gauche Lula et Flávio Bolsonaro, le fils de l'ancien président de droite. Le pays est très divisé et les deux camps sont à égal",
-   "source": "France 24 — Monde · 17/08 03:22"
+   "resume": "Donald Trump a décidé de réduire fortement les entraînements militaires communs entre les armées américaine et sud-coréenne. Il explique vouloir faire des économies et privilégier le dialogue avec la Corée du Nord, dont ",
+   "source": "Le Monde — International · 18/08 03:34"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Fragilisation du cessez-le-feu entre Israël et le Hezbollah au Liban",
-   "zone": "Liban / Israël",
-   "resume": "Un accord de cessez-le-feu fragile existait depuis juin entre Israël et le Hezbollah libanais, mais de récents bombardements israéliens ont tué onze personnes dans le sud du Liban. Israël affirme avoir riposté à des atta",
-   "source": "Le Monde — International · 17/08 04:15"
+   "titre": "Tensions accrues autour du détroit d'Ormuz et de l'accord irano-américain",
+   "zone": "Iran / Détroit d'Ormuz / Golfe Persique",
+   "resume": "Les discussions entre l'Iran et les États-Unis sont au point mort après que Téhéran a rejeté le délai de négociation de deux mois. En plus, Donald Trump a menacé Oman d'une intervention militaire s'il bloquait le détroit",
+   "source": "© Stringer, Reuters · 18/08 03:25"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "L'Iran promet une prime pour l'élimination de soldats américains",
-   "zone": "Iran / États-Unis",
-   "resume": "L'Iran a officiellement promis une récompense d'au moins 30 000 dollars à quiconque capturerait ou tuerait un militaire américain. Cette provocation directe montre à quel point les relations entre l'Iran et les États-Uni",
-   "source": "© Vahid Salemi, AP · 16/08 15:44"
+   "titre": "Escalade de la violence et colonisation en Cisjordanie",
+   "zone": "Israël / Palestine",
+   "resume": "La situation en Cisjordanie devient de plus en plus violente avec des attaques répétées de colons israéliens contre des familles palestiniennes. Des experts estiment que le manque de réaction des pays occidentaux encoura",
+   "source": "Le Monde — International · 18/08 04:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des frappes de drones entre l'Ukraine et la Russie",
-   "zone": "Ukraine / Russie",
-   "resume": "La guerre entre l'Ukraine et la Russie a franchi un nouveau cap avec des attaques massives de drones et de missiles sur les capitales des deux pays. L'Ukraine a envoyé des centaines de drones vers Moscou pour frapper le ",
-   "source": "Le Monde — International · 17/08 04:15"
+   "titre": "Impact des frappes israéliennes et des incendies au Sud-Liban",
+   "zone": "Liban",
+   "resume": "Dans le sud du Liban, les bombardements israéliens déclenchent de graves incendies qui terrorisent les habitants. Pour ne rien arranger, les pompiers locaux ont beaucoup de mal à intervenir car ils doivent obtenir des au",
+   "source": "Le Monde — International · 17/08 15:30"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Attaque massive de drones ukrainiens sur Moscou",
+   "zone": "Russie / Ukraine",
+   "resume": "L'Ukraine a mené une attaque de drones d'une ampleur inédite contre Moscou, avec plus de 600 appareils envoyés en une nuit. Même si la défense russe affirme en avoir abattu une grande partie, l'événement montre que Kiev ",
+   "source": "Le Monde — International · 18/08 04:26"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "L'Australie développe sa filière de terres rares face à la Chine",
-   "zone": "Australie / Chine",
-   "resume": "L'Australie construit une usine pour traiter les terres rares, des métaux indispensables pour fabriquer des smartphones, des voitures électriques ou des éoliennes. Actuellement, la Chine contrôle presque tout ce marché, ",
-   "source": "Le Monde — International · 17/08 03:00"
+   "titre": "Découverte de pétrole au large de l'Amazonie par le Brésil",
+   "zone": "Brésil",
+   "resume": "Le président brésilien Lula se réjouit de la découverte de pétrole près de l'Amazonie, y voyant une chance historique pour l'économie de son pays. Cependant, ce projet de forage en mer profonde inquiète beaucoup les défe",
+   "source": "Le Monde — International · 18/08 00:11"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Victoire historique du Cameroun à la CAN féminine 2026",
-   "zone": "Afrique (Maroc / Cameroun / Malawi)",
-   "resume": "Les footballeuses du Cameroun ont écrit l'histoire en remportant pour la toute première fois la Coupe d'Afrique des Nations féminine face au Malawi. Le Malawi avait surpris tout le monde en arrivant en finale, mais les C",
-   "source": "© Fernando Vergara, AP · 16/08 21:00"
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Bataille judiciaire et financière autour de la fusion Paramount-Warner Bros",
+   "zone": "États-Unis",
+   "resume": "Le studio de cinéma Paramount demande une somme astronomique de près de 2 milliards de dollars de garantie aux États américains qui tentent de bloquer son rachat de Warner Bros. Plusieurs États et le syndicat des scénari",
+   "source": "Le Monde — International · 17/08 22:56"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Félix Lebrun remporte son premier Grand Smash de tennis de table",
-   "zone": "Suède / France",
-   "resume": "Le jeune prodige français du tennis de table, Félix Lebrun, a remporté un tournoi majeur appelé le Grand Smash en Suède. C'est l'équivalent d'un tournoi de tennis de Roland-Garros ou de Wimbledon, et c'est une première h",
-   "source": "© Johan Nilsson, AFP · 16/08 18:38"
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Épidémie historique d'Ebola en République démocratique du Congo",
+   "zone": "République démocratique du Congo",
+   "resume": "La République démocratique du Congo fait face à l'épidémie d'Ebola la plus grave de son histoire, qui a déjà tué plus de 2 300 personnes en seulement quelques mois. Le virus se propage très rapidement, ce qui pousse les ",
+   "source": "France 24 — Monde · 17/08 18:58"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Suspension des diffusions en direct sur Discord au Brésil",
+   "zone": "Brésil",
+   "resume": "Au Brésil, l'application Discord a dû couper ses diffusions en direct après le drame d'une adolescente qui s'est suicidée en direct, poussée par d'autres utilisateurs. Les autorités ont pris cette décision radicale pour ",
+   "source": "Le Monde — International · 17/08 19:30"
   }
  ]
 }
