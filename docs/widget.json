@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-18T05:32:09+00:00",
+ "genere_le": "2026-08-19T05:27:40+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Impasse sur le plan de paix américain à Gaza et exigences de désarmement",
-   "zone": "Israël / Palestine",
-   "resume": "Jared Kushner, le gendre et émissaire de Donald Trump, a tenté de débloquer les négociations de paix à Gaza en rencontrant les deux camps. Cependant, le Premier ministre israélien pose des conditions très strictes, notam",
-   "source": "France 24 — Monde · 17/08 20:01"
+   "titre": "La France expulse deux diplomates iraniens en représailles",
+   "zone": "France / Iran",
+   "resume": "La France a décidé de renvoyer deux diplomates iraniens chez eux. C'est une réponse directe à l'Iran, qui avait arrêté puis expulsé deux diplomates français cet été et refuse désormais de les laisser revenir. C'est un co",
+   "source": "© Dimitar Dilkoff, AFP archives · 18/08 19:38"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Réduction des exercices militaires américains en Corée du Sud",
-   "zone": "Corée du Sud / États-Unis / Corée du Nord",
-   "resume": "Donald Trump a décidé de réduire fortement les entraînements militaires communs entre les armées américaine et sud-coréenne. Il explique vouloir faire des économies et privilégier le dialogue avec la Corée du Nord, dont ",
-   "source": "Le Monde — International · 18/08 03:34"
+   "titre": "Réduction des exercices militaires américano-sud-coréens",
+   "zone": "Asie de l'Est / États-Unis",
+   "resume": "Les États-Unis et la Corée du Sud ont décidé de raccourcir de près d'une semaine leurs grands exercices militaires annuels. Ce changement brutal fait suite aux critiques de Donald Trump, qui juge ces manœuvres trop coûte",
+   "source": "© Brendan Smialowski / AFP/Archives · 19/08 03:33"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions accrues autour du détroit d'Ormuz et de l'accord irano-américain",
-   "zone": "Iran / Détroit d'Ormuz / Golfe Persique",
-   "resume": "Les discussions entre l'Iran et les États-Unis sont au point mort après que Téhéran a rejeté le délai de négociation de deux mois. En plus, Donald Trump a menacé Oman d'une intervention militaire s'il bloquait le détroit",
-   "source": "© Stringer, Reuters · 18/08 03:25"
+   "titre": "Rupture du dialogue USA-Iran et blocage commercial par les Émirats",
+   "zone": "Moyen-Orient / Golfe Persique",
+   "resume": "Les tensions montent d'un cran dans le golfe Persique. Les Émirats arabes unis ont coupé leurs ponts commerciaux avec l'Iran après des tirs de missiles présumés, tandis que les États-Unis excluent toute discussion avec T",
+   "source": "© Manuel Balce Ceneta, AP · 18/08 22:44"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade de la violence et colonisation en Cisjordanie",
-   "zone": "Israël / Palestine",
-   "resume": "La situation en Cisjordanie devient de plus en plus violente avec des attaques répétées de colons israéliens contre des familles palestiniennes. Des experts estiment que le manque de réaction des pays occidentaux encoura",
-   "source": "Le Monde — International · 18/08 04:30"
+   "titre": "Frappes israéliennes sur une base aérienne en Syrie",
+   "zone": "Moyen-Orient",
+   "resume": "Israël a bombardé un aéroport militaire en Syrie pour empêcher le régime syrien de reconstruire son armée de l'air. Cette attaque sert aussi d'avertissement à la Turquie voisine, qui a immédiatement démenti vouloir envoy",
+   "source": "Le Monde — International · 19/08 03:37"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Impact des frappes israéliennes et des incendies au Sud-Liban",
-   "zone": "Liban",
-   "resume": "Dans le sud du Liban, les bombardements israéliens déclenchent de graves incendies qui terrorisent les habitants. Pour ne rien arranger, les pompiers locaux ont beaucoup de mal à intervenir car ils doivent obtenir des au",
-   "source": "Le Monde — International · 17/08 15:30"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaque massive de drones ukrainiens sur Moscou",
-   "zone": "Russie / Ukraine",
-   "resume": "L'Ukraine a mené une attaque de drones d'une ampleur inédite contre Moscou, avec plus de 600 appareils envoyés en une nuit. Même si la défense russe affirme en avoir abattu une grande partie, l'événement montre que Kiev ",
-   "source": "Le Monde — International · 18/08 04:26"
+   "titre": "Guerre en Ukraine : frappes sur l'énergie et abris dans le métro",
+   "zone": "Ukraine",
+   "resume": "La Russie a mené une attaque massive contre le réseau électrique ukrainien, mettant hors service une importante centrale thermique. Face à la multiplication de ces frappes, de nombreux habitants de Kiev ont pris l'habitu",
+   "source": "Le Monde — International · 19/08 04:36"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Découverte de pétrole au large de l'Amazonie par le Brésil",
-   "zone": "Brésil",
-   "resume": "Le président brésilien Lula se réjouit de la découverte de pétrole près de l'Amazonie, y voyant une chance historique pour l'économie de son pays. Cependant, ce projet de forage en mer profonde inquiète beaucoup les défe",
-   "source": "Le Monde — International · 18/08 00:11"
+   "titre": "Apple s'engage à respecter le règlement européen DMA",
+   "zone": "Union européenne / États-Unis",
+   "resume": "Apple plie face à l'Union européenne. Après deux ans de bras de fer, la marque à la pomme accepte enfin de respecter les nouvelles règles du jeu européennes (le DMA). Concrètement, Apple va devoir ouvrir ses iPhone à d'a",
+   "source": "Le Monde — International · 19/08 03:00"
   },
   {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Bataille judiciaire et financière autour de la fusion Paramount-Warner Bros",
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Ouverture du procès de Meta en Californie pour addiction des mineurs",
    "zone": "États-Unis",
-   "resume": "Le studio de cinéma Paramount demande une somme astronomique de près de 2 milliards de dollars de garantie aux États américains qui tentent de bloquer son rachat de Warner Bros. Plusieurs États et le syndicat des scénari",
-   "source": "Le Monde — International · 17/08 22:56"
+   "resume": "Meta, le géant derrière Facebook et Instagram, est poursuivi en justice par une trentaine d'États américains. On l'accuse d'avoir rendu ses applications de manière addictive pour les enfants, tout en cachant les dangers ",
+   "source": "Le Monde — International · 19/08 03:13"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Épidémie historique d'Ebola en République démocratique du Congo",
-   "zone": "République démocratique du Congo",
-   "resume": "La République démocratique du Congo fait face à l'épidémie d'Ebola la plus grave de son histoire, qui a déjà tué plus de 2 300 personnes en seulement quelques mois. Le virus se propage très rapidement, ce qui pousse les ",
-   "source": "France 24 — Monde · 17/08 18:58"
+   "titre": "Cyberattaques massives contre le fisc et l'Éducation nationale",
+   "zone": "France",
+   "resume": "L'État français fait face à une double cyberattaque massive. Les données fiscales de centaines de milliers de personnes ont été piratées, et des hackers affirment avoir volé les informations personnelles de millions d'él",
+   "source": "© Thomas Samson, AFP · 18/08 17:27"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Suspension des diffusions en direct sur Discord au Brésil",
-   "zone": "Brésil",
-   "resume": "Au Brésil, l'application Discord a dû couper ses diffusions en direct après le drame d'une adolescente qui s'est suicidée en direct, poussée par d'autres utilisateurs. Les autorités ont pris cette décision radicale pour ",
-   "source": "Le Monde — International · 17/08 19:30"
+   "titre": "Sophie Adenot, première Française à effectuer une sortie spatiale",
+   "zone": "Espace / France",
+   "resume": "L'astronaute Sophie Adenot est entrée dans l'histoire en devenant la toute première Française à effectuer une sortie dans le vide de l'espace. Depuis la Station spatiale internationale, elle a réalisé cette mission aux c",
+   "source": "© NASA/Handout via REUTERS · 18/08 12:47"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Promulgation de la loi sur l'aide à mourir en France",
+   "zone": "France",
+   "resume": "La loi sur l'aide à mourir a été officiellement signée par Emmanuel Macron et publiée au Journal officiel. Validé par les sages du Conseil constitutionnel, ce texte historique va permettre d'encadrer la fin de vie en Fra",
+   "source": "© Ludovic Marin, AFP · 19/08 01:57"
   }
  ]
 }
