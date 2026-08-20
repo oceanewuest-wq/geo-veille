@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-19T05:27:40+00:00",
+ "genere_le": "2026-08-20T05:31:52+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "La France expulse deux diplomates iraniens en représailles",
-   "zone": "France / Iran",
-   "resume": "La France a décidé de renvoyer deux diplomates iraniens chez eux. C'est une réponse directe à l'Iran, qui avait arrêté puis expulsé deux diplomates français cet été et refuse désormais de les laisser revenir. C'est un co",
-   "source": "© Dimitar Dilkoff, AFP archives · 18/08 19:38"
+   "titre": "Menace de guerre économique américaine contre l'Iran",
+   "zone": "Moyen-Orient / Iran / États-Unis",
+   "resume": "Donald Trump a menacé de lourdes sanctions économiques tous les pays qui aideraient l'Iran. Les États-Unis veulent ainsi couper les ressources financières de Téhéran pour affaiblir son armée. C'est important car cela for",
+   "source": "© Atta Kenare, AFP · 19/08 23:31"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Réduction des exercices militaires américano-sud-coréens",
-   "zone": "Asie de l'Est / États-Unis",
-   "resume": "Les États-Unis et la Corée du Sud ont décidé de raccourcir de près d'une semaine leurs grands exercices militaires annuels. Ce changement brutal fait suite aux critiques de Donald Trump, qui juge ces manœuvres trop coûte",
-   "source": "© Brendan Smialowski / AFP/Archives · 19/08 03:33"
+   "titre": "Indignation de l'Australie face à la clôture de l'enquête sur World Central Kitchen",
+   "zone": "Moyen-Orient / Israël / Australie",
+   "resume": "L'Australie est très en colère car Israël a décidé de fermer l'enquête sur la mort de sept humanitaires de l'ONG World Central Kitchen, tués par une frappe israélienne en 2024. Une des victimes était australienne, et son",
+   "source": "Le Monde — International · 20/08 00:58"
   },
   {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Rupture du dialogue USA-Iran et blocage commercial par les Émirats",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "Les tensions montent d'un cran dans le golfe Persique. Les Émirats arabes unis ont coupé leurs ponts commerciaux avec l'Iran après des tirs de missiles présumés, tandis que les États-Unis excluent toute discussion avec T",
-   "source": "© Manuel Balce Ceneta, AP · 18/08 22:44"
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Projet de sommet entre Donald Trump et Kim Jong-un",
+   "zone": "États-Unis / Corée du Nord",
+   "resume": "Donald Trump a annoncé qu'il prévoyait de rencontrer le dictateur nord-coréen Kim Jong-un d'ici la fin de l'année. Cette annonce surprise intervient alors que la Corée du Nord continue de développer son armement nucléair",
+   "source": "Le Monde — International · 20/08 05:13"
   },
   {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Frappes israéliennes sur une base aérienne en Syrie",
-   "zone": "Moyen-Orient",
-   "resume": "Israël a bombardé un aéroport militaire en Syrie pour empêcher le régime syrien de reconstruire son armée de l'air. Cette attaque sert aussi d'avertissement à la Turquie voisine, qui a immédiatement démenti vouloir envoy",
-   "source": "Le Monde — International · 19/08 03:37"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : frappes sur l'énergie et abris dans le métro",
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Nomination de Yevhenii Khmara au ministère de la Défense ukrainien",
    "zone": "Ukraine",
-   "resume": "La Russie a mené une attaque massive contre le réseau électrique ukrainien, mettant hors service une importante centrale thermique. Face à la multiplication de ces frappes, de nombreux habitants de Kiev ont pris l'habitu",
-   "source": "Le Monde — International · 19/08 04:36"
+   "resume": "L'Ukraine a un nouveau ministre de la Défense, Yevhenii Khmara, qui remplace Mykhaïlo Fedorov. Ce dernier est devenu un opposant politique au président Zelensky en réclamant l'organisation d'élections démocratiques malgr",
+   "source": "France 24 — Monde · 19/08 15:58"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes israéliennes en Syrie et avertissement à la Turquie",
+   "zone": "Moyen-Orient / Syrie / Israël / Turquie",
+   "resume": "Israël a bombardé une base militaire en Syrie, près de la frontière turque, pour empêcher l'installation de forces ennemies. Le premier ministre israélien a directement averti la Turquie de ne pas étendre son influence m",
+   "source": "Le Monde — International · 19/08 19:59"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Enquêtes israéliennes sur la mort de Hind Rajab et de secouristes",
+   "zone": "Moyen-Orient / Israël / Palestine",
+   "resume": "L'armée israélienne a décidé d'ouvrir des enquêtes internes sur la mort de la petite Hind Rajab, âgée de 5 ans, et de plusieurs secouristes à Gaza. C'est une décision rare car l'armée reconnaît pour la première fois avoi",
+   "source": "Le Monde — International · 19/08 16:52"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Familles palestiniennes assiégées à Qusra en Cisjordanie",
+   "zone": "Moyen-Orient / Palestine / Cisjordanie",
+   "resume": "À Qusra, en Cisjordanie, des colons israéliens encerclent des familles palestiniennes dans leurs maisons depuis plus d'une semaine, en leur coupant l'eau et l'électricité. C'est une illustration concrète de la hausse des",
+   "source": "France 24 — Monde · 19/08 15:54"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Apple s'engage à respecter le règlement européen DMA",
-   "zone": "Union européenne / États-Unis",
-   "resume": "Apple plie face à l'Union européenne. Après deux ans de bras de fer, la marque à la pomme accepte enfin de respecter les nouvelles règles du jeu européennes (le DMA). Concrètement, Apple va devoir ouvrir ses iPhone à d'a",
-   "source": "Le Monde — International · 19/08 03:00"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Ouverture du procès de Meta en Californie pour addiction des mineurs",
+   "titre": "La dette américaine dépasse les 40 000 milliards de dollars",
    "zone": "États-Unis",
-   "resume": "Meta, le géant derrière Facebook et Instagram, est poursuivi en justice par une trentaine d'États américains. On l'accuse d'avoir rendu ses applications de manière addictive pour les enfants, tout en cachant les dangers ",
-   "source": "Le Monde — International · 19/08 03:13"
+   "resume": "Pour la première fois de son histoire, la dette de l'État américain a dépassé la somme astronomique de 40 000 milliards de dollars. Les dépenses pour la défense et les investissements géants dans l'intelligence artificie",
+   "source": "© Yuki Iwamura, AP · 20/08 00:02"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Prison à vie pour le fondateur du géant immobilier Evergrande",
+   "zone": "Chine",
+   "resume": "Le patron d'Evergrande, l'immense entreprise immobilière chinoise qui a fait faillite, a été condamné à la prison à vie et à une amende géante. Son entreprise s'était effondrée sous le poids d'une dette de 300 milliards ",
+   "source": "Le Monde — International · 20/08 04:57"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Cyberattaques massives contre le fisc et l'Éducation nationale",
+   "titre": "Plus de 7 300 décès liés à la canicule en France",
    "zone": "France",
-   "resume": "L'État français fait face à une double cyberattaque massive. Les données fiscales de centaines de milliers de personnes ont été piratées, et des hackers affirment avoir volé les informations personnelles de millions d'él",
-   "source": "© Thomas Samson, AFP · 18/08 17:27"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Sophie Adenot, première Française à effectuer une sortie spatiale",
-   "zone": "Espace / France",
-   "resume": "L'astronaute Sophie Adenot est entrée dans l'histoire en devenant la toute première Française à effectuer une sortie dans le vide de l'espace. Depuis la Station spatiale internationale, elle a réalisé cette mission aux c",
-   "source": "© NASA/Handout via REUTERS · 18/08 12:47"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Promulgation de la loi sur l'aide à mourir en France",
-   "zone": "France",
-   "resume": "La loi sur l'aide à mourir a été officiellement signée par Emmanuel Macron et publiée au Journal officiel. Validé par les sages du Conseil constitutionnel, ce texte historique va permettre d'encadrer la fin de vie en Fra",
-   "source": "© Ludovic Marin, AFP · 19/08 01:57"
+   "resume": "Les fortes chaleurs de cet été en France ont causé la mort de plus de 7 300 personnes, selon les premiers chiffres officiels. Même si la deuxième canicule de juillet a été un peu moins violente que celle de juin, le bila",
+   "source": "© François Lo Presti, AFP archives · 19/08 13:45"
   }
  ]
 }
