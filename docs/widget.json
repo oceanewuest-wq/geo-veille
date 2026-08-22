@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-21T05:33:06+00:00",
+ "genere_le": "2026-08-22T05:27:04+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Rupture de la désescalade entre l'Iran et les Émirats arabes unis",
-   "zone": "Moyen-Orient",
-   "resume": "Les Émirats arabes unis ont coupé les ponts économiques avec l'Iran, affirmant que ce dernier avait tiré deux missiles vers leur sol. C'est un retour en arrière majeur pour ces deux voisins qui tentaient de calmer le jeu",
-   "source": "Le Monde — International · 21/08 03:00"
+   "titre": "Volonté de désescalade entre l'Iran et les États-Unis",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "Le président de l'Iran veut calmer le jeu avec les États-Unis, estimant que son pays est assez fort pour négocier. C'est un dossier brûlant car l'Iran contrôle le détroit d'Ormuz, par où passe une grande partie du pétrol",
+   "source": "Le Monde — International · 21/08 18:31"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Pression des États-Unis pour isoler économiquement l'Iran",
-   "zone": "Moyen-Orient",
-   "resume": "Les États-Unis demandent à leurs partenaires et à la Chine d'arrêter de faire du commerce avec l'Iran. Après plusieurs mois de tensions sans solution politique, le gouvernement américain tente de bloquer l'économie irani",
-   "source": "© Mark Schiefelbein, AP · 21/08 01:53"
+   "titre": "Mandat d'arrêt de la Turquie contre Benyamin Nétanyahou",
+   "zone": "Moyen-Orient / Turquie / Israël",
+   "resume": "La Turquie a lancé un mandat d'arrêt contre le dirigeant israélien Benyamin Nétanyahou en lien avec l'assaut d'un bateau humanitaire turc en 2010. Nétanyahou a répliqué très durement en insultant le président turc Erdoga",
+   "source": "© Emrah Gurel, AP · 21/08 17:40"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Appel européen à l'arrêt de la colonisation israélienne en Cisjordanie",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Quatre grands pays européens (France, Allemagne, Italie et Royaume-Uni) ont demandé fermement à Israël d'arrêter de construire de nouvelles habitations en Cisjordanie. Ils s'opposent à un projet de 3 400 logements qui co",
-   "source": "© Jaafar Ashtiyeh, AFP · 20/08 18:59"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Les élections législatives israéliennes et l'absence de perspective de paix",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "En Israël, alors que des élections se préparent pour octobre, aucun parti politique ne propose de plan pour arrêter la guerre. Les candidats ont peur de paraître faibles s'ils parlent de paix ou de négociations. La popul",
-   "source": "Le Monde — International · 21/08 04:00"
+   "titre": "La Syrie demande son intégration au partenariat contre les armes chimiques",
+   "zone": "Syrie / Moyen-Orient",
+   "resume": "La Syrie demande à rejoindre un groupe international qui lutte contre l'utilisation des armes chimiques. C'est une démarche très surprenante et symbolique, car elle est faite jour pour jour treize ans après un terrible m",
+   "source": "Le Monde — International · 21/08 23:54"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Déploiement du porte-avions USS George-Washington au Moyen-Orient",
-   "zone": "Moyen-Orient",
-   "resume": "Les États-Unis ont envoyé un nouveau porte-avions géant, l'USS George-Washington, pour surveiller le Moyen-Orient. Il remplace un autre navire qui était sur place depuis huit mois pour protéger les alliés de Washington e",
-   "source": "Le Monde — International · 20/08 15:34"
+   "titre": "Violences et colonisation en Cisjordanie occupée",
+   "zone": "Palestine / Israël",
+   "resume": "La tension monte encore d'un cran en Cisjordanie avec la mort de deux Palestiniens et l'annonce de nouvelles constructions de colonies israéliennes. Plusieurs pays occidentaux ont prévenu les entreprises privées qu'aider",
+   "source": "© Mahmoud Illean, AP · 21/08 19:39"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Regain de tension entre Israël et la Turquie au sujet de la Syrie",
-   "zone": "Moyen-Orient",
-   "resume": "Les relations se tendent à nouveau entre Israël et la Turquie à cause de la Syrie. L'armée israélienne a bombardé une base militaire syrienne juste après le passage de responsables turcs, ce qui a mis en colère le gouver",
-   "source": "© Aggelos Nakkas, AFP · 20/08 12:44"
+   "titre": "Intensification des frappes russes sur les villes d'Ukraine",
+   "zone": "Ukraine / Russie",
+   "resume": "La Russie mène de nouvelles attaques très violentes sur les villes ukrainiennes, notamment contre un centre commercial et la capitale, Kiev. L'Europe accuse Moscou de vouloir terroriser les civils de manière organisée. S",
+   "source": "Le Monde — International · 22/08 00:55"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Baisse du trafic maritime dans le détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Moins de bateaux traversent actuellement le détroit d'Ormuz, un passage maritime crucial par lequel passe une grande partie du pétrole mondial. Les compagnies de transport ont peur des tensions militaires et préfèrent év",
-   "source": "© Stringer, Reuters · 21/08 03:26"
+   "titre": "Entrée en vigueur des taxes douanières américaines contre le Canada",
+   "zone": "Amérique du Nord",
+   "resume": "Les discussions commerciales entre les États-Unis et le Canada ont échoué, déclenchant de lourdes taxes américaines sur les produits canadiens. Le Canada a immédiatement promis de répliquer en taxant à son tour les produ",
+   "source": "Le Monde — International · 22/08 04:43"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "La dette publique des États-Unis franchit le seuil des 40 000 milliards de dollars",
-   "zone": "États-Unis",
-   "resume": "La dette des États-Unis a atteint le chiffre astronomique de 40 000 milliards de dollars, bien plus vite que ce que les experts avaient prévu. Cela s'explique notamment par la hausse des taux d'intérêt, qui rend les remb",
-   "source": "France 24 — Monde · 20/08 19:00"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Réduction du trafic maritime dans le canal de Panama due à la sécheresse",
-   "zone": "Amériques",
-   "resume": "Le canal de Panama va devoir limiter le nombre de bateaux qui le traversent à cause d'une grave sécheresse liée au phénomène climatique El Niño. Le canal a besoin d'énormes quantités d'eau douce pour faire fonctionner se",
-   "source": "Le Monde — International · 21/08 02:48"
+   "titre": "Amende record de 825 millions d'euros pour Uber aux Pays-Bas",
+   "zone": "Europe / Pays-Bas",
+   "resume": "Uber vient de recevoir une amende géante de 825 millions d'euros aux Pays-Bas. La justice lui reproche d'avoir utilisé des algorithmes pour renvoyer automatiquement des chauffeurs, sans qu'un humain ne vérifie la décisio",
+   "source": "Le Monde — International · 21/08 15:20"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Préservation de la mémoire locale face aux destructions au Sud-Liban",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Dans le sud du Liban, des habitants et des associations mènent une course contre la montre pour prendre des photos et enregistrer des histoires de leurs villages. Les bombardements israéliens détruisent de nombreux bâtim",
-   "source": "Le Monde — International · 21/08 03:30"
+   "titre": "Progression exponentielle de l'épidémie d'Ebola en RDC",
+   "zone": "République démocratique du Congo",
+   "resume": "L'épidémie de virus Ebola s'accélère de façon très inquiétante en République démocratique du Congo, avec déjà plus de 2 500 morts. Le virus se déplace très vite et a atteint six provinces en seulement trois mois. Pour bl",
+   "source": "France 24 — Monde · 21/08 14:25"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Julian Alaphilippe annonce sa retraite sportive",
+   "zone": "France / Europe",
+   "resume": "Le champion de cyclisme français Julian Alaphilippe prend sa retraite sportive à 34 ans. Double champion du monde en 2020 et 2021, il était adoré du public pour son style de course très spectaculaire et combatif. C'est u",
+   "source": "© Loic Venance, AFP · 21/08 17:51"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Lourdes suspensions de la FIFA après le Mondial 2026",
+   "zone": "International",
+   "resume": "La FIFA a lourdement puni deux joueurs de l'équipe d'Argentine après des bagarres ou débordements lors de la finale du Mondial 2026. Leandro Paredes est suspendu pour dix matchs, et Nahuel Molina est également sanctionné",
+   "source": "© CHARLY TRIBALLEAU / AFP/Archives · 21/08 14:41"
   }
  ]
 }
