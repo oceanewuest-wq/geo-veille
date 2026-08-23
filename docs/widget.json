@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-22T05:27:04+00:00",
+ "genere_le": "2026-08-23T05:27:24+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Volonté de désescalade entre l'Iran et les États-Unis",
-   "zone": "Iran / Moyen-Orient",
-   "resume": "Le président de l'Iran veut calmer le jeu avec les États-Unis, estimant que son pays est assez fort pour négocier. C'est un dossier brûlant car l'Iran contrôle le détroit d'Ormuz, par où passe une grande partie du pétrol",
-   "source": "Le Monde — International · 21/08 18:31"
+   "titre": "Appel de diplomates pour les droits des Palestiniens",
+   "zone": "Israël / Palestine",
+   "resume": "Plus de cent anciens diplomates de haut rang demandent à la France et au Royaume-Uni d'intervenir à l'ONU pour protéger les droits des Palestiniens. Ils estiment que la possibilité de créer un État palestinien est en tra",
+   "source": "France 24 — Monde · 22/08 15:39"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Mandat d'arrêt de la Turquie contre Benyamin Nétanyahou",
-   "zone": "Moyen-Orient / Turquie / Israël",
-   "resume": "La Turquie a lancé un mandat d'arrêt contre le dirigeant israélien Benyamin Nétanyahou en lien avec l'assaut d'un bateau humanitaire turc en 2010. Nétanyahou a répliqué très durement en insultant le président turc Erdoga",
-   "source": "© Emrah Gurel, AP · 21/08 17:40"
+   "titre": "Invalidation judiciaire du gel des visas par Donald Trump",
+   "zone": "États-Unis",
+   "resume": "Une juge aux États-Unis a annulé une décision de Donald Trump qui bloquait les visas de résidence permanente pour les citoyens de 75 pays. La justice a estimé que ce blocage, mis en place en début d'année, était illégal.",
+   "source": "© Chris Delmas, AFP · 22/08 13:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "La Syrie demande son intégration au partenariat contre les armes chimiques",
-   "zone": "Syrie / Moyen-Orient",
-   "resume": "La Syrie demande à rejoindre un groupe international qui lutte contre l'utilisation des armes chimiques. C'est une démarche très surprenante et symbolique, car elle est faite jour pour jour treize ans après un terrible m",
-   "source": "Le Monde — International · 21/08 23:54"
+   "titre": "Détention de réalisateurs français au Togo",
+   "zone": "Togo / France",
+   "resume": "Deux réalisateurs français et leur collaborateur sont emprisonnés au Togo depuis la fin du mois de juillet alors qu'ils réalisaient un reportage. Le gouvernement togolais les accuse d'avoir menti sur leurs papiers d'entr",
+   "source": "© RSF · 22/08 18:53"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Violences et colonisation en Cisjordanie occupée",
-   "zone": "Palestine / Israël",
-   "resume": "La tension monte encore d'un cran en Cisjordanie avec la mort de deux Palestiniens et l'annonce de nouvelles constructions de colonies israéliennes. Plusieurs pays occidentaux ont prévenu les entreprises privées qu'aider",
-   "source": "© Mahmoud Illean, AP · 21/08 19:39"
+   "titre": "Tensions diplomatiques entre Israël, la Turquie et les États-Unis",
+   "zone": "Moyen-Orient / Israël / Syrie",
+   "resume": "Une frappe militaire d'Israël en Syrie a déclenché une dispute diplomatique majeure avec ses alliés américains et la Turquie. Le président turc a même demandé l'arrestation du premier ministre israélien, illustrant la fr",
+   "source": "Le Monde — International · 22/08 14:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des frappes russes sur les villes d'Ukraine",
+   "titre": "Intensification des frappes et menaces russes en Ukraine",
    "zone": "Ukraine / Russie",
-   "resume": "La Russie mène de nouvelles attaques très violentes sur les villes ukrainiennes, notamment contre un centre commercial et la capitale, Kiev. L'Europe accuse Moscou de vouloir terroriser les civils de manière organisée. S",
-   "source": "Le Monde — International · 22/08 00:55"
+   "resume": "La guerre en Ukraine redouble d'intensité avec de nouvelles attaques russes meurtrières sur des zones civiles, notamment un centre commercial et la région de Zaporijia. Vladimir Poutine a prévenu que la Russie allait men",
+   "source": "Le Monde — International · 23/08 04:35"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Entrée en vigueur des taxes douanières américaines contre le Canada",
+   "titre": "Tensions économiques et menaces de l'Iran",
+   "zone": "Iran / Détroit d'Ormuz",
+   "resume": "L'Iran menace de s'en prendre aux pays qui soutiennent les sanctions économiques voulues par les États-Unis pour affaiblir son gouvernement. Le détroit d'Ormuz, par où passe une grande partie du pétrole mondial, reste au",
+   "source": "Le Monde — International · 22/08 20:51"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Conflit douanier entre le Canada et les États-Unis",
    "zone": "Amérique du Nord",
-   "resume": "Les discussions commerciales entre les États-Unis et le Canada ont échoué, déclenchant de lourdes taxes américaines sur les produits canadiens. Le Canada a immédiatement promis de répliquer en taxant à son tour les produ",
-   "source": "Le Monde — International · 22/08 04:43"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Amende record de 825 millions d'euros pour Uber aux Pays-Bas",
-   "zone": "Europe / Pays-Bas",
-   "resume": "Uber vient de recevoir une amende géante de 825 millions d'euros aux Pays-Bas. La justice lui reproche d'avoir utilisé des algorithmes pour renvoyer automatiquement des chauffeurs, sans qu'un humain ne vérifie la décisio",
-   "source": "Le Monde — International · 21/08 15:20"
+   "resume": "Les États-Unis ont mis en place de lourdes taxes sur les importations canadiennes, déclenchant une riposte immédiate du Canada. Le gouvernement canadien va taxer en retour des produits américains comme l'acier et le lait",
+   "source": "Le Monde — International · 22/08 23:05"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Progression exponentielle de l'épidémie d'Ebola en RDC",
-   "zone": "République démocratique du Congo",
-   "resume": "L'épidémie de virus Ebola s'accélère de façon très inquiétante en République démocratique du Congo, avec déjà plus de 2 500 morts. Le virus se déplace très vite et a atteint six provinces en seulement trois mois. Pour bl",
-   "source": "France 24 — Monde · 21/08 14:25"
+   "titre": "Effondrement du système de santé à Gaza",
+   "zone": "Palestine / Gaza",
+   "resume": "Les hôpitaux à Gaza sont presque tous détruits, ce qui crée une catastrophe sanitaire sans précédent pour les civils. Les médecins manquent de tout et doivent réutiliser le même matériel stérile des dizaines de fois, ce ",
+   "source": "Le Monde — International · 23/08 04:00"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Réouverture de la forêt de Fontainebleau après les incendies",
+   "zone": "France",
+   "resume": "La célèbre forêt de Fontainebleau a rouvert ses sentiers aux promeneurs et aux amateurs d'escalade après avoir été touchée par de graves incendies en juillet. C'est une excellente nouvelle pour les amoureux de la nature ",
+   "source": "France 24 — Monde · 22/08 14:45"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Julian Alaphilippe annonce sa retraite sportive",
-   "zone": "France / Europe",
-   "resume": "Le champion de cyclisme français Julian Alaphilippe prend sa retraite sportive à 34 ans. Double champion du monde en 2020 et 2021, il était adoré du public pour son style de course très spectaculaire et combatif. C'est u",
-   "source": "© Loic Venance, AFP · 21/08 17:51"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Lourdes suspensions de la FIFA après le Mondial 2026",
+   "titre": "Lourde sanction de la FIFA contre Leandro Paredes",
    "zone": "International",
-   "resume": "La FIFA a lourdement puni deux joueurs de l'équipe d'Argentine après des bagarres ou débordements lors de la finale du Mondial 2026. Leandro Paredes est suspendu pour dix matchs, et Nahuel Molina est également sanctionné",
-   "source": "© CHARLY TRIBALLEAU / AFP/Archives · 21/08 14:41"
+   "resume": "Le joueur de football argentin Leandro Paredes a été suspendu pour dix matchs par la FIFA après des débordements durant la finale du Mondial 2026 perdue contre l'Espagne. C'est une punition très rare et sévère qui va le ",
+   "source": "France 24 — Monde · 22/08 15:28"
   }
  ]
 }
