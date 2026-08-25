@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-24T05:37:45+00:00",
+ "genere_le": "2026-08-25T05:31:50+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Débat sur la tenue d'élections en Ukraine en temps de guerre",
-   "zone": "Ukraine",
-   "resume": "Un débat agite l'Ukraine sur l'opportunité d'organiser des élections malgré la guerre avec la Russie. Si certains opposants et un ex-ministre estiment que c'est nécessaire pour lutter contre la corruption, le président Z",
-   "source": "Le Monde — International · 24/08 04:45"
+   "titre": "Retrait de la Syrie de la liste américaine des États soutenant le terrorisme",
+   "zone": "Syrie / États-Unis",
+   "resume": "Les États-Unis ont décidé de retirer la Syrie de leur liste noire des pays qui soutiennent le terrorisme. Ce changement historique a été décidé après que le nouveau président syrien, Ahmed Al-Charaa (un ancien chef rebel",
+   "source": "© via AFP · 25/08 01:35"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Candidature de Raphaël Glucksmann à la présidentielle de 2027",
-   "zone": "France",
-   "resume": "L'homme politique Raphaël Glucksmann a annoncé qu'il se présentait à l'élection présidentielle de 2027. Pour cela, il passera par une élection primaire en octobre, organisée avec le Parti socialiste. Son but est de rasse",
-   "source": "© Ludovic Marin, AFP · 23/08 18:34"
+   "titre": "Partenariat franco-saoudien et investissements d'envergure",
+   "zone": "Arabie saoudite / France",
+   "resume": "Le prince héritier d'Arabie saoudite, Mohammed Ben Salman, est venu en France pour renforcer les liens économiques entre les deux pays. À cette occasion, l'Arabie saoudite a annoncé un investissement géant de 6 milliards",
+   "source": "Le Monde — International · 24/08 19:01"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Analyse de la résilience du régime de la République islamique d'Iran",
+   "titre": "Expulsion réciproque de diplomates entre la France et l'Iran",
+   "zone": "France / Iran",
+   "resume": "Les relations diplomatiques se compliquent entre Paris et Téhéran. La France a décidé d'expulser deux diplomates iraniens, une décision que l'Iran juge illégale. Cette mesure répondait en fait à l'expulsion de diplomates",
+   "source": "© AFP · 24/08 11:19"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Suspension temporaire des recours contre les restrictions du vote par correspondance aux États-Unis",
+   "zone": "États-Unis",
+   "resume": "La Cour suprême des États-Unis a validé temporairement une décision de Donald Trump qui limite l'utilisation du vote par courrier. Des États dirigés par des démocrates avaient réussi à bloquer cette règle, mais la plus h",
+   "source": "Le Monde — International · 24/08 23:16"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Netanyahu accuse l'Iran d'avoir ciblé son fils",
+   "zone": "Israël / Iran",
+   "resume": "Le Premier ministre israélien, Benjamin Netanyahu, a affirmé à la télévision que l'Iran avait essayé de tuer l'un de ses fils. Il n'a pas donné de preuves ni de détails sur comment ou quand cela s'est produit. Cette accu",
+   "source": "© Ohad Zwigenberg, AP · 24/08 21:57"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Réaffirmation du soutien européen à l'Ukraine pour ses 35 ans d'indépendance",
+   "zone": "Ukraine / Europe",
+   "resume": "Alors que l'Ukraine fêtait ses 35 ans d'indépendance, ses alliés européens se sont réunis pour lui promettre une nouvelle aide militaire et financière. Le président ukrainien a remercié son peuple pour son courage après ",
+   "source": "© Efrem Lukatsky, AP · 24/08 20:42"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Identification d'un réseau de désinformation russe lié à un faux think tank",
+   "zone": "Russie / Israël",
+   "resume": "L'entreprise de technologie OpenAI a découvert un réseau de fausses informations géré par des propagandistes russes. Pour tromper le public, ces derniers ont créé un faux centre de recherche basé en Israël, ainsi que de ",
+   "source": "Le Monde — International · 25/08 05:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Massacre de civils par des gangs armés à Kenscoff en Haïti",
+   "zone": "Haïti",
+   "resume": "En Haïti, des gangs armés ont attaqué un refuge pour personnes déplacées situé dans une église près de la capitale. Au moins 40 personnes ont été tuées et des dizaines d'autres blessées. Cette tragédie montre une fois de",
+   "source": "© Odelyn Joseph, AP · 25/08 01:47"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Nouvelles sanctions économiques américaines contre l'Iran",
+   "zone": "Iran / États-Unis",
+   "resume": "Les États-Unis ont mis en place de nouvelles sanctions financières très sévères contre l'Iran pour bloquer ses sources de revenus, notamment dans l'or et le numérique. Le gouvernement américain menace aussi de punir les ",
+   "source": "© Julia Demaree Nikhinson, AP · 24/08 19:47"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Chute du rial et crise du pouvoir d'achat en Iran",
    "zone": "Iran",
-   "resume": "Une analyse explique comment le gouvernement iranien parvient à se maintenir au pouvoir malgré la colère de sa population et les difficultés économiques. Le régime s'appuie sur un réseau de milices armées très fidèles qu",
-   "source": "Le Monde — International · 23/08 15:00"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Discussions de désescalade entre la Syrie et Israël",
-   "zone": "Syrie / Israël",
-   "resume": "La Syrie et Israël ont entamé des discussions secrètes en Jordanie, sous la médiation des États-Unis, pour calmer le jeu. Cette rencontre fait suite à un récent bombardement israélien contre une base militaire en Syrie. ",
-   "source": "© Louai Beshara, AFP · 24/08 01:37"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Poursuite des frappes israéliennes et tensions à Gaza",
-   "zone": "Israël / Palestine",
-   "resume": "Les violences continuent dans la bande de Gaza, où des raids aériens israéliens ont tué plusieurs civils, dont un jeune enfant. De plus, Israël a mené une mise en garde contre le Hamas après l'envoi de cerfs-volants ince",
-   "source": "Le Monde — International · 23/08 12:53"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Réunion d'urgence des alliés européens de l'Ukraine",
-   "zone": "Europe / Ukraine",
-   "resume": "Face à la multiplication des bombardements russes, les pays européens qui soutiennent l'Ukraine se réunissent en urgence. Kiev leur demande de livrer rapidement des missiles et des batteries antiaériennes pour protéger s",
-   "source": "Le Monde — International · 24/08 04:29"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Introduction en Bourse de Shein à Hong Kong",
-   "zone": "Hong Kong / Chine",
-   "resume": "La marque de vêtements très bon marché Shein va entrer à la Bourse de Hong Kong le 1er septembre. Après avoir échoué à se lancer à New York et à Londres à cause de règles strictes, l'entreprise espère récolter 1,5 millia",
-   "source": "© Charlotte Siemon, AFP · 24/08 01:59"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Visite du ministre des Affaires étrangères indien à Moscou",
-   "zone": "Russie / Inde",
-   "resume": "Le ministre des Affaires étrangères de l'Inde s'est rendu à Moscou pour renforcer les liens économiques avec la Russie. La Russie est devenue le premier fournisseur de pétrole de l'Inde depuis le début de la guerre en Uk",
-   "source": "© Alexander Zemlianichenko / AFP · 23/08 15:36"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Escalade commerciale entre le Canada et les États-Unis",
-   "zone": "Canada / États-Unis",
-   "resume": "Le Canada a décidé de répliquer aux taxes douanières imposées par Donald Trump sur ses produits. Les discussions commerciales entre les deux pays voisins ayant échoué, Ottawa a choisi de taxer à son tour certains produit",
-   "source": "Le Monde — International · 24/08 03:00"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Éboulement meurtrier d'une décharge à Conakry",
-   "zone": "Guinée",
-   "resume": "En Guinée, des pluies torrentielles ont provoqué l'effondrement d'une immense montagne de déchets dans une décharge de la capitale, Conakry. Ce drame a enseveli des habitations de fortune, tuant au moins 30 personnes. La",
-   "source": "France 24 — Monde · 23/08 20:13"
+   "resume": "À cause des sanctions économiques américaines, la monnaie de l'Iran (le rial) perd énormément de valeur, ce qui fait grimper les prix. Les habitants ont de plus en plus de mal à acheter les produits du quotidien, créant ",
+   "source": "Le Monde — International · 25/08 04:30"
   }
  ]
 }
