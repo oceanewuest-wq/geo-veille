@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-26T05:36:07+00:00",
+ "genere_le": "2026-08-27T16:19:05+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Retrait de la Syrie de la liste noire américaine du terrorisme",
-   "zone": "Syrie",
-   "resume": "Pour la première fois en près de cinquante ans, les États-Unis ont retiré la Syrie de leur liste noire des pays soutenant le terrorisme. Cette décision est un immense soulagement pour Damas, qui espère ainsi pouvoir rela",
-   "source": "France 24 — Monde · 25/08 15:40"
+   "titre": "Dissolution des FDS en Syrie",
+   "zone": "Syrie / Moyen-Orient",
+   "resume": "Les Forces démocratiques syriennes, l'alliance militaire dominée par les Kurdes qui contrôlait le nord-est de la Syrie, ont été dissoutes. Les Kurdes négocient désormais leur intégration à l'État syrien, ce qui met fin à",
+   "source": "Le Monde — International · 27/08 15:01"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Menaces iraniennes contre Barron Trump",
-   "zone": "Iran",
-   "resume": "Une chaîne de télévision officielle en Iran a diffusé un clip de propagande menaçant de mort Barron Trump, le fils de Donald Trump, en promettant une forte somme d'argent pour sa tête. Cette provocation ultra-violente il",
-   "source": "France 24 — Moyen-Orient · 25/08 15:40"
+   "titre": "Marginalisation de l'Europe dans le dossier iranien",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "En 2015, l'Europe était au cœur des discussions sur le nucléaire avec l'Iran. Aujourd'hui, en pleine crise militaire impliquant les États-Unis et Israël, les pays européens sont mis de côté. Cela montre les limites de l'",
+   "source": "Le Monde — International · 27/08 10:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Déplacement discret du patron de la CIA à Moscou",
+   "zone": "Russie / États-Unis",
+   "resume": "Le chef de la CIA américaine s'est rendu en secret à Moscou pour parler avec les services secrets russes. Si les États-Unis évoquent un avertissement, la Russie minimise la rencontre en parlant de simples échanges techni",
+   "source": "RFI — Monde · 27/08 09:45"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Dissolution des forces kurdes en Syrie",
-   "zone": "Syrie",
-   "resume": "Les Forces démocratiques syriennes, l'armée kurde qui contrôlait le nord-est de la Syrie et qui avait combattu le groupe État islamique avec l'aide des États-Unis, ont annoncé leur dissolution. Cette décision découle d'u",
-   "source": "Le Monde — International · 25/08 22:54"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Déminage du détroit d'Ormuz annoncé par Donald Trump",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Donald Trump a annoncé que le détroit d'Ormuz, une voie maritime essentielle par laquelle passe une grande partie du pétrole mondial, a été entièrement débarrassé de ses mines. Cette zone était devenue extrêmement danger",
-   "source": "© Alex Brandon, AP · 25/08 06:25"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Interdiction des cerfs-volants à Gaza sous menace israélienne",
+   "titre": "Bataille de l'information et violences en Cisjordanie",
    "zone": "Israël / Palestine",
-   "resume": "Les autorités israéliennes ont menacé de tirer sur quiconque ferait voler des cerfs-volants depuis la bande de Gaza, craignant qu'ils ne soient utilisés pour attaquer ou espionner. Face à ce danger, un conseil de paix a ",
-   "source": "© Khalil Hamra, AP · 25/08 21:32"
+   "resume": "Le conflit israélo-palestinien se joue aussi sur le terrain de la communication, avec des enquêtes révélant comment chaque camp tente d'imposer sa version des faits. Sur le terrain, en Cisjordanie, des militants juifs te",
+   "source": "France 24 — Monde · 27/08 14:20"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Regrudescence des tensions et violences en Cisjordanie occupée",
-   "zone": "Israël / Palestine",
-   "resume": "La situation s'envenime en Cisjordanie, où les habitants palestiniens subissent des attaques quotidiennes de la part de colons israéliens radicaux. Pour ne rien arranger, un député israélien d'extrême droite s'est filmé ",
-   "source": "Le Monde — International · 26/08 02:45"
+   "titre": "Mort de l'ancien chef militaire Ratko Mladic",
+   "zone": "Balkans / Bosnie-Herzégovine",
+   "resume": "L'ancien général serbe Ratko Mladic, responsable de crimes atroces durant la guerre de Bosnie dans les années 1990, est mort en prison. Condamné à perpétuité pour génocide, il restera dans l'histoire comme l'artisan du m",
+   "source": "France 24 — Monde · 27/08 15:38"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Date fixée pour le procès de Khalid Cheikh Mohammed",
+   "zone": "États-Unis / Guantanamo",
+   "resume": "Le procès de l'homme accusé d'avoir planifié les attentats du 11 septembre 2001 commencera enfin en juin 2028, soit 27 ans après les faits. Détenu à Guantanamo après avoir été interrogé dans des prisons secrètes, son cas",
+   "source": "Le Monde — International · 27/08 14:22"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Sanctions américaines contre l'Iran et réactions internationales",
-   "zone": "Iran",
-   "resume": "Les États-Unis ont durci leurs sanctions économiques contre l'Iran pour asphyxier financièrement le pays. Face à cette pression, les Émirats arabes unis ont décidé de couper leurs liens commerciaux avec Téhéran, tandis q",
-   "source": "France 24 — Monde · 25/08 14:46"
+   "titre": "Désengagement partiel de TotalEnergies en Russie",
+   "zone": "Russie / France",
+   "resume": "L'entreprise française TotalEnergies a décidé de vendre ses parts dans un grand projet de gaz en Russie (Arctic LNG 2) pour limiter ses risques face aux tensions géopolitiques. Cependant, elle ne quitte pas totalement le",
+   "source": "Le Monde — International · 27/08 15:00"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Projet de parcs d'attractions Dragon Ball en France financé par l'Arabie saoudite",
-   "zone": "France / Arabie saoudite",
-   "resume": "L'Arabie saoudite va investir la somme astronomique de 6 milliards d'euros pour construire trois parcs d'attractions en région parisienne, dont un entièrement dédié au célèbre dessin animé Dragon Ball. Ce projet géant ve",
-   "source": "jeuxvideo.com · 25/08 18:15"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Projet de base spatiale géante de SpaceX en Louisiane",
-   "zone": "États-Unis",
-   "resume": "Elon Musk veut construire en Louisiane une base spatiale gigantesque, la plus grande du monde, pour lancer sa mégafusée Starship des milliers de fois par an. Ce projet colossal, situé dans une région pauvre des États-Uni",
-   "source": "© David J. Phillip, AP · 26/08 02:59"
+   "titre": "Ruée vers l'or dans un village de montagne au Kenya",
+   "zone": "Kenya",
+   "resume": "Des milliers de personnes ont tout quitté pour rejoindre un petit village de montagne au Kenya après la découverte d'un gisement d'or. Chacun espère faire fortune rapidement dans cette mine improvisée, mais cette ruée sa",
+   "source": "France 24 — Monde · 27/08 14:54"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Deuxième sortie spatiale de l'astronaute française Sophie Adenot",
-   "zone": "Espace / International",
-   "resume": "L'astronaute française Sophie Adenot est sortie dans le vide de l'espace pour la deuxième fois en une semaine afin de terminer des travaux sur la Station spatiale internationale. Accompagnée d'un collègue américain, elle",
-   "source": "France 24 — Monde · 25/08 19:05"
+   "titre": "Catastrophe humanitaire après des crues au Népal et au Tibet",
+   "zone": "Népal / Tibet / Chine",
+   "resume": "Une catastrophe naturelle majeure a frappé la frontière entre le Népal et la Chine suite à la chute d'un glacier de l'Himalaya. Des torrents de boue ont emporté des villages entiers, faisant des centaines de morts et de ",
+   "source": "France 24 — Monde · 27/08 15:34"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Entrée en vigueur du marquage des contenus générés par IA",
+   "zone": "Europe",
+   "resume": "L'Union européenne impose désormais aux entreprises de technologie de marquer de façon visible ou invisible les images et textes créés par intelligence artificielle. L'objectif est d'éviter que les citoyens soient trompé",
+   "source": "© Studio graphique France Médias Monde · 27/08 14:02"
   }
  ]
 }
