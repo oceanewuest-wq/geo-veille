@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-27T16:19:05+00:00",
+ "genere_le": "2026-08-28T17:17:09+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Dissolution des FDS en Syrie",
-   "zone": "Syrie / Moyen-Orient",
-   "resume": "Les Forces démocratiques syriennes, l'alliance militaire dominée par les Kurdes qui contrôlait le nord-est de la Syrie, ont été dissoutes. Les Kurdes négocient désormais leur intégration à l'État syrien, ce qui met fin à",
-   "source": "Le Monde — International · 27/08 15:01"
+   "titre": "Nomination politique kurde et réformes scolaires en Syrie",
+   "zone": "Moyen-Orient / Syrie",
+   "resume": "En Syrie, le chef des forces kurdes, Mazloum Abdi, a été nommé conseiller auprès du président syrien Ahmed al-Charaa. De plus, la langue kurde est désormais officiellement autorisée dans les écoles syriennes. C'est un ch",
+   "source": "© Bakr Al-Kasem, AFP · 28/08 09:43"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Marginalisation de l'Europe dans le dossier iranien",
-   "zone": "Iran / Moyen-Orient",
-   "resume": "En 2015, l'Europe était au cœur des discussions sur le nucléaire avec l'Iran. Aujourd'hui, en pleine crise militaire impliquant les États-Unis et Israël, les pays européens sont mis de côté. Cela montre les limites de l'",
-   "source": "Le Monde — International · 27/08 10:00"
+   "titre": "Obsèques nationales controversées pour Ratko Mladic en Serbie",
+   "zone": "Europe (Serbie)",
+   "resume": "Ratko Mladic, surnommé le 'boucher des Balkans' pour son rôle dans le génocide de Srebrenica, est mort en prison aux Pays-Bas. La Serbie a décidé de lui organiser des funérailles d'État avec les honneurs militaires, ce q",
+   "source": "France 24 — Monde · 28/08 15:04"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Déplacement discret du patron de la CIA à Moscou",
-   "zone": "Russie / États-Unis",
-   "resume": "Le chef de la CIA américaine s'est rendu en secret à Moscou pour parler avec les services secrets russes. Si les États-Unis évoquent un avertissement, la Russie minimise la rencontre en parlant de simples échanges techni",
-   "source": "RFI — Monde · 27/08 09:45"
+   "titre": "Débat national en Islande sur l'adhésion à l'Union européenne et la sécurité",
+   "zone": "Europe (Islande)",
+   "resume": "L'Islande, un petit pays sans armée, vote pour décider s'il faut relancer les discussions pour entrer dans l'Union européenne. Les habitants sont très partagés, notamment car ils craignent de perdre le contrôle de leurs ",
+   "source": "© Jonathan Nackstrand, AFP · 28/08 15:21"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Lancement des concertations nationales institutionnelles à Madagascar",
+   "zone": "Afrique (Madagascar)",
+   "resume": "À Madagascar, les Églises chrétiennes ont lancé un grand projet de discussions nationales pour réformer les institutions du pays à partir de septembre. Ces réunions sont réclamées depuis la chute du président Rajoelina i",
+   "source": "France 24 — Monde · 28/08 16:02"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Incertitude électorale persistante au Sénégal",
+   "zone": "Afrique (Sénégal)",
+   "resume": "Au Sénégal, la Cour suprême a refusé de forcer le président à fixer une date pour les élections municipales, laissant le pays dans le flou. L'opposition et la société civile réclament ce vote depuis longtemps et accusent",
+   "source": "France 24 — Monde · 28/08 16:24"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Bataille de l'information et violences en Cisjordanie",
-   "zone": "Israël / Palestine",
-   "resume": "Le conflit israélo-palestinien se joue aussi sur le terrain de la communication, avec des enquêtes révélant comment chaque camp tente d'imposer sa version des faits. Sur le terrain, en Cisjordanie, des militants juifs te",
-   "source": "France 24 — Monde · 27/08 14:20"
+   "titre": "Frappes aériennes israéliennes sur la bande de Gaza",
+   "zone": "Moyen-Orient / Palestine",
+   "resume": "De nouvelles frappes de l'armée israélienne ont fait au moins cinq morts dans la bande de Gaza, touchant le sud et le nord de l'enclave. Ce conflit, qui dure depuis des mois, continue de faire des victimes civiles quotid",
+   "source": "Le Monde — International · 28/08 15:46"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Mort de l'ancien chef militaire Ratko Mladic",
-   "zone": "Balkans / Bosnie-Herzégovine",
-   "resume": "L'ancien général serbe Ratko Mladic, responsable de crimes atroces durant la guerre de Bosnie dans les années 1990, est mort en prison. Condamné à perpétuité pour génocide, il restera dans l'histoire comme l'artisan du m",
-   "source": "France 24 — Monde · 27/08 15:38"
+   "titre": "Opérations militaires israéliennes en Cisjordanie occupée",
+   "zone": "Moyen-Orient / Cisjordanie",
+   "resume": "L'armée israélienne a annoncé avoir tué trois personnes qu'elle qualifie de terroristes lors d'une opération militaire près de Jénine, en Cisjordanie. La Cisjordanie est un territoire palestinien occupé où les tensions e",
+   "source": "© Mohamad Torokman, Reuters · 28/08 15:39"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Date fixée pour le procès de Khalid Cheikh Mohammed",
-   "zone": "États-Unis / Guantanamo",
-   "resume": "Le procès de l'homme accusé d'avoir planifié les attentats du 11 septembre 2001 commencera enfin en juin 2028, soit 27 ans après les faits. Détenu à Guantanamo après avoir été interrogé dans des prisons secrètes, son cas",
-   "source": "Le Monde — International · 27/08 14:22"
+   "titre": "Intensification des frappes russes et crise agricole en Ukraine",
+   "zone": "Europe (Ukraine)",
+   "resume": "La Russie a lancé une nouvelle attaque massive de drones et de missiles sur l'Ukraine, visant particulièrement la ville de Kiev. En plus de ces frappes militaires, les agriculteurs ukrainiens subissent des attaques ciblé",
+   "source": "Le Monde — International · 28/08 16:59"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Désengagement partiel de TotalEnergies en Russie",
-   "zone": "Russie / France",
-   "resume": "L'entreprise française TotalEnergies a décidé de vendre ses parts dans un grand projet de gaz en Russie (Arctic LNG 2) pour limiter ses risques face aux tensions géopolitiques. Cependant, elle ne quitte pas totalement le",
-   "source": "Le Monde — International · 27/08 15:00"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Ruée vers l'or dans un village de montagne au Kenya",
-   "zone": "Kenya",
-   "resume": "Des milliers de personnes ont tout quitté pour rejoindre un petit village de montagne au Kenya après la découverte d'un gisement d'or. Chacun espère faire fortune rapidement dans cette mine improvisée, mais cette ruée sa",
-   "source": "France 24 — Monde · 27/08 14:54"
+   "titre": "Les défis techniques et financiers du transit par le canal de Suez",
+   "zone": "Moyen-Orient / Égypte",
+   "resume": "Traverser le canal de Suez en Égypte est un passage obligé pour les navires de commerce voyageant entre l'Asie et l'Europe, mais cela coûte extrêmement cher, parfois des centaines de milliers de dollars par voyage. C'est",
+   "source": "Le Monde — International · 28/08 10:11"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Catastrophe humanitaire après des crues au Népal et au Tibet",
-   "zone": "Népal / Tibet / Chine",
-   "resume": "Une catastrophe naturelle majeure a frappé la frontière entre le Népal et la Chine suite à la chute d'un glacier de l'Himalaya. Des torrents de boue ont emporté des villages entiers, faisant des centaines de morts et de ",
-   "source": "France 24 — Monde · 27/08 15:34"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Entrée en vigueur du marquage des contenus générés par IA",
-   "zone": "Europe",
-   "resume": "L'Union européenne impose désormais aux entreprises de technologie de marquer de façon visible ou invisible les images et textes créés par intelligence artificielle. L'objectif est d'éviter que les citoyens soient trompé",
-   "source": "© Studio graphique France Médias Monde · 27/08 14:02"
+   "titre": "Inondations catastrophiques et rupture de lac au Népal et au Tibet",
+   "zone": "Asie (Népal / Tibet)",
+   "resume": "Une gigantesque coulée de boue et la rupture d'un lac naturel dans l'Himalaya ont provoqué des inondations dévastatrices au Népal et au Tibet, faisant plus de 580 morts. Les secours tentent d'évacuer les survivants, nota",
+   "source": "Le Monde — International · 28/08 16:10"
   }
  ]
 }
