@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-29T11:40:41+00:00",
+ "genere_le": "2026-08-30T10:16:42+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Référendum en Islande sur la reprise des négociations avec l'UE",
+   "titre": "Rejet par référendum de l'adhésion de l'Islande à l'UE",
    "zone": "Islande / Europe",
-   "resume": "Les Islandais votent pour décider s'ils veulent relancer les discussions pour entrer dans l'Union européenne, interrompues il y a treize ans. C'est un choix historique pour cette île de l'Atlantique Nord, très attachée à",
-   "source": "© Jonathan Nackstrand, AFP · 29/08 02:35"
+   "resume": "Les Islandais ont voté \"non\" lors d'un référendum pour décider s'ils devaient relancer les discussions pour entrer dans l'Union européenne. Les débats ont surtout porté sur la peur de perdre leur indépendance, notamment ",
+   "source": "Le Monde — International · 30/08 09:01"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Succession royale en Norvège après le décès de Harald V",
-   "zone": "Norvège",
-   "resume": "La Norvège pleure la mort de son roi Harald V, qui a dirigé le pays pendant 35 ans. C'est son fils qui lui succède sous le nom de Haakon VIII. Même si le rôle du roi est surtout symbolique en Norvège, cet événement touch",
-   "source": "Le Monde — International · 29/08 04:55"
+   "titre": "Préparatifs de la présidentielle française de 2027 à gauche",
+   "zone": "France",
+   "resume": "À gauche, la course pour l'élection présidentielle de 2027 est déjà lancée avec l'annonce de la candidature d'Olivier Faure, le chef du Parti socialiste. Dans le même temps, les rumeurs grandissent sur un possible retour",
+   "source": "© Alain JOCARD / AFP · 30/08 08:27"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Crise frontalière de Ceuta entre le Maroc et l'Espagne",
-   "zone": "Maroc / Espagne",
-   "resume": "L'enclave espagnole de Ceuta, située au nord du Maroc, est à nouveau au cœur d'une dispute entre l'Espagne et le Maroc après des arrivées massives de migrants. Les médias des deux pays s'accusent mutuellement de mauvaise",
-   "source": "Le Monde — International · 29/08 07:59"
+   "titre": "Le dilemme diplomatique d'Oman face aux tensions américano-iraniennes",
+   "zone": "Détroit d'Ormuz / Oman / Iran",
+   "resume": "Oman est un petit pays du Moyen-Orient connu pour son rôle de \"Suisse de la région\", servant de médiateur secret entre l'Iran et les pays occidentaux. Aujourd'hui, la crise entre Washington et Téhéran près du détroit d'O",
+   "source": "Le Monde — International · 30/08 05:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Découverte de l'épave historique de l'Altalena en Israël",
+   "zone": "Israël",
+   "resume": "Des chercheurs ont retrouvé l'épave de l'Altalena, un bateau coulé en 1948 lors d'un affrontement très violent entre différentes factions juives juste après la création d'Israël. Cet événement historique est encore aujou",
+   "source": "© Wikimedia · 29/08 13:15"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tentative de mutinerie militaire au Niger",
-   "zone": "Niger",
-   "resume": "La capitale du Niger a été secouée par des tirs nourris suite à une révolte de soldats mutins au sein d'une base militaire clé. Le gouvernement militaire affirme avoir rétabli l'ordre, mais cet incident montre que la sit",
-   "source": "Le Monde — International · 29/08 10:52"
+   "titre": "Frappe russe meurtrière près de Kiev",
+   "zone": "Ukraine / Russie",
+   "resume": "Une attaque de missiles russes près de la capitale ukrainienne a détruit un entrepôt, tuant au moins 37 personnes. Ce drame relance le débat en Ukraine sur le danger de stocker du matériel militaire ou sensible trop près",
+   "source": "Le Monde — International · 29/08 18:17"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappe russe meurtrière sur un entrepôt près de Kiev",
-   "zone": "Ukraine",
-   "resume": "Un bombardement russe a détruit un dépôt de munitions près de la capitale ukrainienne, provoquant de violentes explosions en chaîne. Le bilan humain est lourd avec de nombreuses victimes, et des centaines de riverains on",
-   "source": "© Francisco Seco, AP · 29/08 09:12"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Raid aérien israélien à Jénine en Cisjordanie",
+   "titre": "Violences de colons israéliens en Cisjordanie",
    "zone": "Israël / Palestine",
-   "resume": "Un drone de l'armée israélienne a détruit une voiture en Cisjordanie, tuant trois personnes présentées par Israël comme des membres du Hamas. Les tensions restent extrêmement vives dans cette région, où les opérations mi",
-   "source": "France 24 — Moyen-Orient · 29/08 09:03"
+   "resume": "Des colons israéliens ont attaqué des habitants palestiniens dans un village de Cisjordanie, provoquant de vives tensions. Fait rare, le Premier ministre Benjamin Netanyahu a fermement condamné ces agissements. Cet événe",
+   "source": "© Jaafar Ashtiyeh, AFP · 29/08 18:42"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions au Sud-Liban et rejet de l'accord-cadre par le Hezbollah",
-   "zone": "Liban / Israël",
-   "resume": "Israël bombarde intensément une colline stratégique du Sud-Liban, suspectée de cacher une base secrète du Hezbollah. De son côté, le chef du groupe armé libanais a rejeté les propositions de paix actuelles, affirmant qu'",
-   "source": "AFP - - · 29/08 04:30"
+   "titre": "Tentative de mutinerie déjouée au Niger avec l'aide russe",
+   "zone": "Niger / Russie",
+   "resume": "Des militaires rebelles ont tenté de renverser le pouvoir au Niger en attaquant des points stratégiques de la capitale, Niamey. La junte militaire au pouvoir a réussi à mater cette révolte grâce au soutien direct de merc",
+   "source": "Le Monde — International · 30/08 03:23"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Accord pétrolier stratégique entre les États-Unis et le Venezuela",
-   "zone": "États-Unis / Venezuela",
-   "resume": "Les États-Unis ont signé un accord surprise pour prendre le contrôle d'une immense partie des réserves de pétrole du Venezuela. Cet accord intervient après des changements politiques majeurs à Caracas et pourrait redéfin",
-   "source": "Le Monde — International · 28/08 23:43"
+   "titre": "Souveraineté pétrolière du Venezuela après l'accord avec les États-Unis",
+   "zone": "Venezuela / États-Unis",
+   "resume": "Le Venezuela a signé un accord avec les États-Unis pour relancer son industrie pétrolière grâce à des investissements américains. Face aux critiques qui accusent le gouvernement de brader ses ressources, la dirigeante De",
+   "source": "Le Monde — International · 30/08 03:06"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Inondations meurtrières dans l'Himalaya",
-   "zone": "Népal et Tibet",
-   "resume": "Une crue d'une violence extrême a frappé la région de l'Himalaya, dévastant des villages entiers à la frontière sino-népalaise. Les secouristes mènent une course contre la montre pour retrouver des milliers de disparus e",
-   "source": "Le Monde — International · 29/08 09:10"
+   "titre": "Inondations meurtrières au Népal et au Tibet",
+   "zone": "Népal / Tibet",
+   "resume": "De terribles inondations ont frappé la région de l'Himalaya, faisant des centaines de morts et des milliers de disparus au Népal et au Tibet. Les sauveteurs luttent contre le mauvais temps et la montée des eaux pour retr",
+   "source": "© Navesh Chitrakar, Reuters · 30/08 05:11"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Ligue 1 - Match nul spectaculaire entre le PSG et Lille",
-   "zone": "France",
-   "resume": "Le Paris Saint-Germain a arraché un match nul in extremis contre Lille après avoir été mené 2 à 0. Grâce à un sursaut d'orgueil en fin de match, les Parisiens évitent la défaite de justesse. C'est un début de saison à su",
-   "source": "France 24 — Monde · 29/08 08:42"
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Répression des chanteuses en Iran",
+   "zone": "Iran",
+   "resume": "En Iran, le gouvernement continue de punir sévèrement les femmes qui chantent en public, un acte interdit par les lois religieuses strictes du pays. Deux artistes viennent d'être condamnées à de la prison et à des coups ",
+   "source": "© Instagram hiwaseyfizadeh / Youtube Parastoo Rahimi · 30/08 07:10"
   }
  ]
 }
