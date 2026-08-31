@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-30T10:16:42+00:00",
+ "genere_le": "2026-08-31T11:30:26+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Rejet par référendum de l'adhésion de l'Islande à l'UE",
-   "zone": "Islande / Europe",
-   "resume": "Les Islandais ont voté \"non\" lors d'un référendum pour décider s'ils devaient relancer les discussions pour entrer dans l'Union européenne. Les débats ont surtout porté sur la peur de perdre leur indépendance, notamment ",
-   "source": "Le Monde — International · 30/08 09:01"
+   "titre": "Impasse des négociations bilatérales Washington-Téhéran",
+   "zone": "Moyen-Orient / États-Unis",
+   "resume": "Malgré les efforts de pays intermédiaires comme Oman, les discussions de paix entre les États-Unis et l'Iran n'avancent plus. Ce blocage, associé aux tensions militaires, fragilise la position politique de Donald Trump e",
+   "source": "France 24 — Moyen-Orient · 31/08 01:50"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Préparatifs de la présidentielle française de 2027 à gauche",
-   "zone": "France",
-   "resume": "À gauche, la course pour l'élection présidentielle de 2027 est déjà lancée avec l'annonce de la candidature d'Olivier Faure, le chef du Parti socialiste. Dans le même temps, les rumeurs grandissent sur un possible retour",
-   "source": "© Alain JOCARD / AFP · 30/08 08:27"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Le dilemme diplomatique d'Oman face aux tensions américano-iraniennes",
-   "zone": "Détroit d'Ormuz / Oman / Iran",
-   "resume": "Oman est un petit pays du Moyen-Orient connu pour son rôle de \"Suisse de la région\", servant de médiateur secret entre l'Iran et les pays occidentaux. Aujourd'hui, la crise entre Washington et Téhéran près du détroit d'O",
-   "source": "Le Monde — International · 30/08 05:00"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Découverte de l'épave historique de l'Altalena en Israël",
-   "zone": "Israël",
-   "resume": "Des chercheurs ont retrouvé l'épave de l'Altalena, un bateau coulé en 1948 lors d'un affrontement très violent entre différentes factions juives juste après la création d'Israël. Cet événement historique est encore aujou",
-   "source": "© Wikimedia · 29/08 13:15"
+   "titre": "Sommet de l'Organisation de coopération de Shanghai au Kirghizstan",
+   "zone": "Asie centrale / Russie / Iran / Chine",
+   "resume": "Les dirigeants russe, chinois et iranien se retrouvent en Asie centrale pour renforcer une alliance économique parallèle. Pour la Russie et l'Iran, très isolés par les sanctions internationales, ce sommet est une occasio",
+   "source": "France 24 — Monde · 31/08 09:06"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappe russe meurtrière près de Kiev",
-   "zone": "Ukraine / Russie",
-   "resume": "Une attaque de missiles russes près de la capitale ukrainienne a détruit un entrepôt, tuant au moins 37 personnes. Ce drame relance le débat en Ukraine sur le danger de stocker du matériel militaire ou sensible trop près",
-   "source": "Le Monde — International · 29/08 18:17"
+   "titre": "Reprise des frappes militaires entre les États-Unis et l'Iran",
+   "zone": "Moyen-Orient / Détroit d'Ormuz",
+   "resume": "Les tensions militaires ont brusquement repris entre Washington et Téhéran avec des frappes américaines dans le détroit d'Ormuz, suivies de ripostes iraniennes sur des bases en Jordanie et aux Émirats arabes unis. Ce reg",
+   "source": "© Atta Kenare, AFP · 30/08 20:33"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Violences de colons israéliens en Cisjordanie",
+   "titre": "Crise de l'eau à Gaza et pressions juridiques de l'Afrique du Sud",
    "zone": "Israël / Palestine",
-   "resume": "Des colons israéliens ont attaqué des habitants palestiniens dans un village de Cisjordanie, provoquant de vives tensions. Fait rare, le Premier ministre Benjamin Netanyahu a fermement condamné ces agissements. Cet événe",
-   "source": "© Jaafar Ashtiyeh, AFP · 29/08 18:42"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Tentative de mutinerie déjouée au Niger avec l'aide russe",
-   "zone": "Niger / Russie",
-   "resume": "Des militaires rebelles ont tenté de renverser le pouvoir au Niger en attaquant des points stratégiques de la capitale, Niamey. La junte militaire au pouvoir a réussi à mater cette révolte grâce au soutien direct de merc",
-   "source": "Le Monde — International · 30/08 03:23"
+   "resume": "Dans une bande de Gaza privée d'infrastructures de base, des camions mobiles tentent de transformer l'eau de mer en eau potable pour aider les familles déplacées. En parallèle, l'Afrique du Sud continue sa bataille jurid",
+   "source": "France 24 — Monde · 31/08 10:21"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Souveraineté pétrolière du Venezuela après l'accord avec les États-Unis",
-   "zone": "Venezuela / États-Unis",
-   "resume": "Le Venezuela a signé un accord avec les États-Unis pour relancer son industrie pétrolière grâce à des investissements américains. Face aux critiques qui accusent le gouvernement de brader ses ressources, la dirigeante De",
-   "source": "Le Monde — International · 30/08 03:06"
+   "titre": "Régulation renforcée de l'UE pour ChatGPT, Roblox et Reddit",
+   "zone": "Union européenne",
+   "resume": "L'Europe serre la vis aux géants du web en imposant de nouvelles règles de sécurité et de transparence à ChatGPT, Roblox et Reddit. Ces plateformes ont jusqu'à la fin de l'année pour mieux protéger les utilisateurs et mo",
+   "source": "Le Monde — International · 31/08 11:10"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Hausse des tarifs du gaz en France liée aux tensions au Moyen-Orient",
+   "zone": "France / Moyen-Orient",
+   "resume": "Les tarifs du gaz augmentent à nouveau en France en raison de l'instabilité politique et militaire au Moyen-Orient, qui inquiète les marchés financiers. Cette hausse de plus de 5 % en septembre vient s'ajouter à d'autres",
+   "source": "Le Monde — International · 31/08 08:41"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Inondations meurtrières au Népal et au Tibet",
+   "titre": "Inondations catastrophiques au Népal et au Tibet",
    "zone": "Népal / Tibet",
-   "resume": "De terribles inondations ont frappé la région de l'Himalaya, faisant des centaines de morts et des milliers de disparus au Népal et au Tibet. Les sauveteurs luttent contre le mauvais temps et la montée des eaux pour retr",
-   "source": "© Navesh Chitrakar, Reuters · 30/08 05:11"
+   "resume": "Des pluies torrentielles ont provoqué des inondations catastrophiques dans l'Himalaya, faisant près de 1 000 morts et des milliers de disparus. Les sauveteurs luttent contre la boue et les nouvelles montées des eaux pour",
+   "source": "Le Monde — International · 31/08 05:44"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Répression des chanteuses en Iran",
-   "zone": "Iran",
-   "resume": "En Iran, le gouvernement continue de punir sévèrement les femmes qui chantent en public, un acte interdit par les lois religieuses strictes du pays. Deux artistes viennent d'être condamnées à de la prison et à des coups ",
-   "source": "© Instagram hiwaseyfizadeh / Youtube Parastoo Rahimi · 30/08 07:10"
+   "titre": "Incendies meurtriers en Algérie et projet de peine de mort pour les pyromanes",
+   "zone": "Algérie",
+   "resume": "Après des incendies dévastateurs qui ont endeuillé l'Algérie, le gouvernement a décidé de suspendre toutes les fêtes et de décréter un deuil national. Pour dissuader les criminels, le président algérien souhaite applique",
+   "source": "Le Monde — International · 31/08 10:12"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Élimination historique de Djokovic à l'US Open et victoires françaises",
+   "zone": "International / États-Unis",
+   "resume": "Coup de tonnerre dans le monde du tennis avec la défaite surprise de Novak Djokovic dès son entrée en lice à l'US Open, un événement inédit pour lui depuis deux décennies. Côté français, le week-end a été brillant avec l",
+   "source": "© AFP, Studio graphique France Médias Monde · 31/08 10:28"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Ligue 1 : Monaco s'impose face à Marseille",
+   "zone": "France",
+   "resume": "Monaco a frappé un grand coup en battant Marseille 2-0 grâce à son nouveau jeune joueur prometteur, Paris Brunner. Grâce à ce deuxième succès d'affilée, l'équipe monégasque s'installe seule aux commandes du championnat d",
+   "source": "France 24 — Monde · 31/08 08:19"
   }
  ]
 }
