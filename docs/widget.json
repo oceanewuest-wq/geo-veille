@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-08-31T11:30:26+00:00",
+ "genere_le": "2026-09-01T09:46:37+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Impasse des négociations bilatérales Washington-Téhéran",
-   "zone": "Moyen-Orient / États-Unis",
-   "resume": "Malgré les efforts de pays intermédiaires comme Oman, les discussions de paix entre les États-Unis et l'Iran n'avancent plus. Ce blocage, associé aux tensions militaires, fragilise la position politique de Donald Trump e",
-   "source": "France 24 — Moyen-Orient · 31/08 01:50"
+   "titre": "Polémique politique autour de Sara Netanyahu en Israël",
+   "zone": "Israël",
+   "resume": "L'épouse du Premier ministre israélien, Sara Netanyahu, a déclenché une tempête politique en s'en prenant à un opposant et en diffusant une théorie du complot à la télévision. À l'approche d'élections très serrées, cette",
+   "source": "© Jack GUEZ / AFP/Archives · 01/09 08:13"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Sommet de l'Organisation de coopération de Shanghai au Kirghizstan",
-   "zone": "Asie centrale / Russie / Iran / Chine",
-   "resume": "Les dirigeants russe, chinois et iranien se retrouvent en Asie centrale pour renforcer une alliance économique parallèle. Pour la Russie et l'Iran, très isolés par les sanctions internationales, ce sommet est une occasio",
-   "source": "France 24 — Monde · 31/08 09:06"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Reprise des frappes militaires entre les États-Unis et l'Iran",
-   "zone": "Moyen-Orient / Détroit d'Ormuz",
-   "resume": "Les tensions militaires ont brusquement repris entre Washington et Téhéran avec des frappes américaines dans le détroit d'Ormuz, suivies de ripostes iraniennes sur des bases en Jordanie et aux Émirats arabes unis. Ce reg",
-   "source": "© Atta Kenare, AFP · 30/08 20:33"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Crise de l'eau à Gaza et pressions juridiques de l'Afrique du Sud",
-   "zone": "Israël / Palestine",
-   "resume": "Dans une bande de Gaza privée d'infrastructures de base, des camions mobiles tentent de transformer l'eau de mer en eau potable pour aider les familles déplacées. En parallèle, l'Afrique du Sud continue sa bataille jurid",
-   "source": "France 24 — Monde · 31/08 10:21"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Régulation renforcée de l'UE pour ChatGPT, Roblox et Reddit",
-   "zone": "Union européenne",
-   "resume": "L'Europe serre la vis aux géants du web en imposant de nouvelles règles de sécurité et de transparence à ChatGPT, Roblox et Reddit. Ces plateformes ont jusqu'à la fin de l'année pour mieux protéger les utilisateurs et mo",
-   "source": "Le Monde — International · 31/08 11:10"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Hausse des tarifs du gaz en France liée aux tensions au Moyen-Orient",
-   "zone": "France / Moyen-Orient",
-   "resume": "Les tarifs du gaz augmentent à nouveau en France en raison de l'instabilité politique et militaire au Moyen-Orient, qui inquiète les marchés financiers. Cette hausse de plus de 5 % en septembre vient s'ajouter à d'autres",
-   "source": "Le Monde — International · 31/08 08:41"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Inondations catastrophiques au Népal et au Tibet",
-   "zone": "Népal / Tibet",
-   "resume": "Des pluies torrentielles ont provoqué des inondations catastrophiques dans l'Himalaya, faisant près de 1 000 morts et des milliers de disparus. Les sauveteurs luttent contre la boue et les nouvelles montées des eaux pour",
-   "source": "Le Monde — International · 31/08 05:44"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Incendies meurtriers en Algérie et projet de peine de mort pour les pyromanes",
-   "zone": "Algérie",
-   "resume": "Après des incendies dévastateurs qui ont endeuillé l'Algérie, le gouvernement a décidé de suspendre toutes les fêtes et de décréter un deuil national. Pour dissuader les criminels, le président algérien souhaite applique",
-   "source": "Le Monde — International · 31/08 10:12"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Élimination historique de Djokovic à l'US Open et victoires françaises",
-   "zone": "International / États-Unis",
-   "resume": "Coup de tonnerre dans le monde du tennis avec la défaite surprise de Novak Djokovic dès son entrée en lice à l'US Open, un événement inédit pour lui depuis deux décennies. Côté français, le week-end a été brillant avec l",
-   "source": "© AFP, Studio graphique France Médias Monde · 31/08 10:28"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Ligue 1 : Monaco s'impose face à Marseille",
+   "titre": "Décès de l'ancien Premier ministre français Édouard Balladur",
    "zone": "France",
-   "resume": "Monaco a frappé un grand coup en battant Marseille 2-0 grâce à son nouveau jeune joueur prometteur, Paris Brunner. Grâce à ce deuxième succès d'affilée, l'équipe monégasque s'installe seule aux commandes du championnat d",
-   "source": "France 24 — Monde · 31/08 08:19"
+   "resume": "Édouard Balladur, qui a été Premier ministre de la France entre 1993 et 1995, est mort à l'âge de 97 ans. Figure majeure de la politique française, il avait dirigé le pays durant une période de \"cohabitation\" avec le pré",
+   "source": "France 24 — Monde · 01/09 09:32"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Recommandation de l'ONU sur les réparations liées à l'esclavage",
+   "zone": "International",
+   "resume": "L'ONU conseille désormais officiellement aux pays qui ont pratiqué l'esclavage de verser des compensations financières aux descendants des victimes. L'objectif est de réparer les injustices historiques qui ont encore des",
+   "source": "France 24 — Monde · 01/09 08:32"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Tensions accrues dans le détroit d'Ormuz",
+   "zone": "Détroit d'Ormuz / Golfe Persique",
+   "resume": "Les tensions entre les États-Unis et l'Iran ont franchi un nouveau cap avec des échanges de tirs dans le détroit d'Ormuz. Ce passage maritime est crucial car il voit passer une grande partie du pétrole mondial. Ce qui ét",
+   "source": "Le Monde — International · 31/08 20:02"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes russes massives sur Kiev et sa région",
+   "zone": "Ukraine",
+   "resume": "La Russie a mené une nouvelle attaque de grande envergure avec des missiles et des drones sur la capitale ukrainienne, Kiev. Au moins douze personnes ont perdu la vie, notamment dans un dépôt de trains. C'est la sixième ",
+   "source": "France 24 — Monde · 01/09 09:20"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Bombardements meurtriers contre la guérilla en Colombie",
+   "zone": "Colombie",
+   "resume": "Le nouveau président colombien a ordonné des frappes aériennes qui ont tué vingt membres d'un groupe de guérilla. C'est l'attaque la plus violente depuis son arrivée au pouvoir début août. Le gouvernement montre ainsi qu",
+   "source": "© Fernando Vergara, AP · 01/09 05:39"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Suspension des importations de viande brésilienne par l'UE",
+   "zone": "Union européenne / Brésil",
+   "resume": "L'Union européenne a décidé de bloquer l'importation de viandes et d'autres produits d'élevage venant du Brésil à cause de doutes sur leur sécurité sanitaire. L'Europe reproche au Brésil de ne pas respecter ses règles st",
+   "source": "© Eraldo Peres, AP · 01/09 00:24"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Perturbations majeures du trafic dans le canal de Panama",
+   "zone": "Panama",
+   "resume": "À cause du phénomène météo El Niño, le canal de Panama manque cruellement d'eau, ce qui oblige à limiter le nombre de bateaux qui peuvent y passer chaque jour. Pour traverser, les compagnies maritimes doivent désormais p",
+   "source": "Le Monde — International · 01/09 03:00"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Crues dévastatrices dans l'Himalaya au Népal et en Chine",
+   "zone": "Népal / Chine",
+   "resume": "De terribles inondations ont frappé la région de l'Himalaya, principalement au Népal et au Tibet, faisant plus de 1 000 morts et des milliers de disparus. Les secours travaillent dans des conditions extrêmement difficile",
+   "source": "© Dar Yasin, AP · 01/09 06:22"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Rentrée scolaire en France et interdiction du téléphone portable",
+   "zone": "France",
+   "resume": "Pour cette rentrée scolaire, les téléphones portables sont désormais interdits dans plusieurs lycées en France. Si l'objectif est d'aider les élèves à mieux se concentrer et à moins s'isoler, les syndicats d'enseignants ",
+   "source": "© Simon Wohlfahrt, AFP · 01/09 08:45"
   }
  ]
 }
