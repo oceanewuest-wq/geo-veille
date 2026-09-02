@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-01T09:46:37+00:00",
+ "genere_le": "2026-09-02T09:34:54+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Polémique politique autour de Sara Netanyahu en Israël",
-   "zone": "Israël",
-   "resume": "L'épouse du Premier ministre israélien, Sara Netanyahu, a déclenché une tempête politique en s'en prenant à un opposant et en diffusant une théorie du complot à la télévision. À l'approche d'élections très serrées, cette",
-   "source": "© Jack GUEZ / AFP/Archives · 01/09 08:13"
+   "titre": "Offensive diplomatique mondiale de Xi Jinping",
+   "zone": "Égypte / Chine / International",
+   "resume": "Le président chinois Xi Jinping mène une grande tournée diplomatique pour étendre l'influence de son pays, notamment en Égypte et en Asie centrale. Son but est de rallier des partenaires pour faire contrepoids à la puiss",
+   "source": "© Reuters/Khaled Desouki · 02/09 06:51"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Décès de l'ancien Premier ministre français Édouard Balladur",
-   "zone": "France",
-   "resume": "Édouard Balladur, qui a été Premier ministre de la France entre 1993 et 1995, est mort à l'âge de 97 ans. Figure majeure de la politique française, il avait dirigé le pays durant une période de \"cohabitation\" avec le pré",
-   "source": "France 24 — Monde · 01/09 09:32"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Recommandation de l'ONU sur les réparations liées à l'esclavage",
-   "zone": "International",
-   "resume": "L'ONU conseille désormais officiellement aux pays qui ont pratiqué l'esclavage de verser des compensations financières aux descendants des victimes. L'objectif est de réparer les injustices historiques qui ont encore des",
-   "source": "France 24 — Monde · 01/09 08:32"
+   "titre": "Joshua Wong plaide coupable de collusion à Hong Kong",
+   "zone": "Hong Kong / Chine",
+   "resume": "Joshua Wong, l'un des visages les plus connus de la contestation démocratique à Hong Kong, a reconnu devant le tribunal avoir collaboré avec l'étranger. Déjà emprisonné, le jeune homme de 29 ans risque maintenant de pass",
+   "source": "© VIVEK PRAKASH / AFP · 02/09 06:44"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions accrues dans le détroit d'Ormuz",
+   "titre": "Escalade militaire directe entre les États-Unis et l'Iran",
+   "zone": "Moyen-Orient / Iran",
+   "resume": "La tension monte d'un cran au Moyen-Orient après des bombardements américains contre des positions iraniennes. Téhéran a immédiatement répliqué en ciblant plusieurs bases militaires des États-Unis dans les pays voisins d",
+   "source": "Le Monde — International · 02/09 08:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Arrestation du chef de la sécurité intérieure du Hamas à Gaza",
+   "zone": "Israël / Palestine",
+   "resume": "Israël affirme avoir capturé un haut responsable du Hamas, chargé de la sécurité interne du groupe à Gaza. L'opération, qui s'est accompagnée de bombardements meurtriers, vise à affaiblir l'organisation en la privant de ",
+   "source": "© Amir Cohen, Reuters · 01/09 23:02"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Déploiement de l'armée libanaise et tensions au Sud-Liban",
+   "zone": "Liban / Israël",
+   "resume": "L'armée libanaise essaie de reprendre le contrôle du sud du pays, une région traditionnellement dominée par le groupe armé Hezbollah. Mais la tâche est immense pour les soldats et les habitants, alors que les bombardemen",
+   "source": "Le Monde — International · 02/09 04:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Attaque au drone à l'aéroport de Leipzig et tensions Europe-Russie",
+   "zone": "Europe / Allemagne / Russie",
+   "resume": "L'Allemagne accuse la Russie d'avoir envoyé un drone piégé sur l'aéroport de Leipzig cet été. Cet incident est perçu par les Européens comme une attaque \"hybride\", c'est-à-dire une tentative de sabotage discrète pour int",
+   "source": "Le Monde — International · 02/09 08:32"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Appel du G20 Finance pour la sécurité dans le détroit d'Ormuz",
    "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Les tensions entre les États-Unis et l'Iran ont franchi un nouveau cap avec des échanges de tirs dans le détroit d'Ormuz. Ce passage maritime est crucial car il voit passer une grande partie du pétrole mondial. Ce qui ét",
-   "source": "Le Monde — International · 31/08 20:02"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Frappes russes massives sur Kiev et sa région",
-   "zone": "Ukraine",
-   "resume": "La Russie a mené une nouvelle attaque de grande envergure avec des missiles et des drones sur la capitale ukrainienne, Kiev. Au moins douze personnes ont perdu la vie, notamment dans un dépôt de trains. C'est la sixième ",
-   "source": "France 24 — Monde · 01/09 09:20"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Bombardements meurtriers contre la guérilla en Colombie",
-   "zone": "Colombie",
-   "resume": "Le nouveau président colombien a ordonné des frappes aériennes qui ont tué vingt membres d'un groupe de guérilla. C'est l'attaque la plus violente depuis son arrivée au pouvoir début août. Le gouvernement montre ainsi qu",
-   "source": "© Fernando Vergara, AP · 01/09 05:39"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Suspension des importations de viande brésilienne par l'UE",
-   "zone": "Union européenne / Brésil",
-   "resume": "L'Union européenne a décidé de bloquer l'importation de viandes et d'autres produits d'élevage venant du Brésil à cause de doutes sur leur sécurité sanitaire. L'Europe reproche au Brésil de ne pas respecter ses règles st",
-   "source": "© Eraldo Peres, AP · 01/09 00:24"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Perturbations majeures du trafic dans le canal de Panama",
-   "zone": "Panama",
-   "resume": "À cause du phénomène météo El Niño, le canal de Panama manque cruellement d'eau, ce qui oblige à limiter le nombre de bateaux qui peuvent y passer chaque jour. Pour traverser, les compagnies maritimes doivent désormais p",
-   "source": "Le Monde — International · 01/09 03:00"
+   "resume": "Les grands argentiers du G20 se sont réunis pour demander la protection de la libre circulation des navires dans le détroit d'Ormuz. Ce passage maritime est crucial car une grande partie du pétrole mondial y circule, et ",
+   "source": "© Allison Joyce, AFP · 01/09 23:57"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Crues dévastatrices dans l'Himalaya au Népal et en Chine",
-   "zone": "Népal / Chine",
-   "resume": "De terribles inondations ont frappé la région de l'Himalaya, principalement au Népal et au Tibet, faisant plus de 1 000 morts et des milliers de disparus. Les secours travaillent dans des conditions extrêmement difficile",
-   "source": "© Dar Yasin, AP · 01/09 06:22"
+   "titre": "Inondations meurtrières et crise humanitaire au Népal",
+   "zone": "Népal",
+   "resume": "Après de terribles inondations au Népal, les autorités de la ville de Bharatpur sont débordées par le nombre de corps de victimes retrouvés dans les rivières. Pour éviter des problèmes d'hygiène, elles ont dû créer des c",
+   "source": "France 24 — Monde · 01/09 18:45"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Rentrée scolaire en France et interdiction du téléphone portable",
+   "titre": "Patrick Bruel annule sa tournée sous la pression judiciaire",
    "zone": "France",
-   "resume": "Pour cette rentrée scolaire, les téléphones portables sont désormais interdits dans plusieurs lycées en France. Si l'objectif est d'aider les élèves à mieux se concentrer et à moins s'isoler, les syndicats d'enseignants ",
-   "source": "© Simon Wohlfahrt, AFP · 01/09 08:45"
+   "resume": "Visé par une enquête judiciaire pour des accusations d'agressions sexuelles et de viol, le chanteur Patrick Bruel a décidé d'annuler sa tournée de concerts en France. Face à la polémique et à la pression du public, l'art",
+   "source": "© STEPHANE DE SAKUTIN / AFP/Archives · 01/09 17:09"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Exclusion de l'AS Monaco Basket du monde professionnel",
+   "zone": "Monaco / France",
+   "resume": "Coup de tonnerre dans le basket français : le club de Monaco, pourtant champion en titre, a été exclu du championnat professionnel à cause de problèmes financiers. Le club va tenter de rebondir en s'inscrivant en troisiè",
+   "source": "© Julien de Rosa, AFP · 01/09 18:55"
   }
  ]
 }
