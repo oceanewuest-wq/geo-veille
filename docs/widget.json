@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-02T09:34:54+00:00",
+ "genere_le": "2026-09-03T09:27:11+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Offensive diplomatique mondiale de Xi Jinping",
-   "zone": "Égypte / Chine / International",
-   "resume": "Le président chinois Xi Jinping mène une grande tournée diplomatique pour étendre l'influence de son pays, notamment en Égypte et en Asie centrale. Son but est de rallier des partenaires pour faire contrepoids à la puiss",
-   "source": "© Reuters/Khaled Desouki · 02/09 06:51"
+   "titre": "Déclarations de Netanyahu et débats politiques en Israël",
+   "zone": "Israël / Palestine",
+   "resume": "Le Premier ministre israélien Benjamin Netanyahu a affirmé que ses troupes resteraient à Gaza, excluant tout retrait militaire à court terme. En parallèle, il est très critiqué dans son propre pays, où l'opposition l'acc",
+   "source": "France 24 — Monde · 03/09 08:46"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Joshua Wong plaide coupable de collusion à Hong Kong",
-   "zone": "Hong Kong / Chine",
-   "resume": "Joshua Wong, l'un des visages les plus connus de la contestation démocratique à Hong Kong, a reconnu devant le tribunal avoir collaboré avec l'étranger. Déjà emprisonné, le jeune homme de 29 ans risque maintenant de pass",
-   "source": "© VIVEK PRAKASH / AFP · 02/09 06:44"
+   "titre": "Tensions diplomatiques entre l'Espagne et le Maroc autour de la crise migratoire à Ceuta",
+   "zone": "Espagne / Maroc",
+   "resume": "Une polémique éclate en Espagne concernant l'arrivée massive de migrants dans l'enclave de Ceuta, située au nord du Maroc. Alors que le Premier ministre espagnol tente de ménager le Maroc en affirmant qu'il n'y a pas de ",
+   "source": "© Susana Vera, Reuters · 03/09 08:13"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Prêt de la tapisserie de Bayeux et diplomatie franco-britannique",
+   "zone": "France / Royaume-Uni",
+   "resume": "La France a prêté la célèbre tapisserie de Bayeux au Royaume-Uni pour un an, une œuvre millénaire qui raconte la conquête de l'Angleterre par les Normands. Emmanuel Macron et le roi Charles III ont inauguré l'exposition ",
+   "source": "Le Monde — International · 03/09 03:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade militaire directe entre les États-Unis et l'Iran",
-   "zone": "Moyen-Orient / Iran",
-   "resume": "La tension monte d'un cran au Moyen-Orient après des bombardements américains contre des positions iraniennes. Téhéran a immédiatement répliqué en ciblant plusieurs bases militaires des États-Unis dans les pays voisins d",
-   "source": "Le Monde — International · 02/09 08:00"
+   "titre": "Tensions militaires directes entre l'Iran et les États-Unis au Moyen-Orient",
+   "zone": "Moyen-Orient",
+   "resume": "La situation s'envenime dangereusement dans le Golfe Persique entre l'Iran et les États-Unis. L'Iran est accusé d'avoir lancé des drones et des missiles sur le Koweït, tandis que Washington est pointé du doigt pour une f",
+   "source": "© Archives AFP · 03/09 02:44"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Arrestation du chef de la sécurité intérieure du Hamas à Gaza",
-   "zone": "Israël / Palestine",
-   "resume": "Israël affirme avoir capturé un haut responsable du Hamas, chargé de la sécurité interne du groupe à Gaza. L'opération, qui s'est accompagnée de bombardements meurtriers, vise à affaiblir l'organisation en la privant de ",
-   "source": "© Amir Cohen, Reuters · 01/09 23:02"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Déploiement de l'armée libanaise et tensions au Sud-Liban",
-   "zone": "Liban / Israël",
-   "resume": "L'armée libanaise essaie de reprendre le contrôle du sud du pays, une région traditionnellement dominée par le groupe armé Hezbollah. Mais la tâche est immense pour les soldats et les habitants, alors que les bombardemen",
-   "source": "Le Monde — International · 02/09 04:00"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaque au drone à l'aéroport de Leipzig et tensions Europe-Russie",
-   "zone": "Europe / Allemagne / Russie",
-   "resume": "L'Allemagne accuse la Russie d'avoir envoyé un drone piégé sur l'aéroport de Leipzig cet été. Cet incident est perçu par les Européens comme une attaque \"hybride\", c'est-à-dire une tentative de sabotage discrète pour int",
-   "source": "Le Monde — International · 02/09 08:32"
+   "titre": "Intensification des frappes russes sur l'Ukraine et rentrée scolaire perturbée",
+   "zone": "Ukraine / Russie",
+   "resume": "La Russie a lancé de nouvelles vagues de bombardements intenses sur les villes ukrainiennes de Kiev et d'Odessa. Ces attaques incessantes gâchent la rentrée des classes des enfants ukrainiens, obligés de se réfugier cons",
+   "source": "Le Monde — International · 03/09 07:07"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Appel du G20 Finance pour la sécurité dans le détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Les grands argentiers du G20 se sont réunis pour demander la protection de la libre circulation des navires dans le détroit d'Ormuz. Ce passage maritime est crucial car une grande partie du pétrole mondial y circule, et ",
-   "source": "© Allison Joyce, AFP · 01/09 23:57"
+   "titre": "Souveraineté numérique et tensions entre la France et l'entreprise américaine Palantir",
+   "zone": "France / États-Unis",
+   "resume": "Le patron du géant américain de la surveillance Palantir a prévenu la France qu'elle faisait une erreur en voulant se passer de ses services. Paris a en effet décidé de remplacer ce logiciel américain par des technologie",
+   "source": "© Matt Ramey, AFP · 03/09 06:16"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Rapatriement des réserves d'or par les banques centrales européennes",
+   "zone": "Europe / États-Unis",
+   "resume": "Plusieurs pays européens, comme les Pays-Bas, ont décidé de ramener chez eux les lingots d'or qu'ils stockaient jusqu'ici aux États-Unis. Ce geste montre que l'Europe commence à douter de la fiabilité économique et polit",
+   "source": "Le Monde — International · 03/09 09:15"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Accords énergétiques majeurs entre le Venezuela et des multinationales",
+   "zone": "Venezuela / États-Unis",
+   "resume": "Le Venezuela a signé d'immenses contrats pétroliers de plusieurs dizaines de milliards de dollars avec de grandes entreprises étrangères, sous l'œil attentif du gouvernement américain. Malgré les tensions politiques avec",
+   "source": "© Pedro Mattey, AP · 02/09 20:53"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Inondations meurtrières et crise humanitaire au Népal",
-   "zone": "Népal",
-   "resume": "Après de terribles inondations au Népal, les autorités de la ville de Bharatpur sont débordées par le nombre de corps de victimes retrouvés dans les rivières. Pour éviter des problèmes d'hygiène, elles ont dû créer des c",
-   "source": "France 24 — Monde · 01/09 18:45"
+   "titre": "Vote historique pour la légalisation de l'avortement au Liechtenstein",
+   "zone": "Liechtenstein",
+   "resume": "Les députés du Liechtenstein ont voté de justesse en faveur de la légalisation de l'avortement pendant les trois premiers mois de grossesse. C'est un changement historique pour ce petit pays très conservateur. Cependant,",
+   "source": "© Megan Jelinger, Reuters · 03/09 03:05"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Patrick Bruel annule sa tournée sous la pression judiciaire",
-   "zone": "France",
-   "resume": "Visé par une enquête judiciaire pour des accusations d'agressions sexuelles et de viol, le chanteur Patrick Bruel a décidé d'annuler sa tournée de concerts en France. Face à la polémique et à la pression du public, l'art",
-   "source": "© STEPHANE DE SAKUTIN / AFP/Archives · 01/09 17:09"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Exclusion de l'AS Monaco Basket du monde professionnel",
-   "zone": "Monaco / France",
-   "resume": "Coup de tonnerre dans le basket français : le club de Monaco, pourtant champion en titre, a été exclu du championnat professionnel à cause de problèmes financiers. Le club va tenter de rebondir en s'inscrivant en troisiè",
-   "source": "© Julien de Rosa, AFP · 01/09 18:55"
+   "titre": "Acquittement controversé du magnat Yorgen Fenech à Malte",
+   "zone": "Malte",
+   "resume": "À Malte, le riche homme d'affaires Yorgen Fenech a été déclaré non coupable du meurtre de la journaliste Daphne Caruana Galizia, tuée dans l'explosion de sa voiture en 2017. Cette décision a choqué le pays et les défense",
+   "source": "© Darrin Zammit Lupi, Reuters · 02/09 21:31"
   }
  ]
 }
