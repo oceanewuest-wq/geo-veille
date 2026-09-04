@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-03T09:27:11+00:00",
+ "genere_le": "2026-09-04T09:23:55+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Déclarations de Netanyahu et débats politiques en Israël",
-   "zone": "Israël / Palestine",
-   "resume": "Le Premier ministre israélien Benjamin Netanyahu a affirmé que ses troupes resteraient à Gaza, excluant tout retrait militaire à court terme. En parallèle, il est très critiqué dans son propre pays, où l'opposition l'acc",
-   "source": "France 24 — Monde · 03/09 08:46"
+   "titre": "Visite d'État de Xi Jinping en Égypte et critiques envers Washington",
+   "zone": "Égypte / Chine / États-Unis",
+   "resume": "Le président chinois Xi Jinping s'est rendu en Égypte pour proposer une alternative à l'influence historique des États-Unis dans la région. Profitant des tensions actuelles, la Chine cherche à se positionner comme un par",
+   "source": "RFI — Monde · 04/09 09:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions diplomatiques entre l'Espagne et le Maroc autour de la crise migratoire à Ceuta",
-   "zone": "Espagne / Maroc",
-   "resume": "Une polémique éclate en Espagne concernant l'arrivée massive de migrants dans l'enclave de Ceuta, située au nord du Maroc. Alors que le Premier ministre espagnol tente de ménager le Maroc en affirmant qu'il n'y a pas de ",
-   "source": "© Susana Vera, Reuters · 03/09 08:13"
+   "titre": "Litige judiciaire autour de l'ambassade de France en Irak",
+   "zone": "Irak / France",
+   "resume": "Des descendants d'une famille juive irakienne poursuivent la France en justice pour réclamer 21,5 millions d'euros. Ils affirment que le bâtiment de l'ambassade de France à Bagdad appartenait à leurs ancêtres avant d'êtr",
+   "source": "© Eric Gaillard, Reuters · 03/09 19:18"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Prêt de la tapisserie de Bayeux et diplomatie franco-britannique",
-   "zone": "France / Royaume-Uni",
-   "resume": "La France a prêté la célèbre tapisserie de Bayeux au Royaume-Uni pour un an, une œuvre millénaire qui raconte la conquête de l'Angleterre par les Normands. Emmanuel Macron et le roi Charles III ont inauguré l'exposition ",
-   "source": "Le Monde — International · 03/09 03:00"
+   "titre": "Record de longévité politique pour Giorgia Meloni en Italie",
+   "zone": "Italie",
+   "resume": "Giorgia Meloni vient de battre un record de longévité au pouvoir en Italie, un pays pourtant habitué aux changements fréquents de gouvernement. Forte de cette stabilité rare, la dirigeante de droite prépare déjà le terra",
+   "source": "France 24 — Monde · 04/09 08:50"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Javier Milei durcit le ton sur la souveraineté des îles Malouines",
+   "zone": "Argentine / Royaume-Uni",
+   "resume": "Le président argentin Javier Milei veut punir les entreprises qui travaillent avec le Royaume-Uni autour des îles Malouines, un archipel disputé depuis longtemps. Se sentant encouragé par Donald Trump, il relance ce vieu",
+   "source": "Le Monde — International · 04/09 06:57"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions militaires directes entre l'Iran et les États-Unis au Moyen-Orient",
-   "zone": "Moyen-Orient",
-   "resume": "La situation s'envenime dangereusement dans le Golfe Persique entre l'Iran et les États-Unis. L'Iran est accusé d'avoir lancé des drones et des missiles sur le Koweït, tandis que Washington est pointé du doigt pour une f",
-   "source": "© Archives AFP · 03/09 02:44"
+   "titre": "Consolidation de la zone de sécurité israélienne au Sud-Liban",
+   "zone": "Israël / Liban",
+   "resume": "L'armée israélienne a pris le contrôle d'une colline stratégique au Sud-Liban, affirmant y avoir démantelé des tunnels du Hezbollah. Elle a annoncé qu'elle comptait y rester pour sécuriser sa frontière. Cela montre que l",
+   "source": "Le Monde — International · 04/09 08:53"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des frappes russes sur l'Ukraine et rentrée scolaire perturbée",
-   "zone": "Ukraine / Russie",
-   "resume": "La Russie a lancé de nouvelles vagues de bombardements intenses sur les villes ukrainiennes de Kiev et d'Odessa. Ces attaques incessantes gâchent la rentrée des classes des enfants ukrainiens, obligés de se réfugier cons",
-   "source": "Le Monde — International · 03/09 07:07"
+   "titre": "La Corée du Sud envisage de sécuriser le détroit d'Ormuz",
+   "zone": "Détroit d'Ormuz / Golfe Persique / Corée du Sud",
+   "resume": "La Corée du Sud réfléchit à envoyer des navires militaires pour aider à protéger le détroit d'Ormuz, une route maritime essentielle par où passe une grande partie du pétrole mondial. Les États-Unis poussent leurs alliés ",
+   "source": "Le Monde — International · 04/09 06:02"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Accusations de frappe américaine sur un mariage en Iran",
+   "zone": "Iran / États-Unis",
+   "resume": "Les États-Unis sont accusés d'avoir touché un mariage civil lors de bombardements récents près du détroit d'Ormuz, en Iran. Des vidéos circulent pour tenter de prouver ou de démentir ce drame, illustrant à quel point la ",
+   "source": "France 24 — Moyen-Orient · 03/09 19:59"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Fusillade interne entre services de renseignement à Kiev",
+   "zone": "Ukraine",
+   "resume": "Des agents des deux principaux services secrets ukrainiens se sont tirés dessus en plein cœur de Kiev lors d'une dispute. Le président Zelensky a dû intervenir pour calmer le jeu. Cet incident montre que malgré la guerre",
+   "source": "Le Monde — International · 04/09 03:30"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Souveraineté numérique et tensions entre la France et l'entreprise américaine Palantir",
-   "zone": "France / États-Unis",
-   "resume": "Le patron du géant américain de la surveillance Palantir a prévenu la France qu'elle faisait une erreur en voulant se passer de ses services. Paris a en effet décidé de remplacer ce logiciel américain par des technologie",
-   "source": "© Matt Ramey, AFP · 03/09 06:16"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Rapatriement des réserves d'or par les banques centrales européennes",
-   "zone": "Europe / États-Unis",
-   "resume": "Plusieurs pays européens, comme les Pays-Bas, ont décidé de ramener chez eux les lingots d'or qu'ils stockaient jusqu'ici aux États-Unis. Ce geste montre que l'Europe commence à douter de la fiabilité économique et polit",
-   "source": "Le Monde — International · 03/09 09:15"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Accords énergétiques majeurs entre le Venezuela et des multinationales",
-   "zone": "Venezuela / États-Unis",
-   "resume": "Le Venezuela a signé d'immenses contrats pétroliers de plusieurs dizaines de milliards de dollars avec de grandes entreprises étrangères, sous l'œil attentif du gouvernement américain. Malgré les tensions politiques avec",
-   "source": "© Pedro Mattey, AP · 02/09 20:53"
+   "titre": "Restructuration historique et suppressions de postes chez Volkswagen",
+   "zone": "Allemagne / Europe",
+   "resume": "Volkswagen a annoncé un plan massif de suppression de 100 000 emplois d'ici 2030, notamment en Allemagne. Le géant de l'automobile traverse une crise historique, bousculé par le coût de la transition vers les voitures él",
+   "source": "© Ronny Hartmann, AFP · 03/09 20:49"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Vote historique pour la légalisation de l'avortement au Liechtenstein",
-   "zone": "Liechtenstein",
-   "resume": "Les députés du Liechtenstein ont voté de justesse en faveur de la légalisation de l'avortement pendant les trois premiers mois de grossesse. C'est un changement historique pour ce petit pays très conservateur. Cependant,",
-   "source": "© Megan Jelinger, Reuters · 03/09 03:05"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Acquittement controversé du magnat Yorgen Fenech à Malte",
-   "zone": "Malte",
-   "resume": "À Malte, le riche homme d'affaires Yorgen Fenech a été déclaré non coupable du meurtre de la journaliste Daphne Caruana Galizia, tuée dans l'explosion de sa voiture en 2017. Cette décision a choqué le pays et les défense",
-   "source": "© Darrin Zammit Lupi, Reuters · 02/09 21:31"
+   "titre": "Inondations au Népal et revendications de justice climatique",
+   "zone": "Népal",
+   "resume": "Après des inondations catastrophiques fin août, le Népal doit enterrer des centaines de victimes sans avoir le temps de toutes les identifier, utilisant des tests ADN pour aider les familles à l'avenir. Le pays, très tou",
+   "source": "Le Monde — International · 04/09 08:30"
   }
  ]
 }
