@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-04T09:23:55+00:00",
+ "genere_le": "2026-09-05T08:55:12+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Visite d'État de Xi Jinping en Égypte et critiques envers Washington",
-   "zone": "Égypte / Chine / États-Unis",
-   "resume": "Le président chinois Xi Jinping s'est rendu en Égypte pour proposer une alternative à l'influence historique des États-Unis dans la région. Profitant des tensions actuelles, la Chine cherche à se positionner comme un par",
-   "source": "RFI — Monde · 04/09 09:00"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Litige judiciaire autour de l'ambassade de France en Irak",
-   "zone": "Irak / France",
-   "resume": "Des descendants d'une famille juive irakienne poursuivent la France en justice pour réclamer 21,5 millions d'euros. Ils affirment que le bâtiment de l'ambassade de France à Bagdad appartenait à leurs ancêtres avant d'êtr",
-   "source": "© Eric Gaillard, Reuters · 03/09 19:18"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Record de longévité politique pour Giorgia Meloni en Italie",
-   "zone": "Italie",
-   "resume": "Giorgia Meloni vient de battre un record de longévité au pouvoir en Italie, un pays pourtant habitué aux changements fréquents de gouvernement. Forte de cette stabilité rare, la dirigeante de droite prépare déjà le terra",
-   "source": "France 24 — Monde · 04/09 08:50"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Javier Milei durcit le ton sur la souveraineté des îles Malouines",
-   "zone": "Argentine / Royaume-Uni",
-   "resume": "Le président argentin Javier Milei veut punir les entreprises qui travaillent avec le Royaume-Uni autour des îles Malouines, un archipel disputé depuis longtemps. Se sentant encouragé par Donald Trump, il relance ce vieu",
-   "source": "Le Monde — International · 04/09 06:57"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Consolidation de la zone de sécurité israélienne au Sud-Liban",
-   "zone": "Israël / Liban",
-   "resume": "L'armée israélienne a pris le contrôle d'une colline stratégique au Sud-Liban, affirmant y avoir démantelé des tunnels du Hezbollah. Elle a annoncé qu'elle comptait y rester pour sécuriser sa frontière. Cela montre que l",
-   "source": "Le Monde — International · 04/09 08:53"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "La Corée du Sud envisage de sécuriser le détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique / Corée du Sud",
-   "resume": "La Corée du Sud réfléchit à envoyer des navires militaires pour aider à protéger le détroit d'Ormuz, une route maritime essentielle par où passe une grande partie du pétrole mondial. Les États-Unis poussent leurs alliés ",
-   "source": "Le Monde — International · 04/09 06:02"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Accusations de frappe américaine sur un mariage en Iran",
+   "titre": "Regain de tensions irano-américaines et déclarations de Donald Trump",
    "zone": "Iran / États-Unis",
-   "resume": "Les États-Unis sont accusés d'avoir touché un mariage civil lors de bombardements récents près du détroit d'Ormuz, en Iran. Des vidéos circulent pour tenter de prouver ou de démentir ce drame, illustrant à quel point la ",
-   "source": "France 24 — Moyen-Orient · 03/09 19:59"
+   "resume": "Donald Trump a minimisé les tensions militaires avec l'Iran en les qualifiant de simples détails, alors même que le conflit a déjà coûté la vie à 18 soldats américains et coûté des milliards de dollars. Cette déclaration",
+   "source": "Le Monde — International · 05/09 03:32"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Les tensions religieuses s'invitent dans les législatives en Israël",
+   "zone": "Israël",
+   "resume": "En Israël, la campagne pour les élections législatives est fortement marquée par des disputes religieuses entre juifs laïcs et ultraorthodoxes. Ces derniers, de plus en plus influents notamment à Jérusalem, veulent impos",
+   "source": "Le Monde — International · 05/09 08:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "La RDC annonce le transfert de son ambassade à Jérusalem",
+   "zone": "République démocratique du Congo / Israël",
+   "resume": "Le président de la République démocratique du Congo a décidé de déménager l'ambassade de son pays de Tel-Aviv à Jérusalem. C'est un geste politique fort et très controversé au niveau international, car le statut de Jérus",
+   "source": "France 24 — Monde · 04/09 16:29"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Mission diplomatique des émissaires de Donald Trump en Russie et en Ukraine",
+   "zone": "Ukraine / Russie / États-Unis",
+   "resume": "Donald Trump a envoyé deux de ses proches conseillers, Jared Kushner et Steve Witkoff, en Russie puis en Ukraine pour proposer un plan de paix. L'objectif affiché est de trouver une issue diplomatique à cette guerre qui ",
+   "source": "© Ludovic Marin, AFP · 05/09 01:11"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Contentieux juridique sur le vote par correspondance pour les élections de mi-mandat",
+   "zone": "États-Unis",
+   "resume": "Aux États-Unis, une juge a bloqué une décision de Donald Trump qui cherchait à limiter le vote par courrier pour les prochaines élections de mi-mandat (les \"midterms\"). Alors que les premiers bulletins sont déjà envoyés ",
+   "source": "Le Monde — International · 05/09 01:18"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Accord politique contre l'immigration clandestine entre le RN et Reform UK",
+   "zone": "France / Royaume-Uni",
+   "resume": "Le parti français Rassemblement National et le parti britannique Reform UK ont signé un accord pour renvoyer en France les migrants clandestins qui traversent la Manche vers l'Angleterre. Jordan Bardella en a profité pou",
+   "source": "Le Monde — International · 04/09 17:33"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Fusillade interne entre services de renseignement à Kiev",
-   "zone": "Ukraine",
-   "resume": "Des agents des deux principaux services secrets ukrainiens se sont tirés dessus en plein cœur de Kiev lors d'une dispute. Le président Zelensky a dû intervenir pour calmer le jeu. Cet incident montre que malgré la guerre",
-   "source": "Le Monde — International · 04/09 03:30"
+   "titre": "Explosions près du terminal pétrolier de l'île de Kharg en Iran",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "Des explosions ont retenti près de l'île de Kharg, un site ultra-stratégique où l'Iran gère la quasi-totalité de ses exportations de pétrole. Cet événement survient alors que les tensions avec les États-Unis sont au plus",
+   "source": "© Agence spatiale européenne via AFP · 05/09 05:11"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes israéliennes meurtrières dans le sud du Liban",
+   "zone": "Liban / Israël",
+   "resume": "L'armée israélienne a mené de nouvelles frappes aériennes dans le sud du Liban, tuant trois personnes, dont deux jeunes à moto. Israël affirme avoir pris le contrôle d'une colline stratégique dans la région. Ces affronte",
+   "source": "Le Monde — International · 04/09 18:34"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Restructuration historique et suppressions de postes chez Volkswagen",
-   "zone": "Allemagne / Europe",
-   "resume": "Volkswagen a annoncé un plan massif de suppression de 100 000 emplois d'ici 2030, notamment en Allemagne. Le géant de l'automobile traverse une crise historique, bousculé par le coût de la transition vers les voitures él",
-   "source": "© Ronny Hartmann, AFP · 03/09 20:49"
+   "titre": "Forte hausse des créations d'emplois aux États-Unis en août 2026",
+   "zone": "États-Unis",
+   "resume": "L'économie américaine a créé beaucoup plus d'emplois que prévu en août, et le chômage est resté très bas à 4,1 %. C'est une bonne nouvelle pour l'activité économique, mais cela pourrait pousser la banque centrale américa",
+   "source": "Le Monde — International · 04/09 18:28"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Inondations au Népal et revendications de justice climatique",
-   "zone": "Népal",
-   "resume": "Après des inondations catastrophiques fin août, le Népal doit enterrer des centaines de victimes sans avoir le temps de toutes les identifier, utilisant des tests ADN pour aider les familles à l'avenir. Le pays, très tou",
-   "source": "Le Monde — International · 04/09 08:30"
+   "titre": "Visite du pape Léon XIV à Lourdes et réception de victimes d'abus sexuels",
+   "zone": "France / Vatican",
+   "resume": "Lors de son voyage en France, le pape Léon XIV va rencontrer à Lourdes des personnes victimes d'abus sexuels de la part de membres de l'Église. Cependant, il a refusé de recevoir en groupe un collectif de victimes d'un c",
+   "source": "Le Monde — International · 04/09 17:03"
   }
  ]
 }
