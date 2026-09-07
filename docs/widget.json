@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-06T09:12:29+00:00",
+ "genere_le": "2026-09-07T09:55:22+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Candidature inédite de Yoav Segalovitz sur une liste arabe en Israël",
+   "titre": "Tensions et risques démocratiques avant les législatives en Israël",
    "zone": "Israël",
-   "resume": "Yoav Segalovitz, un ancien chef de la police et ministre juif, se présente aux élections sur la liste d'un parti politique arabe, Ra'am. C'est un événement historique en Israël, où les communautés juives et arabes sont s",
-   "source": "AFP - JALAA MAREY · 05/09 15:02"
+   "resume": "Israël se prépare à des élections législatives cruciales le 27 octobre prochain, mais l'ambiance est extrêmement tendue. On craint des violences politiques et un refus des résultats par les partis d'extrême droite si le ",
+   "source": "Le Monde — International · 07/09 03:30"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Analyse du gouvernement de Nawaf Salam au Liban",
-   "zone": "Liban",
-   "resume": "Le Premier ministre libanais Nawaf Salam, un ancien grand juge international, dirige un gouvernement salué pour son intégrité et son respect des lois. C'est un changement important pour le Liban, souvent critiqué pour sa",
-   "source": "Le Monde — International · 06/09 03:00"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Démissions au Pentagone sur fond de tensions avec l'Iran",
-   "zone": "États-Unis / Iran",
-   "resume": "Plusieurs hauts responsables du ministère de la Défense américain, dont le secrétaire à l'Armée de terre, ont démissionné après des désaccords avec leur ministre. Ces départs interviennent alors que les tensions militair",
-   "source": "France 24 — Monde · 06/09 08:43"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Mobilisation pour la libération d'Amr Abdelfattah en Arabie saoudite",
-   "zone": "Arabie saoudite",
-   "resume": "L'association Amnesty International demande la libération d'Amr Abdelfattah, un chercheur franco-égyptien arrêté en Arabie saoudite en 2024 pendant un pèlerinage. Il est toujours emprisonné et sa situation inquiète beauc",
-   "source": "France 24 — Monde · 05/09 13:32"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Mission diplomatique des émissaires de Trump en Ukraine et Russie",
-   "zone": "Ukraine / Russie",
-   "resume": "Deux envoyés spéciaux de Donald Trump se sont déplacés en Russie puis en Ukraine pour tenter de négocier la fin de la guerre. Pour l'occasion, la Russie a accepté d'arrêter ses bombardements sur Kiev pendant trois jours.",
-   "source": "© Gavril Grigorov, AFP · 06/09 04:55"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Élections régionales cruciales en Saxe-Anhalt",
+   "titre": "Victoire électorale historique de l'extrême droite en Saxe-Anhalt",
    "zone": "Allemagne",
-   "resume": "Des élections importantes ont lieu dans la région de Saxe-Anhalt, dans l'est de l'Allemagne, où le parti d'extrême droite AfD est favori et pourrait obtenir une victoire historique. Cette perspective inquiète de nombreux",
-   "source": "© Kay Nietfeld, DPA via AP · 06/09 06:30"
+   "resume": "Le parti d'extrême droite allemand AfD a remporté une victoire historique lors d'une élection régionale en Saxe-Anhalt, frôlant la majorité absolue avec près de 44 % des voix. Ce résultat affaiblit considérablement le go",
+   "source": "Le Monde — International · 07/09 03:29"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Mission diplomatique américaine à Moscou et Kiev pour l'Ukraine",
+   "zone": "Ukraine / Russie / États-Unis",
+   "resume": "Des envoyés spéciaux américains se sont rendus en Russie et en Ukraine pour tenter de relancer les discussions de paix. Si l'Ukraine a trouvé les propositions américaines intéressantes, les discussions bloquent toujours ",
+   "source": "Le Monde — International · 07/09 04:27"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "L'Allemagne rejette devant la CIJ les accusations de complicité de génocide",
+   "zone": "Allemagne / Palestine (Gaza)",
+   "resume": "L'Allemagne a demandé à la plus haute cour de l'ONU de rejeter une plainte déposée par le Nicaragua. Ce pays d'Amérique centrale accuse l'Allemagne de complicité de génocide à Gaza parce qu'elle vend des armes à Israël. ",
+   "source": "© Remko de Waal, AFP · 06/09 22:59"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions accrues dans le détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique / Iran",
-   "resume": "L'Iran a attaqué plusieurs navires, dont trois pétroliers liés aux États-Unis, dans le détroit d'Ormuz. C'est une réponse directe à de récentes frappes américaines qui avaient détruit des bateaux iraniens. Cette zone est",
-   "source": "© Handout, US Central Command (CENTCOM), AFP · 05/09 16:19"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Frappes israéliennes meurtrières au Sud-Liban",
+   "titre": "Frappes israéliennes meurtrières au Sud-Liban malgré la trêve",
    "zone": "Liban / Israël",
-   "resume": "Des bombardements israéliens ont fait au moins quatre morts dans le sud du Liban. Israël affirme avoir agi en réponse à une attaque venue du Liban. Ces violences régulières font craindre un embrasement plus large à la fr",
-   "source": "© Mohammed Zaatari, AP · 06/09 08:34"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Enquête interne et détecteurs de mensonges au Pentagone",
-   "zone": "États-Unis",
-   "resume": "Le ministère de la Défense américain a utilisé des détecteurs de mensonges pour interroger ses propres généraux et hauts responsables. Cette décision rare fait suite à la fuite dans les médias d'informations secrètes sur",
-   "source": "AP - Alex Brandon · 06/09 01:08"
+   "resume": "Malgré l'annonce d'un cessez-le-feu, l'armée israélienne a mené de nouveaux bombardements meurtriers dans le sud du Liban, tuant onze civils dont deux bébés. Ces attaques fragilisent grandement l'accord de trêve qui deva",
+   "source": "Le Monde — International · 07/09 07:52"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Premier lancement orbital privé réussi pour Isar Aerospace",
-   "zone": "Europe",
-   "resume": "Une entreprise allemande appelée Isar Aerospace a réussi à envoyer une fusée dans l'espace depuis l'Europe. C'est la première fois qu'une société privée européenne réalise cet exploit depuis le continent. Cela montre que",
-   "source": "Le Monde — International · 05/09 22:44"
+   "titre": "Succès orbital d'Isar Aerospace et évolution du spatial européen",
+   "zone": "Europe / Allemagne",
+   "resume": "Une jeune entreprise allemande, Isar Aerospace, a réussi à envoyer sa propre fusée dans l'espace pour y déposer cinq satellites. C'est un exploit historique pour le secteur privé en Europe, qui cherche à réduire sa dépen",
+   "source": "Le Monde — International · 06/09 17:03"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Saturation et baisse continue du marché automobile en Chine",
+   "zone": "Chine",
+   "resume": "En Chine, les ventes de voitures neuves sont en forte baisse car il y a trop de modèles disponibles et les clients hésitent à acheter. Pour écouler leurs stocks, les constructeurs se livrent une guerre des prix féroce qu",
+   "source": "Le Monde — International · 07/09 03:30"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Accident mortel d'un avion-cargo d'Amazon à Miami",
+   "zone": "États-Unis",
+   "resume": "Un avion-cargo d'Amazon a raté son atterrissage à l'aéroport de Miami, terminant sa course hors de la piste où il a percuté des véhicules avant de prendre feu. Le bilan est lourd avec cinq morts et cinq blessés. Les auto",
+   "source": "Le Monde — International · 06/09 20:19"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Hommages controversés à Ratko Mladic à Belgrade",
+   "zone": "Serbie",
+   "resume": "Des milliers de Serbes se sont réunis à Belgrade pour saluer la mémoire de Ratko Mladic, l'ancien chef militaire condamné pour le génocide de Srebrenica dans les années 1990. Le fait qu'il ait reçu des honneurs quasi off",
+   "source": "Le Monde — International · 07/09 08:19"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Succès des Bleues du basket et crise à l'Olympique de Marseille",
+   "zone": "France",
+   "resume": "Le sport français a connu un week-end intense avec la qualification des basketteuses tricolores pour les quarts de finale du Mondial. En football, l'Olympique de Marseille s'enfonce dans la crise après avoir perdu chez l",
+   "source": "© Studio graphique FMM · 07/09 08:38"
   }
  ]
 }
