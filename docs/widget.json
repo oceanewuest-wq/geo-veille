@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-07T09:55:22+00:00",
+ "genere_le": "2026-09-08T09:31:41+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions et risques démocratiques avant les législatives en Israël",
-   "zone": "Israël",
-   "resume": "Israël se prépare à des élections législatives cruciales le 27 octobre prochain, mais l'ambiance est extrêmement tendue. On craint des violences politiques et un refus des résultats par les partis d'extrême droite si le ",
-   "source": "Le Monde — International · 07/09 03:30"
+   "titre": "Aggravation des tensions en Cisjordanie occupée",
+   "zone": "Israël / Palestine",
+   "resume": "La situation devient de plus en plus explosive en Cisjordanie, un territoire palestinien occupé, alors que des élections se préparent en Israël. Des colons israéliens tentent d'accaparer de nouvelles terres, ce qui provo",
+   "source": "Le Monde — International · 08/09 03:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Victoire électorale historique de l'extrême droite en Saxe-Anhalt",
-   "zone": "Allemagne",
-   "resume": "Le parti d'extrême droite allemand AfD a remporté une victoire historique lors d'une élection régionale en Saxe-Anhalt, frôlant la majorité absolue avec près de 44 % des voix. Ce résultat affaiblit considérablement le go",
-   "source": "Le Monde — International · 07/09 03:29"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Mission diplomatique américaine à Moscou et Kiev pour l'Ukraine",
-   "zone": "Ukraine / Russie / États-Unis",
-   "resume": "Des envoyés spéciaux américains se sont rendus en Russie et en Ukraine pour tenter de relancer les discussions de paix. Si l'Ukraine a trouvé les propositions américaines intéressantes, les discussions bloquent toujours ",
-   "source": "Le Monde — International · 07/09 04:27"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "L'Allemagne rejette devant la CIJ les accusations de complicité de génocide",
-   "zone": "Allemagne / Palestine (Gaza)",
-   "resume": "L'Allemagne a demandé à la plus haute cour de l'ONU de rejeter une plainte déposée par le Nicaragua. Ce pays d'Amérique centrale accuse l'Allemagne de complicité de génocide à Gaza parce qu'elle vend des armes à Israël. ",
-   "source": "© Remko de Waal, AFP · 06/09 22:59"
+   "titre": "Victoire historique de l'extrême droite en Saxe-Anhalt",
+   "zone": "Allemagne / Europe",
+   "resume": "Le parti d'extrême droite allemand AfD a obtenu un score historique de 44 % lors d'une élection régionale dans l'est du pays. Ce résultat fragilise le gouvernement du chancelier Friedrich Merz et inquiète fortement les r",
+   "source": "Le Monde — International · 07/09 19:01"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes israéliennes meurtrières au Sud-Liban malgré la trêve",
-   "zone": "Liban / Israël",
-   "resume": "Malgré l'annonce d'un cessez-le-feu, l'armée israélienne a mené de nouveaux bombardements meurtriers dans le sud du Liban, tuant onze civils dont deux bébés. Ces attaques fragilisent grandement l'accord de trêve qui deva",
-   "source": "Le Monde — International · 07/09 07:52"
+   "titre": "L'Iran menace d'une escalade militaire face au blocus américain",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "L'Iran subit de lourdes sanctions américaines qui bloquent ses ventes de pétrole et ruinent son économie. Pour s'en sortir, le gouvernement de Téhéran menace de mener des actions militaires afin de forcer les États-Unis ",
+   "source": "Le Monde — International · 08/09 08:03"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Attaques massives des Houthis contre l'Arabie saoudite",
+   "zone": "Moyen-Orient / Yémen / Arabie saoudite",
+   "resume": "Les rebelles houthis du Yémen ont lancé une attaque massive de drones et de missiles sur l'Arabie saoudite voisine, touchant des installations pétrolières et faisant 73 blessés. Ils affirment agir en représailles à des b",
+   "source": "© AFP, capture écran d'une vidéo du 8 septembre 2026 par les Forces de résistance nationale au Yémen · 08/09 08:36"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Reprise des frappes russes sur Kiev après une brève trêve",
+   "zone": "Ukraine / Russie",
+   "resume": "Juste après le départ de diplomates américains, la Russie a recommencé à bombarder Kiev, la capitale de l'Ukraine, tuant deux personnes. Le président ukrainien Zelensky a réagi en annonçant qu'il allait demander des miss",
+   "source": "France 24 — Monde · 08/09 09:09"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Succès orbital d'Isar Aerospace et évolution du spatial européen",
-   "zone": "Europe / Allemagne",
-   "resume": "Une jeune entreprise allemande, Isar Aerospace, a réussi à envoyer sa propre fusée dans l'espace pour y déposer cinq satellites. C'est un exploit historique pour le secteur privé en Europe, qui cherche à réduire sa dépen",
-   "source": "Le Monde — International · 06/09 17:03"
+   "titre": "Entrée en vigueur des taxes douanières canadiennes contre les États-Unis",
+   "zone": "Amériques",
+   "resume": "Le Canada a commencé à taxer lourdement plusieurs produits importés des États-Unis, comme l'acier et les yaourts. C'est une réponse de fermeté après l'échec des discussions commerciales entre les deux pays voisins. Cette",
+   "source": "© Jeff Kowalsky, AFP · 08/09 04:39"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Saturation et baisse continue du marché automobile en Chine",
-   "zone": "Chine",
-   "resume": "En Chine, les ventes de voitures neuves sont en forte baisse car il y a trop de modèles disponibles et les clients hésitent à acheter. Pour écouler leurs stocks, les constructeurs se livrent une guerre des prix féroce qu",
-   "source": "Le Monde — International · 07/09 03:30"
+   "titre": "Levée de fonds historique de trois milliards d'euros pour Mistral AI",
+   "zone": "France / Europe",
+   "resume": "La pépite française de l'intelligence artificielle, Mistral AI, vient de récolter trois milliards d'euros auprès d'investisseurs. Grâce à cet argent, l'entreprise est désormais valorisée à 21 milliards d'euros et peut co",
+   "source": "© Lionel BONAVENTURE / AFP/Archives · 08/09 05:11"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Accident mortel d'un avion-cargo d'Amazon à Miami",
-   "zone": "États-Unis",
-   "resume": "Un avion-cargo d'Amazon a raté son atterrissage à l'aéroport de Miami, terminant sa course hors de la piste où il a percuté des véhicules avant de prendre feu. Le bilan est lourd avec cinq morts et cinq blessés. Les auto",
-   "source": "Le Monde — International · 06/09 20:19"
+   "titre": "Plainte de ressortissants français contre Israël pour torture",
+   "zone": "Israël / Palestine / France",
+   "resume": "Un groupe de 26 Français a porté plainte contre Israël, accusant l'armée de les avoir maltraités et torturés lors de l'interception de leur bateau humanitaire qui se dirigeait vers Gaza. Ils affirment avoir été arrêtés i",
+   "source": "Le Monde — International · 08/09 09:11"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Hommages controversés à Ratko Mladic à Belgrade",
-   "zone": "Serbie",
-   "resume": "Des milliers de Serbes se sont réunis à Belgrade pour saluer la mémoire de Ratko Mladic, l'ancien chef militaire condamné pour le génocide de Srebrenica dans les années 1990. Le fait qu'il ait reçu des honneurs quasi off",
-   "source": "Le Monde — International · 07/09 08:19"
+   "titre": "Crise profonde du système éducatif en Israël selon l'enquête PISA",
+   "zone": "Israël",
+   "resume": "Une étude internationale montre que le niveau des élèves en Israël s'est effondré en maths, en sciences et en lecture. Cette baisse historique révèle une crise majeure de l'école dans le pays, aggravée par des inégalités",
+   "source": "Le Monde — International · 08/09 09:00"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Succès des Bleues du basket et crise à l'Olympique de Marseille",
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Grève et réouverture de la tour Eiffel pour discrimination sexuelle",
    "zone": "France",
-   "resume": "Le sport français a connu un week-end intense avec la qualification des basketteuses tricolores pour les quarts de finale du Mondial. En football, l'Olympique de Marseille s'enfonce dans la crise après avoir perdu chez l",
-   "source": "© Studio graphique FMM · 07/09 08:38"
+   "resume": "La tour Eiffel a dû fermer pendant une journée à cause d'une grève de ses employés, avant de rouvrir ce mardi. Le personnel protestait contre une décision jugée sexiste : des employées auraient été écartées de leur poste",
+   "source": "© AFP · 08/09 08:42"
   }
  ]
 }
