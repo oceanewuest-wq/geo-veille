@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-09T09:25:06+00:00",
+ "genere_le": "2026-09-10T09:26:03+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Sanctions internationales contre les colonies en Cisjordanie",
-   "zone": "Israël / Palestine",
-   "resume": "Douze pays occidentaux ont décidé de boycotter ou de surtaxer les produits fabriqués dans les colonies israéliennes de Cisjordanie, jugées illégales par le droit international. Furieux de cette décision, Israël a répliqu",
-   "source": "© Ahmad Gharabli, AFP · 08/09 18:59"
+   "titre": "Saisine de l'ONU sur le programme nucléaire iranien",
+   "zone": "Iran",
+   "resume": "L'organisme de surveillance nucléaire de l'ONU a décidé de signaler l'Iran au Conseil de sécurité car le pays refuse de laisser inspecter ses sites nucléaires sensibles. Ces installations avaient été bombardées par Israë",
+   "source": ""
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Polémique sur l'alerte reçue par Benyamin Nétanyahou avant le 7-Octobre",
+   "titre": "Campagne électorale législative sous tension en Israël",
    "zone": "Israël",
-   "resume": "Une tempête politique secoue Israël suite à des révélations affirmant que le Premier ministre savait qu'une attaque majeure se préparait avant le drame du 7 octobre 2023. Selon ces informations, les Émirats arabes unis l",
-   "source": "Le Monde — International · 09/09 09:08"
+   "resume": "Israël s'apprête à voter pour ses députés dans un climat lourd, où le souvenir des attaques du 7 octobre 2023 domine tous les débats. L'opposition accuse le Premier ministre actuel d'avoir failli à sa mission de protecti",
+   "source": "© Ammar Awad, Reuters · 09/09 18:08"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Promesse électorale inédite de Donald Trump pour les Midterms",
+   "zone": "États-Unis",
+   "resume": "Donald Trump a promis d'offrir un chèque de 5 000 dollars à chaque Américain si son parti remporte les élections de mi-mandat en novembre. Cette promesse spectaculaire vise à motiver les électeurs républicains, mais elle",
+   "source": "France 24 — Monde · 10/09 09:11"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Sommet international sur l'espace et enjeux de gouvernance à Paris",
+   "zone": "Europe / International",
+   "resume": "Paris a accueilli un grand sommet pour discuter de l'avenir de l'espace et de la gestion des satellites. Le président Emmanuel Macron a annoncé des investissements massifs pour aider l'Europe à rester compétitive face au",
+   "source": "© Ludovic Marin, Reuters · 10/09 08:32"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade militaire entre les États-Unis et l'Iran",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "Les États-Unis et l'Iran se livrent à des attaques directes dans le Golfe Persique et en Jordanie. L'armée américaine a frappé des navires iraniens, et Téhéran a répliqué en visant des bases et des bateaux alliés. Cette ",
-   "source": "Le Monde — International · 09/09 05:06"
+   "titre": "Déplacement controversé de Benjamin Netanyahu en Syrie",
+   "zone": "Israël / Syrie",
+   "resume": "Le Premier ministre israélien s'est rendu dans une zone du territoire syrien occupée par l'armée israélienne depuis deux ans. La Syrie a dénoncé cette visite comme une provocation inacceptable. Ce geste hautement politiq",
+   "source": "© France 24 · 10/09 06:26"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes saoudiennes de représailles au Yémen",
-   "zone": "Moyen-Orient / Yémen",
-   "resume": "L'Arabie saoudite a bombardé massivement des positions des rebelles houthistes au Yémen en réponse à une attaque de missiles. Cette dernière avait blessé des dizaines de civils dans le sud du royaume saoudien. Ce regain ",
-   "source": "Le Monde — International · 09/09 06:34"
+   "titre": "Soutien international à l'Ukraine et préparation de l'hiver",
+   "zone": "Ukraine / Russie",
+   "resume": "Le président ukrainien s'est déplacé au Canada pour obtenir de nouvelles aides militaires, alors que l'hiver approche et que le réseau électrique du pays est gravement endommagé par les attaques russes. Pendant ce temps,",
+   "source": ""
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine et démission du procureur général pour corruption",
-   "zone": "Ukraine / Europe de l'Est",
-   "resume": "L'Ukraine fait face à une double crise : militaire et politique. D'un côté, des frappes de drones russes ont touché la frontière avec la Moldavie, tuant deux personnes et inquiétant les pays voisins. De l'autre, le procu",
-   "source": "Le Monde — International · 09/09 06:10"
+   "titre": "Progression des rebelles Houthis vers le détroit de Bab el-Mandeb",
+   "zone": "Yémen / Détroit de Bab el-Mandeb",
+   "resume": "Les rebelles Houthis ont capturé une ville clé sur la côte du Yémen et se rapprochent d'un détroit maritime très important pour le commerce mondial. Cette avancée inquiète les pays voisins, notamment l'Arabie saoudite qu",
+   "source": "© Stringer, AP · 10/09 03:46"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Conflit commercial et droits de douane entre les États-Unis et le Canada",
-   "zone": "Amérique du Nord",
-   "resume": "Une véritable guerre commerciale a éclaté entre les États-Unis et le Canada. Après que Donald Trump a bloqué certains produits canadiens et augmenté les taxes à la frontière, le Canada a répliqué en taxant à son tour des",
-   "source": "© Alex Wrobblewski, AFP · 09/09 01:03"
+   "titre": "Tensions militaires dans le Golfe Persique et flambée des cours du pétrole",
+   "zone": "Moyen-Orient / Détroit d'Ormuz",
+   "resume": "L'Iran a attaqué plusieurs navires et une base militaire américaine en Jordanie, provoquant une hausse immédiate du prix du pétrole au-dessus de 100 dollars le baril. Le détroit d'Ormuz, par où passe une grande partie du",
+   "source": "© Armée américaine, AFP · 10/09 02:31"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Investissement émirati majeur dans un projet spatial français d'IA",
-   "zone": "Émirats arabes unis / France",
-   "resume": "Les Émirats arabes unis vont investir un milliard de dollars dans une jeune entreprise française appelée Loft Orbital. Cet argent servira à envoyer dans l'espace des satellites équipés d'intelligence artificielle pour ob",
-   "source": "Le Monde — International · 09/09 09:00"
+   "titre": "Intervention du Trésor américain sur le marché obligataire",
+   "zone": "États-Unis",
+   "resume": "Le ministre des Finances américain a annoncé un rachat de dette publique moins important que ce que les investisseurs espéraient. En réaction, les taux d'intérêt sur la dette des États-Unis ont immédiatement grimpé. Cela",
+   "source": "Le Monde — International · 10/09 06:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Publication des résultats de l'enquête éducative PISA 2025",
-   "zone": "International",
-   "resume": "Le classement PISA, qui mesure le niveau des élèves de 15 ans à travers le monde, vient de publier ses résultats. On y constate une baisse générale du niveau, notamment en France et dans les pays scandinaves, autrefois c",
-   "source": "Le Monde — International · 09/09 07:43"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Panne majeure du contrôle aérien au Royaume-Uni",
-   "zone": "Royaume-Uni",
-   "resume": "Une panne informatique géante a complètement déréglé le contrôle aérien au Royaume-Uni, bloquant des milliers de voyageurs. Plus de 1 400 vols ont dû être annulés en deux jours dans tout le pays. Même si le problème tech",
-   "source": "Le Monde — International · 09/09 04:13"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Reprise de la Ligue des champions de l'UEFA",
-   "zone": "Europe",
-   "resume": "La prestigieuse Ligue des champions de football est de retour avec des matchs spectaculaires. Le Real Madrid a battu l'Inter Milan grâce à un but de Kylian Mbappé, qui continue d'écrire sa légende en devenant l'un des me",
-   "source": "France 24 — Monde · 09/09 05:18"
+   "titre": "Crise migratoire et tensions diplomatiques à Ceuta",
+   "zone": "Espagne / Maroc",
+   "resume": "Des milliers de migrants se retrouvent bloqués dans des conditions très difficiles dans l'enclave espagnole de Ceuta, à la frontière avec le Maroc. L'Europe a débloqué une aide d'urgence de 115 millions d'euros, mais la ",
+   "source": "France 24 — Monde · 09/09 21:01"
   }
  ]
 }
