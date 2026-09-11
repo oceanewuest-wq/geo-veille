@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-10T09:26:03+00:00",
+ "genere_le": "2026-09-11T09:26:54+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Saisine de l'ONU sur le programme nucléaire iranien",
+   "titre": "Commémorations des 25 ans du 11-Septembre",
+   "zone": "États-Unis",
+   "resume": "Vingt-cinq ans après les attentats du World Trade Center et du Pentagone, l'Amérique se souvient des victimes dans un contexte de fortes tensions politiques locales. Au-delà du bilan initial, la pollution toxique générée",
+   "source": "Le Monde — International · 11/09 03:47"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Lourdes peines de prison pour des militants à Hong Kong",
+   "zone": "Asie-Pacifique",
+   "resume": "Trois militants pro-démocratie à Hong Kong ont été condamnés à de lourdes peines de prison pour avoir organisé des rassemblements en mémoire des victimes du massacre de Tiananmen de 1989. Les autorités les accusent de vo",
+   "source": "Le Monde — International · 11/09 03:24"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Discours de clôture de JD Vance à Dallas",
+   "zone": "États-Unis",
+   "resume": "Le vice-président républicain JD Vance a attaqué violemment les démocrates lors d'un grand rassemblement politique à Dallas, les qualifiant de 'parti de la haine'. En évitant de parler des conflits internationaux comme l",
+   "source": "Le Monde — International · 11/09 04:23"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Décès d'Emma Bonino, figure politique italienne",
+   "zone": "Europe",
+   "resume": "Emma Bonino, une des femmes politiques les plus respectées d'Italie et d'Europe, est décédée. Elle a consacré sa vie à la défense des droits des femmes, à l'aide humanitaire et à la construction européenne à travers de n",
+   "source": "Le Monde — International · 11/09 08:14"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Progression des Houthis vers le détroit de Bab el-Mandeb",
+   "zone": "Moyen-Orient",
+   "resume": "Au Yémen, les rebelles Houthis ont capturé des positions clés près du détroit de Bab el-Mandeb, une voie maritime essentielle par laquelle passe une grande partie du commerce mondial. Cette avancée militaire fait craindr",
+   "source": "Le Monde — International · 10/09 20:36"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Destruction de tunnels du Hezbollah par Israël au Sud-Liban",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "L'armée israélienne a détruit de grands tunnels souterrains utilisés par le Hezbollah dans le sud du Liban. L'explosion a été si violente qu'elle a déclenché un mini-séisme de magnitude 4,1 ressenti dans la région. Cette",
+   "source": "© Armée israélienne via AFP · 10/09 21:39"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Anthropic déjoue des cyber-opérations chinoises et iraniennes",
    "zone": "Iran",
-   "resume": "L'organisme de surveillance nucléaire de l'ONU a décidé de signaler l'Iran au Conseil de sécurité car le pays refuse de laisser inspecter ses sites nucléaires sensibles. Ces installations avaient été bombardées par Israë",
-   "source": ""
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Campagne électorale législative sous tension en Israël",
-   "zone": "Israël",
-   "resume": "Israël s'apprête à voter pour ses députés dans un climat lourd, où le souvenir des attaques du 7 octobre 2023 domine tous les débats. L'opposition accuse le Premier ministre actuel d'avoir failli à sa mission de protecti",
-   "source": "© Ammar Awad, Reuters · 09/09 18:08"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Promesse électorale inédite de Donald Trump pour les Midterms",
-   "zone": "États-Unis",
-   "resume": "Donald Trump a promis d'offrir un chèque de 5 000 dollars à chaque Américain si son parti remporte les élections de mi-mandat en novembre. Cette promesse spectaculaire vise à motiver les électeurs républicains, mais elle",
-   "source": "France 24 — Monde · 10/09 09:11"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Sommet international sur l'espace et enjeux de gouvernance à Paris",
-   "zone": "Europe / International",
-   "resume": "Paris a accueilli un grand sommet pour discuter de l'avenir de l'espace et de la gestion des satellites. Le président Emmanuel Macron a annoncé des investissements massifs pour aider l'Europe à rester compétitive face au",
-   "source": "© Ludovic Marin, Reuters · 10/09 08:32"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Déplacement controversé de Benjamin Netanyahu en Syrie",
-   "zone": "Israël / Syrie",
-   "resume": "Le Premier ministre israélien s'est rendu dans une zone du territoire syrien occupée par l'armée israélienne depuis deux ans. La Syrie a dénoncé cette visite comme une provocation inacceptable. Ce geste hautement politiq",
-   "source": "© France 24 · 10/09 06:26"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Soutien international à l'Ukraine et préparation de l'hiver",
-   "zone": "Ukraine / Russie",
-   "resume": "Le président ukrainien s'est déplacé au Canada pour obtenir de nouvelles aides militaires, alors que l'hiver approche et que le réseau électrique du pays est gravement endommagé par les attaques russes. Pendant ce temps,",
-   "source": ""
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Progression des rebelles Houthis vers le détroit de Bab el-Mandeb",
-   "zone": "Yémen / Détroit de Bab el-Mandeb",
-   "resume": "Les rebelles Houthis ont capturé une ville clé sur la côte du Yémen et se rapprochent d'un détroit maritime très important pour le commerce mondial. Cette avancée inquiète les pays voisins, notamment l'Arabie saoudite qu",
-   "source": "© Stringer, AP · 10/09 03:46"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Tensions militaires dans le Golfe Persique et flambée des cours du pétrole",
-   "zone": "Moyen-Orient / Détroit d'Ormuz",
-   "resume": "L'Iran a attaqué plusieurs navires et une base militaire américaine en Jordanie, provoquant une hausse immédiate du prix du pétrole au-dessus de 100 dollars le baril. Le détroit d'Ormuz, par où passe une grande partie du",
-   "source": "© Armée américaine, AFP · 10/09 02:31"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Intervention du Trésor américain sur le marché obligataire",
-   "zone": "États-Unis",
-   "resume": "Le ministre des Finances américain a annoncé un rachat de dette publique moins important que ce que les investisseurs espéraient. En réaction, les taux d'intérêt sur la dette des États-Unis ont immédiatement grimpé. Cela",
-   "source": "Le Monde — International · 10/09 06:00"
+   "resume": "L'entreprise de technologie Anthropic a bloqué des tentatives d'utilisation de son intelligence artificielle, Claude, par des agents chinois et iraniens. Ces derniers s'en servaient pour espionner et surveiller des oppos",
+   "source": "© Dado Ruvic, Reuters · 11/09 02:59"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Crise migratoire et tensions diplomatiques à Ceuta",
-   "zone": "Espagne / Maroc",
-   "resume": "Des milliers de migrants se retrouvent bloqués dans des conditions très difficiles dans l'enclave espagnole de Ceuta, à la frontière avec le Maroc. L'Europe a débloqué une aide d'urgence de 115 millions d'euros, mais la ",
-   "source": "France 24 — Monde · 09/09 21:01"
+   "titre": "Mobilisation des fans pour les concerts de Céline Dion",
+   "zone": "France",
+   "resume": "Les fans de Céline Dion se rassemblent en masse à Paris pour tenter d'apercevoir la star avant ses grands concerts de retour. Après des années d'absence pour des raisons de santé, ce retour sur scène est un événement imm",
+   "source": "France 24 — Monde · 11/09 07:07"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Traque des déjections canines par ADN en Espagne",
+   "zone": "Europe",
+   "resume": "En Espagne, près de 100 villes utilisent désormais des tests ADN pour retrouver les propriétaires de chiens qui ne ramassent pas les crottes de leur animal dans la rue. Chaque chien doit être enregistré dans une base de ",
+   "source": "Le Monde — International · 11/09 03:45"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Victoire renversante du RC Lens contre le Slavia Prague",
+   "zone": "Europe",
+   "resume": "Le club de football de Lens a réussi un exploit incroyable pour son premier match de Ligue des champions en battant le Slavia Prague. Alors qu'ils perdaient à seulement deux minutes de la fin du match, les Lensois ont ma",
+   "source": "France 24 — Monde · 11/09 06:16"
   }
  ]
 }
