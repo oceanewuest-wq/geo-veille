@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-11T09:26:54+00:00",
+ "genere_le": "2026-09-12T09:04:05+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Commémorations des 25 ans du 11-Septembre",
+   "titre": "Ouverture du sommet des BRICS+ à New Delhi",
+   "zone": "Moyen-Orient / Inde / Iran",
+   "resume": "Les dirigeants des pays émergents, les BRICS, se réunissent en Inde alors que le Moyen-Orient est au bord de l'embrasement. L'Iran, récemment intégré au groupe, espère y trouver des soutiens face aux pressions occidental",
+   "source": "Le Monde — International · 12/09 04:15"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Séisme politique en Allemagne après la victoire de l'AfD",
+   "zone": "Allemagne",
+   "resume": "En Allemagne, la victoire électorale du parti d'extrême droite AfD dans une région de l'Est provoque un véritable séisme politique. La leader de l'AfD a défié directement le chancelier Friedrich Merz au Parlement, illust",
+   "source": "Le Monde — International · 11/09 18:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Visite de Donald Trump en Irlande",
+   "zone": "Irlande / États-Unis",
+   "resume": "Donald Trump s'est rendu en Irlande pour un voyage qui mélange diplomatie officielle et parties de golf dans ses complexes de luxe. Il doit y rencontrer les dirigeants irlandais à Dublin pour discuter de relations intern",
+   "source": "France 24 — Monde · 12/09 08:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Campagne des Midterms 2026 aux États-Unis",
    "zone": "États-Unis",
-   "resume": "Vingt-cinq ans après les attentats du World Trade Center et du Pentagone, l'Amérique se souvient des victimes dans un contexte de fortes tensions politiques locales. Au-delà du bilan initial, la pollution toxique générée",
-   "source": "Le Monde — International · 11/09 03:47"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Lourdes peines de prison pour des militants à Hong Kong",
-   "zone": "Asie-Pacifique",
-   "resume": "Trois militants pro-démocratie à Hong Kong ont été condamnés à de lourdes peines de prison pour avoir organisé des rassemblements en mémoire des victimes du massacre de Tiananmen de 1989. Les autorités les accusent de vo",
-   "source": "Le Monde — International · 11/09 03:24"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Discours de clôture de JD Vance à Dallas",
-   "zone": "États-Unis",
-   "resume": "Le vice-président républicain JD Vance a attaqué violemment les démocrates lors d'un grand rassemblement politique à Dallas, les qualifiant de 'parti de la haine'. En évitant de parler des conflits internationaux comme l",
-   "source": "Le Monde — International · 11/09 04:23"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Décès d'Emma Bonino, figure politique italienne",
-   "zone": "Europe",
-   "resume": "Emma Bonino, une des femmes politiques les plus respectées d'Italie et d'Europe, est décédée. Elle a consacré sa vie à la défense des droits des femmes, à l'aide humanitaire et à la construction européenne à travers de n",
-   "source": "Le Monde — International · 11/09 08:14"
+   "resume": "Aux États-Unis, la campagne pour les élections de mi-mandat bat son plein, et Donald Trump a choisi une stratégie risquée : il demande à ses électeurs de voter comme si son propre nom était sur le bulletin. C'est un pari",
+   "source": "© AFP, Studio graphique  FMM · 12/09 07:18"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Progression des Houthis vers le détroit de Bab el-Mandeb",
-   "zone": "Moyen-Orient",
-   "resume": "Au Yémen, les rebelles Houthis ont capturé des positions clés près du détroit de Bab el-Mandeb, une voie maritime essentielle par laquelle passe une grande partie du commerce mondial. Cette avancée militaire fait craindr",
-   "source": "Le Monde — International · 10/09 20:36"
+   "titre": "Prise de contrôle du détroit de Bab el-Mandeb par les Houthis",
+   "zone": "Moyen-Orient / Yémen",
+   "resume": "Les rebelles houthistes du Yémen, soutenus par l'Iran, viennent de s'emparer d'un point de passage maritime crucial pour le commerce mondial, le détroit de Bab el-Mandeb. Après le blocage du détroit d'Ormuz, cette action",
+   "source": "France 24 — Moyen-Orient · 12/09 07:52"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Destruction de tunnels du Hezbollah par Israël au Sud-Liban",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "L'armée israélienne a détruit de grands tunnels souterrains utilisés par le Hezbollah dans le sud du Liban. L'explosion a été si violente qu'elle a déclenché un mini-séisme de magnitude 4,1 ressenti dans la région. Cette",
-   "source": "© Armée israélienne via AFP · 10/09 21:39"
+   "titre": "Déraillement d'un TER en Normandie",
+   "zone": "France",
+   "resume": "Un train régional reliant Rouen à Caen a déraillé, faisant plus de quarante blessés parmi les passagers. Les enquêteurs pensent qu'il s'agit d'un acte de sabotage volontaire, car un morceau de métal suspect a été retrouv",
+   "source": "France 24 — Monde · 12/09 08:45"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Anthropic déjoue des cyber-opérations chinoises et iraniennes",
-   "zone": "Iran",
-   "resume": "L'entreprise de technologie Anthropic a bloqué des tentatives d'utilisation de son intelligence artificielle, Claude, par des agents chinois et iraniens. Ces derniers s'en servaient pour espionner et surveiller des oppos",
-   "source": "© Dado Ruvic, Reuters · 11/09 02:59"
+   "titre": "Fermeture de l'oléoduc Est-Ouest en Arabie saoudite",
+   "zone": "Moyen-Orient / Arabie saoudite",
+   "resume": "L'Arabie saoudite a dû fermer en urgence son principal oléoduc terrestre après des attaques de drones venues d'Irak. Ce tuyau géant permettait d'envoyer le pétrole vers la mer Rouge sans passer par le détroit d'Ormuz, dé",
+   "source": "© Planet Labs PBC via AFP · 12/09 05:12"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Mobilisation des fans pour les concerts de Céline Dion",
-   "zone": "France",
-   "resume": "Les fans de Céline Dion se rassemblent en masse à Paris pour tenter d'apercevoir la star avant ses grands concerts de retour. Après des années d'absence pour des raisons de santé, ce retour sur scène est un événement imm",
-   "source": "France 24 — Monde · 11/09 07:07"
+   "titre": "Maha Al-Daya, la brodeuse de Gaza réfugiée en France",
+   "zone": "Palestine / Gaza",
+   "resume": "Maha Al-Daya est une brodeuse palestinienne qui a fui les bombardements de Gaza pour se réfugier en France. Avec son fil et son aiguille, elle recrée les scènes de vie et de guerre de son pays pour que l'histoire de son ",
+   "source": "Le Monde — International · 12/09 03:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Traque des déjections canines par ADN en Espagne",
-   "zone": "Europe",
-   "resume": "En Espagne, près de 100 villes utilisent désormais des tests ADN pour retrouver les propriétaires de chiens qui ne ramassent pas les crottes de leur animal dans la rue. Chaque chien doit être enregistré dans une base de ",
-   "source": "Le Monde — International · 11/09 03:45"
+   "titre": "25e anniversaire des attentats du 11-Septembre",
+   "zone": "États-Unis",
+   "resume": "Les Américains ont rendu hommage aux victimes des attentats du 11 septembre 2001, vingt-cinq ans après le drame. Les commémorations ont réuni le pays dans le recueillement, notamment à New York et au Pentagone. Pourtant,",
+   "source": "Le Monde — International · 11/09 20:30"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Victoire renversante du RC Lens contre le Slavia Prague",
-   "zone": "Europe",
-   "resume": "Le club de football de Lens a réussi un exploit incroyable pour son premier match de Ligue des champions en battant le Slavia Prague. Alors qu'ils perdaient à seulement deux minutes de la fin du match, les Lensois ont ma",
-   "source": "France 24 — Monde · 11/09 06:16"
+   "titre": "Mondial de basket : demi-finale France-Allemagne",
+   "zone": "France / Allemagne",
+   "resume": "Les basketteuses françaises jouent un match capital contre l'Allemagne pour tenter de se qualifier en finale de la Coupe du monde. Même si les Bleues sont favorites grâce à leur médaille d'argent aux derniers JO, elles d",
+   "source": "© Ronny Hartmann, AFP · 12/09 05:09"
   }
  ]
 }
