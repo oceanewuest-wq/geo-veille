@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-12T09:04:05+00:00",
+ "genere_le": "2026-09-13T09:59:14+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Ouverture du sommet des BRICS+ à New Delhi",
-   "zone": "Moyen-Orient / Inde / Iran",
-   "resume": "Les dirigeants des pays émergents, les BRICS, se réunissent en Inde alors que le Moyen-Orient est au bord de l'embrasement. L'Iran, récemment intégré au groupe, espère y trouver des soutiens face aux pressions occidental",
-   "source": "Le Monde — International · 12/09 04:15"
+   "titre": "Sommet des BRICS à New Delhi et tensions au Moyen-Orient",
+   "zone": "Moyen-Orient / Asie",
+   "resume": "Les dirigeants des BRICS (un groupe de grands pays émergents comme la Chine, l'Inde et la Russie) se sont réunis en Inde. Malgré leurs différences, ils ont appelé au calme face aux violences au Moyen-Orient. Ce sommet a ",
+   "source": "France 24 — Monde · 13/09 08:38"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Séisme politique en Allemagne après la victoire de l'AfD",
-   "zone": "Allemagne",
-   "resume": "En Allemagne, la victoire électorale du parti d'extrême droite AfD dans une région de l'Est provoque un véritable séisme politique. La leader de l'AfD a défié directement le chancelier Friedrich Merz au Parlement, illust",
-   "source": "Le Monde — International · 11/09 18:00"
+   "titre": "Élections législatives indécises en Suède",
+   "zone": "Suède",
+   "resume": "La Suède a voté pour élire ses députés lors d'un scrutin historique et très serré. Le pays hésite entre reconduire la gauche au pouvoir ou laisser entrer pour la première fois l'extrême droite au gouvernement au sein d'u",
+   "source": "France 24 — Monde · 13/09 06:15"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Visite de Donald Trump en Irlande",
+   "titre": "Déclaration surprise de Donald Trump sur l'unification de l'Irlande",
    "zone": "Irlande / États-Unis",
-   "resume": "Donald Trump s'est rendu en Irlande pour un voyage qui mélange diplomatie officielle et parties de golf dans ses complexes de luxe. Il doit y rencontrer les dirigeants irlandais à Dublin pour discuter de relations intern",
-   "source": "France 24 — Monde · 12/09 08:00"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Campagne des Midterms 2026 aux États-Unis",
-   "zone": "États-Unis",
-   "resume": "Aux États-Unis, la campagne pour les élections de mi-mandat bat son plein, et Donald Trump a choisi une stratégie risquée : il demande à ses électeurs de voter comme si son propre nom était sur le bulletin. C'est un pari",
-   "source": "© AFP, Studio graphique  FMM · 12/09 07:18"
+   "resume": "En voyage en Irlande pour jouer au golf, Donald Trump a surpris tout le monde en déclarant qu'il était pour une Irlande unifiée (c'est-à-dire réunir la République d'Irlande et l'Irlande du Nord, qui fait partie du Royaum",
+   "source": "France 24 — Monde · 13/09 08:50"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Prise de contrôle du détroit de Bab el-Mandeb par les Houthis",
-   "zone": "Moyen-Orient / Yémen",
-   "resume": "Les rebelles houthistes du Yémen, soutenus par l'Iran, viennent de s'emparer d'un point de passage maritime crucial pour le commerce mondial, le détroit de Bab el-Mandeb. Après le blocage du détroit d'Ormuz, cette action",
-   "source": "France 24 — Moyen-Orient · 12/09 07:52"
+   "titre": "Frappe contre un navire marchand iranien dans le détroit d'Ormuz",
+   "zone": "Détroit d'Ormuz / Iran",
+   "resume": "Un navire de commerce iranien a été attaqué dans le détroit d'Ormuz, une zone clé par où passe une grande partie du pétrole mondial. L'attaque a fait un mort et trois blessés, mais on ne sait pas encore qui a tiré. Cet é",
+   "source": "Le Monde — International · 13/09 06:25"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Déraillement d'un TER en Normandie",
-   "zone": "France",
-   "resume": "Un train régional reliant Rouen à Caen a déraillé, faisant plus de quarante blessés parmi les passagers. Les enquêteurs pensent qu'il s'agit d'un acte de sabotage volontaire, car un morceau de métal suspect a été retrouv",
-   "source": "France 24 — Monde · 12/09 08:45"
+   "titre": "Attaque des Houthis contre une base militaire en Arabie saoudite",
+   "zone": "Moyen-Orient",
+   "resume": "Les rebelles houthis du Yémen, soutenus par l'Iran, affirment avoir attaqué une base militaire en Arabie saoudite. Ils expliquent qu'il s'agit d'une vengeance après des frappes saoudiennes sur leur territoire. Ce conflit",
+   "source": "France 24 — Moyen-Orient · 13/09 08:46"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Crash d'un drone en Roumanie lié à la guerre en Ukraine",
+   "zone": "Europe",
+   "resume": "Un drone militaire s'est écrasé dans un champ en Roumanie après avoir survolé l'Ukraine et la Moldavie. L'impact a provoqué un petit incendie mais pas de victimes. Cet événement inquiète car la Roumanie est membre de l'O",
+   "source": "Le Monde — International · 13/09 08:06"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Fermeture de l'oléoduc Est-Ouest en Arabie saoudite",
-   "zone": "Moyen-Orient / Arabie saoudite",
-   "resume": "L'Arabie saoudite a dû fermer en urgence son principal oléoduc terrestre après des attaques de drones venues d'Irak. Ce tuyau géant permettait d'envoyer le pétrole vers la mer Rouge sans passer par le détroit d'Ormuz, dé",
-   "source": "© Planet Labs PBC via AFP · 12/09 05:12"
+   "titre": "Appel à ralentir le développement de l'IA par le patron d'Anthropic",
+   "zone": "International",
+   "resume": "Le patron d'Anthropic, une entreprise majeure de l'intelligence artificielle, demande à l'industrie de ralentir la course technologique. Il craint que l'IA ne progresse trop vite pour que les humains puissent la contrôle",
+   "source": "France 24 — Monde · 13/09 08:32"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Maha Al-Daya, la brodeuse de Gaza réfugiée en France",
-   "zone": "Palestine / Gaza",
-   "resume": "Maha Al-Daya est une brodeuse palestinienne qui a fui les bombardements de Gaza pour se réfugier en France. Avec son fil et son aiguille, elle recrée les scènes de vie et de guerre de son pays pour que l'histoire de son ",
-   "source": "Le Monde — International · 12/09 03:00"
+   "titre": "Retour sur scène de Céline Dion à Paris",
+   "zone": "France",
+   "resume": "Après six ans d'absence en raison d'une maladie grave, la star Céline Dion a donné son tout premier concert près de Paris. Ses fans, venus en masse, ont partagé un moment très fort en émotion en la voyant chanter à nouve",
+   "source": "France 24 — Monde · 13/09 06:04"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "25e anniversaire des attentats du 11-Septembre",
-   "zone": "États-Unis",
-   "resume": "Les Américains ont rendu hommage aux victimes des attentats du 11 septembre 2001, vingt-cinq ans après le drame. Les commémorations ont réuni le pays dans le recueillement, notamment à New York et au Pentagone. Pourtant,",
-   "source": "Le Monde — International · 11/09 20:30"
+   "titre": "Grève à Radio France contre le recrutement d'un dirigeant de Valeurs actuelles",
+   "zone": "France",
+   "resume": "Les salariés de Radio France font grève pendant deux jours pour protester contre l'arrivée à l'antenne d'un des patrons du journal d'extrême droite Valeurs actuelles. Ils estiment que recruter cette personnalité politiqu",
+   "source": "© Ludovic Marin, AFP · 12/09 23:45"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Mondial de basket : demi-finale France-Allemagne",
-   "zone": "France / Allemagne",
-   "resume": "Les basketteuses françaises jouent un match capital contre l'Allemagne pour tenter de se qualifier en finale de la Coupe du monde. Même si les Bleues sont favorites grâce à leur médaille d'argent aux derniers JO, elles d",
-   "source": "© Ronny Hartmann, AFP · 12/09 05:09"
+   "titre": "Finale historique pour la France au Mondial de basket féminin",
+   "zone": "International",
+   "resume": "Les basketteuses françaises ont réussi l'exploit de se qualifier pour la finale du Mondial en battant l'Allemagne. Elles affrontent les redoutables Américaines, qui dominent largement ce sport depuis des années. C'est un",
+   "source": "France 24 — Monde · 13/09 09:34"
   }
  ]
 }
