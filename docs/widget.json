@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-13T09:59:14+00:00",
+ "genere_le": "2026-09-14T10:21:12+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Sommet des BRICS à New Delhi et tensions au Moyen-Orient",
-   "zone": "Moyen-Orient / Asie",
-   "resume": "Les dirigeants des BRICS (un groupe de grands pays émergents comme la Chine, l'Inde et la Russie) se sont réunis en Inde. Malgré leurs différences, ils ont appelé au calme face aux violences au Moyen-Orient. Ce sommet a ",
-   "source": "France 24 — Monde · 13/09 08:38"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives indécises en Suède",
+   "titre": "Recul historique de l'extrême droite aux élections législatives en Suède",
    "zone": "Suède",
-   "resume": "La Suède a voté pour élire ses députés lors d'un scrutin historique et très serré. Le pays hésite entre reconduire la gauche au pouvoir ou laisser entrer pour la première fois l'extrême droite au gouvernement au sein d'u",
-   "source": "France 24 — Monde · 13/09 06:15"
+   "resume": "Lors des élections en Suède, le parti d'extrême droite a connu une baisse historique de ses voix, démentant les prévisions. La gauche et la droite se retrouvent au coude-à-coude, ce qui va rendre la formation d'un nouvea",
+   "source": "Le Monde — International · 14/09 04:43"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Déclaration surprise de Donald Trump sur l'unification de l'Irlande",
-   "zone": "Irlande / États-Unis",
-   "resume": "En voyage en Irlande pour jouer au golf, Donald Trump a surpris tout le monde en déclarant qu'il était pour une Irlande unifiée (c'est-à-dire réunir la République d'Irlande et l'Irlande du Nord, qui fait partie du Royaum",
-   "source": "France 24 — Monde · 13/09 08:50"
+   "titre": "La Finlande intègre l'initiative française de dissuasion nucléaire avancée",
+   "zone": "Europe (Finlande / France)",
+   "resume": "La Finlande a décidé de s'associer au projet de la France visant à étendre sa protection nucléaire à d'autres pays d'Europe. Pour Helsinki, qui partage une longue frontière avec la Russie, il s'agit de dissuader toute ag",
+   "source": "Le Monde — International · 14/09 09:51"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappe contre un navire marchand iranien dans le détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Iran",
-   "resume": "Un navire de commerce iranien a été attaqué dans le détroit d'Ormuz, une zone clé par où passe une grande partie du pétrole mondial. L'attaque a fait un mort et trois blessés, mais on ne sait pas encore qui a tiré. Cet é",
-   "source": "Le Monde — International · 13/09 06:25"
+   "titre": "Escalade des tensions entre Houthis et Arabie saoudite au Yémen",
+   "zone": "Moyen-Orient (Yémen / Arabie saoudite)",
+   "resume": "Les rebelles houthis du Yémen, soutenus par l'Iran, ont attaqué des bases militaires en Arabie saoudite, entraînant une riposte aérienne massive de Riyad. Ce regain de violence aggrave une situation humanitaire déjà cata",
+   "source": "France 24 — Moyen-Orient · 14/09 09:33"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaque des Houthis contre une base militaire en Arabie saoudite",
-   "zone": "Moyen-Orient",
-   "resume": "Les rebelles houthis du Yémen, soutenus par l'Iran, affirment avoir attaqué une base militaire en Arabie saoudite. Ils expliquent qu'il s'agit d'une vengeance après des frappes saoudiennes sur leur territoire. Ce conflit",
-   "source": "France 24 — Moyen-Orient · 13/09 08:46"
+   "titre": "L'ONG B'Tselem accuse Israël de mener un projet d'apartheid en Cisjordanie",
+   "zone": "Moyen-Orient (Israël / Palestine)",
+   "resume": "Une importante organisation israélienne de défense des droits de l'homme a publié un rapport très sévère accusant son propre gouvernement de pratiquer l'apartheid en Cisjordanie. Selon elle, les politiques actuelles vise",
+   "source": "Le Monde — International · 14/09 07:37"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Crash d'un drone en Roumanie lié à la guerre en Ukraine",
-   "zone": "Europe",
-   "resume": "Un drone militaire s'est écrasé dans un champ en Roumanie après avoir survolé l'Ukraine et la Moldavie. L'impact a provoqué un petit incendie mais pas de victimes. Cet événement inquiète car la Roumanie est membre de l'O",
-   "source": "Le Monde — International · 13/09 08:06"
+   "titre": "Frappes russes systématiques contre le réseau ferroviaire ukrainien",
+   "zone": "Ukraine / Russie",
+   "resume": "La Russie multiplie les attaques de drones et de missiles contre les trains et les voies ferrées en Ukraine, y compris sur des lignes internationales menant vers la Pologne. Ces frappes visent à bloquer l'acheminement de",
+   "source": "Le Monde — International · 14/09 03:48"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Appel à ralentir le développement de l'IA par le patron d'Anthropic",
-   "zone": "International",
-   "resume": "Le patron d'Anthropic, une entreprise majeure de l'intelligence artificielle, demande à l'industrie de ralentir la course technologique. Il craint que l'IA ne progresse trop vite pour que les humains puissent la contrôle",
-   "source": "France 24 — Monde · 13/09 08:32"
+   "titre": "L'industrie française pénalisée par le blocage du détroit d'Ormuz",
+   "zone": "Moyen-Orient / France",
+   "resume": "Le blocage du détroit d'Ormuz, par où passe une grande partie du pétrole mondial, fait grimper les prix de l'énergie. En France, les usines de chimie ou de plastique, très dépendantes de ces ressources, subissent de plei",
+   "source": "Le Monde — International · 14/09 08:00"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Ouverture d'un G20 de l'énergie à Miami sur fond de crise au Moyen-Orient",
+   "zone": "États-Unis / Moyen-Orient",
+   "resume": "Les grandes puissances économiques se réunissent en Floride pour discuter de l'avenir de l'énergie alors que la guerre fait rage au Moyen-Orient. L'objectif principal des États-Unis est d'éviter une crise pétrolière mond",
+   "source": "© Allison Joyce / AFP · 14/09 07:06"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Donald Trump rejette tout moratoire sur l'intelligence artificielle face à la Chine",
+   "zone": "États-Unis / Chine",
+   "resume": "Donald Trump refuse de ralentir les recherches sur l'intelligence artificielle, affirmant que les États-Unis doivent absolument battre la Chine dans cette course technologique. Pourtant, des patrons de la Silicon Valley ",
+   "source": "Le Monde — International · 14/09 04:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Retour sur scène de Céline Dion à Paris",
-   "zone": "France",
-   "resume": "Après six ans d'absence en raison d'une maladie grave, la star Céline Dion a donné son tout premier concert près de Paris. Ses fans, venus en masse, ont partagé un moment très fort en émotion en la voyant chanter à nouve",
-   "source": "France 24 — Monde · 13/09 06:04"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Grève à Radio France contre le recrutement d'un dirigeant de Valeurs actuelles",
-   "zone": "France",
-   "resume": "Les salariés de Radio France font grève pendant deux jours pour protester contre l'arrivée à l'antenne d'un des patrons du journal d'extrême droite Valeurs actuelles. Ils estiment que recruter cette personnalité politiqu",
-   "source": "© Ludovic Marin, AFP · 12/09 23:45"
+   "titre": "Vague d'arrestations policières ciblant la communauté LGBTQ+ en Turquie",
+   "zone": "Turquie",
+   "resume": "En Turquie, la police a mené des raids violents contre des bars gays et des associations de défense des droits des homosexuels, arrêtant des dizaines de personnes. Le gouvernement présente ces actions comme de la lutte c",
+   "source": "France 24 — Moyen-Orient · 14/09 09:20"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Finale historique pour la France au Mondial de basket féminin",
-   "zone": "International",
-   "resume": "Les basketteuses françaises ont réussi l'exploit de se qualifier pour la finale du Mondial en battant l'Allemagne. Elles affrontent les redoutables Américaines, qui dominent largement ce sport depuis des années. C'est un",
-   "source": "France 24 — Monde · 13/09 09:34"
+   "titre": "Alexander Zverev remporte l'US Open face à Ben Shelton",
+   "zone": "États-Unis / Allemagne",
+   "resume": "Le joueur de tennis allemand Alexander Zverev a gagné la finale de l'US Open à New York contre l'Américain Ben Shelton. C'est seulement le deuxième titre majeur de sa carrière, une consécration après avoir surmonté de gr",
+   "source": "© Angela Weiss, AFP · 13/09 21:59"
   }
  ]
 }
