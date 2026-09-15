@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-14T10:21:12+00:00",
+ "genere_le": "2026-09-15T09:50:02+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Recul historique de l'extrême droite aux élections législatives en Suède",
-   "zone": "Suède",
-   "resume": "Lors des élections en Suède, le parti d'extrême droite a connu une baisse historique de ses voix, démentant les prévisions. La gauche et la droite se retrouvent au coude-à-coude, ce qui va rendre la formation d'un nouvea",
-   "source": "Le Monde — International · 14/09 04:43"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "La Finlande intègre l'initiative française de dissuasion nucléaire avancée",
-   "zone": "Europe (Finlande / France)",
-   "resume": "La Finlande a décidé de s'associer au projet de la France visant à étendre sa protection nucléaire à d'autres pays d'Europe. Pour Helsinki, qui partage une longue frontière avec la Russie, il s'agit de dissuader toute ag",
-   "source": "Le Monde — International · 14/09 09:51"
+   "titre": "Rejet des restrictions de vote de Trump par la Cour suprême",
+   "zone": "États-Unis",
+   "resume": "Donald Trump voulait limiter fortement le vote par courrier pour les prochaines élections américaines, mais la Cour suprême a dit non. Même si la majorité des juges de cette cour sont conservateurs, ils ont jugé qu'il ét",
+   "source": "Le Monde — International · 15/09 05:10"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade des tensions entre Houthis et Arabie saoudite au Yémen",
-   "zone": "Moyen-Orient (Yémen / Arabie saoudite)",
-   "resume": "Les rebelles houthis du Yémen, soutenus par l'Iran, ont attaqué des bases militaires en Arabie saoudite, entraînant une riposte aérienne massive de Riyad. Ce regain de violence aggrave une situation humanitaire déjà cata",
-   "source": "France 24 — Moyen-Orient · 14/09 09:33"
+   "titre": "Pénurie de munitions aux États-Unis due au conflit avec l'Iran",
+   "zone": "États-Unis / Iran / Moyen-Orient",
+   "resume": "Pour la première fois, le ministère de la Défense américain admet qu'il commence à manquer de munitions. Cela s'explique par l'intensité des combats menés depuis sept mois contre l'Iran et ses groupes affiliés dans la ré",
+   "source": "Le Monde — International · 15/09 03:40"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "L'ONG B'Tselem accuse Israël de mener un projet d'apartheid en Cisjordanie",
-   "zone": "Moyen-Orient (Israël / Palestine)",
-   "resume": "Une importante organisation israélienne de défense des droits de l'homme a publié un rapport très sévère accusant son propre gouvernement de pratiquer l'apartheid en Cisjordanie. Selon elle, les politiques actuelles vise",
-   "source": "Le Monde — International · 14/09 07:37"
+   "titre": "Offensive éclair des Houthis en mer Rouge",
+   "zone": "Yémen / Mer Rouge",
+   "resume": "Les rebelles houthis ont réussi à s'emparer de toute la côte ouest du Yémen en chassant les forces gouvernementales soutenues par les Saoudiens. Ils contrôlent désormais le détroit de Bab al-Mandab, un passage maritime c",
+   "source": "© Khaled Ziad, AFP · 15/09 05:05"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes russes systématiques contre le réseau ferroviaire ukrainien",
+   "titre": "Tensions et violences en Cisjordanie occupée",
+   "zone": "Cisjordanie / Israël / Palestine",
+   "resume": "En Cisjordanie, la situation humanitaire s'aggrave avec une hausse des violences des colons israéliens contre les habitants palestiniens. Des villages entiers sont démolis par l'armée sous prétexte de zones militaires, l",
+   "source": "France 24 — Moyen-Orient · 15/09 07:20"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Militarisation de l'espace par les États-Unis",
+   "zone": "États-Unis / Espace",
+   "resume": "Pour la première fois, l'armée américaine a admis avoir déployé des armes directement dans l'espace pour protéger ses satellites et ses troupes. Elle explique cette décision par la rivalité croissante avec la Russie et l",
+   "source": "Le Monde — International · 14/09 23:54"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Contre-offensive ukrainienne et déclarations de Zelensky",
    "zone": "Ukraine / Russie",
-   "resume": "La Russie multiplie les attaques de drones et de missiles contre les trains et les voies ferrées en Ukraine, y compris sur des lignes internationales menant vers la Pologne. Ces frappes visent à bloquer l'acheminement de",
-   "source": "Le Monde — International · 14/09 03:48"
+   "resume": "Sur le terrain, l'Ukraine a réussi à reprendre du territoire aux forces russes près de Lyman grâce à une attaque surprise. En même temps, le président Zelensky se dit prêt à faire des gestes pour calmer le conflit, mais ",
+   "source": "Le Monde — International · 15/09 06:17"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "L'industrie française pénalisée par le blocage du détroit d'Ormuz",
+   "titre": "Flambée des prix du pétrole et blocage de dépôts en France",
    "zone": "Moyen-Orient / France",
-   "resume": "Le blocage du détroit d'Ormuz, par où passe une grande partie du pétrole mondial, fait grimper les prix de l'énergie. En France, les usines de chimie ou de plastique, très dépendantes de ces ressources, subissent de plei",
-   "source": "Le Monde — International · 14/09 08:00"
+   "resume": "À cause des tensions militaires au Moyen-Orient qui perturbent le transport maritime, le prix du baril de pétrole a dépassé les 100 dollars. En France, cette hausse étouffe les pêcheurs, qui ont décidé de bloquer un dépô",
+   "source": "France 24 — Monde · 14/09 20:54"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Ouverture d'un G20 de l'énergie à Miami sur fond de crise au Moyen-Orient",
-   "zone": "États-Unis / Moyen-Orient",
-   "resume": "Les grandes puissances économiques se réunissent en Floride pour discuter de l'avenir de l'énergie alors que la guerre fait rage au Moyen-Orient. L'objectif principal des États-Unis est d'éviter une crise pétrolière mond",
-   "source": "© Allison Joyce / AFP · 14/09 07:06"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Donald Trump rejette tout moratoire sur l'intelligence artificielle face à la Chine",
-   "zone": "États-Unis / Chine",
-   "resume": "Donald Trump refuse de ralentir les recherches sur l'intelligence artificielle, affirmant que les États-Unis doivent absolument battre la Chine dans cette course technologique. Pourtant, des patrons de la Silicon Valley ",
-   "source": "Le Monde — International · 14/09 04:00"
+   "titre": "Soutien financier de banques chinoises à l'économie russe et à Huawei",
+   "zone": "Chine / Russie",
+   "resume": "Des documents secrets montrent qu'une grande banque publique chinoise aide discrètement des entreprises russes et le géant Huawei à contourner les sanctions américaines et européennes. En injectant des milliards de dolla",
+   "source": "Le Monde — International · 15/09 03:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Vague d'arrestations policières ciblant la communauté LGBTQ+ en Turquie",
-   "zone": "Turquie",
-   "resume": "En Turquie, la police a mené des raids violents contre des bars gays et des associations de défense des droits des homosexuels, arrêtant des dizaines de personnes. Le gouvernement présente ces actions comme de la lutte c",
-   "source": "France 24 — Moyen-Orient · 14/09 09:20"
+   "titre": "Crise migratoire en Méditerranée et conditions de détention en Floride",
+   "zone": "Méditerranée / États-Unis",
+   "resume": "Que ce soit en mer Méditerranée ou aux États-Unis, les migrants font face à des conditions de vie et de détention de plus en plus inhumaines. En mer, les rescapés préfèrent risquer la noyade plutôt que de retourner dans ",
+   "source": "Le Monde — International · 15/09 04:05"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Alexander Zverev remporte l'US Open face à Ben Shelton",
-   "zone": "États-Unis / Allemagne",
-   "resume": "Le joueur de tennis allemand Alexander Zverev a gagné la finale de l'US Open à New York contre l'Américain Ben Shelton. C'est seulement le deuxième titre majeur de sa carrière, une consécration après avoir surmonté de gr",
-   "source": "© Angela Weiss, AFP · 13/09 21:59"
+   "titre": "Campagne intense pour le Ballon d'Or",
+   "zone": "Europe / International",
+   "resume": "La course pour élire le meilleur joueur de football de l'année, le Ballon d'Or, entre dans sa dernière ligne droite. Les stars comme Mbappé ou le jeune prodige espagnol Lamine Yamal tentent de séduire les votants par leu",
+   "source": "France 24 — Monde · 15/09 07:39"
   }
  ]
 }
