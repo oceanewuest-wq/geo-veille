@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-15T09:50:02+00:00",
+ "genere_le": "2026-09-16T09:53:10+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Rejet des restrictions de vote de Trump par la Cour suprême",
-   "zone": "États-Unis",
-   "resume": "Donald Trump voulait limiter fortement le vote par courrier pour les prochaines élections américaines, mais la Cour suprême a dit non. Même si la majorité des juges de cette cour sont conservateurs, ils ont jugé qu'il ét",
-   "source": "Le Monde — International · 15/09 05:10"
+   "titre": "Campagne électorale législative sous tension en Israël",
+   "zone": "Israël",
+   "resume": "Israël se prépare à des élections législatives cruciales le 27 octobre prochain. Le débat tourne essentiellement autour de la sécurité et de la gestion de l'attaque du 7 octobre 2023 par le premier ministre Benyamin Néta",
+   "source": "Le Monde — International · 16/09 03:30"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Résolution du blocage diplomatique de l'ambassadeur de France à Washington",
+   "zone": "France / États-Unis",
+   "resume": "Après plusieurs semaines de blocage, le nouvel ambassadeur de France aux États-Unis, Aurélien Lechevallier, a enfin reçu le feu vert de Washington pour s'installer. Sa nomination était gelée depuis juillet à cause d'une ",
+   "source": "© Ludovic Marin, AP · 16/09 02:38"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Le scandale financier de la Banco Master perturbe la campagne présidentielle brésilienne",
+   "zone": "Brésil",
+   "resume": "Au Brésil, une énorme affaire de fraude financière liée à la banque \"Banco Master\" éclate juste avant l'élection présidentielle d'octobre. Ce scandale touche des politiciens de tous bords et de hauts magistrats, faisant ",
+   "source": "Le Monde — International · 16/09 09:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Pénurie de munitions aux États-Unis due au conflit avec l'Iran",
-   "zone": "États-Unis / Iran / Moyen-Orient",
-   "resume": "Pour la première fois, le ministère de la Défense américain admet qu'il commence à manquer de munitions. Cela s'explique par l'intensité des combats menés depuis sept mois contre l'Iran et ses groupes affiliés dans la ré",
-   "source": "Le Monde — International · 15/09 03:40"
+   "titre": "Escalade militaire au Yémen et tensions avec Riyad",
+   "zone": "Yémen / Arabie saoudite",
+   "resume": "Les combats ont repris de plus belle au Yémen entre le gouvernement et les rebelles houthistes, soutenus par l'Iran, entraînant la fuite de 46 000 civils. L'Arabie saoudite accuse également les rebelles d'avoir visé La M",
+   "source": "France 24 — Moyen-Orient · 16/09 08:57"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Offensive éclair des Houthis en mer Rouge",
-   "zone": "Yémen / Mer Rouge",
-   "resume": "Les rebelles houthis ont réussi à s'emparer de toute la côte ouest du Yémen en chassant les forces gouvernementales soutenues par les Saoudiens. Ils contrôlent désormais le détroit de Bab al-Mandab, un passage maritime c",
-   "source": "© Khaled Ziad, AFP · 15/09 05:05"
+   "titre": "Effondrement d'un immeuble endommagé à Gaza",
+   "zone": "Gaza / Palestine",
+   "resume": "Un immeuble d'habitation s'est effondré à Gaza, faisant au moins 8 morts et des dizaines de disparus. Ce drame est la conséquence directe des bombardements israéliens passés, qui avaient gravement fragilisé la structure ",
+   "source": ""
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions et violences en Cisjordanie occupée",
-   "zone": "Cisjordanie / Israël / Palestine",
-   "resume": "En Cisjordanie, la situation humanitaire s'aggrave avec une hausse des violences des colons israéliens contre les habitants palestiniens. Des villages entiers sont démolis par l'armée sous prétexte de zones militaires, l",
-   "source": "France 24 — Moyen-Orient · 15/09 07:20"
+   "titre": "Projet de vente massive de munitions américaines à Israël",
+   "zone": "Israël / États-Unis",
+   "resume": "Les États-Unis s'apprêtent à vendre 40 000 bombes à Israël pour près de 3 milliards de dollars. Cette décision de l'administration Trump fait polémique car elle intervient en pleine période de tensions militaires au Moye",
+   "source": "France 24 — Monde · 16/09 04:26"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Militarisation de l'espace par les États-Unis",
-   "zone": "États-Unis / Espace",
-   "resume": "Pour la première fois, l'armée américaine a admis avoir déployé des armes directement dans l'espace pour protéger ses satellites et ses troupes. Elle explique cette décision par la rivalité croissante avec la Russie et l",
-   "source": "Le Monde — International · 14/09 23:54"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Contre-offensive ukrainienne et déclarations de Zelensky",
+   "titre": "Intensification des frappes russes et nouvelles technologies de drones en Ukraine",
    "zone": "Ukraine / Russie",
-   "resume": "Sur le terrain, l'Ukraine a réussi à reprendre du territoire aux forces russes près de Lyman grâce à une attaque surprise. En même temps, le président Zelensky se dit prêt à faire des gestes pour calmer le conflit, mais ",
-   "source": "Le Monde — International · 15/09 06:17"
+   "resume": "Une frappe de drone russe sur un minibus a tué cinq civils dans la région de Dnipropetrovsk, en Ukraine. Sur le plan militaire, la Russie utilise désormais de nouveaux drones ultra-rapides équipés de moteurs chinois pour",
+   "source": "Le Monde — International · 16/09 09:07"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Flambée des prix du pétrole et blocage de dépôts en France",
-   "zone": "Moyen-Orient / France",
-   "resume": "À cause des tensions militaires au Moyen-Orient qui perturbent le transport maritime, le prix du baril de pétrole a dépassé les 100 dollars. En France, cette hausse étouffe les pêcheurs, qui ont décidé de bloquer un dépô",
-   "source": "France 24 — Monde · 14/09 20:54"
+   "titre": "Crise énergétique et contestation sociale en Syrie",
+   "zone": "Syrie",
+   "resume": "En Syrie, le prix du diesel a bondi de 40 %, provoquant la colère de la population qui est descendue dans la rue pour manifester. C'est le premier grand test pour le nouveau pouvoir en place depuis la chute de Bachar al-",
+   "source": "France 24 — Monde · 16/09 08:22"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Soutien financier de banques chinoises à l'économie russe et à Huawei",
-   "zone": "Chine / Russie",
-   "resume": "Des documents secrets montrent qu'une grande banque publique chinoise aide discrètement des entreprises russes et le géant Huawei à contourner les sanctions américaines et européennes. En injectant des milliards de dolla",
-   "source": "Le Monde — International · 15/09 03:00"
+   "titre": "Impact des tensions au détroit d'Ormuz sur les prix du carburant en France",
+   "zone": "France / Moyen-Orient",
+   "resume": "En France, le prix de l'essence et du diesel grimpe en flèche, frôlant les 2,50 et 2,70 euros le litre. Cette hausse s'explique par les tensions militaires au Moyen-Orient, notamment autour du détroit d'Ormuz, un passage",
+   "source": "France 24 — Monde · 15/09 20:55"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Crise migratoire en Méditerranée et conditions de détention en Floride",
-   "zone": "Méditerranée / États-Unis",
-   "resume": "Que ce soit en mer Méditerranée ou aux États-Unis, les migrants font face à des conditions de vie et de détention de plus en plus inhumaines. En mer, les rescapés préfèrent risquer la noyade plutôt que de retourner dans ",
-   "source": "Le Monde — International · 15/09 04:05"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Campagne intense pour le Ballon d'Or",
-   "zone": "Europe / International",
-   "resume": "La course pour élire le meilleur joueur de football de l'année, le Ballon d'Or, entre dans sa dernière ligne droite. Les stars comme Mbappé ou le jeune prodige espagnol Lamine Yamal tentent de séduire les votants par leu",
-   "source": "France 24 — Monde · 15/09 07:39"
+   "titre": "Présentation de l'EU Kids Act pour la protection des mineurs en ligne",
+   "zone": "Union européenne",
+   "resume": "L'Union européenne s'apprête à dévoiler une nouvelle loi, l'« EU Kids Act », pour mieux protéger les enfants de moins de 15 ans sur les réseaux sociaux. Ce texte veut forcer les géants d'Internet à vérifier l'âge des uti",
+   "source": "France 24 — Monde · 15/09 22:17"
   }
  ]
 }
