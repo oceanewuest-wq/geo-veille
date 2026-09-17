@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-16T09:53:10+00:00",
+ "genere_le": "2026-09-17T09:57:37+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Campagne électorale législative sous tension en Israël",
-   "zone": "Israël",
-   "resume": "Israël se prépare à des élections législatives cruciales le 27 octobre prochain. Le débat tourne essentiellement autour de la sécurité et de la gestion de l'attaque du 7 octobre 2023 par le premier ministre Benyamin Néta",
-   "source": "Le Monde — International · 16/09 03:30"
+   "titre": "Soutien international à l'armée libanaise",
+   "zone": "Liban",
+   "resume": "La France organise des discussions à Paris pour renforcer l'armée libanaise avant le départ des forces de l'ONU (la FINUL) du sud du Liban. L'objectif est d'éviter que cette région stratégique ne tombe dans le chaos ou s",
+   "source": "France 24 — Moyen-Orient · 17/09 09:33"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Résolution du blocage diplomatique de l'ambassadeur de France à Washington",
-   "zone": "France / États-Unis",
-   "resume": "Après plusieurs semaines de blocage, le nouvel ambassadeur de France aux États-Unis, Aurélien Lechevallier, a enfin reçu le feu vert de Washington pour s'installer. Sa nomination était gelée depuis juillet à cause d'une ",
-   "source": "© Ludovic Marin, AP · 16/09 02:38"
+   "titre": "Normalisation diplomatique entre Israël et le Maroc",
+   "zone": "Israël / Maroc",
+   "resume": "Israël et le Maroc ont décidé de transformer leurs bureaux de liaison actuels en véritables ambassades et de renforcer leurs liaisons aériennes et économiques. Cette décision consolide leur rapprochement diplomatique ent",
+   "source": "© Borut Zivulovic, Reuters · 16/09 21:42"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Le scandale financier de la Banco Master perturbe la campagne présidentielle brésilienne",
-   "zone": "Brésil",
-   "resume": "Au Brésil, une énorme affaire de fraude financière liée à la banque \"Banco Master\" éclate juste avant l'élection présidentielle d'octobre. Ce scandale touche des politiciens de tous bords et de hauts magistrats, faisant ",
-   "source": "Le Monde — International · 16/09 09:30"
+   "titre": "Refus de visa américain pour Mahmoud Abbas",
+   "zone": "Palestine / États-Unis",
+   "resume": "Les États-Unis ont refusé de délivrer un visa au président palestinien Mahmoud Abbas pour qu'il se rende à la grande réunion annuelle de l'ONU à New York. Washington l'accuse de ne pas faire assez de réformes et de bloqu",
+   "source": "© AFP · 17/09 05:52"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Relance du projet de colonisation israélien E1",
+   "zone": "Israël / Palestine",
+   "resume": "Le gouvernement israélien a relancé un projet de construction de colonies très contesté, appelé \"E1\", près de Jérusalem. Ce projet est très sensible car s'il est réalisé, il coupera la Cisjordanie en deux, rendant presqu",
+   "source": "Le Monde — International · 16/09 19:31"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Projet de statut de membre associé de l'UE pour le Canada",
+   "zone": "Europe / Canada / États-Unis",
+   "resume": "L'Union européenne propose au Canada de devenir un \"membre associé\", une sorte de partenariat ultra-privilégié sans précédent pour un pays non européen. Cette idée déplaît fortement à Donald Trump, qui menace de bloquer ",
+   "source": "© Kylie Cooper, Reuters · 17/09 07:03"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade militaire au Yémen et tensions avec Riyad",
-   "zone": "Yémen / Arabie saoudite",
-   "resume": "Les combats ont repris de plus belle au Yémen entre le gouvernement et les rebelles houthistes, soutenus par l'Iran, entraînant la fuite de 46 000 civils. L'Arabie saoudite accuse également les rebelles d'avoir visé La M",
-   "source": "France 24 — Moyen-Orient · 16/09 08:57"
+   "titre": "Amnesty International accuse l'Iran de crimes contre l'humanité",
+   "zone": "Iran",
+   "resume": "Amnesty International accuse officiellement le gouvernement iranien de crimes contre l'humanité pour sa répression brutale des manifestations de 2022, nées après la mort de Mahsa Amini. Ce rapport vise à maintenir la pre",
+   "source": "France 24 — Moyen-Orient · 17/09 09:38"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Effondrement d'un immeuble endommagé à Gaza",
-   "zone": "Gaza / Palestine",
-   "resume": "Un immeuble d'habitation s'est effondré à Gaza, faisant au moins 8 morts et des dizaines de disparus. Ce drame est la conséquence directe des bombardements israéliens passés, qui avaient gravement fragilisé la structure ",
-   "source": ""
+   "titre": "Paralysie imminente du système de santé à Gaza",
+   "zone": "Palestine",
+   "resume": "À Gaza, les hôpitaux manquent cruellement de carburant et de pièces de rechange pour faire tourner leurs générateurs et leurs ambulances à cause du blocus israélien. Sans ces ressources de base, les services de réanimati",
+   "source": "Le Monde — International · 17/09 09:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Projet de vente massive de munitions américaines à Israël",
-   "zone": "Israël / États-Unis",
-   "resume": "Les États-Unis s'apprêtent à vendre 40 000 bombes à Israël pour près de 3 milliards de dollars. Cette décision de l'administration Trump fait polémique car elle intervient en pleine période de tensions militaires au Moye",
-   "source": "France 24 — Monde · 16/09 04:26"
+   "titre": "Tensions sécuritaires entre l'Arabie saoudite et les Houthis",
+   "zone": "Arabie saoudite / Yémen",
+   "resume": "L'Arabie saoudite affirme avoir intercepté un drone des rebelles Houthis du Yémen qui visait La Mecque, ce que les rebelles nient. Cet incident montre que le conflit reprend de plus belle et que Riyad ne peut plus compte",
+   "source": "© Alex Brandon, AP · 17/09 05:05"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des frappes russes et nouvelles technologies de drones en Ukraine",
-   "zone": "Ukraine / Russie",
-   "resume": "Une frappe de drone russe sur un minibus a tué cinq civils dans la région de Dnipropetrovsk, en Ukraine. Sur le plan militaire, la Russie utilise désormais de nouveaux drones ultra-rapides équipés de moteurs chinois pour",
-   "source": "Le Monde — International · 16/09 09:07"
+   "titre": "Nouvelles sanctions américaines contre la Russie",
+   "zone": "Ukraine / Russie / États-Unis",
+   "resume": "Les États-Unis ont voté de nouvelles sanctions économiques très dures contre la Russie, visant notamment les bateaux secrets qu'elle utilise pour vendre son pétrole malgré les embargos. Le président ukrainien espère que ",
+   "source": "Le Monde — International · 17/09 00:17"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Crise énergétique et contestation sociale en Syrie",
-   "zone": "Syrie",
-   "resume": "En Syrie, le prix du diesel a bondi de 40 %, provoquant la colère de la population qui est descendue dans la rue pour manifester. C'est le premier grand test pour le nouveau pouvoir en place depuis la chute de Bachar al-",
-   "source": "France 24 — Monde · 16/09 08:22"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Impact des tensions au détroit d'Ormuz sur les prix du carburant en France",
-   "zone": "France / Moyen-Orient",
-   "resume": "En France, le prix de l'essence et du diesel grimpe en flèche, frôlant les 2,50 et 2,70 euros le litre. Cette hausse s'explique par les tensions militaires au Moyen-Orient, notamment autour du détroit d'Ormuz, un passage",
-   "source": "France 24 — Monde · 15/09 20:55"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Présentation de l'EU Kids Act pour la protection des mineurs en ligne",
-   "zone": "Union européenne",
-   "resume": "L'Union européenne s'apprête à dévoiler une nouvelle loi, l'« EU Kids Act », pour mieux protéger les enfants de moins de 15 ans sur les réseaux sociaux. Ce texte veut forcer les géants d'Internet à vérifier l'âge des uti",
-   "source": "France 24 — Monde · 15/09 22:17"
+   "titre": "Envolée historique des prix des carburants en France",
+   "zone": "France",
+   "resume": "Les prix de l'essence et du diesel flambent en France, atteignant des niveaux jamais vus qui pèsent lourd sur le budget des ménages. Pour calmer la colère, le gouvernement a décidé de prolonger les aides financières pour",
+   "source": "France 24 — Monde · 17/09 08:29"
   }
  ]
 }
