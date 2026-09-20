@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-19T09:11:26+00:00",
+ "genere_le": "2026-09-20T09:37:08+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Accord de sécurité historique entre les États-Unis, le Danemark et le Groenland",
-   "zone": "Arctique / Groenland / États-Unis",
-   "resume": "Les États-Unis ont signé un accord majeur avec le Danemark et le Groenland pour assurer la sécurité de cette immense île de l'Arctique. En échange d'une présence militaire américaine renforcée pour bloquer l'influence de",
-   "source": "Le Monde — International · 19/09 02:30"
+   "titre": "Affaiblissement de la diplomatie israélienne",
+   "zone": "Israël",
+   "resume": "Un historien réputé affirme que le Premier ministre israélien a volontairement affaibli sa propre diplomatie officielle pour garder le contrôle absolu des décisions. Cela isole de plus en plus Israël sur la scène interna",
+   "source": "Le Monde — International · 20/09 05:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Rupture diplomatique officielle entre l'Algérie et les Émirats arabes unis",
-   "zone": "Algérie / Émirats arabes unis / Moyen-Orient",
-   "resume": "L'Algérie et les Émirats arabes unis ont officiellement rompu leurs relations diplomatiques après des mois de tensions. Les deux pays s'opposent indirectement sur plusieurs dossiers chauds, notamment en Libye et dans la ",
-   "source": "RFI — Monde · 19/09 05:00"
+   "titre": "Avenir de l'Alliance de La Mecque",
+   "zone": "Moyen-Orient",
+   "resume": "Trois grands pays musulmans, dont l'Arabie saoudite, ont signé un accord important à La Mecque pour s'allier politiquement. Cette nouvelle alliance pourrait changer la donne géopolitique au Moyen-Orient. Reste à savoir s",
+   "source": "RFI — Monde · 20/09 05:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Souveraineté de Saint-Pierre-et-Miquelon",
+   "zone": "France",
+   "resume": "Emmanuel Macron s'est rendu sur le petit archipel français de Saint-Pierre-et-Miquelon, près du Canada, pour rappeler qu'il appartient bien à la France. C'est une réponse directe à Donald Trump, qui avait exprimé des vue",
+   "source": "Le Monde — International · 19/09 23:43"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Élections régionales sous tension en Allemagne",
+   "zone": "Allemagne",
+   "resume": "Le parti du chancelier allemand Friedrich Merz risque de subir une lourde défaite lors d'élections régionales clés. La montée de l'extrême droite et de la gauche radicale menace la stabilité de son gouvernement. Ce vote ",
+   "source": "Le Monde — International · 20/09 09:18"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Explosions à Riyad suite à des alertes aériennes liées au conflit yéménite",
-   "zone": "Moyen-Orient / Arabie saoudite / Yémen",
-   "resume": "Des explosions ont secoué la capitale saoudienne, Riyad, après le déclenchement de sirènes d'alerte. Cette attaque est liée aux tensions avec les rebelles houthistes du Yémen voisin, qui ciblent de plus en plus le territ",
-   "source": "Le Monde — International · 19/09 01:30"
+   "titre": "Attaque de missile houthiste sur Riyad",
+   "zone": "Moyen-Orient",
+   "resume": "Les rebelles houthistes du Yémen, soutenus par l'Iran, ont tiré un missile sur Riyad, la capitale de l'Arabie saoudite, provoquant des explosions près de l'aéroport. Les États-Unis craignent que cet événement ne relance ",
+   "source": "© Reuters · 20/09 07:58"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des frappes russes en Ukraine et nouvelles sanctions américaines",
-   "zone": "Ukraine / Russie",
-   "resume": "La guerre en Ukraine s'intensifie avec des bombardements russes meurtriers sur des zones résidentielles, comme à Soumy. Pour faire pression sur Moscou, les États-Unis ont adopté une nouvelle loi permettant de sanctionner",
-   "source": "Le Monde — International · 19/09 06:58"
+   "titre": "Attaque de drones massive en Russie",
+   "zone": "Russie",
+   "resume": "La Russie a été visée par des centaines de drones ukrainiens en plein milieu de ses élections législatives. Ces attaques ont fait des victimes et touché des infrastructures énergétiques russes. Pour l'Ukraine, il s'agit ",
+   "source": "© Reuters · 20/09 05:13"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Lourd bilan après l'attaque de Dioura au Mali",
+   "zone": "Mali",
+   "resume": "Une attaque menée par un groupe terroriste lié à al-Qaïda a coûté la vie à près de cent militaires maliens dans le centre du pays. C'est l'un des bilans les plus lourds de ces derniers mois pour l'armée du Mali. Cela mon",
+   "source": "France 24 — Monde · 19/09 20:38"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Une erreur d'intelligence artificielle frôle l'incident militaire près d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Une erreur informatique impliquant une intelligence artificielle a failli déclencher un affrontement militaire entre les États-Unis et la Chine près du détroit d'Ormuz, une zone maritime hyper stratégique. L'IA a faussem",
-   "source": "Le Monde — International · 19/09 04:04"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Sam Altman présentera les enjeux de l'IA devant le Conseil de sécurité de l'ONU",
-   "zone": "International / ONU",
-   "resume": "Le patron d'OpenAI, le créateur de ChatGPT, va s'exprimer devant le Conseil de sécurité de l'ONU pour parler des dangers et des opportunités de l'intelligence artificielle. Cette réunion, voulue par la France, montre que",
-   "source": "Le Monde — International · 19/09 00:39"
+   "titre": "Nomination d'un « tsar » de l'IA par Trump",
+   "zone": "États-Unis",
+   "resume": "Donald Trump veut nommer un grand patron, un 'tsar', pour piloter le développement de l'intelligence artificielle aux États-Unis sans aucune contrainte. Le but est d'aller le plus vite possible pour que l'Amérique reste ",
+   "source": "© Evan Vucci, Reuters · 19/09 20:42"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Vague d'arrestations ciblant la communauté LGBTQIA+ en Turquie",
-   "zone": "Turquie / Moyen-Orient",
-   "resume": "En Turquie, la police a arrêté des centaines de personnes de la communauté LGBTQIA+ en l'espace de quelques jours. Le gouvernement turc utilise cette répression pour plaire à son électorat conservateur et restreindre les",
-   "source": "Le Monde — International · 19/09 04:00"
+   "titre": "Précarité des femmes seules à Gaza",
+   "zone": "Palestine",
+   "resume": "La guerre à Gaza a transformé la vie des femmes, qui dirigent désormais près de 25 % des foyers suite au décès ou à la disparition des hommes. Elles doivent risquer leur vie quotidiennement sous les bombes pour nourrir l",
+   "source": "Le Monde — International · 20/09 03:30"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "L'UEFA et la Concacaf réclament 10 millions de dollars par fédération à la FIFA",
-   "zone": "International / Europe / Amérique du Nord",
-   "resume": "Les dirigeants du football européen (UEFA) et d'Amérique du Nord (Concacaf) demandent à la FIFA de verser 10 millions de dollars à chacune des 211 fédérations nationales de football dans le monde. Ils estiment que l'arge",
-   "source": "© Teresa Suarez, AFP · 18/09 18:03"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Patrick Vieira dévoile sa première liste de sélectionneur du Sénégal",
-   "zone": "Sénégal",
-   "resume": "Patrick Vieira, la légende du football français, vient de présenter sa toute première liste de joueurs en tant que sélectionneur de l'équipe du Sénégal. Pour ces matchs de qualification à la CAN 2027, il a dû se passer d",
-   "source": "France 24 — Monde · 18/09 19:25"
-  },
-  {
-   "emoji": "🎬",
-   "theme": "Presse · Cinéma · Mode",
-   "titre": "Donald Trump bannit CNN, Politico et MSNOW de la Maison Blanche",
-   "zone": "États-Unis",
-   "resume": "Donald Trump a décidé d'interdire l'accès de la Maison Blanche à trois grands médias américains : CNN, Politico et MSNOW, qu'il accuse de diffuser de fausses informations. Cette décision radicale intervient dans un clima",
-   "source": "Le Monde — International · 18/09 22:42"
+   "titre": "Le Clasico OM-PSG en Ligue 1",
+   "zone": "France",
+   "resume": "C'est l'heure du grand choc du football français entre Marseille et le Paris Saint-Germain. Pour l'OM, qui vient d'enchaîner quatre défaites de suite, ce match à domicile est crucial pour se relancer et rassurer ses supp",
+   "source": "France 24 — Monde · 19/09 14:24"
   }
  ]
 }
