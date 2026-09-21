@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-20T09:37:08+00:00",
+ "genere_le": "2026-09-21T10:25:45+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Affaiblissement de la diplomatie israélienne",
-   "zone": "Israël",
-   "resume": "Un historien réputé affirme que le Premier ministre israélien a volontairement affaibli sa propre diplomatie officielle pour garder le contrôle absolu des décisions. Cela isole de plus en plus Israël sur la scène interna",
-   "source": "Le Monde — International · 20/09 05:00"
+   "titre": "Enquête sur les expulsions massives de migrants américains vers des pays tiers",
+   "zone": "Amériques / Afrique",
+   "resume": "Une grande enquête journalistique révèle que les États-Unis renvoient des milliers de migrants vers des pays d'Afrique ou d'Amérique latine avec lesquels ils ont passé des accords secrets, même si ces personnes n'en sont",
+   "source": "Le Monde — International · 21/09 08:26"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Avenir de l'Alliance de La Mecque",
-   "zone": "Moyen-Orient",
-   "resume": "Trois grands pays musulmans, dont l'Arabie saoudite, ont signé un accord important à La Mecque pour s'allier politiquement. Cette nouvelle alliance pourrait changer la donne géopolitique au Moyen-Orient. Reste à savoir s",
-   "source": "RFI — Monde · 20/09 05:00"
+   "titre": "Revers historique pour la CDU et poussée de l'extrême droite en Allemagne",
+   "zone": "Europe",
+   "resume": "Le parti du chancelier allemand a subi une défaite historique lors d'élections régionales, tandis que l'extrême droite continue de progresser et que la gauche radicale l'emporte à Berlin. Ces résultats montrent une forte",
+   "source": "Le Monde — International · 20/09 22:22"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Souveraineté de Saint-Pierre-et-Miquelon",
-   "zone": "France",
-   "resume": "Emmanuel Macron s'est rendu sur le petit archipel français de Saint-Pierre-et-Miquelon, près du Canada, pour rappeler qu'il appartient bien à la France. C'est une réponse directe à Donald Trump, qui avait exprimé des vue",
-   "source": "Le Monde — International · 19/09 23:43"
+   "titre": "Rencontre bilatérale entre Emmanuel Macron et Donald Trump à l'ONU",
+   "zone": "Amériques / Europe",
+   "resume": "Les présidents français et américain se rencontrent à New York pour discuter en tête-à-tête lors du grand rassemblement annuel de l'ONU. C'est un rendez-vous très attendu car les deux dirigeants ont des visions du monde ",
+   "source": "© Guillaume Baptiste, AFP · 21/09 06:34"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections régionales sous tension en Allemagne",
-   "zone": "Allemagne",
-   "resume": "Le parti du chancelier allemand Friedrich Merz risque de subir une lourde défaite lors d'élections régionales clés. La montée de l'extrême droite et de la gauche radicale menace la stabilité de son gouvernement. Ce vote ",
-   "source": "Le Monde — International · 20/09 09:18"
+   "titre": "Visite d'État de Xi Jinping aux États-Unis et dialogue sur l'IA",
+   "zone": "Asie / Amériques",
+   "resume": "Le président chinois se rend aux États-Unis pour rencontrer Donald Trump afin d'éviter que les tensions entre les deux géants ne dégénèrent. En même temps, les Américains proposent de créer un canal de discussion sur l'i",
+   "source": "Le Monde — International · 21/09 08:07"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Bilan de la reconnaissance de l'État de Palestine par la France",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Il y a un an, la France reconnaissait officiellement l'État de Palestine, un geste fort qui devait relancer les discussions de paix. Aujourd'hui, certains diplomates estiment que Paris a reculé pour ne pas trop fâcher Is",
+   "source": "RFI — Monde · 21/09 07:30"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Rapprochement diplomatique franco-canadien à Saint-Pierre-et-Miquelon",
+   "zone": "Amériques / Europe",
+   "resume": "Les dirigeants de la France et du Canada se sont retrouvés sur la petite île française de Saint-Pierre-et-Miquelon, près des côtes canadiennes. Ce rendez-vous exceptionnel est une façon pour les deux pays de montrer qu'i",
+   "source": "France 24 — Monde · 21/09 08:54"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaque de missile houthiste sur Riyad",
-   "zone": "Moyen-Orient",
-   "resume": "Les rebelles houthistes du Yémen, soutenus par l'Iran, ont tiré un missile sur Riyad, la capitale de l'Arabie saoudite, provoquant des explosions près de l'aéroport. Les États-Unis craignent que cet événement ne relance ",
-   "source": "© Reuters · 20/09 07:58"
+   "titre": "Victoire sans surprise du parti de Poutine aux législatives russes",
+   "zone": "Europe / Russie",
+   "resume": "Sans surprise, le parti de Vladimir Poutine a largement gagné les élections législatives en Russie, un vote que l'Europe juge illégal car il a aussi été organisé dans les zones ukrainiennes occupées. Pendant ce temps, le",
+   "source": "France 24 — Monde · 21/09 08:49"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaque de drones massive en Russie",
-   "zone": "Russie",
-   "resume": "La Russie a été visée par des centaines de drones ukrainiens en plein milieu de ses élections législatives. Ces attaques ont fait des victimes et touché des infrastructures énergétiques russes. Pour l'Ukraine, il s'agit ",
-   "source": "© Reuters · 20/09 05:13"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Lourd bilan après l'attaque de Dioura au Mali",
-   "zone": "Mali",
-   "resume": "Une attaque menée par un groupe terroriste lié à al-Qaïda a coûté la vie à près de cent militaires maliens dans le centre du pays. C'est l'un des bilans les plus lourds de ces derniers mois pour l'armée du Mali. Cela mon",
-   "source": "France 24 — Monde · 19/09 20:38"
+   "titre": "Extradition de suspects de l'assassinat de Jovenel Moïse et expulsions américaines",
+   "zone": "Amériques / Haïti",
+   "resume": "Dix-huit personnes soupçonnées d'avoir participé au meurtre de l'ancien président d'Haïti en 2021 ont été envoyées aux États-Unis pour y être jugées. Dans le même temps, les États-Unis continuent de renvoyer de force des",
+   "source": "Le Monde — International · 21/09 04:18"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Nomination d'un « tsar » de l'IA par Trump",
-   "zone": "États-Unis",
-   "resume": "Donald Trump veut nommer un grand patron, un 'tsar', pour piloter le développement de l'intelligence artificielle aux États-Unis sans aucune contrainte. Le but est d'aller le plus vite possible pour que l'Amérique reste ",
-   "source": "© Evan Vucci, Reuters · 19/09 20:42"
+   "titre": "Menace du phénomène climatique El Niño sur l'économie africaine",
+   "zone": "Afrique",
+   "resume": "Le retour du phénomène météo El Niño s'annonce particulièrement violent cette année et pourrait coûter très cher à l'Afrique. En provoquant de graves sécheresses d'un côté et des inondations de l'autre, il menace directe",
+   "source": "Le Monde — International · 21/09 05:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Précarité des femmes seules à Gaza",
-   "zone": "Palestine",
-   "resume": "La guerre à Gaza a transformé la vie des femmes, qui dirigent désormais près de 25 % des foyers suite au décès ou à la disparition des hommes. Elles doivent risquer leur vie quotidiennement sous les bombes pour nourrir l",
-   "source": "Le Monde — International · 20/09 03:30"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Le Clasico OM-PSG en Ligue 1",
-   "zone": "France",
-   "resume": "C'est l'heure du grand choc du football français entre Marseille et le Paris Saint-Germain. Pour l'OM, qui vient d'enchaîner quatre défaites de suite, ce match à domicile est crucial pour se relancer et rassurer ses supp",
-   "source": "France 24 — Monde · 19/09 14:24"
+   "titre": "Un opposant syrien déterre sa bibliothèque cachée après quinze ans",
+   "zone": "Moyen-Orient",
+   "resume": "En Syrie, un homme qui s'opposait au régime a enfin pu récupérer ses livres qu'il avait cachés derrière un double mur il y a quinze ans pour éviter qu'ils soient détruits par la police. Après des années dans un camp de r",
+   "source": "France 24 — Moyen-Orient · 21/09 10:07"
   }
  ]
 }
