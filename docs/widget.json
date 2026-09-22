@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-21T10:25:45+00:00",
+ "genere_le": "2026-09-22T09:44:58+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Enquête sur les expulsions massives de migrants américains vers des pays tiers",
-   "zone": "Amériques / Afrique",
-   "resume": "Une grande enquête journalistique révèle que les États-Unis renvoient des milliers de migrants vers des pays d'Afrique ou d'Amérique latine avec lesquels ils ont passé des accords secrets, même si ces personnes n'en sont",
-   "source": "Le Monde — International · 21/09 08:26"
+   "titre": "Rencontre Macron-Trump à New York",
+   "zone": "International",
+   "resume": "Emmanuel Macron a rencontré Donald Trump à New York pour discuter de la guerre en Ukraine et de la hausse des prix du carburant. La France cherche à garder les États-Unis impliqués dans les discussions internationales et",
+   "source": "Le Monde — International · 22/09 03:49"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Revers historique pour la CDU et poussée de l'extrême droite en Allemagne",
+   "titre": "Élections législatives au Maroc et désillusion de la jeunesse",
+   "zone": "Maroc",
+   "resume": "Le Maroc vote pour élire ses députés, mais une grande partie de la jeunesse prévoit de boycotter les urnes. Même si l'économie du pays progresse, les jeunes souffrent du chômage et ont l'impression que la croissance ne p",
+   "source": "© Abdel Majid Bziouat, AFP · 22/09 07:30"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Blocage des sanctions européennes contre des oligarques russes",
    "zone": "Europe",
-   "resume": "Le parti du chancelier allemand a subi une défaite historique lors d'élections régionales, tandis que l'extrême droite continue de progresser et que la gauche radicale l'emporte à Berlin. Ces résultats montrent une forte",
-   "source": "Le Monde — International · 20/09 22:22"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Rencontre bilatérale entre Emmanuel Macron et Donald Trump à l'ONU",
-   "zone": "Amériques / Europe",
-   "resume": "Les présidents français et américain se rencontrent à New York pour discuter en tête-à-tête lors du grand rassemblement annuel de l'ONU. C'est un rendez-vous très attendu car les deux dirigeants ont des visions du monde ",
-   "source": "© Guillaume Baptiste, AFP · 21/09 06:34"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Visite d'État de Xi Jinping aux États-Unis et dialogue sur l'IA",
-   "zone": "Asie / Amériques",
-   "resume": "Le président chinois se rend aux États-Unis pour rencontrer Donald Trump afin d'éviter que les tensions entre les deux géants ne dégénèrent. En même temps, les Américains proposent de créer un canal de discussion sur l'i",
-   "source": "Le Monde — International · 21/09 08:07"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Bilan de la reconnaissance de l'État de Palestine par la France",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Il y a un an, la France reconnaissait officiellement l'État de Palestine, un geste fort qui devait relancer les discussions de paix. Aujourd'hui, certains diplomates estiment que Paris a reculé pour ne pas trop fâcher Is",
-   "source": "RFI — Monde · 21/09 07:30"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Rapprochement diplomatique franco-canadien à Saint-Pierre-et-Miquelon",
-   "zone": "Amériques / Europe",
-   "resume": "Les dirigeants de la France et du Canada se sont retrouvés sur la petite île française de Saint-Pierre-et-Miquelon, près des côtes canadiennes. Ce rendez-vous exceptionnel est une façon pour les deux pays de montrer qu'i",
-   "source": "France 24 — Monde · 21/09 08:54"
+   "resume": "L'Union européenne cherche à prolonger ses sanctions contre la Russie, mais la Lettonie s'y oppose pour le moment. Le désaccord porte sur un projet de compromis qui prévoyait de retirer deux riches hommes d'affaires russ",
+   "source": "Le Monde — International · 22/09 08:52"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Victoire sans surprise du parti de Poutine aux législatives russes",
-   "zone": "Europe / Russie",
-   "resume": "Sans surprise, le parti de Vladimir Poutine a largement gagné les élections législatives en Russie, un vote que l'Europe juge illégal car il a aussi été organisé dans les zones ukrainiennes occupées. Pendant ce temps, le",
-   "source": "France 24 — Monde · 21/09 08:49"
+   "titre": "Frappes de la coalition saoudienne au Yémen",
+   "zone": "Moyen-Orient",
+   "resume": "L'Arabie saoudite a mené des frappes aériennes sur le port de Mokha au Yémen, faisant six morts selon les rebelles houthistes qui contrôlent la zone. Ce conflit a pris de l'ampleur depuis que les houthistes se sont empar",
+   "source": "Le Monde — International · 22/09 03:48"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Extradition de suspects de l'assassinat de Jovenel Moïse et expulsions américaines",
-   "zone": "Amériques / Haïti",
-   "resume": "Dix-huit personnes soupçonnées d'avoir participé au meurtre de l'ancien président d'Haïti en 2021 ont été envoyées aux États-Unis pour y être jugées. Dans le même temps, les États-Unis continuent de renvoyer de force des",
-   "source": "Le Monde — International · 21/09 04:18"
+   "titre": "Attaques djihadistes meurtrières au Mali",
+   "zone": "Mali",
+   "resume": "Le groupe terroriste JNIM a mené de violentes attaques au Mali, tuant environ 150 soldats maliens et combattants russes. Le président de transition a dû réunir ses chefs militaires en urgence pour réagir. Cela montre que",
+   "source": "France 24 — Monde · 22/09 09:16"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Essai d'une nouvelle arme hypersonique par la Corée du Nord",
+   "zone": "Corée du Nord",
+   "resume": "La Corée du Nord a testé un nouveau missile qu'elle affirme être \"hypersonique\", c'est-à-dire capable de voler extrêmement vite et de déjouer les défenses adverses. Les militaires sud-coréens ont confirmé le tir de deux ",
+   "source": "Le Monde — International · 22/09 06:01"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Menace du phénomène climatique El Niño sur l'économie africaine",
-   "zone": "Afrique",
-   "resume": "Le retour du phénomène météo El Niño s'annonce particulièrement violent cette année et pourrait coûter très cher à l'Afrique. En provoquant de graves sécheresses d'un côté et des inondations de l'autre, il menace directe",
-   "source": "Le Monde — International · 21/09 05:00"
+   "titre": "Accord amiable pour le rachat de Warner Bros par Paramount Skydance",
+   "zone": "États-Unis",
+   "resume": "Paramount Skydance a trouvé un accord avec la justice de douze États américains pour pouvoir racheter Warner Bros. Pour y parvenir, le groupe a menacé de déplacer ses tournages de films ailleurs, une méthode de pression ",
+   "source": "© Jae C. Hong, AP · 22/09 02:57"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Rachat d'Exail Technologies par Thales et boom de la défense",
+   "zone": "France",
+   "resume": "Le géant français Thales a racheté Exail Technologies pour près de 4 milliards d'euros. Cette entreprise fabrique des boussoles ultra-modernes qui permettent aux navires et missiles de se repérer sans GPS, ce qui est cru",
+   "source": "Le Monde — International · 22/09 05:30"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Un opposant syrien déterre sa bibliothèque cachée après quinze ans",
-   "zone": "Moyen-Orient",
-   "resume": "En Syrie, un homme qui s'opposait au régime a enfin pu récupérer ses livres qu'il avait cachés derrière un double mur il y a quinze ans pour éviter qu'ils soient détruits par la police. Après des années dans un camp de r",
-   "source": "France 24 — Moyen-Orient · 21/09 10:07"
+   "titre": "Visite du pape Léon XIV et exposition de la tunique du Christ",
+   "zone": "France",
+   "resume": "Lors de sa venue en France, le pape Léon XIV va présenter une relique très célèbre, la tunique d'Argenteuil (considérée comme le vêtement porté par le Christ), lors d'un grand rassemblement au Stade de France. Même si le",
+   "source": "Le Monde — International · 22/09 08:00"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Débuts de Zinédine Zidane comme sélectionneur de l'équipe de France",
+   "zone": "France",
+   "resume": "C'est officiel, la légende du football Zinédine Zidane a dirigé son tout premier entraînement en tant que patron de l'équipe de France à Clairefontaine. Il remplace l'ancien staff avec pour mission de redonner du souffle",
+   "source": "France 24 — Monde · 22/09 05:16"
   }
  ]
 }
