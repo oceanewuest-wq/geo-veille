@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-22T09:44:58+00:00",
+ "genere_le": "2026-09-23T09:46:36+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Rencontre Macron-Trump à New York",
+   "titre": "Tensions et diplomatie entre les États-Unis et l'Iran à l'ONU",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "Donald Trump a soufflé le chaud et le froid devant l'ONU en menaçant l'Iran tout en affirmant que les discussions diplomatiques avaient repris. Ce double discours montre la complexité des relations entre Washington et Té",
+   "source": "France 24 — Monde · 23/09 09:36"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Condamnation française de la politique israélienne à l'ONU",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Emmanuel Macron a profité de sa dernière tribune à l'ONU pour dénoncer l'inaction internationale face à la crise humanitaire à Gaza et en Cisjordanie. Ses mots très durs ont immédiatement provoqué la colère d'Israël, qui",
+   "source": "France 24 — Moyen-Orient · 23/09 09:21"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Premier débat sur l'intelligence artificielle à l'ONU",
    "zone": "International",
-   "resume": "Emmanuel Macron a rencontré Donald Trump à New York pour discuter de la guerre en Ukraine et de la hausse des prix du carburant. La France cherche à garder les États-Unis impliqués dans les discussions internationales et",
-   "source": "Le Monde — International · 22/09 03:49"
+   "resume": "Pour la première fois, l'ONU réunit des experts et des diplomates pour discuter des dangers et des opportunités de l'intelligence artificielle. Les patrons des plus grandes entreprises de la tech vont expliquer comment l",
+   "source": "Le Monde — International · 23/09 09:28"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives au Maroc et désillusion de la jeunesse",
+   "titre": "Grâce présidentielle pour le Français Martin Ryan en Azerbaïdjan",
+   "zone": "Azerbaïdjan / France",
+   "resume": "Martin Ryan, un entrepreneur français emprisonné en Azerbaïdjan sous l'accusation d'espionnage, vient d'être libéré grâce à une grâce présidentielle. Cette libération semble être le résultat d'un troc diplomatique discre",
+   "source": "© Ebrahim Noroozi, AP · 23/09 08:04"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Élections législatives au Maroc sur fond de fracture sociale",
    "zone": "Maroc",
-   "resume": "Le Maroc vote pour élire ses députés, mais une grande partie de la jeunesse prévoit de boycotter les urnes. Même si l'économie du pays progresse, les jeunes souffrent du chômage et ont l'impression que la croissance ne p",
-   "source": "© Abdel Majid Bziouat, AFP · 22/09 07:30"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Blocage des sanctions européennes contre des oligarques russes",
-   "zone": "Europe",
-   "resume": "L'Union européenne cherche à prolonger ses sanctions contre la Russie, mais la Lettonie s'y oppose pour le moment. Le désaccord porte sur un projet de compromis qui prévoyait de retirer deux riches hommes d'affaires russ",
-   "source": "Le Monde — International · 22/09 08:52"
+   "resume": "Le Maroc vote pour renouveler son Parlement, mais l'enthousiasme n'est pas au rendez-vous, surtout chez les jeunes qui boudent massivement les urnes. Le pays traverse une période économique difficile avec une hausse du c",
+   "source": "France 24 — Monde · 23/09 08:51"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes de la coalition saoudienne au Yémen",
-   "zone": "Moyen-Orient",
-   "resume": "L'Arabie saoudite a mené des frappes aériennes sur le port de Mokha au Yémen, faisant six morts selon les rebelles houthistes qui contrôlent la zone. Ce conflit a pris de l'ampleur depuis que les houthistes se sont empar",
-   "source": "Le Monde — International · 22/09 03:48"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaques djihadistes meurtrières au Mali",
-   "zone": "Mali",
-   "resume": "Le groupe terroriste JNIM a mené de violentes attaques au Mali, tuant environ 150 soldats maliens et combattants russes. Le président de transition a dû réunir ses chefs militaires en urgence pour réagir. Cela montre que",
-   "source": "France 24 — Monde · 22/09 09:16"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Essai d'une nouvelle arme hypersonique par la Corée du Nord",
-   "zone": "Corée du Nord",
-   "resume": "La Corée du Nord a testé un nouveau missile qu'elle affirme être \"hypersonique\", c'est-à-dire capable de voler extrêmement vite et de déjouer les défenses adverses. Les militaires sud-coréens ont confirmé le tir de deux ",
-   "source": "Le Monde — International · 22/09 06:01"
+   "titre": "Rôle diplomatique de la CIA et perspectives de paix en Ukraine",
+   "zone": "Ukraine / États-Unis / Russie",
+   "resume": "Le patron de la CIA a endossé un rôle de diplomate de l'ombre en voyageant entre Moscou et Kiev pour tenter de trouver une issue à la guerre. De son côté, le président ukrainien Zelensky a discuté avec Donald Trump pour ",
+   "source": "© Alex Brandon, AP · 23/09 07:29"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Accord amiable pour le rachat de Warner Bros par Paramount Skydance",
-   "zone": "États-Unis",
-   "resume": "Paramount Skydance a trouvé un accord avec la justice de douze États américains pour pouvoir racheter Warner Bros. Pour y parvenir, le groupe a menacé de déplacer ses tournages de films ailleurs, une méthode de pression ",
-   "source": "© Jae C. Hong, AP · 22/09 02:57"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Rachat d'Exail Technologies par Thales et boom de la défense",
-   "zone": "France",
-   "resume": "Le géant français Thales a racheté Exail Technologies pour près de 4 milliards d'euros. Cette entreprise fabrique des boussoles ultra-modernes qui permettent aux navires et missiles de se repérer sans GPS, ce qui est cru",
-   "source": "Le Monde — International · 22/09 05:30"
+   "titre": "Proposition de taxation des superprofits pétroliers par le PS",
+   "zone": "France / Europe",
+   "resume": "Face à la hausse des prix de l'essence, le député européen socialiste François Kalfon demande que l'État taxe lourdement les profits exceptionnels des géants du pétrole. Il estime que les aides actuelles du gouvernement ",
+   "source": "France 24 — Monde · 23/09 08:02"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Visite du pape Léon XIV et exposition de la tunique du Christ",
-   "zone": "France",
-   "resume": "Lors de sa venue en France, le pape Léon XIV va présenter une relique très célèbre, la tunique d'Argenteuil (considérée comme le vêtement porté par le Christ), lors d'un grand rassemblement au Stade de France. Même si le",
-   "source": "Le Monde — International · 22/09 08:00"
+   "titre": "Enquête sur l'impact du sexisme chez les filles à l'école",
+   "zone": "France / International",
+   "resume": "Une enquête montre que l'école n'épargne pas les filles face au sexisme, qui se manifeste par des remarques déplacées sur leur physique ou leurs capacités intellectuelles. Dans les cas les plus graves, cela va jusqu'au h",
+   "source": "RFI — Monde · 23/09 05:00"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Débuts de Zinédine Zidane comme sélectionneur de l'équipe de France",
+   "titre": "Réorganisation tactique de l'équipe de France par Zinedine Zidane",
    "zone": "France",
-   "resume": "C'est officiel, la légende du football Zinédine Zidane a dirigé son tout premier entraînement en tant que patron de l'équipe de France à Clairefontaine. Il remplace l'ancien staff avec pour mission de redonner du souffle",
-   "source": "France 24 — Monde · 22/09 05:16"
+   "resume": "Après avoir commencé ses entraînements avec seulement douze joueurs, le sélectionneur Zinedine Zidane a enfin récupéré tout son groupe. Il prépare un changement de stratégie en revenant à une formation classique à trois ",
+   "source": "France 24 — Monde · 23/09 08:37"
+  },
+  {
+   "emoji": "🎬",
+   "theme": "Presse · Cinéma · Mode",
+   "titre": "Boycott et poursuites judiciaires des médias contre Donald Trump",
+   "zone": "États-Unis",
+   "resume": "Plusieurs grands médias américains ont décidé de s'unir pour poursuivre en justice Donald Trump après avoir été interdits d'accès à la Maison Blanche. Ils estiment que le président tente de censurer les journalistes qui ",
+   "source": "France 24 — Monde · 23/09 09:27"
   }
  ]
 }
