@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-23T09:46:36+00:00",
+ "genere_le": "2026-09-24T09:42:16+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions et diplomatie entre les États-Unis et l'Iran à l'ONU",
-   "zone": "Iran / Moyen-Orient",
-   "resume": "Donald Trump a soufflé le chaud et le froid devant l'ONU en menaçant l'Iran tout en affirmant que les discussions diplomatiques avaient repris. Ce double discours montre la complexité des relations entre Washington et Té",
-   "source": "France 24 — Monde · 23/09 09:36"
+   "titre": "Discours de Massoud Pezeshkian à l'ONU",
+   "zone": "Iran / ONU",
+   "resume": "À l'ONU, le président de l'Iran a répondu aux attaques de Donald Trump tout en signalant qu'il restait ouvert à des discussions. C'est une stratégie diplomatique pour montrer de la force sans fermer totalement la porte a",
+   "source": ""
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Condamnation française de la politique israélienne à l'ONU",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Emmanuel Macron a profité de sa dernière tribune à l'ONU pour dénoncer l'inaction internationale face à la crise humanitaire à Gaza et en Cisjordanie. Ses mots très durs ont immédiatement provoqué la colère d'Israël, qui",
-   "source": "France 24 — Moyen-Orient · 23/09 09:21"
+   "titre": "Erreur diplomatique d'Emmanuel Macron sur le Hamas",
+   "zone": "Israël / Palestine / France",
+   "resume": "Emmanuel Macron a commis une bévue en déclarant à l'ONU que le Hamas n'avait jamais agi en Cisjordanie, ce qui est factuellement faux. Le gouvernement israélien a vivement réagi à cette erreur qui ravive les tensions dip",
+   "source": ""
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Premier débat sur l'intelligence artificielle à l'ONU",
-   "zone": "International",
-   "resume": "Pour la première fois, l'ONU réunit des experts et des diplomates pour discuter des dangers et des opportunités de l'intelligence artificielle. Les patrons des plus grandes entreprises de la tech vont expliquer comment l",
-   "source": "Le Monde — International · 23/09 09:28"
+   "titre": "Disqualification de listes arabes aux élections en Israël",
+   "zone": "Israël",
+   "resume": "À l'approche des élections en Israël, la commission électorale a interdit deux listes de partis arabes de participer au scrutin. C'est un coup dur pour l'opposition, qui espérait compter sur ces voix pour remporter le po",
+   "source": ""
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Grâce présidentielle pour le Français Martin Ryan en Azerbaïdjan",
-   "zone": "Azerbaïdjan / France",
-   "resume": "Martin Ryan, un entrepreneur français emprisonné en Azerbaïdjan sous l'accusation d'espionnage, vient d'être libéré grâce à une grâce présidentielle. Cette libération semble être le résultat d'un troc diplomatique discre",
-   "source": "© Ebrahim Noroozi, AP · 23/09 08:04"
+   "titre": "Sommet entre Donald Trump et Xi Jinping à Washington",
+   "zone": "États-Unis / Chine",
+   "resume": "Le président de la Chine est reçu à la Maison Blanche par Donald Trump pour aborder des sujets épineux comme le commerce, Taïwan et l'intelligence artificielle. C'est une rencontre au sommet pour tenter de canaliser leur",
+   "source": "France 24 — Monde · 24/09 08:16"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives au Maroc sur fond de fracture sociale",
+   "titre": "Législatives au Maroc : victoire du PAM et participation en baisse",
    "zone": "Maroc",
-   "resume": "Le Maroc vote pour renouveler son Parlement, mais l'enthousiasme n'est pas au rendez-vous, surtout chez les jeunes qui boudent massivement les urnes. Le pays traverse une période économique difficile avec une hausse du c",
-   "source": "France 24 — Monde · 23/09 08:51"
+   "resume": "Le parti politique PAM a remporté les élections législatives marocaines, devançant les autres membres du gouvernement sortant. Cependant, la participation des citoyens a chuté à un niveau record qu'on n'avait pas vu depu",
+   "source": "© Abdel Majid Bziouat, AFP · 24/09 06:33"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Rôle diplomatique de la CIA et perspectives de paix en Ukraine",
-   "zone": "Ukraine / États-Unis / Russie",
-   "resume": "Le patron de la CIA a endossé un rôle de diplomate de l'ombre en voyageant entre Moscou et Kiev pour tenter de trouver une issue à la guerre. De son côté, le président ukrainien Zelensky a discuté avec Donald Trump pour ",
-   "source": "© Alex Brandon, AP · 23/09 07:29"
+   "titre": "Avertissements de l'Iran face aux États-Unis",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "L'Iran prévient qu'en cas d'attaque des États-Unis, le pays ripostera en élargissant le conflit à toute la région, jusqu'à l'océan Indien. Cette escalade verbale montre que la situation reste extrêmement tendue entre Was",
+   "source": "© Masoud Nazari Mehrabi, AP · 24/09 02:53"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes pakistanaises en Afghanistan et promesse de riposte",
+   "zone": "Afghanistan / Pakistan",
+   "resume": "L'armée pakistanaise a bombardé des sites en Afghanistan, affirmant viser des bases de drones rebelles, ce qui a tué quatre civils. Les autorités afghanes (les Taliban) ont immédiatement promis une riposte à cette violat",
+   "source": "© AFP · 24/09 08:41"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Proposition de taxation des superprofits pétroliers par le PS",
-   "zone": "France / Europe",
-   "resume": "Face à la hausse des prix de l'essence, le député européen socialiste François Kalfon demande que l'État taxe lourdement les profits exceptionnels des géants du pétrole. Il estime que les aides actuelles du gouvernement ",
-   "source": "France 24 — Monde · 23/09 08:02"
+   "titre": "Tensions sur le marché pétrolier et hausse des taux longs aux États-Unis",
+   "zone": "États-Unis",
+   "resume": "Aux États-Unis, l'économie robuste et le coût élevé du pétrole font grimper les taux d'intérêt de la dette publique à un niveau record depuis près de vingt ans. Cela témoigne d'une inflation persistante qui pèse sur l'éc",
+   "source": "Le Monde — International · 24/09 03:30"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Enquête sur l'impact du sexisme chez les filles à l'école",
-   "zone": "France / International",
-   "resume": "Une enquête montre que l'école n'épargne pas les filles face au sexisme, qui se manifeste par des remarques déplacées sur leur physique ou leurs capacités intellectuelles. Dans les cas les plus graves, cela va jusqu'au h",
-   "source": "RFI — Monde · 23/09 05:00"
+   "titre": "Menaces climatiques extrêmes du phénomène 'Super El Niño'",
+   "zone": "Global",
+   "resume": "Un nouveau rapport scientifique prévient que le phénomène climatique extrême « Super El Niño » pourrait causer près d'un demi-million de morts par la chaleur d'ici début 2027. C'est une illustration directe et dramatique",
+   "source": "© Juan David Duque, Reuters · 24/09 06:46"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Réorganisation tactique de l'équipe de France par Zinedine Zidane",
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Visite du pape Léon XIV en France et débats sociétaux",
    "zone": "France",
-   "resume": "Après avoir commencé ses entraînements avec seulement douze joueurs, le sélectionneur Zinedine Zidane a enfin récupéré tout son groupe. Il prépare un changement de stratégie en revenant à une formation classique à trois ",
-   "source": "France 24 — Monde · 23/09 08:37"
-  },
-  {
-   "emoji": "🎬",
-   "theme": "Presse · Cinéma · Mode",
-   "titre": "Boycott et poursuites judiciaires des médias contre Donald Trump",
-   "zone": "États-Unis",
-   "resume": "Plusieurs grands médias américains ont décidé de s'unir pour poursuivre en justice Donald Trump après avoir été interdits d'accès à la Maison Blanche. Ils estiment que le président tente de censurer les journalistes qui ",
-   "source": "France 24 — Monde · 23/09 09:27"
+   "resume": "Le pape entame une visite de quatre jours en France pour célébrer le retour en force de certains aspects de la pratique religieuse, comme le baptême d'adultes. Son voyage met aussi en lumière des débats internes sur la p",
+   "source": "Le Monde — International · 24/09 07:00"
   }
  ]
 }
