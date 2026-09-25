@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-24T09:42:16+00:00",
+ "genere_le": "2026-09-25T10:07:09+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Discours de Massoud Pezeshkian à l'ONU",
-   "zone": "Iran / ONU",
-   "resume": "À l'ONU, le président de l'Iran a répondu aux attaques de Donald Trump tout en signalant qu'il restait ouvert à des discussions. C'est une stratégie diplomatique pour montrer de la force sans fermer totalement la porte a",
-   "source": ""
+   "titre": "Visite historique du pape Léon XIV en France",
+   "zone": "France",
+   "resume": "Le chef de l'Église catholique est arrivé en France pour un voyage officiel de quatre jours qui le mènera à Paris, Lourdes et Metz. C'est la première fois depuis 18 ans qu'un pape se rend dans la capitale française, ce q",
+   "source": "France 24 — Monde · 25/09 09:50"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Erreur diplomatique d'Emmanuel Macron sur le Hamas",
-   "zone": "Israël / Palestine / France",
-   "resume": "Emmanuel Macron a commis une bévue en déclarant à l'ONU que le Hamas n'avait jamais agi en Cisjordanie, ce qui est factuellement faux. Le gouvernement israélien a vivement réagi à cette erreur qui ravive les tensions dip",
-   "source": ""
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Disqualification de listes arabes aux élections en Israël",
-   "zone": "Israël",
-   "resume": "À l'approche des élections en Israël, la commission électorale a interdit deux listes de partis arabes de participer au scrutin. C'est un coup dur pour l'opposition, qui espérait compter sur ces voix pour remporter le po",
-   "source": ""
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Sommet entre Donald Trump et Xi Jinping à Washington",
+   "titre": "Sommet diplomatique entre Donald Trump et Xi Jinping à Washington",
    "zone": "États-Unis / Chine",
-   "resume": "Le président de la Chine est reçu à la Maison Blanche par Donald Trump pour aborder des sujets épineux comme le commerce, Taïwan et l'intelligence artificielle. C'est une rencontre au sommet pour tenter de canaliser leur",
-   "source": "France 24 — Monde · 24/09 08:16"
+   "resume": "Le président de la Chine, Xi Jinping, est en visite officielle aux États-Unis pour rencontrer Donald Trump. Même si leurs intérêts divergent, les deux superpuissances avaient besoin de ce sommet pour négocier et mainteni",
+   "source": "RFI — Monde · 25/09 09:33"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Législatives au Maroc : victoire du PAM et participation en baisse",
-   "zone": "Maroc",
-   "resume": "Le parti politique PAM a remporté les élections législatives marocaines, devançant les autres membres du gouvernement sortant. Cependant, la participation des citoyens a chuté à un niveau record qu'on n'avait pas vu depu",
-   "source": "© Abdel Majid Bziouat, AFP · 24/09 06:33"
+   "titre": "Élections législatives au Maroc et désaffection politique au Maghreb",
+   "zone": "Afrique du Nord",
+   "resume": "Les récentes élections législatives au Maroc ont été marquées par une très faible participation des électeurs. Cette désertion des urnes reflète un malaise plus large au Maghreb, où les citoyens se détournent de la polit",
+   "source": "Le Monde — International · 25/09 08:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Avertissements de l'Iran face aux États-Unis",
-   "zone": "Iran / Moyen-Orient",
-   "resume": "L'Iran prévient qu'en cas d'attaque des États-Unis, le pays ripostera en élargissant le conflit à toute la région, jusqu'à l'océan Indien. Cette escalade verbale montre que la situation reste extrêmement tendue entre Was",
-   "source": "© Masoud Nazari Mehrabi, AP · 24/09 02:53"
+   "titre": "Déploiement militaire français en Arabie saoudite face aux attaques houthies",
+   "zone": "Moyen-Orient / Golfe Persique",
+   "resume": "Face aux attaques de drones et de missiles lancées par les rebelles houthis depuis le Yémen, la France va envoyer des soldats et des systèmes de défense pour protéger un important site pétrolier saoudien. Cette décision ",
+   "source": "Le Monde — International · 25/09 09:32"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes pakistanaises en Afghanistan et promesse de riposte",
-   "zone": "Afghanistan / Pakistan",
-   "resume": "L'armée pakistanaise a bombardé des sites en Afghanistan, affirmant viser des bases de drones rebelles, ce qui a tué quatre civils. Les autorités afghanes (les Taliban) ont immédiatement promis une riposte à cette violat",
-   "source": "© AFP · 24/09 08:41"
+   "titre": "Opérations de l'armée israélienne dans le sud de la Syrie",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Depuis la chute du président syrien fin 2024, l'armée israélienne mène des incursions au-delà de la zone tampon en Syrie et a arrêté plus de 200 personnes, des actes qualifiés de détentions arbitraires par des observateu",
+   "source": "France 24 — Moyen-Orient · 25/09 09:22"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Livraison de licences de production de missiles Patriot à l'Ukraine",
+   "zone": "Europe de l'Est",
+   "resume": "Les États-Unis ont officiellement autorisé l'Ukraine à fabriquer elle-même ses propres missiles de défense anti-aérienne Patriot. Une aide cruciale alors que le pays subit quotidiennement de violentes frappes aériennes d",
+   "source": "Le Monde — International · 25/09 08:49"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Tensions sur le marché pétrolier et hausse des taux longs aux États-Unis",
-   "zone": "États-Unis",
-   "resume": "Aux États-Unis, l'économie robuste et le coût élevé du pétrole font grimper les taux d'intérêt de la dette publique à un niveau record depuis près de vingt ans. Cela témoigne d'une inflation persistante qui pèse sur l'éc",
-   "source": "Le Monde — International · 24/09 03:30"
+   "titre": "Crise économique à Gaza et déclarations de Benjamin Netanyahu à l'ONU",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "L'ONU tire la sonnette d'alarme sur l'économie totalement détruite de la bande de Gaza, où les habitants survivent grâce à l'aide humanitaire. Au même moment, le dirigeant israélien Benjamin Netanyahu a vigoureusement ré",
+   "source": "France 24 — Monde · 24/09 20:58"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Tensions énergétiques mondiales et restrictions sur les hydrocarbures",
+   "zone": "États-Unis / Russie",
+   "resume": "Les décisions des gouvernements américain et russe font planer la menace d'une nouvelle crise énergétique mondiale. Donald Trump envisage par exemple d'interdire l'exportation du diesel américain pour préserver son march",
+   "source": "Le Monde — International · 25/09 09:00"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Évolution de la pauvreté en Argentine sous Javier Milei",
+   "zone": "Argentine",
+   "resume": "La pauvreté a de nouveau augmenté en Argentine pour toucher environ un tiers de la population, malgré les promesses économiques du président Javier Milei. Ce dernier est d'ailleurs attendu prochainement en France pour un",
+   "source": "© Charly Triballeau, AFP (pool) · 24/09 21:16"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Menaces climatiques extrêmes du phénomène 'Super El Niño'",
-   "zone": "Global",
-   "resume": "Un nouveau rapport scientifique prévient que le phénomène climatique extrême « Super El Niño » pourrait causer près d'un demi-million de morts par la chaleur d'ici début 2027. C'est une illustration directe et dramatique",
-   "source": "© Juan David Duque, Reuters · 24/09 06:46"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Visite du pape Léon XIV en France et débats sociétaux",
+   "titre": "Enjeux sociétaux autour de la place des femmes dans les métiers techniques",
    "zone": "France",
-   "resume": "Le pape entame une visite de quatre jours en France pour célébrer le retour en force de certains aspects de la pratique religieuse, comme le baptême d'adultes. Son voyage met aussi en lumière des débats internes sur la p",
-   "source": "Le Monde — International · 24/09 07:00"
+   "resume": "De nombreux métiers manuels et industriels restent très masculins en raison de barrières culturelles et de stéréotypes de genre. Les discussions sur l'égalité professionnelle cherchent à comprendre pourquoi ces secteurs ",
+   "source": "RFI — Monde · 25/09 05:00"
   }
  ]
 }
