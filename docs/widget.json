@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-25T10:07:09+00:00",
+ "genere_le": "2026-09-26T09:43:01+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Visite historique du pape Léon XIV en France",
+   "titre": "Visite officielle du pape Léon XIV en France",
    "zone": "France",
-   "resume": "Le chef de l'Église catholique est arrivé en France pour un voyage officiel de quatre jours qui le mènera à Paris, Lourdes et Metz. C'est la première fois depuis 18 ans qu'un pape se rend dans la capitale française, ce q",
-   "source": "France 24 — Monde · 25/09 09:50"
+   "resume": "Le pape Léon XIV est en visite pour quatre jours en France, où il enchaîne les bains de foule, les messes géantes et les rencontres politiques. Il s'exprime sur des sujets de société très commentés, comme l'immigration, ",
+   "source": "Le Monde — International · 26/09 09:17"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Sommet diplomatique entre Donald Trump et Xi Jinping à Washington",
+   "titre": "Dialogue États-Unis - Chine sur l'intelligence artificielle",
    "zone": "États-Unis / Chine",
-   "resume": "Le président de la Chine, Xi Jinping, est en visite officielle aux États-Unis pour rencontrer Donald Trump. Même si leurs intérêts divergent, les deux superpuissances avaient besoin de ce sommet pour négocier et mainteni",
-   "source": "RFI — Monde · 25/09 09:33"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives au Maroc et désaffection politique au Maghreb",
-   "zone": "Afrique du Nord",
-   "resume": "Les récentes élections législatives au Maroc ont été marquées par une très faible participation des électeurs. Cette désertion des urnes reflète un malaise plus large au Maghreb, où les citoyens se détournent de la polit",
-   "source": "Le Monde — International · 25/09 08:00"
+   "resume": "Washington et Pékin ont convenu de mettre en place une ligne directe de communication pour éviter les incidents liés à l'intelligence artificielle. Cette annonce, faite après la visite de Xi Jinping aux États-Unis, cherc",
+   "source": "Le Monde — International · 26/09 05:59"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Déploiement militaire français en Arabie saoudite face aux attaques houthies",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "Face aux attaques de drones et de missiles lancées par les rebelles houthis depuis le Yémen, la France va envoyer des soldats et des systèmes de défense pour protéger un important site pétrolier saoudien. Cette décision ",
-   "source": "Le Monde — International · 25/09 09:32"
+   "titre": "Refus américain de l'offre iranienne sur le détroit d'Ormuz",
+   "zone": "Détroit d'Ormuz / Golfe Persique",
+   "resume": "Donald Trump a dit non à une offre de l'Iran qui proposait de rouvrir sous une semaine le détroit d'Ormuz, un passage maritime ultra-stratégique pour le pétrole mondial. Ce refus maintient une forte pression dans le Golf",
+   "source": "AP Photo/Jacquelyn Martin - Jacquelyn Martin · 26/09 05:49"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Opérations de l'armée israélienne dans le sud de la Syrie",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Depuis la chute du président syrien fin 2024, l'armée israélienne mène des incursions au-delà de la zone tampon en Syrie et a arrêté plus de 200 personnes, des actes qualifiés de détentions arbitraires par des observateu",
-   "source": "France 24 — Moyen-Orient · 25/09 09:22"
+   "titre": "Coopération militaire franco-saoudienne et attaques houthistes",
+   "zone": "Moyen-Orient",
+   "resume": "La France va envoyer des soldats, des radars et des systèmes de défense pour protéger les sites pétroliers saoudiens face aux attaques de drones menées par les rebelles houthis du Yémen. Cette annonce officialise l'aide ",
+   "source": "Le Monde — International · 26/09 03:53"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Livraison de licences de production de missiles Patriot à l'Ukraine",
-   "zone": "Europe de l'Est",
-   "resume": "Les États-Unis ont officiellement autorisé l'Ukraine à fabriquer elle-même ses propres missiles de défense anti-aérienne Patriot. Une aide cruciale alors que le pays subit quotidiennement de violentes frappes aériennes d",
-   "source": "Le Monde — International · 25/09 08:49"
+   "titre": "Frappes russes en Ukraine et débat politique en France",
+   "zone": "Ukraine / Russie",
+   "resume": "L'armée russe a intensifié ses attaques de drones en Ukraine, touchant notamment des infrastructures à Kiev et près d'Odessa. En France, la guerre en Ukraine reste un sujet brûlant qui divise la classe politique à l'appr",
+   "source": "Le Monde — International · 26/09 08:43"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Crise économique à Gaza et déclarations de Benjamin Netanyahu à l'ONU",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "L'ONU tire la sonnette d'alarme sur l'économie totalement détruite de la bande de Gaza, où les habitants survivent grâce à l'aide humanitaire. Au même moment, le dirigeant israélien Benjamin Netanyahu a vigoureusement ré",
-   "source": "France 24 — Monde · 24/09 20:58"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Tensions énergétiques mondiales et restrictions sur les hydrocarbures",
-   "zone": "États-Unis / Russie",
-   "resume": "Les décisions des gouvernements américain et russe font planer la menace d'une nouvelle crise énergétique mondiale. Donald Trump envisage par exemple d'interdire l'exportation du diesel américain pour préserver son march",
-   "source": "Le Monde — International · 25/09 09:00"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Évolution de la pauvreté en Argentine sous Javier Milei",
-   "zone": "Argentine",
-   "resume": "La pauvreté a de nouveau augmenté en Argentine pour toucher environ un tiers de la population, malgré les promesses économiques du président Javier Milei. Ce dernier est d'ailleurs attendu prochainement en France pour un",
-   "source": "© Charly Triballeau, AFP (pool) · 24/09 21:16"
+   "titre": "Accord entre TikTok et l'Alabama sur la limitation du temps d'écran",
+   "zone": "États-Unis",
+   "resume": "Pour éviter un procès coûteux avec l'État américain de l'Alabama, TikTok a accepté de brider l'utilisation pour les adolescents. Les jeunes de 13 à 17 ans auront désormais une limite obligatoire de deux heures par écran ",
+   "source": "Le Monde — International · 26/09 01:48"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Enjeux sociétaux autour de la place des femmes dans les métiers techniques",
+   "titre": "État de catastrophe naturelle déclaré à Bangkok suite à des inondations",
+   "zone": "Thaïlande",
+   "resume": "La capitale de la Thaïlande, Bangkok, est en état de catastrophe naturelle après des trombes d'eau massives tombées en quelques jours. Les rues ont été inondées dans toute la ville, obligeant les autorités à réagir d'urg",
+   "source": "© Lillian Suwanrumpha, AFP · 26/09 07:56"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Condamnations dans l'affaire du meurtre de Federico Martin Aramburu",
    "zone": "France",
-   "resume": "De nombreux métiers manuels et industriels restent très masculins en raison de barrières culturelles et de stéréotypes de genre. Les discussions sur l'égalité professionnelle cherchent à comprendre pourquoi ces secteurs ",
-   "source": "RFI — Monde · 25/09 05:00"
+   "resume": "Les deux hommes responsables de la mort de l'ancien rugbyman Federico Martin Aramburu, abattu en 2022 à Paris, ont été condamnés par la justice française à des peines de 19 et 26 ans de prison. Ce verdict clos un procès ",
+   "source": "© Benoit PEYRUCQ / AFP · 25/09 19:54"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Inquiétudes de la magistrature française sur l'accès aux preuves numériques",
+   "zone": "France",
+   "resume": "Les magistrats français demandent des comptes au gouvernement car ils ne peuvent pas utiliser de nouveaux outils européens censés les aider à récupérer plus vite des preuves numériques auprès des géants du web. Une situa",
+   "source": "Le Monde — International · 26/09 05:00"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Première victorieuse pour Zinédine Zidane à la tête de l'équipe de France",
+   "zone": "Turquie / France",
+   "resume": "Pour son premier match sur le banc de l'équipe de France, Zinédine Zidane a remporté une victoire 1-0 contre la Turquie grâce à un but de Kylian Mbappé. Malheureusement, la star et capitaine des Bleus s'est blessée au ge",
+   "source": "© Franck Fifa, AFP · 25/09 20:45"
   }
  ]
 }
