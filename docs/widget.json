@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-26T09:43:01+00:00",
+ "genere_le": "2026-09-27T10:26:14+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Visite officielle du pape Léon XIV en France",
-   "zone": "France",
-   "resume": "Le pape Léon XIV est en visite pour quatre jours en France, où il enchaîne les bains de foule, les messes géantes et les rencontres politiques. Il s'exprime sur des sujets de société très commentés, comme l'immigration, ",
-   "source": "Le Monde — International · 26/09 09:17"
+   "titre": "Donald Trump rejette le plan de réouverture du détroit d'Ormuz",
+   "zone": "Détroit d'Ormuz / Golfe Persique",
+   "resume": "Donald Trump a refusé un plan proposé par l'Iran pour rouvrir le détroit d'Ormuz, une voie maritime essentielle par laquelle passe une grande partie du pétrole mondial. Téhéran refuse de céder sur ses exigences, ce qui b",
+   "source": "Le Monde — International · 27/09 03:21"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Dialogue États-Unis - Chine sur l'intelligence artificielle",
-   "zone": "États-Unis / Chine",
-   "resume": "Washington et Pékin ont convenu de mettre en place une ligne directe de communication pour éviter les incidents liés à l'intelligence artificielle. Cette annonce, faite après la visite de Xi Jinping aux États-Unis, cherc",
-   "source": "Le Monde — International · 26/09 05:59"
+   "titre": "Le combat persistant de la prix Nobel de la paix iranienne Narges Mohammadi",
+   "zone": "Iran",
+   "resume": "Les médias mettent en lumière la lutte de Narges Mohammadi, une militante iranienne qui a reçu le prix Nobel de la paix et qui est toujours emprisonnée en Iran. Même derrière les barreaux, elle refuse de se taire et cont",
+   "source": "RFI — Monde · 27/09 08:11"
   },
   {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Refus américain de l'offre iranienne sur le détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Donald Trump a dit non à une offre de l'Iran qui proposait de rouvrir sous une semaine le détroit d'Ormuz, un passage maritime ultra-stratégique pour le pétrole mondial. Ce refus maintient une forte pression dans le Golf",
-   "source": "AP Photo/Jacquelyn Martin - Jacquelyn Martin · 26/09 05:49"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Coopération militaire franco-saoudienne et attaques houthistes",
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Critique de la politique étrangère de Donald Trump au Moyen-Orient",
    "zone": "Moyen-Orient",
-   "resume": "La France va envoyer des soldats, des radars et des systèmes de défense pour protéger les sites pétroliers saoudiens face aux attaques de drones menées par les rebelles houthis du Yémen. Cette annonce officialise l'aide ",
-   "source": "Le Monde — International · 26/09 03:53"
+   "resume": "Un historien explique dans les médias que les changements d'avis incessants de Donald Trump sur la scène internationale perturbent gravement le Moyen-Orient. En agissant de manière imprévisible, les États-Unis affaibliss",
+   "source": "Le Monde — International · 27/09 05:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Référendum en Suisse sur le durcissement de sa neutralité constitutionnelle",
+   "zone": "Europe",
+   "resume": "Les Suisses votent aujourd'hui pour décider s'ils doivent rendre les règles de leur célèbre neutralité encore plus strictes. Si le 'oui' l'emporte, le pays ne pourra plus participer à des sanctions économiques (comme cel",
+   "source": "RFI — Monde · 27/09 06:34"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes russes en Ukraine et débat politique en France",
-   "zone": "Ukraine / Russie",
-   "resume": "L'armée russe a intensifié ses attaques de drones en Ukraine, touchant notamment des infrastructures à Kiev et près d'Odessa. En France, la guerre en Ukraine reste un sujet brûlant qui divise la classe politique à l'appr",
-   "source": "Le Monde — International · 26/09 08:43"
+   "titre": "Révélations sur le financement d'Al-Qaïda par des membres de l'élite saoudienne",
+   "zone": "Moyen-Orient",
+   "resume": "Des documents secrets de la CIA, récemment rendus publics, montrent que des membres très riches et influents de l'élite d'Arabie saoudite ont financé le groupe terroriste Al-Qaïda avant les attentats du 11-Septembre. Mêm",
+   "source": "Le Monde — International · 27/09 04:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Guerre en Ukraine : frappes russes sur Kiev et accusations diplomatiques",
+   "zone": "Europe",
+   "resume": "La Russie a mené de nouveaux bombardements en Ukraine, touchant un centre internet majeur à Kiev et un port. Pendant ce temps, le chef de la diplomatie russe accuse l'Europe de bloquer les négociations de paix. Sur le te",
+   "source": "France 24 — Monde · 27/09 09:34"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Accord entre TikTok et l'Alabama sur la limitation du temps d'écran",
-   "zone": "États-Unis",
-   "resume": "Pour éviter un procès coûteux avec l'État américain de l'Alabama, TikTok a accepté de brider l'utilisation pour les adolescents. Les jeunes de 13 à 17 ans auront désormais une limite obligatoire de deux heures par écran ",
-   "source": "Le Monde — International · 26/09 01:48"
+   "titre": "Démission d'un chercheur d'Anthropic sur les risques de l'intelligence artificielle",
+   "zone": "Europe",
+   "resume": "Un chercheur en intelligence artificielle de premier plan a démissionné de son entreprise car il craint que cette technologie ne devienne trop puissante et échappe à tout contrôle humain. Son départ fait grand bruit car ",
+   "source": "RFI — Monde · 27/09 05:00"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Sadio Mané investit dans l'agro-industrie de la mangue au Sénégal",
+   "zone": "Afrique",
+   "resume": "La star du football Sadio Mané a financé la construction d'une usine de transformation de mangues dans son village d'origine au Sénégal. L'usine va fabriquer de la pulpe et des fruits séchés pour créer des emplois locaux",
+   "source": "Le Monde — International · 27/09 10:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "État de catastrophe naturelle déclaré à Bangkok suite à des inondations",
-   "zone": "Thaïlande",
-   "resume": "La capitale de la Thaïlande, Bangkok, est en état de catastrophe naturelle après des trombes d'eau massives tombées en quelques jours. Les rues ont été inondées dans toute la ville, obligeant les autorités à réagir d'urg",
-   "source": "© Lillian Suwanrumpha, AFP · 26/09 07:56"
+   "titre": "Sauvetage et accueil de la poétesse gazaouie Alaa Al-Qatrawi dans la Drôme",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Une poétesse palestinienne nommée Alaa Al-Qatrawi a réussi à fuir la bande de Gaza grâce à l'aide de deux couples d'habitants de la Drôme, en France. Elle vit désormais à Montélimar où elle peut continuer à écrire en séc",
+   "source": "Le Monde — International · 27/09 04:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Condamnations dans l'affaire du meurtre de Federico Martin Aramburu",
-   "zone": "France",
-   "resume": "Les deux hommes responsables de la mort de l'ancien rugbyman Federico Martin Aramburu, abattu en 2022 à Paris, ont été condamnés par la justice française à des peines de 19 et 26 ans de prison. Ce verdict clos un procès ",
-   "source": "© Benoit PEYRUCQ / AFP · 25/09 19:54"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Inquiétudes de la magistrature française sur l'accès aux preuves numériques",
-   "zone": "France",
-   "resume": "Les magistrats français demandent des comptes au gouvernement car ils ne peuvent pas utiliser de nouveaux outils européens censés les aider à récupérer plus vite des preuves numériques auprès des géants du web. Une situa",
-   "source": "Le Monde — International · 26/09 05:00"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Première victorieuse pour Zinédine Zidane à la tête de l'équipe de France",
-   "zone": "Turquie / France",
-   "resume": "Pour son premier match sur le banc de l'équipe de France, Zinédine Zidane a remporté une victoire 1-0 contre la Turquie grâce à un but de Kylian Mbappé. Malheureusement, la star et capitaine des Bleus s'est blessée au ge",
-   "source": "© Franck Fifa, AFP · 25/09 20:45"
+   "titre": "Visite historique du pape Léon XIV en France et confrontation aux abus sexuels",
+   "zone": "Europe",
+   "resume": "Le pape Léon XIV est en voyage en France, où il s'est rendu à Lourdes pour célébrer une grande messe devant 150 000 personnes et rencontrer des victimes d'abus sexuels commis par des membres du clergé. Il a reconnu que c",
+   "source": "© Lionel Bonaventure, AFP · 27/09 07:31"
   }
  ]
 }
