@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-27T10:26:14+00:00",
+ "genere_le": "2026-09-28T11:28:40+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Donald Trump rejette le plan de réouverture du détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Donald Trump a refusé un plan proposé par l'Iran pour rouvrir le détroit d'Ormuz, une voie maritime essentielle par laquelle passe une grande partie du pétrole mondial. Téhéran refuse de céder sur ses exigences, ce qui b",
-   "source": "Le Monde — International · 27/09 03:21"
+   "titre": "Visite du pape Léon XIV à Metz",
+   "zone": "France / Europe",
+   "resume": "Le pape Léon XIV s'est rendu à Metz pour clore son voyage en France, en mettant l'accent sur la paix et l'avenir de l'Europe. Aux côtés d'Emmanuel Macron, il a appelé les pays européens à dialoguer plutôt qu'à s'affronte",
+   "source": "Le Monde — International · 28/09 09:38"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Le combat persistant de la prix Nobel de la paix iranienne Narges Mohammadi",
-   "zone": "Iran",
-   "resume": "Les médias mettent en lumière la lutte de Narges Mohammadi, une militante iranienne qui a reçu le prix Nobel de la paix et qui est toujours emprisonnée en Iran. Même derrière les barreaux, elle refuse de se taire et cont",
-   "source": "RFI — Monde · 27/09 08:11"
+   "titre": "Isolement de l'Iran face aux sanctions américaines",
+   "zone": "Iran / États-Unis",
+   "resume": "Les États-Unis ont durci leurs sanctions contre les compagnies aériennes d'Iran, ce qui rend les voyages à l'étranger très difficiles pour les Iraniens. En réponse, le gouvernement iranien a fermé le Centre de langue fra",
+   "source": "Le Monde — International · 28/09 05:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Critique de la politique étrangère de Donald Trump au Moyen-Orient",
-   "zone": "Moyen-Orient",
-   "resume": "Un historien explique dans les médias que les changements d'avis incessants de Donald Trump sur la scène internationale perturbent gravement le Moyen-Orient. En agissant de manière imprévisible, les États-Unis affaibliss",
-   "source": "Le Monde — International · 27/09 05:00"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Référendum en Suisse sur le durcissement de sa neutralité constitutionnelle",
-   "zone": "Europe",
-   "resume": "Les Suisses votent aujourd'hui pour décider s'ils doivent rendre les règles de leur célèbre neutralité encore plus strictes. Si le 'oui' l'emporte, le pays ne pourra plus participer à des sanctions économiques (comme cel",
-   "source": "RFI — Monde · 27/09 06:34"
+   "titre": "Démission du président serbe Aleksandar Vucic",
+   "zone": "Serbie",
+   "resume": "Le président de la Serbie, Aleksandar Vucic, a démissionné de son poste. Il fait ce choix stratégique pour pouvoir se présenter comme Premier ministre lors d'élections législatives anticipées en octobre. C'est sa réponse",
+   "source": "France 24 — Monde · 28/09 08:22"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Révélations sur le financement d'Al-Qaïda par des membres de l'élite saoudienne",
-   "zone": "Moyen-Orient",
-   "resume": "Des documents secrets de la CIA, récemment rendus publics, montrent que des membres très riches et influents de l'élite d'Arabie saoudite ont financé le groupe terroriste Al-Qaïda avant les attentats du 11-Septembre. Mêm",
-   "source": "Le Monde — International · 27/09 04:00"
+   "titre": "Élimination du ravisseur d'otages du 7-Octobre à Gaza",
+   "zone": "Israël / Palestine (Gaza)",
+   "resume": "Israël a annoncé la mort à Gaza d'un membre du Hamas qui avait enlevé un jeune couple lors de l'attaque du 7 octobre 2023. La jeune femme a été libérée il y a quelques mois, mais son compagnon est toujours retenu otage. ",
+   "source": "Le Monde — International · 28/09 03:22"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : frappes russes sur Kiev et accusations diplomatiques",
-   "zone": "Europe",
-   "resume": "La Russie a mené de nouveaux bombardements en Ukraine, touchant un centre internet majeur à Kiev et un port. Pendant ce temps, le chef de la diplomatie russe accuse l'Europe de bloquer les négociations de paix. Sur le te",
-   "source": "France 24 — Monde · 27/09 09:34"
+   "titre": "Écoles de Riyad en distanciel face aux menaces des Houthis",
+   "zone": "Arabie saoudite / Yémen",
+   "resume": "En Arabie saoudite, les écoles de la capitale Riyad ont fermé pour passer aux cours en ligne pendant une semaine. Cette décision a été prise à cause d'une augmentation des tirs de missiles par les rebelles Houthis venus ",
+   "source": "France 24 — Monde · 28/09 08:22"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Intensification des frappes russes en Ukraine",
+   "zone": "Ukraine / Russie",
+   "resume": "La Russie a lancé de nouvelles attaques de missiles et de drones sur l'Ukraine, touchant plusieurs régions dont celle de Kiev. Ces frappes ont tué au moins deux personnes et blessé gravement des enfants. Malgré la distan",
+   "source": "Le Monde — International · 28/09 11:12"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Fusillades de masse meurtrières en Afrique du Sud",
+   "zone": "Afrique du Sud",
+   "resume": "L'Afrique du Sud a été endeuillée par plusieurs fusillades de masse qui ont fait au moins 27 morts à Johannesburg et au Cap. Des hommes armés ont notamment attaqué un bar avec des armes de guerre. La police est sur les d",
+   "source": "France 24 — Monde · 28/09 10:32"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Démission d'un chercheur d'Anthropic sur les risques de l'intelligence artificielle",
-   "zone": "Europe",
-   "resume": "Un chercheur en intelligence artificielle de premier plan a démissionné de son entreprise car il craint que cette technologie ne devienne trop puissante et échappe à tout contrôle humain. Son départ fait grand bruit car ",
-   "source": "RFI — Monde · 27/09 05:00"
+   "titre": "Mise en cause de la Nivernaise de raffinage pour liens avec l'Iran",
+   "zone": "France / Iran / États-Unis",
+   "resume": "Une raffinerie française de biocarburants est accusée par les États-Unis d'avoir des liens secrets avec l'Iran. Sa maison mère, basée en Suisse, est soupçonnée de faire du commerce avec Téhéran malgré l'embargo américain",
+   "source": "Le Monde — International · 28/09 07:30"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Sadio Mané investit dans l'agro-industrie de la mangue au Sénégal",
-   "zone": "Afrique",
-   "resume": "La star du football Sadio Mané a financé la construction d'une usine de transformation de mangues dans son village d'origine au Sénégal. L'usine va fabriquer de la pulpe et des fruits séchés pour créer des emplois locaux",
-   "source": "Le Monde — International · 27/09 10:00"
+   "titre": "Le projet de data centers spatiaux pour l'intelligence artificielle",
+   "zone": "International / Espace",
+   "resume": "Pour faire tourner les puissants outils d'intelligence artificielle sans saturer le réseau électrique terrestre, des géants de la tech imaginent envoyer des serveurs informatiques dans l'espace. Là-haut, ils pourraient u",
+   "source": "Le Monde — International · 28/09 09:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Sauvetage et accueil de la poétesse gazaouie Alaa Al-Qatrawi dans la Drôme",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Une poétesse palestinienne nommée Alaa Al-Qatrawi a réussi à fuir la bande de Gaza grâce à l'aide de deux couples d'habitants de la Drôme, en France. Elle vit désormais à Montélimar où elle peut continuer à écrire en séc",
-   "source": "Le Monde — International · 27/09 04:00"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Visite historique du pape Léon XIV en France et confrontation aux abus sexuels",
-   "zone": "Europe",
-   "resume": "Le pape Léon XIV est en voyage en France, où il s'est rendu à Lourdes pour célébrer une grande messe devant 150 000 personnes et rencontrer des victimes d'abus sexuels commis par des membres du clergé. Il a reconnu que c",
-   "source": "© Lionel Bonaventure, AFP · 27/09 07:31"
+   "titre": "Lancement d'Octobre Rose au Sénégal pour la lutte contre le cancer",
+   "zone": "Sénégal",
+   "resume": "À Dakar, des centaines de personnes ont défilé vêtues de rose pour lancer la campagne \"Octobre Rose\" contre le cancer du sein. Au Sénégal, cette maladie touche énormément de familles, et l'objectif est d'encourager les f",
+   "source": ""
   }
  ]
 }
