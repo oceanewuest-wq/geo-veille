@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-28T11:28:40+00:00",
+ "genere_le": "2026-09-29T11:06:52+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Visite du pape Léon XIV à Metz",
-   "zone": "France / Europe",
-   "resume": "Le pape Léon XIV s'est rendu à Metz pour clore son voyage en France, en mettant l'accent sur la paix et l'avenir de l'Europe. Aux côtés d'Emmanuel Macron, il a appelé les pays européens à dialoguer plutôt qu'à s'affronte",
-   "source": "Le Monde — International · 28/09 09:38"
+   "titre": "Accusations d'antisémitisme contre Jordan Bardella",
+   "zone": "France",
+   "resume": "Le patron du Rassemblement national, Jordan Bardella, est visé par des accusations d'antisémitisme basées sur des messages qu'il aurait écrits en 2013 sous pseudonyme. Alors que son parti dénonce un complot politique pou",
+   "source": "© France 24 · 29/09 10:27"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Isolement de l'Iran face aux sanctions américaines",
-   "zone": "Iran / États-Unis",
-   "resume": "Les États-Unis ont durci leurs sanctions contre les compagnies aériennes d'Iran, ce qui rend les voyages à l'étranger très difficiles pour les Iraniens. En réponse, le gouvernement iranien a fermé le Centre de langue fra",
-   "source": "Le Monde — International · 28/09 05:00"
+   "titre": "La Malaisie procède au renvoi de 1 500 ressortissants birmans malgré les alertes de l'ONU",
+   "zone": "Asie du Sud-Est",
+   "resume": "La Malaisie a commencé à expulser des centaines de réfugiés birmans vers leur pays d'origine, provoquant une condamnation de l'ONU. Cette décision inquiète les organisations humanitaires en raison des persécutions et du ",
+   "source": "Le Monde — International · 29/09 10:16"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Démission du président serbe Aleksandar Vucic",
-   "zone": "Serbie",
-   "resume": "Le président de la Serbie, Aleksandar Vucic, a démissionné de son poste. Il fait ce choix stratégique pour pouvoir se présenter comme Premier ministre lors d'élections législatives anticipées en octobre. C'est sa réponse",
-   "source": "France 24 — Monde · 28/09 08:22"
+   "titre": "Tensions diplomatiques entre Kiev et Séoul autour de prisonniers nord-coréens",
+   "zone": "Asie / Ukraine",
+   "resume": "La Corée du Sud est furieuse contre l'Ukraine après que celle-ci a vendu la mèche à l'ONU concernant le transfert secret de prisonniers nord-coréens vers Séoul. Le gouvernement sud-coréen réclame des excuses pour cette i",
+   "source": "Le Monde — International · 29/09 06:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Élimination du ravisseur d'otages du 7-Octobre à Gaza",
-   "zone": "Israël / Palestine (Gaza)",
-   "resume": "Israël a annoncé la mort à Gaza d'un membre du Hamas qui avait enlevé un jeune couple lors de l'attaque du 7 octobre 2023. La jeune femme a été libérée il y a quelques mois, mais son compagnon est toujours retenu otage. ",
-   "source": "Le Monde — International · 28/09 03:22"
+   "titre": "Visite secrète de Benjamin Netanyahu aux Émirats arabes unis",
+   "zone": "Moyen-Orient",
+   "resume": "Le dirigeant israélien Benjamin Netanyahu a fait un voyage secret aux Émirats arabes unis pour des discussions dont la teneur exacte n'a pas été révélée. Ce genre de déplacement discret entre alliés met en lumière des tr",
+   "source": "© Mike Segar, Reuters · 29/09 09:45"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Écoles de Riyad en distanciel face aux menaces des Houthis",
-   "zone": "Arabie saoudite / Yémen",
-   "resume": "En Arabie saoudite, les écoles de la capitale Riyad ont fermé pour passer aux cours en ligne pendant une semaine. Cette décision a été prise à cause d'une augmentation des tirs de missiles par les rebelles Houthis venus ",
-   "source": "France 24 — Monde · 28/09 08:22"
+   "titre": "Détroit d'Ormuz : l'Iran attend une réponse des États-Unis sur son plan",
+   "zone": "Détroit d'Ormuz / Golfe Persique",
+   "resume": "L'Iran pose ses conditions pour rouvrir le détroit d'Ormuz, un passage maritime stratégique pour le pétrole mondial, en réclamant un cessez-le-feu de sept jours. Les autorités iraniennes attendent de savoir si les États-",
+   "source": "© Yuki Iwamura, AP Photo · 29/09 06:58"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des frappes russes en Ukraine",
-   "zone": "Ukraine / Russie",
-   "resume": "La Russie a lancé de nouvelles attaques de missiles et de drones sur l'Ukraine, touchant plusieurs régions dont celle de Kiev. Ces frappes ont tué au moins deux personnes et blessé gravement des enfants. Malgré la distan",
-   "source": "Le Monde — International · 28/09 11:12"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Fusillades de masse meurtrières en Afrique du Sud",
-   "zone": "Afrique du Sud",
-   "resume": "L'Afrique du Sud a été endeuillée par plusieurs fusillades de masse qui ont fait au moins 27 morts à Johannesburg et au Cap. Des hommes armés ont notamment attaqué un bar avec des armes de guerre. La police est sur les d",
-   "source": "France 24 — Monde · 28/09 10:32"
+   "titre": "Sabotage d'un fabricant de drones en Estonie attribué à Moscou",
+   "zone": "Europe de l'Est",
+   "resume": "L'Estonie accuse ouvertement la Russie d'avoir commandité l'incendie des locaux d'un fabricant de drones militaire sur son sol. Cet acte de sabotage met en lumière la guerre invisible menée par Moscou à travers l'Europe ",
+   "source": "Le Monde — International · 29/09 08:30"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Mise en cause de la Nivernaise de raffinage pour liens avec l'Iran",
-   "zone": "France / Iran / États-Unis",
-   "resume": "Une raffinerie française de biocarburants est accusée par les États-Unis d'avoir des liens secrets avec l'Iran. Sa maison mère, basée en Suisse, est soupçonnée de faire du commerce avec Téhéran malgré l'embargo américain",
-   "source": "Le Monde — International · 28/09 07:30"
+   "titre": "Grève générale dans la fonction publique en France",
+   "zone": "France",
+   "resume": "Les agents de la fonction publique manifestent partout en France pour défendre leur pouvoir d'achat face au gel des salaires et aux restrictions budgétaires prévues pour 2027. Cette mobilisation perturbe de nombreux serv",
+   "source": "France 24 — Monde · 29/09 09:56"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Le projet de data centers spatiaux pour l'intelligence artificielle",
-   "zone": "International / Espace",
-   "resume": "Pour faire tourner les puissants outils d'intelligence artificielle sans saturer le réseau électrique terrestre, des géants de la tech imaginent envoyer des serveurs informatiques dans l'espace. Là-haut, ils pourraient u",
-   "source": "Le Monde — International · 28/09 09:00"
+   "titre": "Sommet sur la régulation de l'intelligence artificielle à la Maison-Blanche",
+   "zone": "États-Unis",
+   "resume": "Donald Trump convie les patrons des plus grandes entreprises d'intelligence artificielle à la Maison-Blanche pour discuter de règles de contrôle. Ce secteur ultra-rapide cherche un équilibre délicat entre impératifs de s",
+   "source": "© Martin LELIEVRE / AFP/Archives · 29/09 06:16"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "La Russie saisit les actifs du distributeur allemand Metro",
+   "zone": "Russie",
+   "resume": "La Russie continue d'exproprier les entreprises occidentales en plaçant sous son contrôle les hypermarchés allemands Metro. Une telle mesure, qui touche des milliers d'employés, s'inscrit dans le contexte de tensions éco",
+   "source": "Le Monde — International · 29/09 07:27"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Lancement d'Octobre Rose au Sénégal pour la lutte contre le cancer",
-   "zone": "Sénégal",
-   "resume": "À Dakar, des centaines de personnes ont défilé vêtues de rose pour lancer la campagne \"Octobre Rose\" contre le cancer du sein. Au Sénégal, cette maladie touche énormément de familles, et l'objectif est d'encourager les f",
-   "source": ""
+   "titre": "La littérature face à l'intelligence artificielle : inquiétudes d'écrivains",
+   "zone": "France",
+   "resume": "Un écrivain est soupçonné d'avoir écrit son livre à l'aide d'une intelligence artificielle, provoquant un débat enflammé chez les auteurs français. Des figures de la culture alertent sur le risque de voir la machine remp",
+   "source": "RFI — Monde · 29/09 07:29"
   }
  ]
 }
