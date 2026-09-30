@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-09-29T11:06:52+00:00",
+ "genere_le": "2026-09-30T10:57:07+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Accusations d'antisémitisme contre Jordan Bardella",
+   "titre": "Fatima Ezzahra El Mansouri nommée Première ministre du Maroc",
+   "zone": "Maroc",
+   "resume": "Le roi du Maroc a nommé Fatima Ezzahra El Mansouri, maire de Marrakech et avocate, à la tête du gouvernement. C'est une première historique pour une femme dans le pays. Elle arrive au pouvoir avec la lourde tâche de répo",
+   "source": "France 24 — Monde · 30/09 10:20"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Retrait complet de la coalition internationale antidjihadiste d'Irak",
+   "zone": "Irak / Moyen-Orient",
+   "resume": "L'armée américaine et ses alliés quittent officiellement l'Irak après douze ans de présence militaire destinée à combattre le groupe État islamique. Ce départ marque un tournant pour le pays, qui se retrouve seul face à ",
+   "source": "France 24 — Moyen-Orient · 30/09 04:42"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Atterrissage d'urgence en Arabie saoudite d'un vol Flydubai vers Tel-Aviv",
+   "zone": "Israël / Arabie saoudite / Golfe Persique",
+   "resume": "Un avion civil qui reliait Dubaï à Tel-Aviv a dû se poser en urgence en Arabie saoudite après un incident à bord. D'après la presse israélienne, une bagarre aurait éclaté entre les pilotes dans le cockpit. Heureusement, ",
+   "source": "© Malak Harb, AP · 30/09 10:20"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes massives russes contre les infrastructures énergétiques ukrainiennes",
+   "zone": "Ukraine / Europe",
+   "resume": "La Russie a mené une série de frappes aériennes meurtrières visant directement le réseau d'électricité et de chauffage à Kiev et ses environs. Ces attaques ont fait plusieurs victimes civiles et soulignent la volonté de ",
+   "source": "Le Monde — International · 30/09 08:20"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Visite d'État de Javier Milei à Paris pour attirer des investisseurs",
+   "zone": "Argentine / France",
+   "resume": "Le président de l'Argentine est à Paris pour séduire des investisseurs et trouver de l'argent frais. Sa politique ultralibérale a réussi à baisser l'inflation, mais le pays souffre toujours d'une pauvreté persistante et ",
+   "source": "France 24 — Monde · 30/09 08:26"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Inflation à 3 % et record historique de la dette publique en France",
    "zone": "France",
-   "resume": "Le patron du Rassemblement national, Jordan Bardella, est visé par des accusations d'antisémitisme basées sur des messages qu'il aurait écrits en 2013 sous pseudonyme. Alors que son parti dénonce un complot politique pou",
-   "source": "© France 24 · 29/09 10:27"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "La Malaisie procède au renvoi de 1 500 ressortissants birmans malgré les alertes de l'ONU",
-   "zone": "Asie du Sud-Est",
-   "resume": "La Malaisie a commencé à expulser des centaines de réfugiés birmans vers leur pays d'origine, provoquant une condamnation de l'ONU. Cette décision inquiète les organisations humanitaires en raison des persécutions et du ",
-   "source": "Le Monde — International · 29/09 10:16"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Tensions diplomatiques entre Kiev et Séoul autour de prisonniers nord-coréens",
-   "zone": "Asie / Ukraine",
-   "resume": "La Corée du Sud est furieuse contre l'Ukraine après que celle-ci a vendu la mèche à l'ONU concernant le transfert secret de prisonniers nord-coréens vers Séoul. Le gouvernement sud-coréen réclame des excuses pour cette i",
-   "source": "Le Monde — International · 29/09 06:30"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Visite secrète de Benjamin Netanyahu aux Émirats arabes unis",
-   "zone": "Moyen-Orient",
-   "resume": "Le dirigeant israélien Benjamin Netanyahu a fait un voyage secret aux Émirats arabes unis pour des discussions dont la teneur exacte n'a pas été révélée. Ce genre de déplacement discret entre alliés met en lumière des tr",
-   "source": "© Mike Segar, Reuters · 29/09 09:45"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Détroit d'Ormuz : l'Iran attend une réponse des États-Unis sur son plan",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "L'Iran pose ses conditions pour rouvrir le détroit d'Ormuz, un passage maritime stratégique pour le pétrole mondial, en réclamant un cessez-le-feu de sept jours. Les autorités iraniennes attendent de savoir si les États-",
-   "source": "© Yuki Iwamura, AP Photo · 29/09 06:58"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Sabotage d'un fabricant de drones en Estonie attribué à Moscou",
-   "zone": "Europe de l'Est",
-   "resume": "L'Estonie accuse ouvertement la Russie d'avoir commandité l'incendie des locaux d'un fabricant de drones militaire sur son sol. Cet acte de sabotage met en lumière la guerre invisible menée par Moscou à travers l'Europe ",
-   "source": "Le Monde — International · 29/09 08:30"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Grève générale dans la fonction publique en France",
-   "zone": "France",
-   "resume": "Les agents de la fonction publique manifestent partout en France pour défendre leur pouvoir d'achat face au gel des salaires et aux restrictions budgétaires prévues pour 2027. Cette mobilisation perturbe de nombreux serv",
-   "source": "France 24 — Monde · 29/09 09:56"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Sommet sur la régulation de l'intelligence artificielle à la Maison-Blanche",
-   "zone": "États-Unis",
-   "resume": "Donald Trump convie les patrons des plus grandes entreprises d'intelligence artificielle à la Maison-Blanche pour discuter de règles de contrôle. Ce secteur ultra-rapide cherche un équilibre délicat entre impératifs de s",
-   "source": "© Martin LELIEVRE / AFP/Archives · 29/09 06:16"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "La Russie saisit les actifs du distributeur allemand Metro",
-   "zone": "Russie",
-   "resume": "La Russie continue d'exproprier les entreprises occidentales en plaçant sous son contrôle les hypermarchés allemands Metro. Une telle mesure, qui touche des milliers d'employés, s'inscrit dans le contexte de tensions éco",
-   "source": "Le Monde — International · 29/09 07:27"
+   "resume": "La France fait face à une double mauvaise nouvelle économique : l'inflation est repartie à la hausse à 3 % sur un an en raison du coût de l'énergie et des produits frais. De plus, la dette du pays bat un record absolu en",
+   "source": "© Stephane de Sakutin, AFP · 30/09 09:08"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "La littérature face à l'intelligence artificielle : inquiétudes d'écrivains",
-   "zone": "France",
-   "resume": "Un écrivain est soupçonné d'avoir écrit son livre à l'aide d'une intelligence artificielle, provoquant un débat enflammé chez les auteurs français. Des figures de la culture alertent sur le risque de voir la machine remp",
-   "source": "RFI — Monde · 29/09 07:29"
+   "titre": "Plus d'un tiers de la population mondiale exposée à une pollution extrême à l'ozone",
+   "zone": "Monde",
+   "resume": "Plus d'un tiers des habitants de la planète ont respiré un air dangereusement pollué par l'ozone cette année. Ce phénomène s'aggrave à cause des vagues de chaleur intérieures et des gigantesques incendies de forêt. Les s",
+   "source": "© Luis Lizarazo, AFP · 30/09 07:52"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Des municipalités américaines interdisent les fast-foods avec service au volant",
+   "zone": "États-Unis",
+   "resume": "Aux États-Unis, certaines villes décident d'interdire les célèbres restaurants de type fast-food avec service au volant. Les autorités locales estiment que ces structures encouragent la pollution, l'usage excessif de la ",
+   "source": "Le Monde — International · 30/09 01:30"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "La Premier League inflige de lourdes accusations financières à Manchester City",
+   "zone": "Royaume-Uni",
+   "resume": "Manchester City risque des sanctions historiques après avoir été jugé coupable de plus d'une centaine d'infractions aux règles financières du championnat anglais sur une période de dix ans. Les montants en jeu dépassent ",
+   "source": "France 24 — Monde · 30/09 10:22"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Première victoire de Patrick Vieira à la tête de la sélection du Sénégal",
+   "zone": "Sénégal / Éthiopie",
+   "resume": "Pour ses débuts sur le banc du Sénégal, l'entraîneur Patrick Vieira a décroché une victoire précieuse face à l'Éthiopie (1-0). Ce succès à l'extérieur, scellé par un but du jeune Ibrahim Mbaye, marque des débuts réussis ",
+   "source": "France 24 — Monde · 30/09 08:11"
   }
  ]
 }
