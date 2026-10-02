@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-01T11:23:16+00:00",
+ "genere_le": "2026-10-02T10:54:33+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Contestation sociale et blocages dans les lycées et universités",
-   "zone": "France",
-   "resume": "La contestation lycéenne contre les politiques du gouvernement s'étend aux universités françaises avec des blocages dans plusieurs facultés. Face à des incidents violents, les syndicats appellent à durcir le mouvement, t",
-   "source": "France 24 — Monde · 01/10 09:01"
+   "titre": "Scandale en Israël sur le financement qatari du Hamas",
+   "zone": "Israël / Palestine / Qatar",
+   "resume": "Une enquête journalistique révèle comment le Premier ministre israélien, Benjamin Netanyahu, aurait facilité pendant des années le transfert de valises de billets du Qatar vers le Hamas à Gaza. L'objectif politique suppo",
+   "source": "France 24 — Moyen-Orient · 02/10 09:15"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Campagne présidentielle au Brésil : Lula et Flavio Bolsonaro en tête",
+   "titre": "Tensions diplomatiques entre Séoul et Kiev sur des prisonniers nord-coréens",
+   "zone": "Corée du Sud / Ukraine",
+   "resume": "La Corée du Sud est en colère contre l'Ukraine et lui demande des excuses. Kiev a révélé publiquement le transfert secret de deux prisonniers de guerre nord-coréens vers le Sud, alors que les deux pays s'étaient mis d'ac",
+   "source": "© Jeon Heon-kyun, AP · 02/10 05:31"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Élection présidentielle sous haute tension au Brésil",
    "zone": "Brésil",
-   "resume": "Au Brésil, l'élection présidentielle de ce dimanche 4 octobre oppose principalement le président sortant Lula à Flavio Bolsonaro, fils de l'ancien président Jair Bolsonaro. Les autres candidats sont loin derrière, mais l",
-   "source": "© Amanda Perobelli, Reuters · 01/10 06:17"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Rapport parlementaire français sur l'appropriation de l'OTAN par l'UE",
-   "zone": "Europe",
-   "resume": "Des députés français estiment dans un rapport que l'Europe doit davantage contrôler l'OTAN pour devenir autonome militairement face aux États-Unis. Cela implique de produire plus d'armes en Europe et de réfléchir à une p",
-   "source": "Le Monde — International · 01/10 09:00"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Le Premier ministre britannique Andy Burnham évoque un retour du Royaume-Uni dans l'UE",
-   "zone": "Royaume-Uni / Europe",
-   "resume": "Dix ans après le Brexit, le Premier ministre britannique Andy Burnham a surpris en déclarant qu'un retour du Royaume-Uni dans l'Union européenne était envisageable. C'est la première fois qu'un dirigeant du pays évoque a",
-   "source": "France 24 — Monde · 01/10 08:57"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Le ministre américain de la Défense annonce une réduction des hauts gradés",
-   "zone": "États-Unis",
-   "resume": "Aux États-Unis, le ministre de la Défense Pete Hegseth affirme avoir taillé de 20 % dans les rangs des plus hauts généraux et amiraux de l'armée. Une décision majeure visant à restructurer la hiérarchie militaire américa",
-   "source": "France 24 — Monde · 01/10 09:06"
+   "resume": "Le Brésil s'apprête à voter pour élire son président dans un climat très tendu entre le président sortant Lula et le camp de l'ancien président Bolsonaro. Le dernier grand débat télévisé a été annulé, et la campagne est ",
+   "source": "France 24 — Monde · 02/10 09:12"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Incident à bord du vol Flydubai vers Tel-Aviv",
+   "titre": "Détournement évité du vol Flydubai vers Tel-Aviv",
    "zone": "Moyen-Orient",
-   "resume": "Un vol entre Dubaï et Tel-Aviv a failli mal tourner à cause d'une violente altercation entre les pilotes dans le cockpit. Heureusement, le commandant de bord et des passagers courageux ont réussi à poser l'avion en sécur",
-   "source": "AFP - - · 01/10 09:26"
+   "resume": "Un pilote de la compagnie Flydubai a sauvé ses passagers d'une catastrophe aérienne après avoir été agressé par son propre copilote alors que l'avion se dirigeait vers Israël. Malgré ses blessures, il a réussi à stabilis",
+   "source": "Le Monde — International · 02/10 10:09"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Extension d'avant-postes israéliens à Masafer Yatta en Cisjordanie",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "En Cisjordanie, des colons ont construit plusieurs petits villages non autorisés dans une zone que l'armée israélienne interdit pourtant d'accès. Cette occupation illégale augmente les tensions sur place et montre la dif",
-   "source": "© Anonymous activist · 01/10 09:59"
+   "titre": "Tensions et sanctions contre les colons en Cisjordanie",
+   "zone": "Palestine / Cisjordanie",
+   "resume": "Malgré les sanctions économiques décidées par plusieurs pays occidentaux, les colons israéliens installés en Cisjordanie affirment qu'ils ne quitteront pas leurs terres. Sur le terrain, les tensions augmentent avec l'uti",
+   "source": "© Les Observateurs / Herd of Justice · 02/10 08:58"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes de drones russes sur Kiev et sites ukrainiens",
-   "zone": "Ukraine / Russie",
-   "resume": "La guerre en Ukraine se poursuit avec des attaques de drones russes qui ont visé des ponts et des sites scientifiques à Kiev. De son côté, l'Ukraine continue de riposter en frappant des objectifs directement en Russie.",
-   "source": "Le Monde — International · 01/10 08:53"
+   "titre": "Frappes russes majeures sur les infrastructures de Kiev",
+   "zone": "Ukraine",
+   "resume": "La Russie a mené de violentes attaques de drones et de missiles sur Kiev, touchant un immeuble d'habitation et endommageant gravement le pont Pivdenny, un axe de transport vital pour la capitale. C'est la première fois q",
+   "source": "Le Monde — International · 02/10 08:36"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Présentation du projet de budget 2027 en France",
-   "zone": "France / Europe",
-   "resume": "Le gouvernement français présente son budget pour 2027 dans un contexte très difficile : la France a beaucoup de dettes et les marchés financiers surveillent de près la situation. Pour faire des économies, le projet incl",
-   "source": "France 24 — Monde · 01/10 09:12"
+   "titre": "Difficultés de financement pour la reconstruction du Liban",
+   "zone": "Liban",
+   "resume": "Le gouvernement libanais a annoncé qu'il n'avait pas l'argent nécessaire pour reconstruire les zones dévastées par les récents combats entre le Hezbollah et l'armée israélienne. Le pays, déjà ruiné par une crise économiq",
+   "source": "Le Monde — International · 02/10 09:01"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Hausse des prix des carburants et impact sur le pouvoir d'achat en Europe",
-   "zone": "Europe",
-   "resume": "Les prix du pétrole augmentent fortement, ce qui fait grimper le coût de la vie et le prix du carburant en Europe. Pour éviter une crise trop violente pour le pouvoir d'achat, les gouvernements européens sont obligés de ",
-   "source": "Le Monde — International · 01/10 04:00"
+   "titre": "Menace d'effondrement économique en Ukraine face aux frappes russes",
+   "zone": "Ukraine",
+   "resume": "En plus des pertes humaines, les bombardements russes visent délibérément à détruire l'économie ukrainienne en s'attaquant aux usines, aux ports et au réseau électrique. Sans électricité ni moyens de transport pour expor",
+   "source": "Le Monde — International · 02/10 08:30"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Inflation record en zone euro et appel de la France au G7",
+   "zone": "Europe / G7",
+   "resume": "Les prix continuent de grimper en Europe, avec une inflation qui atteint 3,8 % à cause du coût de l'énergie. Pour tenter de calmer le jeu, le président Emmanuel Macron demande aux pays les plus riches du monde (le G7) de",
+   "source": "Le Monde — International · 02/10 10:42"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Mobilisation et blocages de lycées en France",
+   "zone": "France",
+   "resume": "Des milliers de lycéens et d'étudiants manifestent en France pour protester contre leurs conditions d'études, comme le manque de professeurs et des classes trop chargées. Le mouvement a pris de l'ampleur avec le blocage ",
+   "source": "France 24 — Monde · 02/10 08:25"
   }
  ]
 }
