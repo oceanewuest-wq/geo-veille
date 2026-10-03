@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-02T10:54:33+00:00",
+ "genere_le": "2026-10-03T10:16:59+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Scandale en Israël sur le financement qatari du Hamas",
-   "zone": "Israël / Palestine / Qatar",
-   "resume": "Une enquête journalistique révèle comment le Premier ministre israélien, Benjamin Netanyahu, aurait facilité pendant des années le transfert de valises de billets du Qatar vers le Hamas à Gaza. L'objectif politique suppo",
-   "source": "France 24 — Moyen-Orient · 02/10 09:15"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Tensions diplomatiques entre Séoul et Kiev sur des prisonniers nord-coréens",
-   "zone": "Corée du Sud / Ukraine",
-   "resume": "La Corée du Sud est en colère contre l'Ukraine et lui demande des excuses. Kiev a révélé publiquement le transfert secret de deux prisonniers de guerre nord-coréens vers le Sud, alors que les deux pays s'étaient mis d'ac",
-   "source": "© Jeon Heon-kyun, AP · 02/10 05:31"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Élection présidentielle sous haute tension au Brésil",
-   "zone": "Brésil",
-   "resume": "Le Brésil s'apprête à voter pour élire son président dans un climat très tendu entre le président sortant Lula et le camp de l'ancien président Bolsonaro. Le dernier grand débat télévisé a été annulé, et la campagne est ",
-   "source": "France 24 — Monde · 02/10 09:12"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Détournement évité du vol Flydubai vers Tel-Aviv",
+   "titre": "Comprendre l'influence des houthistes au Yémen",
    "zone": "Moyen-Orient",
-   "resume": "Un pilote de la compagnie Flydubai a sauvé ses passagers d'une catastrophe aérienne après avoir été agressé par son propre copilote alors que l'avion se dirigeait vers Israël. Malgré ses blessures, il a réussi à stabilis",
-   "source": "Le Monde — International · 02/10 10:09"
+   "resume": "Les houthistes sont un groupe armé qui contrôle une grande partie du Yémen, y compris un détroit maritime crucial par lequel passent les navires de commerce du monde entier. Alliés de l'Iran, ils utilisent cette position",
+   "source": "Le Monde — International · 03/10 04:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Présidentielle au Brésil : Lula et Bolsonaro au coude-à-coude",
+   "zone": "Brésil",
+   "resume": "Les Brésiliens s'apprêtent à voter pour élire leur président dans un duel très serré entre le dirigeant de gauche actuel, Lula, et son rival de droite, Jair Bolsonaro. Le pays est profondément divisé entre ces deux visio",
+   "source": "France 24 — Monde · 03/10 09:34"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions et sanctions contre les colons en Cisjordanie",
-   "zone": "Palestine / Cisjordanie",
-   "resume": "Malgré les sanctions économiques décidées par plusieurs pays occidentaux, les colons israéliens installés en Cisjordanie affirment qu'ils ne quitteront pas leurs terres. Sur le terrain, les tensions augmentent avec l'uti",
-   "source": "© Les Observateurs / Herd of Justice · 02/10 08:58"
+   "titre": "Enquête sur le vol Flydubai",
+   "zone": "Moyen-Orient",
+   "resume": "Le copilote d'un avion de la compagnie Flydubai a tenté de détourner son appareil en attaquant le pilote avec une hache de secours. Les enquêteurs des Émirats arabes unis qualifient officiellement cet incident d'acte ter",
+   "source": "France 24 — Moyen-Orient · 03/10 09:43"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes russes majeures sur les infrastructures de Kiev",
+   "titre": "Démolition de maisons en Cisjordanie",
+   "zone": "Israël / Palestine",
+   "resume": "En Cisjordanie, les autorités israéliennes continuent de détruire des maisons palestiniennes à l'aide de bulldozers, souvent sous prétexte qu'elles ont été construites sans autorisation. Pour les habitants et les observa",
+   "source": "RFI — Monde · 03/10 09:09"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Projet d'attentat déjoué à Manchester",
+   "zone": "Iran",
+   "resume": "Deux hommes de nationalité iranienne ont été arrêtés et inculpés au Royaume-Uni pour avoir préparé un attentat contre la communauté juive de Manchester. Ils essayaient d'acheter du matériel pour fabriquer une bombe en co",
+   "source": "Le Monde — International · 02/10 22:16"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Retrait des rebelles du Tigré à Mekele",
+   "zone": "Éthiopie",
+   "resume": "En Éthiopie, les combattants rebelles de la région du Tigré ont commencé à fuir leur capitale, Mekele, face à l'avancée rapide de l'armée du gouvernement. C'est un moment crucial dans cette guerre civile qui dure depuis ",
+   "source": "© Reuters (archives) · 03/10 09:33"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes russes sur les ponts de Kiev",
    "zone": "Ukraine",
-   "resume": "La Russie a mené de violentes attaques de drones et de missiles sur Kiev, touchant un immeuble d'habitation et endommageant gravement le pont Pivdenny, un axe de transport vital pour la capitale. C'est la première fois q",
-   "source": "Le Monde — International · 02/10 08:36"
+   "resume": "La Russie a bombardé un deuxième grand pont à Kiev, la capitale de l'Ukraine, après en avoir déjà touché un autre quelques jours plus tôt. Ces ponts traversent le fleuve Dniepr et sont essentiels pour que les habitants e",
+   "source": "Le Monde — International · 03/10 08:53"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Difficultés de financement pour la reconstruction du Liban",
-   "zone": "Liban",
-   "resume": "Le gouvernement libanais a annoncé qu'il n'avait pas l'argent nécessaire pour reconstruire les zones dévastées par les récents combats entre le Hezbollah et l'armée israélienne. Le pays, déjà ruiné par une crise économiq",
-   "source": "Le Monde — International · 02/10 09:01"
+   "titre": "Crise du logement et instabilité politique en Espagne",
+   "zone": "Espagne",
+   "resume": "En Espagne, le Premier ministre Pedro Sanchez a subi un échec important car les députés ont rejeté ses propositions de lois pour freiner la crise du logement. Cela montre que son gouvernement est très fragile et pourrait",
+   "source": "France 24 — Monde · 03/10 08:37"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Menace d'effondrement économique en Ukraine face aux frappes russes",
-   "zone": "Ukraine",
-   "resume": "En plus des pertes humaines, les bombardements russes visent délibérément à détruire l'économie ukrainienne en s'attaquant aux usines, aux ports et au réseau électrique. Sans électricité ni moyens de transport pour expor",
-   "source": "Le Monde — International · 02/10 08:30"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Inflation record en zone euro et appel de la France au G7",
-   "zone": "Europe / G7",
-   "resume": "Les prix continuent de grimper en Europe, avec une inflation qui atteint 3,8 % à cause du coût de l'énergie. Pour tenter de calmer le jeu, le président Emmanuel Macron demande aux pays les plus riches du monde (le G7) de",
-   "source": "Le Monde — International · 02/10 10:42"
+   "titre": "L'Italie prépare son retour à l'énergie nucléaire",
+   "zone": "Italie",
+   "resume": "Le gouvernement italien dirigé par Giorgia Meloni veut relancer l'énergie nucléaire, abandonnée par le pays il y a quarante ans après la catastrophe de Tchernobyl. Le Parlement a donné un an au gouvernement pour préparer",
+   "source": "Le Monde — International · 03/10 08:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Mobilisation et blocages de lycées en France",
-   "zone": "France",
-   "resume": "Des milliers de lycéens et d'étudiants manifestent en France pour protester contre leurs conditions d'études, comme le manque de professeurs et des classes trop chargées. Le mouvement a pris de l'ampleur avec le blocage ",
-   "source": "France 24 — Monde · 02/10 08:25"
+   "titre": "Départ des réfugiés syriens du Liban",
+   "zone": "Liban",
+   "resume": "Après la chute du pouvoir en Syrie, de nombreux réfugiés syriens qui vivaient au Liban ont décidé de rentrer chez eux. Si ce retour était réclamé par les Libanais, il crée aujourd'hui un grand vide économique, notamment ",
+   "source": "Le Monde — International · 03/10 03:30"
   }
  ]
 }
