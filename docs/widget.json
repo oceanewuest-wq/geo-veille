@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-03T10:16:59+00:00",
+ "genere_le": "2026-10-04T10:56:41+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Comprendre l'influence des houthistes au Yémen",
-   "zone": "Moyen-Orient",
-   "resume": "Les houthistes sont un groupe armé qui contrôle une grande partie du Yémen, y compris un détroit maritime crucial par lequel passent les navires de commerce du monde entier. Alliés de l'Iran, ils utilisent cette position",
-   "source": "Le Monde — International · 03/10 04:00"
+   "titre": "Élection présidentielle polarisée au Brésil",
+   "zone": "Brésil",
+   "resume": "Le Brésil vote pour élire son président dans un climat de forte division entre la gauche de Lula et l'extrême droite de Flavio Bolsonaro. Ce choix de société est crucial pour l'avenir de la démocratie et de l'environneme",
+   "source": "© Evaristo Sa, Mauro Pimentel, AFP · 04/10 05:18"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Présidentielle au Brésil : Lula et Bolsonaro au coude-à-coude",
-   "zone": "Brésil",
-   "resume": "Les Brésiliens s'apprêtent à voter pour élire leur président dans un duel très serré entre le dirigeant de gauche actuel, Lula, et son rival de droite, Jair Bolsonaro. Le pays est profondément divisé entre ces deux visio",
-   "source": "France 24 — Monde · 03/10 09:34"
+   "titre": "Succès historique des pro-européens aux législatives en Lettonie",
+   "zone": "Lettonie",
+   "resume": "Le parti du premier ministre letton, très favorable à l'Europe et à l'Ukraine, a remporté une large victoire aux élections. Cela rassure les alliés occidentaux face à la Russie voisine, même si les partis populistes gagn",
+   "source": "Le Monde — International · 04/10 09:07"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Élections générales sous haute tension en Bosnie-Herzégovine",
+   "zone": "Bosnie-Herzégovine",
+   "resume": "La Bosnie-Herzégovine vote pour élire ses dirigeants dans un pays toujours profondément divisé depuis la guerre des années 1990. Les tensions entre les différentes communautés (serbe, croate et bosniaque) menacent l'unit",
+   "source": "France 24 — Monde · 04/10 08:41"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Enquête sur le vol Flydubai",
+   "titre": "Mise en examen en France pour soupçons de financement du Hamas",
+   "zone": "Israël / Palestine / France",
+   "resume": "Cinq personnes ont été inculpées en France, soupçonnées d'avoir détourné de l'argent d'associations caritatives pour financer le Hamas. Cette affaire fait suite à une enquête américaine sur des réseaux de financement cla",
+   "source": "Le Monde — International · 03/10 22:50"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Visite surprise du chancelier allemand à Kiev sous les bombes",
+   "zone": "Ukraine / Allemagne / Russie",
+   "resume": "Le dirigeant allemand s'est rendu à Kiev pour montrer sa solidarité avec l'Ukraine, mais son voyage a été marqué par une attaque de drone russe sur un pont de la ville. La Russie cherche à détruire les infrastructures uk",
+   "source": "© Alina Smutko, Reuters · 04/10 07:26"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Frappe des houthistes contre un site d'Aramco à Riyad",
    "zone": "Moyen-Orient",
-   "resume": "Le copilote d'un avion de la compagnie Flydubai a tenté de détourner son appareil en attaquant le pilote avec une hache de secours. Les enquêteurs des Émirats arabes unis qualifient officiellement cet incident d'acte ter",
-   "source": "France 24 — Moyen-Orient · 03/10 09:43"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Démolition de maisons en Cisjordanie",
-   "zone": "Israël / Palestine",
-   "resume": "En Cisjordanie, les autorités israéliennes continuent de détruire des maisons palestiniennes à l'aide de bulldozers, souvent sous prétexte qu'elles ont été construites sans autorisation. Pour les habitants et les observa",
-   "source": "RFI — Monde · 03/10 09:09"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Projet d'attentat déjoué à Manchester",
-   "zone": "Iran",
-   "resume": "Deux hommes de nationalité iranienne ont été arrêtés et inculpés au Royaume-Uni pour avoir préparé un attentat contre la communauté juive de Manchester. Ils essayaient d'acheter du matériel pour fabriquer une bombe en co",
-   "source": "Le Monde — International · 02/10 22:16"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Retrait des rebelles du Tigré à Mekele",
-   "zone": "Éthiopie",
-   "resume": "En Éthiopie, les combattants rebelles de la région du Tigré ont commencé à fuir leur capitale, Mekele, face à l'avancée rapide de l'armée du gouvernement. C'est un moment crucial dans cette guerre civile qui dure depuis ",
-   "source": "© Reuters (archives) · 03/10 09:33"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Frappes russes sur les ponts de Kiev",
-   "zone": "Ukraine",
-   "resume": "La Russie a bombardé un deuxième grand pont à Kiev, la capitale de l'Ukraine, après en avoir déjà touché un autre quelques jours plus tôt. Ces ponts traversent le fleuve Dniepr et sont essentiels pour que les habitants e",
-   "source": "Le Monde — International · 03/10 08:53"
+   "resume": "Les rebelles yéménites houthistes ont attaqué un site de la compagnie pétrolière Aramco en Arabie saoudite. Ce conflit, qui dure depuis des années, menace directement la sécurité énergétique mondiale. Malgré des tentativ",
+   "source": "Le Monde — International · 03/10 20:06"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Crise du logement et instabilité politique en Espagne",
-   "zone": "Espagne",
-   "resume": "En Espagne, le Premier ministre Pedro Sanchez a subi un échec important car les députés ont rejeté ses propositions de lois pour freiner la crise du logement. Cela montre que son gouvernement est très fragile et pourrait",
-   "source": "France 24 — Monde · 03/10 08:37"
+   "titre": "ASML : l'absence de ventes en Europe révèle un retard technologique",
+   "zone": "Europe",
+   "resume": "L'entreprise européenne ASML fabrique les machines les plus sophistiquées du monde pour créer des puces électroniques, mais elle n'en vend aucune en Europe. Cela montre que l'Europe prend du retard dans la production de ",
+   "source": "Le Monde — International · 04/10 10:00"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "L'Italie prépare son retour à l'énergie nucléaire",
-   "zone": "Italie",
-   "resume": "Le gouvernement italien dirigé par Giorgia Meloni veut relancer l'énergie nucléaire, abandonnée par le pays il y a quarante ans après la catastrophe de Tchernobyl. Le Parlement a donné un an au gouvernement pour préparer",
-   "source": "Le Monde — International · 03/10 08:00"
+   "titre": "Le gisement de graphite d'Amitsoq au Groenland attise les convoitises",
+   "zone": "Groenland / Union européenne",
+   "resume": "L'Europe s'intéresse de très près à une mine de graphite au Groenland, un matériau indispensable pour fabriquer des batteries de voitures électriques et du matériel militaire. Aujourd'hui, la Chine contrôle presque tout ",
+   "source": "Le Monde — International · 04/10 04:10"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Départ des réfugiés syriens du Liban",
-   "zone": "Liban",
-   "resume": "Après la chute du pouvoir en Syrie, de nombreux réfugiés syriens qui vivaient au Liban ont décidé de rentrer chez eux. Si ce retour était réclamé par les Libanais, il crée aujourd'hui un grand vide économique, notamment ",
-   "source": "Le Monde — International · 03/10 03:30"
+   "titre": "Zara Esmaeili : la voix de la résistance face au régime iranien",
+   "zone": "Iran",
+   "resume": "Zara Esmaeili est une jeune chanteuse qui a défié les lois iraniennes en chantant dans la rue sans voile. Arrêtée puis condamnée, elle a réussi à fuir son pays pour continuer à s'exprimer librement. Son histoire montre q",
+   "source": "© France 24 · 04/10 07:12"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Enquête externe sur la gestion d'un viol présumé à l'université Cornell",
+   "zone": "États-Unis",
+   "resume": "La prestigieuse université américaine Cornell fait face à un scandale après des soupçons de dissimulation par la police du campus lors d'une affaire de viol. Pour calmer la colère des étudiants et faire la lumière sur l'",
+   "source": "France 24 — Monde · 04/10 10:33"
   }
  ]
 }
