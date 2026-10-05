@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-04T10:56:41+00:00",
+ "genere_le": "2026-10-05T12:02:41+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élection présidentielle polarisée au Brésil",
-   "zone": "Brésil",
-   "resume": "Le Brésil vote pour élire son président dans un climat de forte division entre la gauche de Lula et l'extrême droite de Flavio Bolsonaro. Ce choix de société est crucial pour l'avenir de la démocratie et de l'environneme",
-   "source": "© Evaristo Sa, Mauro Pimentel, AFP · 04/10 05:18"
+   "titre": "Controverse au sein des Verts britanniques sur la définition du sionisme",
+   "zone": "Royaume-Uni / Proche-Orient",
+   "resume": "Le parti écologiste britannique a voté un texte déclarant que le sionisme est une forme de racisme, ce qui a déclenché une vive indignation en Israël et divisé ses propres militants. Ce vote illustre à quel point la guer",
+   "source": "Le Monde — International · 05/10 08:16"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Succès historique des pro-européens aux législatives en Lettonie",
-   "zone": "Lettonie",
-   "resume": "Le parti du premier ministre letton, très favorable à l'Europe et à l'Ukraine, a remporté une large victoire aux élections. Cela rassure les alliés occidentaux face à la Russie voisine, même si les partis populistes gagn",
-   "source": "Le Monde — International · 04/10 09:07"
+   "titre": "Percée électorale de Flavio Bolsonaro à l'élection présidentielle au Brésil",
+   "zone": "Amérique latine",
+   "resume": "Flavio Bolsonaro, le fils de l'ancien président Jair Bolsonaro, a créé la surprise en arrivant premier au premier tour de l'élection présidentielle face au président de gauche en exercice, Lula. Ce score montre un rejet ",
+   "source": "RFI — Monde · 05/10 10:03"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections générales sous haute tension en Bosnie-Herzégovine",
-   "zone": "Bosnie-Herzégovine",
-   "resume": "La Bosnie-Herzégovine vote pour élire ses dirigeants dans un pays toujours profondément divisé depuis la guerre des années 1990. Les tensions entre les différentes communautés (serbe, croate et bosniaque) menacent l'unit",
-   "source": "France 24 — Monde · 04/10 08:41"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Mise en examen en France pour soupçons de financement du Hamas",
-   "zone": "Israël / Palestine / France",
-   "resume": "Cinq personnes ont été inculpées en France, soupçonnées d'avoir détourné de l'argent d'associations caritatives pour financer le Hamas. Cette affaire fait suite à une enquête américaine sur des réseaux de financement cla",
-   "source": "Le Monde — International · 03/10 22:50"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Visite surprise du chancelier allemand à Kiev sous les bombes",
-   "zone": "Ukraine / Allemagne / Russie",
-   "resume": "Le dirigeant allemand s'est rendu à Kiev pour montrer sa solidarité avec l'Ukraine, mais son voyage a été marqué par une attaque de drone russe sur un pont de la ville. La Russie cherche à détruire les infrastructures uk",
-   "source": "© Alina Smutko, Reuters · 04/10 07:26"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Frappe des houthistes contre un site d'Aramco à Riyad",
-   "zone": "Moyen-Orient",
-   "resume": "Les rebelles yéménites houthistes ont attaqué un site de la compagnie pétrolière Aramco en Arabie saoudite. Ce conflit, qui dure depuis des années, menace directement la sécurité énergétique mondiale. Malgré des tentativ",
-   "source": "Le Monde — International · 03/10 20:06"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "ASML : l'absence de ventes en Europe révèle un retard technologique",
+   "titre": "Crise politique en Espagne et convocation d'élections anticipées par Pedro Sánchez",
    "zone": "Europe",
-   "resume": "L'entreprise européenne ASML fabrique les machines les plus sophistiquées du monde pour créer des puces électroniques, mais elle n'en vend aucune en Europe. Cela montre que l'Europe prend du retard dans la production de ",
-   "source": "Le Monde — International · 04/10 10:00"
+   "resume": "Faute de soutiens suffisants au Parlement après l'échec d'une loi majeure sur le logement, le Premier ministre espagnol Pedro Sánchez a choisi de dissoudre l'Assemblée. Les Espagnols retourneront donc aux urnes à la fin ",
+   "source": "© Marcelo del Pozo, Reuters · 05/10 07:18"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Offensive militaire du gouvernement yéménite contre les rebelles Houthis",
+   "zone": "Moyen-Orient / Yémen",
+   "resume": "Au Yémen, la guerre civile s'intensifie de nouveau. Les forces loyalistes soutenues par l'Arabie saoudite tentent de reprendre du terrain face aux rebelles Houthis, alliés de l'Iran, qui venaient de bloquer des accès maj",
+   "source": "Le Monde — International · 05/10 11:11"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Violences de colons israéliens lors de la récolte des olives en Cisjordanie",
+   "zone": "Israël / Palestine",
+   "resume": "Chaque automne, la cueillette des olives est cruciale pour l'économie et la vie quotidienne des Palestiniens de Cisjordanie. Cette année, de vives tensions et des violences physiques impliquant des résidents d'implantati",
+   "source": "France 24 — Monde · 05/10 09:33"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Alerte du renseignement allemand sur les opérations hybrides russes en Europe",
+   "zone": "Europe",
+   "resume": "Les services secrets allemands préviennent que la confrontation avec la Russie ne se limite plus au front ukrainien. Ils accusent Moscou de mener des actions clandestines, comme des sabotages ou de l'espionnage, directem",
+   "source": "Le Monde — International · 05/10 11:42"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Le gisement de graphite d'Amitsoq au Groenland attise les convoitises",
-   "zone": "Groenland / Union européenne",
-   "resume": "L'Europe s'intéresse de très près à une mine de graphite au Groenland, un matériau indispensable pour fabriquer des batteries de voitures électriques et du matériel militaire. Aujourd'hui, la Chine contrôle presque tout ",
-   "source": "Le Monde — International · 04/10 04:10"
+   "titre": "Tensions maritimes et envolée des cours du transport pétrolier à Ormuz",
+   "zone": "Détroit d'Ormuz / Golfe Persique",
+   "resume": "Même si naviguer près de l'Iran et du Yémen est devenu très risqué, les pétroliers continuent de faire circuler le brut à plein régime. Face à ces risques et à la demande mondiale, les géants des mers d'occasion s'arrach",
+   "source": "France 24 — Monde · 05/10 09:35"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Zara Esmaeili : la voix de la résistance face au régime iranien",
-   "zone": "Iran",
-   "resume": "Zara Esmaeili est une jeune chanteuse qui a défié les lois iraniennes en chantant dans la rue sans voile. Arrêtée puis condamnée, elle a réussi à fuir son pays pour continuer à s'exprimer librement. Son histoire montre q",
-   "source": "© France 24 · 04/10 07:12"
+   "titre": "Attribution du prix Nobel de médecine aux pionniers de l'optogénétique",
+   "zone": "International / Suède",
+   "resume": "Le prix Nobel de médecine a été décerné à trois chercheurs qui ont inventé l'optogénétique. Cette technologie permet de commander des cellules du cerveau avec des flashs de lumière, ce qui aide les scientifiques à mieux ",
+   "source": "© Pontus Lundahl, TT News Agency via AP · 05/10 09:44"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Enquête externe sur la gestion d'un viol présumé à l'université Cornell",
-   "zone": "États-Unis",
-   "resume": "La prestigieuse université américaine Cornell fait face à un scandale après des soupçons de dissimulation par la police du campus lors d'une affaire de viol. Pour calmer la colère des étudiants et faire la lumière sur l'",
-   "source": "France 24 — Monde · 04/10 10:33"
+   "titre": "Fermeture de centaines de lycées en France face à une contestation sociale",
+   "zone": "France",
+   "resume": "Des centaines de lycées ont été perturbés ou fermés par des actions de blocage à travers la France. Les jeunes et plusieurs syndicats dénoncent les restrictions de moyens dans l'éducation, un mouvement marqué par des ten",
+   "source": "© Christophe Archambault, AFP · 05/10 05:11"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Équipe de France de football : match décisif en Ligue des nations face à la Belgique",
+   "zone": "Europe",
+   "resume": "Les Bleus affrontent la Belgique pour clore leur série de matchs internationaux d'automne. Il s'agit des premiers pas de Zinédine Zidane sur le banc tricolore, avec pour objectif de rassurer après des performances en dem",
+   "source": "© FRANCK FIFE / AFP/Archives · 05/10 07:48"
   }
  ]
 }
