@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-05T12:02:41+00:00",
+ "genere_le": "2026-10-06T11:45:58+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Controverse au sein des Verts britanniques sur la définition du sionisme",
-   "zone": "Royaume-Uni / Proche-Orient",
-   "resume": "Le parti écologiste britannique a voté un texte déclarant que le sionisme est une forme de racisme, ce qui a déclenché une vive indignation en Israël et divisé ses propres militants. Ce vote illustre à quel point la guer",
-   "source": "Le Monde — International · 05/10 08:16"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Percée électorale de Flavio Bolsonaro à l'élection présidentielle au Brésil",
-   "zone": "Amérique latine",
-   "resume": "Flavio Bolsonaro, le fils de l'ancien président Jair Bolsonaro, a créé la surprise en arrivant premier au premier tour de l'élection présidentielle face au président de gauche en exercice, Lula. Ce score montre un rejet ",
-   "source": "RFI — Monde · 05/10 10:03"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Crise politique en Espagne et convocation d'élections anticipées par Pedro Sánchez",
-   "zone": "Europe",
-   "resume": "Faute de soutiens suffisants au Parlement après l'échec d'une loi majeure sur le logement, le Premier ministre espagnol Pedro Sánchez a choisi de dissoudre l'Assemblée. Les Espagnols retourneront donc aux urnes à la fin ",
-   "source": "© Marcelo del Pozo, Reuters · 05/10 07:18"
+   "titre": "Victoire historique des indépendantistes aux élections provinciales au Québec",
+   "zone": "Canada / Québec",
+   "resume": "Les indépendantistes du Parti québécois ont remporté les élections régionales au Canada, portant leur chef Paul St-Pierre Plamondon au poste de Premier ministre. Cette victoire relance le débat historique sur l'indépenda",
+   "source": "France 24 — Monde · 06/10 10:03"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Offensive militaire du gouvernement yéménite contre les rebelles Houthis",
-   "zone": "Moyen-Orient / Yémen",
-   "resume": "Au Yémen, la guerre civile s'intensifie de nouveau. Les forces loyalistes soutenues par l'Arabie saoudite tentent de reprendre du terrain face aux rebelles Houthis, alliés de l'Iran, qui venaient de bloquer des accès maj",
-   "source": "Le Monde — International · 05/10 11:11"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Violences de colons israéliens lors de la récolte des olives en Cisjordanie",
+   "titre": "Commémorations du 7-Octobre et tensions sécuritaires en Israël et à Gaza",
    "zone": "Israël / Palestine",
-   "resume": "Chaque automne, la cueillette des olives est cruciale pour l'économie et la vie quotidienne des Palestiniens de Cisjordanie. Cette année, de vives tensions et des violences physiques impliquant des résidents d'implantati",
-   "source": "France 24 — Monde · 05/10 09:33"
+   "resume": "À l'approche du troisième anniversaire des attaques du 7 octobre, la tension monte d'un cran au Proche-Orient. Israël a prévenu qu'il répliquerait très sévèrement à Gaza si le Hamas tentait de perturber les commémoration",
+   "source": "© Oded Balilty, AP · 06/10 08:13"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Alerte du renseignement allemand sur les opérations hybrides russes en Europe",
-   "zone": "Europe",
-   "resume": "Les services secrets allemands préviennent que la confrontation avec la Russie ne se limite plus au front ukrainien. Ils accusent Moscou de mener des actions clandestines, comme des sabotages ou de l'espionnage, directem",
-   "source": "Le Monde — International · 05/10 11:42"
+   "titre": "Attaques de drones et de missiles houthis contre l'Arabie saoudite",
+   "zone": "Moyen-Orient",
+   "resume": "Les rebelles houthis du Yémen ont lancé des attaques aériennes contre des infrastructures clés en Arabie saoudite, notamment un aéroport et une raffinerie de pétrole. Ce regain de violence montre que le conflit yéménite ",
+   "source": "France 24 — Monde · 06/10 10:24"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Essai d'un nouveau missile nucléaire français sans charge",
+   "zone": "France",
+   "resume": "La France a testé avec succès un nouveau missile capable de transporter des armes nucléaires, tiré depuis un sous-marin mais sans charge explosive pour l'exercice. Le président Emmanuel Macron a personnellement assisté à",
+   "source": "© AFP, Thomas Samson · 06/10 09:35"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Attaque de drones contre des navires commerciaux en mer Noire",
+   "zone": "Mer Noire / Bulgarie",
+   "resume": "Deux bateaux de marchandises ont été attaqués par des drones au large de la Bulgarie, provoquant le naufrage de l'un d'eux et la disparition de membres d'équipage. Le gouvernement bulgare a fermement condamné cet acte qu",
+   "source": "© Nikolay DOYCHINOV / AFP · 06/10 10:36"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Attaque massive de drones sur Moscou",
+   "zone": "Russie",
+   "resume": "La ville de Moscou a été visée par une attaque de drones d'une ampleur inédite, avec 650 engins lancés en une seule nuit. Bien que la plupart aient été détruits en vol par l'armée russe, l'attaque a fait des victimes civ",
+   "source": "© Adrien Vautier, Reuters · 06/10 06:21"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Tensions maritimes et envolée des cours du transport pétrolier à Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Même si naviguer près de l'Iran et du Yémen est devenu très risqué, les pétroliers continuent de faire circuler le brut à plein régime. Face à ces risques et à la demande mondiale, les géants des mers d'occasion s'arrach",
-   "source": "France 24 — Monde · 05/10 09:35"
+   "titre": "Expansion industrielle des constructeurs automobiles chinois en Europe",
+   "zone": "Europe / Chine",
+   "resume": "Les géants chinois de l'automobile préparent l'ouverture de nombreuses usines en Europe pour y fabriquer plus d'un million de voitures par an d'ici 2030. En produisant directement sur place, ils espèrent éviter les lourd",
+   "source": "Le Monde — International · 06/10 07:01"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Projet controversé d'exploitation du gaz de schiste au Mexique",
+   "zone": "Mexique",
+   "resume": "Le Mexique s'apprête à lancer l'extraction de gaz de schiste en utilisant la méthode très contestée de la fracturation hydraulique. Cette technique consiste à injecter de l'eau et des produits chimiques à haute pression ",
+   "source": "France 24 — Monde · 06/10 09:43"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Attribution du prix Nobel de médecine aux pionniers de l'optogénétique",
-   "zone": "International / Suède",
-   "resume": "Le prix Nobel de médecine a été décerné à trois chercheurs qui ont inventé l'optogénétique. Cette technologie permet de commander des cellules du cerveau avec des flashs de lumière, ce qui aide les scientifiques à mieux ",
-   "source": "© Pontus Lundahl, TT News Agency via AP · 05/10 09:44"
+   "titre": "Attribution du prix Nobel de physique 2026 à Francis Halzen",
+   "zone": "International",
+   "resume": "Le physicien belge Francis Halzen a reçu le prestigieux prix Nobel de physique pour ses recherches menées en Antarctique. Il a réussi à détecter des neutrinos, des particules élémentaires presque invisibles venues de l'e",
+   "source": "© Steffen Trumpf, Reuters · 06/10 09:59"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Fermeture de centaines de lycées en France face à une contestation sociale",
+   "titre": "Mobilisation et tensions lors des manifestations lycéennes en France",
    "zone": "France",
-   "resume": "Des centaines de lycées ont été perturbés ou fermés par des actions de blocage à travers la France. Les jeunes et plusieurs syndicats dénoncent les restrictions de moyens dans l'éducation, un mouvement marqué par des ten",
-   "source": "© Christophe Archambault, AFP · 05/10 05:11"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Équipe de France de football : match décisif en Ligue des nations face à la Belgique",
-   "zone": "Europe",
-   "resume": "Les Bleus affrontent la Belgique pour clore leur série de matchs internationaux d'automne. Il s'agit des premiers pas de Zinédine Zidane sur le banc tricolore, avec pour objectif de rassurer après des performances en dem",
-   "source": "© FRANCK FIFE / AFP/Archives · 05/10 07:48"
+   "resume": "Depuis trois semaines, des milliers de lycéens manifestent en France pour dénoncer le manque de moyens dans leurs établissements et les difficultés d'accès aux études supérieures. Ce mouvement social s'est durci avec des",
+   "source": "France 24 — Monde · 06/10 10:32"
   }
  ]
 }
