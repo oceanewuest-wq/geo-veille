@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-06T11:45:58+00:00",
+ "genere_le": "2026-10-07T11:51:38+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Victoire historique des indépendantistes aux élections provinciales au Québec",
-   "zone": "Canada / Québec",
-   "resume": "Les indépendantistes du Parti québécois ont remporté les élections régionales au Canada, portant leur chef Paul St-Pierre Plamondon au poste de Premier ministre. Cette victoire relance le débat historique sur l'indépenda",
-   "source": "France 24 — Monde · 06/10 10:03"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Commémorations du 7-Octobre et tensions sécuritaires en Israël et à Gaza",
-   "zone": "Israël / Palestine",
-   "resume": "À l'approche du troisième anniversaire des attaques du 7 octobre, la tension monte d'un cran au Proche-Orient. Israël a prévenu qu'il répliquerait très sévèrement à Gaza si le Hamas tentait de perturber les commémoration",
-   "source": "© Oded Balilty, AP · 06/10 08:13"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaques de drones et de missiles houthis contre l'Arabie saoudite",
-   "zone": "Moyen-Orient",
-   "resume": "Les rebelles houthis du Yémen ont lancé des attaques aériennes contre des infrastructures clés en Arabie saoudite, notamment un aéroport et une raffinerie de pétrole. Ce regain de violence montre que le conflit yéménite ",
-   "source": "France 24 — Monde · 06/10 10:24"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Essai d'un nouveau missile nucléaire français sans charge",
-   "zone": "France",
-   "resume": "La France a testé avec succès un nouveau missile capable de transporter des armes nucléaires, tiré depuis un sous-marin mais sans charge explosive pour l'exercice. Le président Emmanuel Macron a personnellement assisté à",
-   "source": "© AFP, Thomas Samson · 06/10 09:35"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaque de drones contre des navires commerciaux en mer Noire",
-   "zone": "Mer Noire / Bulgarie",
-   "resume": "Deux bateaux de marchandises ont été attaqués par des drones au large de la Bulgarie, provoquant le naufrage de l'un d'eux et la disparition de membres d'équipage. Le gouvernement bulgare a fermement condamné cet acte qu",
-   "source": "© Nikolay DOYCHINOV / AFP · 06/10 10:36"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaque massive de drones sur Moscou",
+   "titre": "Commémoration des 20 ans de l'assassinat d'Anna Politkovskaïa",
    "zone": "Russie",
-   "resume": "La ville de Moscou a été visée par une attaque de drones d'une ampleur inédite, avec 650 engins lancés en une seule nuit. Bien que la plupart aient été détruits en vol par l'armée russe, l'attaque a fait des victimes civ",
-   "source": "© Adrien Vautier, Reuters · 06/10 06:21"
+   "resume": "Il y a vingt ans, la journaliste russe Anna Politkovskaïa était assassinée à Moscou parce qu'elle dénonçait les crimes de guerre russes en Tchétchénie et critiquait le pouvoir de Vladimir Poutine. Aujourd'hui, son combat",
+   "source": "© Pavel Golovkin, AP · 07/10 10:28"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Levée du mandat d'arrêt contre Carles Puigdemont en Espagne",
+   "zone": "Espagne",
+   "resume": "La justice espagnole a annulé le mandat d'arrêt qui visait le leader catalan Carles Puigdemont, exilé depuis la tentative d'indépendance de la Catalogne en 2017. Cette décision est le résultat d'une loi d'amnistie votée ",
+   "source": "Le Monde — International · 07/10 07:15"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Commémorations du 7-Octobre et avenir politique d'Israël",
+   "zone": "Israël / Palestine",
+   "resume": "Trois ans après l'attaque tragique du 7 octobre 2023, Israël se souvient de ses victimes tout en traversant une crise politique. Le Premier ministre Benjamin Netanyahu est très critiqué pour ne pas avoir su empêcher l'at",
+   "source": "© Debbie Hill, Reuters · 07/10 05:21"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Rapport sur les violences sexuelles du Hamas",
+   "zone": "Israël / Palestine",
+   "resume": "Une enquête indépendante menée par une commission civile en Israël montre que le Hamas a utilisé les violences sexuelles de façon organisée et systématique le 7 octobre. Des experts internationaux ont analysé ces preuves",
+   "source": "France 24 — Monde · 07/10 10:04"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Attaques de missiles des Houthis contre Riyad et Aden",
+   "zone": "Moyen-Orient",
+   "resume": "Les rebelles Houthis du Yémen ont lancé des missiles vers l'Arabie saoudite, notamment près de la capitale Riyad, et ont attaqué l'aéroport d'Aden. Heureusement, la défense saoudienne a intercepté ces projectiles. Ces at",
+   "source": "France 24 — Monde · 07/10 10:39"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes de missiles russes d'envergure sur l'Ukraine",
+   "zone": "Ukraine / Russie",
+   "resume": "La Russie a lancé une nouvelle vague de missiles destructeurs sur l'Ukraine, touchant des centrales électriques et des habitations, et tuant au moins une douzaine de personnes. Le président Zelensky a dénoncé une attaque",
+   "source": "© Vladyslav Sodel, Reuters · 07/10 06:01"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Expansion industrielle des constructeurs automobiles chinois en Europe",
-   "zone": "Europe / Chine",
-   "resume": "Les géants chinois de l'automobile préparent l'ouverture de nombreuses usines en Europe pour y fabriquer plus d'un million de voitures par an d'ici 2030. En produisant directement sur place, ils espèrent éviter les lourd",
-   "source": "Le Monde — International · 06/10 07:01"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Projet controversé d'exploitation du gaz de schiste au Mexique",
-   "zone": "Mexique",
-   "resume": "Le Mexique s'apprête à lancer l'extraction de gaz de schiste en utilisant la méthode très contestée de la fracturation hydraulique. Cette technique consiste à injecter de l'eau et des produits chimiques à haute pression ",
-   "source": "France 24 — Monde · 06/10 09:43"
+   "titre": "Levée de dette massive par Elon Musk pour l'intelligence artificielle",
+   "zone": "États-Unis",
+   "resume": "Elon Musk cherche à emprunter 40 milliards de dollars via sa société SpaceX pour acheter des puces électroniques ultra-puissantes fabriquées par Nvidia. Ces puces serviront à alimenter des serveurs géants dédiés à l'inte",
+   "source": "Le Monde — International · 07/10 06:56"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Attribution du prix Nobel de physique 2026 à Francis Halzen",
-   "zone": "International",
-   "resume": "Le physicien belge Francis Halzen a reçu le prestigieux prix Nobel de physique pour ses recherches menées en Antarctique. Il a réussi à détecter des neutrinos, des particules élémentaires presque invisibles venues de l'e",
-   "source": "© Steffen Trumpf, Reuters · 06/10 09:59"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Mobilisation et tensions lors des manifestations lycéennes en France",
+   "titre": "Mobilisation et blocages du mouvement lycéen en France",
    "zone": "France",
-   "resume": "Depuis trois semaines, des milliers de lycéens manifestent en France pour dénoncer le manque de moyens dans leurs établissements et les difficultés d'accès aux études supérieures. Ce mouvement social s'est durci avec des",
-   "source": "France 24 — Monde · 06/10 10:32"
+   "resume": "Les lycéens français se mobilisent massivement contre des réformes gouvernementales, rassemblant plus de 260 000 personnes dans la rue. Pour calmer le jeu face aux accusations de violences policières, le gouvernement a i",
+   "source": "AP Photo/Teresa Suarez - Teresa Suarez · 07/10 07:51"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Attribution du prix Nobel de chimie 2026",
+   "zone": "International",
+   "resume": "Le prix Nobel de chimie a été attribué au Français Henri Kagan et au Japonais Kenso Soai. Ils ont découvert une méthode permettant de fabriquer des molécules spécifiques, ce qui est indispensable pour créer des médicamen",
+   "source": "© Jonathan Nackstrand, AFP · 07/10 09:52"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Litige de la finale de la CAN 2025 devant le TAS",
+   "zone": "Afrique / Suisse",
+   "resume": "Le Maroc et le Sénégal se disputent le trophée de la Coupe d'Afrique des Nations 2025 devant le Tribunal arbitral du sport, le tribunal suprême du sport basé en Suisse. Neuf mois après une finale chaotique, les deux pays",
+   "source": "© Studio graphique FMM · 07/10 10:07"
   }
  ]
 }
