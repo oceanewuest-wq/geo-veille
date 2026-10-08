@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-07T11:51:38+00:00",
+ "genere_le": "2026-10-08T11:48:28+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Commémoration des 20 ans de l'assassinat d'Anna Politkovskaïa",
-   "zone": "Russie",
-   "resume": "Il y a vingt ans, la journaliste russe Anna Politkovskaïa était assassinée à Moscou parce qu'elle dénonçait les crimes de guerre russes en Tchétchénie et critiquait le pouvoir de Vladimir Poutine. Aujourd'hui, son combat",
-   "source": "© Pavel Golovkin, AP · 07/10 10:28"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Levée du mandat d'arrêt contre Carles Puigdemont en Espagne",
-   "zone": "Espagne",
-   "resume": "La justice espagnole a annulé le mandat d'arrêt qui visait le leader catalan Carles Puigdemont, exilé depuis la tentative d'indépendance de la Catalogne en 2017. Cette décision est le résultat d'une loi d'amnistie votée ",
-   "source": "Le Monde — International · 07/10 07:15"
+   "titre": "Commémorations du 7 octobre et polarisation politique autour d'Israël",
+   "zone": "Moyen-Orient / Europe",
+   "resume": "Trois ans après les massacres du 7 octobre, Israël se souvient de ses victimes alors que les combats font toujours rage sur plusieurs fronts. En Europe, ce conflit divise profondément les partis politiques : la gauche cr",
+   "source": "France 24 — Moyen-Orient · 08/10 11:09"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Commémorations du 7-Octobre et avenir politique d'Israël",
-   "zone": "Israël / Palestine",
-   "resume": "Trois ans après l'attaque tragique du 7 octobre 2023, Israël se souvient de ses victimes tout en traversant une crise politique. Le Premier ministre Benjamin Netanyahu est très critiqué pour ne pas avoir su empêcher l'at",
-   "source": "© Debbie Hill, Reuters · 07/10 05:21"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Rapport sur les violences sexuelles du Hamas",
-   "zone": "Israël / Palestine",
-   "resume": "Une enquête indépendante menée par une commission civile en Israël montre que le Hamas a utilisé les violences sexuelles de façon organisée et systématique le 7 octobre. Des experts internationaux ont analysé ces preuves",
-   "source": "France 24 — Monde · 07/10 10:04"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaques de missiles des Houthis contre Riyad et Aden",
-   "zone": "Moyen-Orient",
-   "resume": "Les rebelles Houthis du Yémen ont lancé des missiles vers l'Arabie saoudite, notamment près de la capitale Riyad, et ont attaqué l'aéroport d'Aden. Heureusement, la défense saoudienne a intercepté ces projectiles. Ces at",
-   "source": "France 24 — Monde · 07/10 10:39"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Frappes de missiles russes d'envergure sur l'Ukraine",
+   "titre": "Frappe russe meurtrière à Kramatorsk",
    "zone": "Ukraine / Russie",
-   "resume": "La Russie a lancé une nouvelle vague de missiles destructeurs sur l'Ukraine, touchant des centrales électriques et des habitations, et tuant au moins une douzaine de personnes. Le président Zelensky a dénoncé une attaque",
-   "source": "© Vladyslav Sodel, Reuters · 07/10 06:01"
+   "resume": "Une terrible attaque russe a touché deux bus de transport en commun à Kramatorsk, une ville ukrainienne située tout près de la ligne de front à l'est. Le bilan est très lourd, avec au moins trente morts et de nombreux bl",
+   "source": "© Serhii Korovainyi, Reuters · 08/10 10:26"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Sérénité des Houthis face à la contre-offensive au Yémen",
+   "zone": "Moyen-Orient",
+   "resume": "Au Yémen, les rebelles Houthis, qui sont soutenus par l'Iran, affirment ne pas craindre la nouvelle offensive de l'armée du gouvernement yéménite. Cette armée gouvernementale est pourtant aidée par les avions de combat d",
+   "source": "© Centre des médias des Brigades des géants du Sud via AFP · 08/10 05:26"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Crise humanitaire et déclassement des déplacés au Liban",
+   "zone": "Liban",
+   "resume": "Trois mois après la fin des combats entre Israël et le Hezbollah, plus de 340 000 Libanais n'ont toujours pas pu rentrer chez eux et vivent dans des conditions très difficiles, souvent sous des tentes. Pour ces familles ",
+   "source": "Le Monde — International · 08/10 08:00"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Levée de dette massive par Elon Musk pour l'intelligence artificielle",
-   "zone": "États-Unis",
-   "resume": "Elon Musk cherche à emprunter 40 milliards de dollars via sa société SpaceX pour acheter des puces électroniques ultra-puissantes fabriquées par Nvidia. Ces puces serviront à alimenter des serveurs géants dédiés à l'inte",
-   "source": "Le Monde — International · 07/10 06:56"
+   "titre": "Lancement de l'agence de notation africaine AFCRA",
+   "zone": "Afrique",
+   "resume": "L'Union africaine vient de créer sa propre agence de notation financière, appelée l'AFCRA, pour évaluer la santé économique des pays du continent. Jusqu'ici, trois grandes entreprises américaines faisaient la loi, et les",
+   "source": "Le Monde — International · 08/10 10:27"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Mission pour la préférence européenne dans l'automobile",
+   "zone": "Europe / France",
+   "resume": "Emmanuel Macron a demandé aux patrons de Michelin et de BMW de travailler ensemble pour créer une règle de 'préférence européenne' dans l'automobile. L'idée est de favoriser l'achat de voitures et de pièces fabriquées en",
+   "source": "Le Monde — International · 08/10 10:14"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Recyclage de plastique par les chiffonniers du Caire",
+   "zone": "Égypte / Moyen-Orient",
+   "resume": "En Égypte, à cause du manque de plastique neuf, les usines se tournent vers les chiffonniers du Caire pour s'approvisionner. Cette communauté de 120 000 personnes, qui trie à la main un tiers des déchets de cette immense",
+   "source": "France 24 — Moyen-Orient · 08/10 09:20"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Mobilisation et blocages du mouvement lycéen en France",
+   "titre": "Mobilisation des lycéens et étudiants en France",
    "zone": "France",
-   "resume": "Les lycéens français se mobilisent massivement contre des réformes gouvernementales, rassemblant plus de 260 000 personnes dans la rue. Pour calmer le jeu face aux accusations de violences policières, le gouvernement a i",
-   "source": "AP Photo/Teresa Suarez - Teresa Suarez · 07/10 07:51"
+   "resume": "Les lycéens et les étudiants français poursuivent leur mouvement de protestation avec une quatrième journée de blocages et de manifestations. La colère grandit face au silence du gouvernement sur leurs revendications con",
+   "source": "France 24 — Monde · 08/10 10:56"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Attribution du prix Nobel de chimie 2026",
-   "zone": "International",
-   "resume": "Le prix Nobel de chimie a été attribué au Français Henri Kagan et au Japonais Kenso Soai. Ils ont découvert une méthode permettant de fabriquer des molécules spécifiques, ce qui est indispensable pour créer des médicamen",
-   "source": "© Jonathan Nackstrand, AFP · 07/10 09:52"
+   "titre": "Crise du logement en Espagne et décès de Maricarmen Abascal",
+   "zone": "Espagne",
+   "resume": "En Espagne, la mort d'une dame de 87 ans nommée Maricarmen Abascal a provoqué une immense vague de colère. Elle avait été expulsée de chez elle et est décédée d'épuisement peu après, devenant le symbole de la crise du lo",
+   "source": "France 24 — Monde · 08/10 09:04"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Litige de la finale de la CAN 2025 devant le TAS",
-   "zone": "Afrique / Suisse",
-   "resume": "Le Maroc et le Sénégal se disputent le trophée de la Coupe d'Afrique des Nations 2025 devant le Tribunal arbitral du sport, le tribunal suprême du sport basé en Suisse. Neuf mois après une finale chaotique, les deux pays",
-   "source": "© Studio graphique FMM · 07/10 10:07"
+   "titre": "Dernier match de Lionel Messi avec l'Argentine contre le Bénin",
+   "zone": "Argentine / Bénin",
+   "resume": "La légende du football Lionel Messi a joué son tout dernier match avec l'équipe nationale d'Argentine à Buenos Aires. Pour ses adieux, l'Argentine a battu le Bénin 3 à 0 lors d'un match amical chargé d'émotion pour les s",
+   "source": "France 24 — Monde · 08/10 09:47"
   }
  ]
 }
