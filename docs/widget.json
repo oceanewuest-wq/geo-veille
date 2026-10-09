@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-08T11:48:28+00:00",
+ "genere_le": "2026-10-09T11:41:51+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Commémorations du 7 octobre et polarisation politique autour d'Israël",
-   "zone": "Moyen-Orient / Europe",
-   "resume": "Trois ans après les massacres du 7 octobre, Israël se souvient de ses victimes alors que les combats font toujours rage sur plusieurs fronts. En Europe, ce conflit divise profondément les partis politiques : la gauche cr",
-   "source": "France 24 — Moyen-Orient · 08/10 11:09"
+   "titre": "Attribution du prix Nobel de la paix 2026 à Navi Pillay",
+   "zone": "Afrique du Sud / International",
+   "resume": "Le prix Nobel de la paix a été attribué à Navi Pillay, une figure majeure de la justice internationale originaire d'Afrique du Sud. À 85 ans, elle est récompensée pour sa lutte constante contre l'impunité, notamment lors",
+   "source": "© Wikus de Wet, AFP · 09/10 09:03"
   },
   {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Frappe russe meurtrière à Kramatorsk",
-   "zone": "Ukraine / Russie",
-   "resume": "Une terrible attaque russe a touché deux bus de transport en commun à Kramatorsk, une ville ukrainienne située tout près de la ligne de front à l'est. Le bilan est très lourd, avec au moins trente morts et de nombreux bl",
-   "source": "© Serhii Korovainyi, Reuters · 08/10 10:26"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Sérénité des Houthis face à la contre-offensive au Yémen",
-   "zone": "Moyen-Orient",
-   "resume": "Au Yémen, les rebelles Houthis, qui sont soutenus par l'Iran, affirment ne pas craindre la nouvelle offensive de l'armée du gouvernement yéménite. Cette armée gouvernementale est pourtant aidée par les avions de combat d",
-   "source": "© Centre des médias des Brigades des géants du Sud via AFP · 08/10 05:26"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Crise humanitaire et déclassement des déplacés au Liban",
-   "zone": "Liban",
-   "resume": "Trois mois après la fin des combats entre Israël et le Hezbollah, plus de 340 000 Libanais n'ont toujours pas pu rentrer chez eux et vivent dans des conditions très difficiles, souvent sous des tentes. Pour ces familles ",
-   "source": "Le Monde — International · 08/10 08:00"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Lancement de l'agence de notation africaine AFCRA",
-   "zone": "Afrique",
-   "resume": "L'Union africaine vient de créer sa propre agence de notation financière, appelée l'AFCRA, pour évaluer la santé économique des pays du continent. Jusqu'ici, trois grandes entreprises américaines faisaient la loi, et les",
-   "source": "Le Monde — International · 08/10 10:27"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Mission pour la préférence européenne dans l'automobile",
-   "zone": "Europe / France",
-   "resume": "Emmanuel Macron a demandé aux patrons de Michelin et de BMW de travailler ensemble pour créer une règle de 'préférence européenne' dans l'automobile. L'idée est de favoriser l'achat de voitures et de pièces fabriquées en",
-   "source": "Le Monde — International · 08/10 10:14"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Recyclage de plastique par les chiffonniers du Caire",
-   "zone": "Égypte / Moyen-Orient",
-   "resume": "En Égypte, à cause du manque de plastique neuf, les usines se tournent vers les chiffonniers du Caire pour s'approvisionner. Cette communauté de 120 000 personnes, qui trie à la main un tiers des déchets de cette immense",
-   "source": "France 24 — Moyen-Orient · 08/10 09:20"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Mobilisation des lycéens et étudiants en France",
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Cyberattaque et enjeux de la primaire sociale-démocrate",
    "zone": "France",
-   "resume": "Les lycéens et les étudiants français poursuivent leur mouvement de protestation avec une quatrième journée de blocages et de manifestations. La colère grandit face au silence du gouvernement sur leurs revendications con",
-   "source": "France 24 — Monde · 08/10 10:56"
+   "resume": "Les sympathisants de gauche en France votent pour désigner leur candidat à la présidentielle lors d'une primaire sociale-démocrate. Le vote a été perturbé par une cyberattaque sur le site internet, mais le scrutin contin",
+   "source": "© Julien de Rosa, AFP · 09/10 10:29"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Pourparlers stratégiques sur l'Ukraine en Floride",
+   "zone": "Ukraine / États-Unis / Europe",
+   "resume": "Les États-Unis ont réuni leurs alliés européens et l'OTAN en Floride pour discuter de l'avenir du soutien à l'Ukraine. L'objectif est d'harmoniser l'aide militaire et de faire front commun face à la Russie. Ces discussio",
+   "source": "France 24 — Monde · 09/10 10:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Tensions dans le détroit d'Ormuz et exigences de l'Iran",
+   "zone": "Détroit d'Ormuz / Iran / États-Unis",
+   "resume": "L'Iran demande aux États-Unis de cesser leurs menaces s'ils veulent relancer les discussions diplomatiques. Le détroit d'Ormuz, par où passe une grande partie du pétrole mondial, est au cœur de ces tensions géopolitiques",
+   "source": "Le Monde — International · 09/10 11:10"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes houthistes meurtrières sur l'aéroport de Riyad",
+   "zone": "Moyen-Orient / Yémen / Arabie saoudite",
+   "resume": "Les rebelles Houthis du Yémen ont attaqué l'aéroport de la capitale saoudienne, faisant trois morts. Cette attaque montre que le conflit yéménite continue de déborder sur les pays voisins et de menacer la sécurité des tr",
+   "source": "Le Monde — International · 09/10 11:21"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Enlisement du plan de paix américain dans la bande de Gaza",
+   "zone": "Israël / Palestine / Gaza",
+   "resume": "Un un après l'annonce d'un plan de paix américain pour Gaza, les combats continuent et rien n'a été reconstruit. Les discussions internationales se concentrent sur des termes juridiques complexes, mais sur le terrain, le",
+   "source": "Le Monde — International · 09/10 09:49"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Retour éprouvant du porte-avions USS Abraham Lincoln aux États-Unis",
+   "zone": "Moyen-Orient / États-Unis",
+   "resume": "Le porte-avions américain USS Abraham Lincoln est rentré chez lui après une mission éprouvante de près d'un an au Moyen-Orient. Ce long séjour en mer, sans beaucoup de contacts avec les familles, a provoqué une grave usu",
+   "source": "France 24 — Monde · 09/10 09:47"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Retrait du Panama et du Vietnam de la liste noire de l'UE",
+   "zone": "Union européenne / Panama / Vietnam",
+   "resume": "L'Union européenne a décidé de retirer le Panama et le Vietnam de sa liste des pays considérés comme des paradis fiscaux. Ces deux pays ont fait des efforts importants pour rendre leurs systèmes financiers plus transpare",
+   "source": "Le Monde — International · 09/10 11:29"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Déficit commercial européen et souveraineté industrielle",
+   "zone": "Europe / Chine / Allemagne",
+   "resume": "L'Europe achète beaucoup plus de produits à la Chine qu'elle ne lui en vend, ce qui crée un déséquilibre commercial inquiétant. Pour protéger ses entreprises, l'Union européenne envisage de prendre des mesures plus stric",
+   "source": "Le Monde — International · 09/10 09:30"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Crise du logement en Espagne et décès de Maricarmen Abascal",
-   "zone": "Espagne",
-   "resume": "En Espagne, la mort d'une dame de 87 ans nommée Maricarmen Abascal a provoqué une immense vague de colère. Elle avait été expulsée de chez elle et est décédée d'épuisement peu après, devenant le symbole de la crise du lo",
-   "source": "France 24 — Monde · 08/10 09:04"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Dernier match de Lionel Messi avec l'Argentine contre le Bénin",
-   "zone": "Argentine / Bénin",
-   "resume": "La légende du football Lionel Messi a joué son tout dernier match avec l'équipe nationale d'Argentine à Buenos Aires. Pour ses adieux, l'Argentine a battu le Bénin 3 à 0 lors d'un match amical chargé d'émotion pour les s",
-   "source": "France 24 — Monde · 08/10 09:47"
+   "titre": "Mobilisation des lycéens en France et réponse gouvernementale",
+   "zone": "France",
+   "resume": "Des dizaines de milliers de lycéens manifestent en France pour réclamer de meilleures conditions d'études et des enseignants dans leurs classes. Face à cette colère, le gouvernement a promis d'envoyer d'urgence 3 000 pro",
+   "source": "France 24 — Monde · 09/10 08:40"
   }
  ]
 }
