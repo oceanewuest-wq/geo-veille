@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-09T11:41:51+00:00",
+ "genere_le": "2026-10-10T11:03:42+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
+   "titre": "Accord Trump-Poutine sur les livraisons de gazole",
+   "zone": "États-Unis / Russie",
+   "resume": "Les États-Unis et la Russie ont passé un accord inattendu : Moscou va vendre des millions de tonnes de gazole aux marchés occidentaux, et en échange, Washington lève certaines sanctions. Cet accord a provoqué la colère d",
+   "source": "France 24 — Monde · 10/10 09:05"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Sanctions américaines contre la CPI",
+   "zone": "États-Unis / International",
+   "resume": "Washington a décidé de sanctionner la Cour pénale internationale (la juridiction qui juge les crimes de guerre mondiaux) et menace les pays qui la soutiennent. C'est une décision très rare et critiquée, car elle vise à b",
+   "source": "France 24 — Monde · 10/10 09:31"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
    "titre": "Attribution du prix Nobel de la paix 2026 à Navi Pillay",
    "zone": "Afrique du Sud / International",
-   "resume": "Le prix Nobel de la paix a été attribué à Navi Pillay, une figure majeure de la justice internationale originaire d'Afrique du Sud. À 85 ans, elle est récompensée pour sa lutte constante contre l'impunité, notamment lors",
-   "source": "© Wikus de Wet, AFP · 09/10 09:03"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Cyberattaque et enjeux de la primaire sociale-démocrate",
-   "zone": "France",
-   "resume": "Les sympathisants de gauche en France votent pour désigner leur candidat à la présidentielle lors d'une primaire sociale-démocrate. Le vote a été perturbé par une cyberattaque sur le site internet, mais le scrutin contin",
-   "source": "© Julien de Rosa, AFP · 09/10 10:29"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Pourparlers stratégiques sur l'Ukraine en Floride",
-   "zone": "Ukraine / États-Unis / Europe",
-   "resume": "Les États-Unis ont réuni leurs alliés européens et l'OTAN en Floride pour discuter de l'avenir du soutien à l'Ukraine. L'objectif est d'harmoniser l'aide militaire et de faire front commun face à la Russie. Ces discussio",
-   "source": "France 24 — Monde · 09/10 10:00"
+   "resume": "La Sud-Africaine Navi Pillay a reçu le prix Nobel de la paix 2026 pour son travail acharné en faveur des droits de l'homme et de la justice internationale. C'est une figure reconnue de l'ONU qui est ainsi honorée.",
+   "source": "France 24 — Monde · 10/10 09:10"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions dans le détroit d'Ormuz et exigences de l'Iran",
-   "zone": "Détroit d'Ormuz / Iran / États-Unis",
-   "resume": "L'Iran demande aux États-Unis de cesser leurs menaces s'ils veulent relancer les discussions diplomatiques. Le détroit d'Ormuz, par où passe une grande partie du pétrole mondial, est au cœur de ces tensions géopolitiques",
-   "source": "Le Monde — International · 09/10 11:10"
+   "titre": "Offensive militaire de la coalition saoudite au Yémen",
+   "zone": "Yémen / Moyen-Orient",
+   "resume": "L'Arabie saoudite a mené une vaste opération militaire aérienne et terrestre contre les rebelles houthis au Yémen, soutenus par l'Iran. Plus d'une centaine de cibles militaires ont été détruites, ravivant les tensions da",
+   "source": "© AFP · 10/10 06:03"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes houthistes meurtrières sur l'aéroport de Riyad",
-   "zone": "Moyen-Orient / Yémen / Arabie saoudite",
-   "resume": "Les rebelles Houthis du Yémen ont attaqué l'aéroport de la capitale saoudienne, faisant trois morts. Cette attaque montre que le conflit yéménite continue de déborder sur les pays voisins et de menacer la sécurité des tr",
-   "source": "Le Monde — International · 09/10 11:21"
+   "titre": "Bombardements russes meurtriers à Zaporijjia",
+   "zone": "Ukraine",
+   "resume": "Des bombardements russes sur la ville ukrainienne de Zaporijjia ont fait au moins onze morts, parmi lesquels trois enfants. Cette tragédie illustre la violence persistante des attaques contre les civils en Ukraine, où le",
+   "source": "Le Monde — International · 10/10 09:23"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Enlisement du plan de paix américain dans la bande de Gaza",
-   "zone": "Israël / Palestine / Gaza",
-   "resume": "Un un après l'annonce d'un plan de paix américain pour Gaza, les combats continuent et rien n'a été reconstruit. Les discussions internationales se concentrent sur des termes juridiques complexes, mais sur le terrain, le",
-   "source": "Le Monde — International · 09/10 09:49"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Retour éprouvant du porte-avions USS Abraham Lincoln aux États-Unis",
-   "zone": "Moyen-Orient / États-Unis",
-   "resume": "Le porte-avions américain USS Abraham Lincoln est rentré chez lui après une mission éprouvante de près d'un an au Moyen-Orient. Ce long séjour en mer, sans beaucoup de contacts avec les familles, a provoqué une grave usu",
-   "source": "France 24 — Monde · 09/10 09:47"
+   "titre": "Séisme majeur de magnitude 7,7 au Panama",
+   "zone": "Panama / Amérique centrale",
+   "resume": "Un séisme très puissant de magnitude 7,7 a secoué le Panama, détruisant des bâtiments et des routes et faisant de nombreux blessés. De multiples répliques ont forcé la fermeture de l'aéroport principal et l'arrêt des éco",
+   "source": "Le Monde — International · 10/10 10:13"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Retrait du Panama et du Vietnam de la liste noire de l'UE",
-   "zone": "Union européenne / Panama / Vietnam",
-   "resume": "L'Union européenne a décidé de retirer le Panama et le Vietnam de sa liste des pays considérés comme des paradis fiscaux. Ces deux pays ont fait des efforts importants pour rendre leurs systèmes financiers plus transpare",
-   "source": "Le Monde — International · 09/10 11:29"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Déficit commercial européen et souveraineté industrielle",
-   "zone": "Europe / Chine / Allemagne",
-   "resume": "L'Europe achète beaucoup plus de produits à la Chine qu'elle ne lui en vend, ce qui crée un déséquilibre commercial inquiétant. Pour protéger ses entreprises, l'Union européenne envisage de prendre des mesures plus stric",
-   "source": "Le Monde — International · 09/10 09:30"
+   "titre": "Le rôle géopolitique et économique des fonds souverains",
+   "zone": "Norvège / International",
+   "resume": "Les gigantesques réserves d'argent public placées en Bourse par certains pays, comme le fonds pétrolier de la Norvège, ont explosé pour atteindre des sommets mondiaux. Ces immenses fortunes permettent aux États de financ",
+   "source": "Le Monde — International · 10/10 08:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Mobilisation des lycéens en France et réponse gouvernementale",
+   "titre": "Interdiction des réseaux sociaux pour les mineurs de moins de 15 ans en Turquie",
+   "zone": "Turquie",
+   "resume": "La Turquie va interdire les réseaux sociaux aux moins de 15 ans à partir de novembre. Officiellement, il s'agit de protéger les enfants, mais cette loi inquiète les défenseurs des libertés, qui y voient un moyen suppléme",
+   "source": "Le Monde — International · 10/10 09:06"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Retour sur Terre de l'astronaute française Sophie Adenot",
+   "zone": "France / Espace",
+   "resume": "Après huit mois passés en orbite, l'astronaute française Sophie Adenot est revenue sur Terre. Elle a confié avoir vécu des moments intenses et inoubliables lors de cette mission spatiale de longue durée.",
+   "source": "© Thilo Schmuelgen, Reuters · 10/10 06:18"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Hommage historique aux tirailleurs sénégalais exécutés en 1940",
    "zone": "France",
-   "resume": "Des dizaines de milliers de lycéens manifestent en France pour réclamer de meilleures conditions d'études et des enseignants dans leurs classes. Face à cette colère, le gouvernement a promis d'envoyer d'urgence 3 000 pro",
-   "source": "France 24 — Monde · 09/10 08:40"
+   "resume": "Le village de Gigny, dans l'Yonne, rend hommage à deux tirailleurs sénégalais assassinés par l'armée nazie en juin 1940. Cette cérémonie permet de réparer un oubli historique et de se souvenir de leur sacrifice.",
+   "source": "© Studio graphique FMM · 10/10 07:03"
   }
  ]
 }
