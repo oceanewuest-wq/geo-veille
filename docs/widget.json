@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-10T11:03:42+00:00",
+ "genere_le": "2026-10-11T11:15:51+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Accord Trump-Poutine sur les livraisons de gazole",
-   "zone": "États-Unis / Russie",
-   "resume": "Les États-Unis et la Russie ont passé un accord inattendu : Moscou va vendre des millions de tonnes de gazole aux marchés occidentaux, et en échange, Washington lève certaines sanctions. Cet accord a provoqué la colère d",
-   "source": "France 24 — Monde · 10/10 09:05"
+   "titre": "Tensions transatlantiques autour du leadership politique à Kiev",
+   "zone": "International / États-Unis et Europe",
+   "resume": "Donald Trump a publiquement réclamé le départ de Volodymyr Zelensky pour faciliter des négociations avec Moscou, jetant un froid dans l'alliance occidentale. Les dirigeants européens et le Royaume-Uni ont immédiatement r",
+   "source": "France 24 — Monde · 11/10 09:46"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Sanctions américaines contre la CPI",
-   "zone": "États-Unis / International",
-   "resume": "Washington a décidé de sanctionner la Cour pénale internationale (la juridiction qui juge les crimes de guerre mondiaux) et menace les pays qui la soutiennent. C'est une décision très rare et critiquée, car elle vise à b",
-   "source": "France 24 — Monde · 10/10 09:31"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Attribution du prix Nobel de la paix 2026 à Navi Pillay",
-   "zone": "Afrique du Sud / International",
-   "resume": "La Sud-Africaine Navi Pillay a reçu le prix Nobel de la paix 2026 pour son travail acharné en faveur des droits de l'homme et de la justice internationale. C'est une figure reconnue de l'ONU qui est ainsi honorée.",
-   "source": "France 24 — Monde · 10/10 09:10"
+   "titre": "Pedro Sánchez place la crise du logement au cœur des législatives",
+   "zone": "Europe / Espagne",
+   "resume": "En Espagne, le chef du gouvernement Pedro Sánchez lance sa campagne pour les élections du 29 novembre en promettant d'encadrer sévèrement le prix des loyers. Se loger est devenu extrêmement difficile et cher pour les jeu",
+   "source": "REUTERS - Juan Medina · 11/10 07:46"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Offensive militaire de la coalition saoudite au Yémen",
-   "zone": "Yémen / Moyen-Orient",
-   "resume": "L'Arabie saoudite a mené une vaste opération militaire aérienne et terrestre contre les rebelles houthis au Yémen, soutenus par l'Iran. Plus d'une centaine de cibles militaires ont été détruites, ravivant les tensions da",
-   "source": "© AFP · 10/10 06:03"
+   "titre": "Attaque meurtrière des Houthis contre l'aéroport de Riyad",
+   "zone": "Moyen-Orient / Golfe Persique",
+   "resume": "Les rebelles houthis du Yémen ont frappé l'aéroport de Riyad, la capitale saoudienne, faisant au moins 12 morts et des centaines de blessés. Il s'agit de l'attaque la plus sanglante contre le pays en plus de dix ans, rav",
+   "source": "© Reuters · 11/10 05:25"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Bombardements russes meurtriers à Zaporijjia",
-   "zone": "Ukraine",
-   "resume": "Des bombardements russes sur la ville ukrainienne de Zaporijjia ont fait au moins onze morts, parmi lesquels trois enfants. Cette tragédie illustre la violence persistante des attaques contre les civils en Ukraine, où le",
-   "source": "Le Monde — International · 10/10 09:23"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Séisme majeur de magnitude 7,7 au Panama",
-   "zone": "Panama / Amérique centrale",
-   "resume": "Un séisme très puissant de magnitude 7,7 a secoué le Panama, détruisant des bâtiments et des routes et faisant de nombreux blessés. De multiples répliques ont forcé la fermeture de l'aéroport principal et l'arrêt des éco",
-   "source": "Le Monde — International · 10/10 10:13"
+   "titre": "Aggravation de la crise humanitaire et frappes continues à Gaza",
+   "zone": "Moyen-Orient / Bande de Gaza",
+   "resume": "Les frappes israéliennes continuent de toucher Gaza alors que les vivres manquent dramatiquement pour la population civile. L'ONU estime qu'environ 200 000 personnes sont au bord de la famine en raison des difficultés d'",
+   "source": "France 24 — Moyen-Orient · 11/10 08:41"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Le rôle géopolitique et économique des fonds souverains",
-   "zone": "Norvège / International",
-   "resume": "Les gigantesques réserves d'argent public placées en Bourse par certains pays, comme le fonds pétrolier de la Norvège, ont explosé pour atteindre des sommets mondiaux. Ces immenses fortunes permettent aux États de financ",
-   "source": "Le Monde — International · 10/10 08:00"
+   "titre": "Proposition de trêve ukrainienne sur les infrastructures énergétiques",
+   "zone": "Europe orientale / Ukraine et Russie",
+   "resume": "L'Ukraine propose à la Russie de cesser d'attaquer ses raffineries de pétrole si l'armée russe arrête de bombarder les centrales électriques ukrainiennes. L'enjeu est vital pour Kiev, qui craint des pannes massives d'éle",
+   "source": "© Valentyn Ogirenko, Reuters · 11/10 10:40"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Déploiement d'androïdes dans le commerce et les services au Danemark",
+   "zone": "Europe du Nord / Danemark",
+   "resume": "Au Danemark, des supermarchés et des hôtels commencent à employer des robots à forme humaine pour effectuer des tâches simples comme ranger des produits ou accueillir les clients. Les entreprises s'équipent pour faire fa",
+   "source": "France 24 — Monde · 11/10 09:39"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Interdiction des réseaux sociaux pour les mineurs de moins de 15 ans en Turquie",
-   "zone": "Turquie",
-   "resume": "La Turquie va interdire les réseaux sociaux aux moins de 15 ans à partir de novembre. Officiellement, il s'agit de protéger les enfants, mais cette loi inquiète les défenseurs des libertés, qui y voient un moyen suppléme",
-   "source": "Le Monde — International · 10/10 09:06"
+   "titre": "Naufrage d'une embarcation clandestine au large de Djibouti",
+   "zone": "Corne de l'Afrique / Djibouti",
+   "resume": "Un bateau surchargé de migrants a coulé au large de Djibouti, causant la mort de plus de 100 passagers et autant de disparus, dont de jeunes enfants. Ces personnes fuyaient la misère ou l'insécurité dans l'est de l'Afriq",
+   "source": "© Luis Tato, AFP · 11/10 09:42"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Retour sur Terre de l'astronaute française Sophie Adenot",
-   "zone": "France / Espace",
-   "resume": "Après huit mois passés en orbite, l'astronaute française Sophie Adenot est revenue sur Terre. Elle a confié avoir vécu des moments intenses et inoubliables lors de cette mission spatiale de longue durée.",
-   "source": "© Thilo Schmuelgen, Reuters · 10/10 06:18"
+   "titre": "Répression des manifestations de la jeunesse et tensions en Inde",
+   "zone": "Asie du Sud / Inde",
+   "resume": "En Inde, le gouvernement a bloqué la capitale et arrêté des milliers de personnes pour empêcher un grand rassemblement de la jeunesse contre une réforme électorale controversée. Bien que les tribunaux aient ordonné la li",
+   "source": "Le Monde — International · 11/10 00:11"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Hommage historique aux tirailleurs sénégalais exécutés en 1940",
-   "zone": "France",
-   "resume": "Le village de Gigny, dans l'Yonne, rend hommage à deux tirailleurs sénégalais assassinés par l'armée nazie en juin 1940. Cette cérémonie permet de réparer un oubli historique et de se souvenir de leur sacrifice.",
-   "source": "© Studio graphique FMM · 10/10 07:03"
+   "titre": "Intervention chirurgicale programmée pour le pape Léon XIV",
+   "zone": "Vatican / Europe",
+   "resume": "Le Vatican a annoncé que le pape Léon XIV devait se faire opérer d'un nodule pulmonaire d'ici peu. Un nodule est une petite masse tissulaire anormale que les chirurgiens doivent examiner ou retirer pour préserver la sant",
+   "source": "© Gregorio Borgia, AP · 11/10 10:36"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Victoire de Paul Seixas au Tour de Lombardie",
+   "zone": "Italie / Europe",
+   "resume": "Le Français Paul Seixas s'est imposé sur le prestigieux Tour de Lombardie, décrochant ce que le cyclisme appelle un « Monument », c'est-à-dire l'une des cinq plus grandes courses d'un jour au monde. Déçu par ses récents ",
+   "source": "France 24 — Monde · 11/10 09:16"
   }
  ]
 }
