@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-11T11:15:51+00:00",
+ "genere_le": "2026-10-12T12:40:36+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions transatlantiques autour du leadership politique à Kiev",
-   "zone": "International / États-Unis et Europe",
-   "resume": "Donald Trump a publiquement réclamé le départ de Volodymyr Zelensky pour faciliter des négociations avec Moscou, jetant un froid dans l'alliance occidentale. Les dirigeants européens et le Royaume-Uni ont immédiatement r",
-   "source": "France 24 — Monde · 11/10 09:46"
+   "titre": "Prorogation de la Finul et mission européenne d'appui au Liban",
+   "zone": "Moyen-Orient (Liban)",
+   "resume": "L'Union européenne veut maintenir les Casques bleus de l'ONU au sud du Liban et former les soldats libanais avec l'aide de Paris et Rome. Le but est d'éviter un embrasement direct entre l'armée israélienne et le Hezbolla",
+   "source": "Le Monde — International · 12/10 06:30"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Pedro Sánchez place la crise du logement au cœur des législatives",
-   "zone": "Europe / Espagne",
-   "resume": "En Espagne, le chef du gouvernement Pedro Sánchez lance sa campagne pour les élections du 29 novembre en promettant d'encadrer sévèrement le prix des loyers. Se loger est devenu extrêmement difficile et cher pour les jeu",
-   "source": "REUTERS - Juan Medina · 11/10 07:46"
+   "titre": "Victoire de Raphaël Glucksmann à la primaire sociale-démocrate pour 2027",
+   "zone": "France",
+   "resume": "Raphaël Glucksmann a gagné la primaire de la gauche modérée avec un score net de 66 % pour la présidentielle de 2027. Cette victoire installe une ligne clairement pro-européenne et opposée aux radicaux, même s'il a été e",
+   "source": "France 24 — Monde · 12/10 10:32"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaque meurtrière des Houthis contre l'aéroport de Riyad",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "Les rebelles houthis du Yémen ont frappé l'aéroport de Riyad, la capitale saoudienne, faisant au moins 12 morts et des centaines de blessés. Il s'agit de l'attaque la plus sanglante contre le pays en plus de dix ans, rav",
-   "source": "© Reuters · 11/10 05:25"
+   "titre": "Frappes houthies contre des cibles stratégiques et l'aéroport de Riyad",
+   "zone": "Moyen-Orient (Arabie saoudite / Yémen)",
+   "resume": "Les insurgés houthis du Yémen ont lancé une offensive majeure contre l'aéroport de la capitale saoudienne et des sites pétroliers. Cette attaque bloque le trafic aérien et rappelle à quel point les tensions dans la pénin",
+   "source": "Le Monde — International · 12/10 09:16"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Aggravation de la crise humanitaire et frappes continues à Gaza",
-   "zone": "Moyen-Orient / Bande de Gaza",
-   "resume": "Les frappes israéliennes continuent de toucher Gaza alors que les vivres manquent dramatiquement pour la population civile. L'ONU estime qu'environ 200 000 personnes sont au bord de la famine en raison des difficultés d'",
-   "source": "France 24 — Moyen-Orient · 11/10 08:41"
+   "titre": "Posture de dissuasion de l'OTAN face aux menaces hybrides russes",
+   "zone": "Europe / Espace euro-atlantique",
+   "resume": "Le chef militaire de l'OTAN a prévenu que l'Alliance n'hésitera pas à afficher sa force brute pour dissuader la Russie d'attaquer l'Europe. Au-delà des combats en Ukraine, l'organisation s'inquiète des sabotages, piratag",
+   "source": "AFP - WOJTEK RADWANSKI · 12/10 05:24"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Projet d'assassinat déjoué contre Donald Tusk en Pologne",
+   "zone": "Europe de l'Est (Pologne)",
+   "resume": "Les services secrets polonais ont arrêté un homme d'extrême droite qui préparait une attaque ciblée contre le Premier ministre Donald Tusk et le chef de la Défense. Les autorités ont été surprises par le niveau de prépar",
+   "source": "France 24 — Monde · 12/10 09:08"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Proposition de trêve ukrainienne sur les infrastructures énergétiques",
-   "zone": "Europe orientale / Ukraine et Russie",
-   "resume": "L'Ukraine propose à la Russie de cesser d'attaquer ses raffineries de pétrole si l'armée russe arrête de bombarder les centrales électriques ukrainiennes. L'enjeu est vital pour Kiev, qui craint des pannes massives d'éle",
-   "source": "© Valentyn Ogirenko, Reuters · 11/10 10:40"
+   "titre": "Controverse autour du compromis pétrolier russo-américain annoncé par Donald Trump",
+   "zone": "États-Unis / Russie / Ukraine",
+   "resume": "Donald Trump affirme s'être entendu avec Vladimir Poutine pour importer du carburant russe afin de calmer les prix à la pompe, évoquant au passage une trêve des frappes sur le réseau électrique. Kiev n'a pas été prévenu ",
+   "source": "Le Monde — International · 12/10 12:30"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Déploiement d'androïdes dans le commerce et les services au Danemark",
-   "zone": "Europe du Nord / Danemark",
-   "resume": "Au Danemark, des supermarchés et des hôtels commencent à employer des robots à forme humaine pour effectuer des tâches simples comme ranger des produits ou accueillir les clients. Les entreprises s'équipent pour faire fa",
-   "source": "France 24 — Monde · 11/10 09:39"
+   "titre": "Attribution du prix Nobel d'économie 2026 à Michael Woodford et Robert Hall",
+   "zone": "International / États-Unis",
+   "resume": "Le prix Nobel d'économie 2026 a été attribué à deux chercheurs américains, Robert Hall et Michael Woodford. Leurs travaux expliquent comment le comportement individuel des ménages et des entreprises influence l'économie ",
+   "source": "© Nobel Prize Outreach · 12/10 09:58"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Naufrage d'une embarcation clandestine au large de Djibouti",
-   "zone": "Corne de l'Afrique / Djibouti",
-   "resume": "Un bateau surchargé de migrants a coulé au large de Djibouti, causant la mort de plus de 100 passagers et autant de disparus, dont de jeunes enfants. Ces personnes fuyaient la misère ou l'insécurité dans l'est de l'Afriq",
-   "source": "© Luis Tato, AFP · 11/10 09:42"
+   "titre": "Naufrage d'une embarcation de migrants au large de Djibouti vers le Yémen",
+   "zone": "Mer Rouge / Corne de l'Afrique",
+   "resume": "Un bateau transportant plus de 300 personnes a coulé entre Djibouti et le Yémen, faisant près de 140 morts et de nombreux disparus. Malgré les guerres et l'insécurité dans le Golfe, des milliers de migrants d'Afrique de ",
+   "source": "France 24 — Moyen-Orient · 12/10 09:34"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Répression des manifestations de la jeunesse et tensions en Inde",
-   "zone": "Asie du Sud / Inde",
-   "resume": "En Inde, le gouvernement a bloqué la capitale et arrêté des milliers de personnes pour empêcher un grand rassemblement de la jeunesse contre une réforme électorale controversée. Bien que les tribunaux aient ordonné la li",
-   "source": "Le Monde — International · 11/10 00:11"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Intervention chirurgicale programmée pour le pape Léon XIV",
-   "zone": "Vatican / Europe",
-   "resume": "Le Vatican a annoncé que le pape Léon XIV devait se faire opérer d'un nodule pulmonaire d'ici peu. Un nodule est une petite masse tissulaire anormale que les chirurgiens doivent examiner ou retirer pour préserver la sant",
-   "source": "© Gregorio Borgia, AP · 11/10 10:36"
+   "titre": "Tirs par arme à feu au collège Joseph-Lakanal d'Aubagne",
+   "zone": "France (Aubagne)",
+   "resume": "Un adolescent de 14 ans a tiré au fusil de chasse dans son collège à Aubagne, blessant le chef d'établissement et une professeure avant d'être arrêté par la police. Les deux blessés sont hors de danger, mais l'événement ",
+   "source": "France 24 — Monde · 12/10 10:31"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Victoire de Paul Seixas au Tour de Lombardie",
-   "zone": "Italie / Europe",
-   "resume": "Le Français Paul Seixas s'est imposé sur le prestigieux Tour de Lombardie, décrochant ce que le cyclisme appelle un « Monument », c'est-à-dire l'une des cinq plus grandes courses d'un jour au monde. Déçu par ses récents ",
-   "source": "France 24 — Monde · 11/10 09:16"
+   "titre": "Actualité sportive : succès de l'OM et sacre historique de Paul Seixas",
+   "zone": "France / Europe",
+   "resume": "Le week-end sportif a été marqué par la victoire cruciale de Marseille à Troyes, sauvant l'équipe phocéenne d'une crise de résultats en bas de tableau. Dans le même temps, le jeune cycliste Paul Seixas est entré dans l'h",
+   "source": "© Studio graphique FMM · 12/10 08:34"
   }
  ]
 }
