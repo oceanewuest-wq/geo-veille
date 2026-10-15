@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-14T09:56:13+00:00",
+ "genere_le": "2026-10-15T09:36:14+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Mise sous tutelle policière de la chaîne d'opposition Halk TV en Turquie",
-   "zone": "Turquie",
-   "resume": "La police turque a investi le siège de Halk TV, la plus grande chaîne de télévision critique envers le pouvoir d'Ankara. Cette mise au pas survient peu après le blocage d'un site d'actualité réputé, confirmant le durciss",
-   "source": "Le Monde — International · 14/10 09:45"
+   "titre": "Tensions entre Kiev et Washington sur les restrictions militaires et satellitaires",
+   "zone": "Ukraine / États-Unis / Russie",
+   "resume": "Le président ukrainien accuse les États-Unis de relâcher leur soutien militaire et technologique, notamment via les restrictions imposées sur le réseau satellite Starlink, essentiel pour piloter les drones et communiquer",
+   "source": "Le Monde — International · 15/10 04:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Visite royale à Ceuta et affirmation de la souveraineté espagnole",
-   "zone": "Espagne / Maroc",
-   "resume": "Le roi d'Espagne s'est rendu à Ceuta, une enclave espagnole située sur la côte marocaine, pour rappeler avec fermeté qu'elle fait partie intégrante du territoire espagnol. Il a aussi demandé le renvoi rapide vers le Maro",
-   "source": "Le Monde — International · 14/10 06:26"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "RDC : Joseph Kabila prend la tête d'un mouvement rebelle",
-   "zone": "République démocratique du Congo",
-   "resume": "L'ancien président de la RDC, Joseph Kabila, a annoncé qu'il prenait le commandement d'un mouvement rebelle dans l'est du pays pour combattre le pouvoir de son successeur Félix Tshisekedi. Ce ralliement direct d'un ancie",
-   "source": "Le Monde — International · 13/10 19:16"
+   "titre": "Entre-deux-tours au Brésil : réforme du temps de travail et polémique Meta",
+   "zone": "Brésil",
+   "resume": "Au Brésil, le président de gauche Lula marque un point politique majeur en réduisant la semaine de travail à 40 heures, mais accuse le groupe Meta (propriétaire d'Instagram et de WhatsApp) de brider ses messages de campa",
+   "source": "Le Monde — International · 15/10 02:16"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Vulnérabilité saoudienne et frappes des Houthis contre Aramco",
-   "zone": "Moyen-Orient / Arabie saoudite",
-   "resume": "Les rebelles houthis du Yémen ont de nouveau tiré des missiles et des drones vers l'Arabie saoudite, touchant notamment un site du géant pétrolier Aramco. Même si plusieurs projectiles ont été interceptés, ces frappes mo",
-   "source": "France 24 — Moyen-Orient · 14/10 09:18"
+   "titre": "Vulnérabilité saoudienne face aux frappes de drones et missiles des Houthis",
+   "zone": "Moyen-Orient / Arabie saoudite / Yémen",
+   "resume": "Les rebelles houthis du Yémen multiplient les attaques aériennes contre l'Arabie saoudite, forçant le pays à repousser un prestigieux tournoi de tennis. Riyad investit des milliards pour transformer son image grâce au sp",
+   "source": "France 24 — Moyen-Orient · 15/10 09:31"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Offensive des Houthis et resserrement du siège de Taëz",
-   "zone": "Moyen-Orient / Yémen",
-   "resume": "Les Houthis ont coupé une route vitale menant à Taëz, aggravant l'encerclement de cette grande ville yéménite déjà éprouvée par des années de conflit. Les habitants se retrouvent menacés par de graves pénuries de nourrit",
-   "source": "France 24 — Moyen-Orient · 14/10 09:15"
+   "titre": "Conclusions de la commission de l'ONU sur la qualification de génocide à Gaza",
+   "zone": "Moyen-Orient / Bande de Gaza / Israël",
+   "resume": "Une enquête menée pour les Nations unies estime que les actions militaires d'Israël dans la bande de Gaza constituent un génocide, ce que le gouvernement israélien réfute totalement en dénonçant une décision biaisée. En ",
+   "source": "Le Monde — International · 15/10 04:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Révélations et documentaire sur les opérations de l'armée israélienne à Gaza",
-   "zone": "Moyen-Orient / Israël / Palestine",
-   "resume": "Un documentaire récompensé en Italie et plusieurs enquêtes documentent les tactiques de l'armée israélienne et l'impact dévastateur des frappes sur la population de Gaza. Le film donne la parole à des observateurs et tém",
-   "source": "Le Monde — International · 14/10 03:00"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Arrestation d'un ingénieur saoudien pour espionnage chez OpenAI",
-   "zone": "États-Unis / Arabie saoudite",
-   "resume": "Un salarié saoudien de la société OpenAI, qui a créé ChatGPT, a été arrêté aux États-Unis après avoir posé un micro espion dans les bureaux de l'entreprise. L'incident montre à quel point les secrets de l'intelligence ar",
-   "source": "© Andrej Ivanov, AFP · 14/10 00:43"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Bombardements russes massifs contre le système électrique ukrainien",
-   "zone": "Ukraine / Russie",
-   "resume": "La Russie a mené de lourdes frappes de missiles et de drones contre le réseau électrique ukrainien, plongeant des centaines de milliers de personnes dans le noir à l'approche de l'hiver. À ces dégâts s'ajoutent des pertu",
-   "source": "Le Monde — International · 14/10 08:58"
+   "titre": "Tirs de missiles stratégiques nord-coréens depuis des vecteurs sous-marins",
+   "zone": "Corée du Nord / Mer du Japon",
+   "resume": "La Corée du Nord a testé des missiles capables d'être tirés depuis des sous-marins, une méthode beaucoup plus difficile à repérer pour ses voisins. Pouvoir lancer des armes depuis la mer garantit à Pyongyang une capacité",
+   "source": "Le Monde — International · 15/10 00:05"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Donald Trump annonce l'exploration minière et énergétique du Groenland",
-   "zone": "Arctique / Groenland / États-Unis",
-   "resume": "Donald Trump a affirmé que les États-Unis préparaient une exploitation à grande échelle du pétrole, du gaz et des minerais rares présents au Groenland. L'île arctique, rattachée au Danemark, possède des ressources convoi",
-   "source": "Le Monde — International · 14/10 08:32"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Offensive des pays « frugaux » contre l'accroissement du budget de l'UE",
+   "titre": "Arbitrages budgétaires et concurrence commerciale au sommet européen de Bruxelles",
    "zone": "Union européenne",
-   "resume": "Plusieurs pays européens du Nord, dont l'Allemagne, réclament une réduction des dépenses de l'Union européenne et refusent d'augmenter leur participation financière. Ces pays, appelés les « frugaux », estiment qu'il faut",
-   "source": "Le Monde — International · 14/10 08:03"
+   "resume": "Les dirigeants de l'Union européenne se retrouvent pour décider comment financer les priorités communes face à la crise de l'énergie et à la concurrence des produits industriels chinois subventionnés. Trouver un consensu",
+   "source": "© Emil Jansse, Reuters · 15/10 06:10"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Révision de la doctrine éthique du fonds souverain norvégien",
+   "zone": "Norvège / Monde",
+   "resume": "Le gouvernement norvégien étudie une refonte des règles morales qui guident les placements de son fonds souverain, une colossale cagnotte publique financée par le pétrole. Ce fonds investit dans des milliers d'entreprise",
+   "source": "France 24 — Monde · 15/10 08:18"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Effondrement meurtrier du toit d'un établissement scolaire à Peshawar",
+   "zone": "Pakistan",
+   "resume": "Une terrible catastrophe s'est produite au Pakistan, où le toit d'une école s'est effondré sur des élèves, faisant au moins 28 morts et plusieurs dizaines de blessés. Cet accident tragique a provoqué une vive émotion dan",
+   "source": "© Maaz Awan, AP · 15/10 08:21"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Mise en cause de l'armée espagnole pour le refoulement de migrants à Ceuta",
+   "zone": "Espagne / Maroc / Ceuta",
+   "resume": "Des ONG de défense des droits humains accusent les militaires espagnols de maltraiter les exilés tentant de franchir la frontière de l'enclave de Ceuta, située en Afrique du Nord. Elles dénoncent des renvois forcés vers ",
+   "source": "Le Monde — International · 15/10 08:32"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Victoire marquante du Paris Saint-Germain face à Manchester City en Ligue des champions",
+   "zone": "Europe / France / Royaume-Uni",
+   "resume": "Le PSG a signé une victoire spectaculaire (4-2) sur le terrain de Manchester City lors de la phase de groupes de la Ligue des champions de football. Battre un concurrent aussi puissant à l'extérieur prouve l'excellente f",
+   "source": "© Jason Cairnduff, Action Images via Reuters · 14/10 21:43"
   }
  ]
 }
