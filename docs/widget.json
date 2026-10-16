@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-15T09:36:14+00:00",
+ "genere_le": "2026-10-16T09:28:44+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions entre Kiev et Washington sur les restrictions militaires et satellitaires",
-   "zone": "Ukraine / États-Unis / Russie",
-   "resume": "Le président ukrainien accuse les États-Unis de relâcher leur soutien militaire et technologique, notamment via les restrictions imposées sur le réseau satellite Starlink, essentiel pour piloter les drones et communiquer",
-   "source": "Le Monde — International · 15/10 04:00"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Entre-deux-tours au Brésil : réforme du temps de travail et polémique Meta",
-   "zone": "Brésil",
-   "resume": "Au Brésil, le président de gauche Lula marque un point politique majeur en réduisant la semaine de travail à 40 heures, mais accuse le groupe Meta (propriétaire d'Instagram et de WhatsApp) de brider ses messages de campa",
-   "source": "Le Monde — International · 15/10 02:16"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Vulnérabilité saoudienne face aux frappes de drones et missiles des Houthis",
-   "zone": "Moyen-Orient / Arabie saoudite / Yémen",
-   "resume": "Les rebelles houthis du Yémen multiplient les attaques aériennes contre l'Arabie saoudite, forçant le pays à repousser un prestigieux tournoi de tennis. Riyad investit des milliards pour transformer son image grâce au sp",
-   "source": "France 24 — Moyen-Orient · 15/10 09:31"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Conclusions de la commission de l'ONU sur la qualification de génocide à Gaza",
-   "zone": "Moyen-Orient / Bande de Gaza / Israël",
-   "resume": "Une enquête menée pour les Nations unies estime que les actions militaires d'Israël dans la bande de Gaza constituent un génocide, ce que le gouvernement israélien réfute totalement en dénonçant une décision biaisée. En ",
-   "source": "Le Monde — International · 15/10 04:00"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Tirs de missiles stratégiques nord-coréens depuis des vecteurs sous-marins",
-   "zone": "Corée du Nord / Mer du Japon",
-   "resume": "La Corée du Nord a testé des missiles capables d'être tirés depuis des sous-marins, une méthode beaucoup plus difficile à repérer pour ses voisins. Pouvoir lancer des armes depuis la mer garantit à Pyongyang une capacité",
-   "source": "Le Monde — International · 15/10 00:05"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Arbitrages budgétaires et concurrence commerciale au sommet européen de Bruxelles",
+   "titre": "Négociations du budget de l'Union européenne",
    "zone": "Union européenne",
-   "resume": "Les dirigeants de l'Union européenne se retrouvent pour décider comment financer les priorités communes face à la crise de l'énergie et à la concurrence des produits industriels chinois subventionnés. Trouver un consensu",
-   "source": "© Emil Jansse, Reuters · 15/10 06:10"
+   "resume": "Les pays de l'Union européenne n'arrivent pas à se mettre d'accord sur le montant du prochain budget commun. Certains gouvernements veulent dépenser pour soutenir les régions et l'économie, tandis que d'autres exigent de",
+   "source": "France 24 — Monde · 16/10 08:55"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Tensions entre l'Iran et les États-Unis",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "Les États-Unis envisageraient d'utiliser une arme surpuissante contre l'Iran si la situation sécuritaire continuait de se détériorer. Cette menace illustre la très forte tension entre Washington et Téhéran au sujet des a",
+   "source": "France 24 — Monde · 15/10 22:15"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Saisie d'explosifs du Hezbollah au Liban",
+   "zone": "Liban / Israël",
+   "resume": "Le mouvement libanais Hezbollah a admis qu'une importante cargaison d'explosifs saisie par la police était à lui et devait servir contre Israël. Cette affaire montre que le groupe armé agit en marge du gouvernement offic",
+   "source": "Le Monde — International · 15/10 20:50"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Attaques houthies contre l'Arabie saoudite",
+   "zone": "Golfe Persique / Arabie saoudite",
+   "resume": "L'Arabie saoudite subit de nombreuses attaques de drones et de missiles menées par les rebelles houthis du Yémen, alliés de l'Iran. L'ONU a condamné ces tirs réguliers, tandis que les experts estiment que le bouclier ant",
+   "source": "RFI — Monde · 16/10 08:06"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Guerre en Ukraine : escalade en mer Noire et tensions diplomatiques",
+   "zone": "Ukraine / Russie / Europe",
+   "resume": "Malgré les critiques de Donald Trump, l'Ukraine a repris ses bombardements contre les raffineries de pétrole en Russie. De plus, de mystérieux incendies de navires en mer Noire font craindre une extension du conflit aux ",
+   "source": "France 24 — Monde · 16/10 08:53"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Révision de la doctrine éthique du fonds souverain norvégien",
-   "zone": "Norvège / Monde",
-   "resume": "Le gouvernement norvégien étudie une refonte des règles morales qui guident les placements de son fonds souverain, une colossale cagnotte publique financée par le pétrole. Ce fonds investit dans des milliers d'entreprise",
-   "source": "France 24 — Monde · 15/10 08:18"
+   "titre": "Compromis franco-allemand sur l'industrie automobile",
+   "zone": "France / Allemagne / Union européenne",
+   "resume": "Paris et Berlin se sont entendus pour assouplir les règles européennes sur la fin des moteurs thermiques. La France a accepté de faire des compromis sur les seuils d'émissions de dioxyde de carbone, ce qui permet de s'él",
+   "source": "© Michael Sohn, AP · 15/10 22:32"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Effondrement meurtrier du toit d'un établissement scolaire à Peshawar",
-   "zone": "Pakistan",
-   "resume": "Une terrible catastrophe s'est produite au Pakistan, où le toit d'une école s'est effondré sur des élèves, faisant au moins 28 morts et plusieurs dizaines de blessés. Cet accident tragique a provoqué une vive émotion dan",
-   "source": "© Maaz Awan, AP · 15/10 08:21"
+   "titre": "Fusillade meurtrière dans une école de l'Oregon",
+   "zone": "États-Unis",
+   "resume": "Un adolescent de 16 ans a ouvert le feu dans une école primaire de l'Oregon, tuant trois enfants et un enseignant avant d'être neutralisé par un passant. Ce nouveau drame relance le débat ultrasensible sur la proliférati",
+   "source": "France 24 — Monde · 16/10 08:52"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Mise en cause de l'armée espagnole pour le refoulement de migrants à Ceuta",
-   "zone": "Espagne / Maroc / Ceuta",
-   "resume": "Des ONG de défense des droits humains accusent les militaires espagnols de maltraiter les exilés tentant de franchir la frontière de l'enclave de Ceuta, située en Afrique du Nord. Elles dénoncent des renvois forcés vers ",
-   "source": "Le Monde — International · 15/10 08:32"
+   "titre": "Mobilisation sociale du 17 octobre en France",
+   "zone": "France",
+   "resume": "Une nouvelle journée de mobilisation sociale inspirée des Gilets jaunes est organisée en France. À Paris, la préfecture a refusé le parcours prévu par les manifestants pour éviter des débordements, tout en leur proposant",
+   "source": "© Jean-Philippe Ksiazek, AFP · 16/10 05:51"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Enquête sur l'entraînement des intelligences artificielles à partir de livres",
+   "zone": "International",
+   "resume": "Pour entraîner certaines intelligences artificielles, des entreprises achètent de vrais livres, les scannent sous format numérique, puis les détruisent. Une méthode opaque et controversée qui pose de sérieux problèmes ju",
+   "source": "France 24 — Monde · 16/10 08:09"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Victoire marquante du Paris Saint-Germain face à Manchester City en Ligue des champions",
-   "zone": "Europe / France / Royaume-Uni",
-   "resume": "Le PSG a signé une victoire spectaculaire (4-2) sur le terrain de Manchester City lors de la phase de groupes de la Ligue des champions de football. Battre un concurrent aussi puissant à l'extérieur prouve l'excellente f",
-   "source": "© Jason Cairnduff, Action Images via Reuters · 14/10 21:43"
+   "titre": "Résultats des clubs français en Ligue Europa",
+   "zone": "France / Europe",
+   "resume": "Les clubs français ont connu des sorts opposés en Ligue Europa : Lyon a décroché une belle victoire contre Crystal Palace, confirmant son bon début de parcours. En revanche, Marseille s'est incliné face à l'Olympiakos et",
+   "source": "© Clément Mahoudeau, AFP · 16/10 06:26"
   }
  ]
 }
