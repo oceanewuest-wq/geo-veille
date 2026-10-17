@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-16T09:28:44+00:00",
+ "genere_le": "2026-10-17T09:04:03+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Négociations du budget de l'Union européenne",
-   "zone": "Union européenne",
-   "resume": "Les pays de l'Union européenne n'arrivent pas à se mettre d'accord sur le montant du prochain budget commun. Certains gouvernements veulent dépenser pour soutenir les régions et l'économie, tandis que d'autres exigent de",
-   "source": "France 24 — Monde · 16/10 08:55"
+   "titre": "Incertitude politique majeure avant les élections législatives en Israël",
+   "zone": "Moyen-Orient / Israël",
+   "resume": "Les électeurs israéliens retournent aux urnes le 27 octobre pour élire leurs députés, mais aucun camp ne semble en mesure d'obtenir une victoire nette. Les partis fidèles au Premier ministre Benyamin Nétanyahou et ses op",
+   "source": "Le Monde — International · 16/10 17:05"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Exemption des sanctions russes par Washington et dilemme financier pour l'Union européenne",
+   "zone": "Europe / États-Unis / Russie",
+   "resume": "Donald Trump a décidé d'annuler les nouvelles sanctions économiques que les États-Unis devaient appliquer à la Russie, provoquant la satisfaction du Kremlin. Délaissé par Washington, le président ukrainien Volodymyr Zele",
+   "source": "Le Monde — International · 17/10 05:09"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Transition politique en Hongrie et défis économiques du gouvernement Magyar",
+   "zone": "Europe centrale / Hongrie",
+   "resume": "En Hongrie, l'ère de Viktor Orbán est révolue et le nouveau dirigeant, Péter Magyar, est attendu au tournant après six mois au pouvoir. Les Hongrois s'inquiètent surtout de la vie chère et de la baisse de leur pouvoir d'",
+   "source": "Le Monde — International · 17/10 08:30"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Impasse diplomatique autour de la succession d'Antonio Guterres à l'ONU",
+   "zone": "International / ONU",
+   "resume": "L'élection du futur secrétaire général de l'ONU pour remplacer Antonio Guterres est totalement bloquée par les grandes puissances. Les sept candidats en lice se sont tous heurtés au refus d'au moins un des pays membres p",
+   "source": "Le Monde — International · 17/10 00:34"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Débarquement éclair de la porte-parole de la Maison Blanche Katie Zacharia",
+   "zone": "États-Unis",
+   "resume": "Katie Zacharia, nommée porte-parole de la Maison Blanche par Donald Trump, a été poussée vers la sortie après seulement cinq jours en poste. Sa première apparition publique a été marquée par de nombreuses maladresses et ",
+   "source": "Le Monde — International · 16/10 22:59"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions entre l'Iran et les États-Unis",
-   "zone": "Iran / Moyen-Orient",
-   "resume": "Les États-Unis envisageraient d'utiliser une arme surpuissante contre l'Iran si la situation sécuritaire continuait de se détériorer. Cette menace illustre la très forte tension entre Washington et Téhéran au sujet des a",
-   "source": "France 24 — Monde · 15/10 22:15"
+   "titre": "Escalade militaire houthiste au Yémen et accusations saoudiennes contre Téhéran",
+   "zone": "Moyen-Orient / Péninsule arabique",
+   "resume": "Les rebelles houthis, qui contrôlent une grande partie du Yémen, ont intensifié leurs attaques contre des aéroports et des cibles en Arabie saoudite. Le gouvernement saoudien accuse l'Iran de tirer les ficelles, ce que T",
+   "source": "Le Monde — International · 16/10 23:40"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Saisie d'explosifs du Hezbollah au Liban",
-   "zone": "Liban / Israël",
-   "resume": "Le mouvement libanais Hezbollah a admis qu'une importante cargaison d'explosifs saisie par la police était à lui et devait servir contre Israël. Cette affaire montre que le groupe armé agit en marge du gouvernement offic",
-   "source": "Le Monde — International · 15/10 20:50"
+   "titre": "Multiplication des violences et bilan humain en Cisjordanie occupée",
+   "zone": "Moyen-Orient / Cisjordanie",
+   "resume": "En Cisjordanie, la violence a atteint des niveaux record en marge de la guerre à Gaza, avec plus de 1 100 Palestiniens et une cinquantaine d'Israéliens tués en deux ans. Les attaques menées par des résidents des colonies",
+   "source": "France 24 — Moyen-Orient · 17/10 08:44"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaques houthies contre l'Arabie saoudite",
-   "zone": "Golfe Persique / Arabie saoudite",
-   "resume": "L'Arabie saoudite subit de nombreuses attaques de drones et de missiles menées par les rebelles houthis du Yémen, alliés de l'Iran. L'ONU a condamné ces tirs réguliers, tandis que les experts estiment que le bouclier ant",
-   "source": "RFI — Monde · 16/10 08:06"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : escalade en mer Noire et tensions diplomatiques",
-   "zone": "Ukraine / Russie / Europe",
-   "resume": "Malgré les critiques de Donald Trump, l'Ukraine a repris ses bombardements contre les raffineries de pétrole en Russie. De plus, de mystérieux incendies de navires en mer Noire font craindre une extension du conflit aux ",
-   "source": "France 24 — Monde · 16/10 08:53"
+   "titre": "Affrontements meurtriers entre groupes terroristes rivaux au Sahel",
+   "zone": "Sahel / Afrique de l'Ouest",
+   "resume": "Au Sahel, les deux principales branches terroristes liées à Al-Qaïda et à Daech se livrent une guerre impitoyable pour contrôler le terrain et les trafics. Ces combats aggravent la détresse des populations locales qui so",
+   "source": "France 24 — Monde · 16/10 21:11"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Compromis franco-allemand sur l'industrie automobile",
-   "zone": "France / Allemagne / Union européenne",
-   "resume": "Paris et Berlin se sont entendus pour assouplir les règles européennes sur la fin des moteurs thermiques. La France a accepté de faire des compromis sur les seuils d'émissions de dioxyde de carbone, ce qui permet de s'él",
-   "source": "© Michael Sohn, AP · 15/10 22:32"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Fusillade meurtrière dans une école de l'Oregon",
-   "zone": "États-Unis",
-   "resume": "Un adolescent de 16 ans a ouvert le feu dans une école primaire de l'Oregon, tuant trois enfants et un enseignant avant d'être neutralisé par un passant. Ce nouveau drame relance le débat ultrasensible sur la proliférati",
-   "source": "France 24 — Monde · 16/10 08:52"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Mobilisation sociale du 17 octobre en France",
-   "zone": "France",
-   "resume": "Une nouvelle journée de mobilisation sociale inspirée des Gilets jaunes est organisée en France. À Paris, la préfecture a refusé le parcours prévu par les manifestants pour éviter des débordements, tout en leur proposant",
-   "source": "© Jean-Philippe Ksiazek, AFP · 16/10 05:51"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Enquête sur l'entraînement des intelligences artificielles à partir de livres",
+   "titre": "Manoeuvres géopolitiques autour des hydrocarbures et des marchés céréaliers mondiaux",
    "zone": "International",
-   "resume": "Pour entraîner certaines intelligences artificielles, des entreprises achètent de vrais livres, les scannent sous format numérique, puis les détruisent. Une méthode opaque et controversée qui pose de sérieux problèmes ju",
-   "source": "France 24 — Monde · 16/10 08:09"
+   "resume": "Les grandes puissances comme les États-Unis et la Russie s'affrontent indirectement pour contrôler les circuits du pétrole, du gaz et des céréales. Les sanctions s'assouplissent d'un côté mais les navires clandestins res",
+   "source": "RFI — Monde · 17/10 05:00"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Résultats des clubs français en Ligue Europa",
-   "zone": "France / Europe",
-   "resume": "Les clubs français ont connu des sorts opposés en Ligue Europa : Lyon a décroché une belle victoire contre Crystal Palace, confirmant son bon début de parcours. En revanche, Marseille s'est incliné face à l'Olympiakos et",
-   "source": "© Clément Mahoudeau, AFP · 16/10 06:26"
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Mobilisation sociale en France : tentative d'union des lycéens et des Gilets jaunes",
+   "zone": "France",
+   "resume": "En France, les lycéens mobilisés contre la plateforme d'orientation Parcoursup ont tenté d'unir leurs forces ce samedi avec d'anciens Gilets jaunes et des écologistes. Cette manifestation cherche à rassembler toutes les ",
+   "source": "France 24 — Monde · 17/10 08:41"
   }
  ]
 }
