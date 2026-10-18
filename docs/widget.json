@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-17T09:04:03+00:00",
+ "genere_le": "2026-10-18T09:23:25+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Incertitude politique majeure avant les élections législatives en Israël",
-   "zone": "Moyen-Orient / Israël",
-   "resume": "Les électeurs israéliens retournent aux urnes le 27 octobre pour élire leurs députés, mais aucun camp ne semble en mesure d'obtenir une victoire nette. Les partis fidèles au Premier ministre Benyamin Nétanyahou et ses op",
-   "source": "Le Monde — International · 16/10 17:05"
+   "titre": "L'impuissance des diplomaties occidentales au Moyen-Orient",
+   "zone": "Moyen-Orient",
+   "resume": "Les grandes démocraties occidentales se montrent incapables de faire respecter le droit international ou d'arrêter l'escalade militaire au Moyen-Orient. Leurs discours restent sans effet réel sur le terrain, ce qui décré",
+   "source": "Le Monde — International · 18/10 04:25"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Exemption des sanctions russes par Washington et dilemme financier pour l'Union européenne",
-   "zone": "Europe / États-Unis / Russie",
-   "resume": "Donald Trump a décidé d'annuler les nouvelles sanctions économiques que les États-Unis devaient appliquer à la Russie, provoquant la satisfaction du Kremlin. Délaissé par Washington, le président ukrainien Volodymyr Zele",
-   "source": "Le Monde — International · 17/10 05:09"
+   "titre": "Mobilisation populaire à Tunis contre le pouvoir de Kaïs Saïed",
+   "zone": "Tunisie",
+   "resume": "Des milliers de Tunisiens ont bravé la peur pour manifester dans la capitale contre la vie chère et le régime autoritaire du président Kaïs Saïed. Cinq ans après son coup de force constitutionnel, l'opposition et les pri",
+   "source": "Le Monde — International · 18/10 07:41"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Transition politique en Hongrie et défis économiques du gouvernement Magyar",
-   "zone": "Europe centrale / Hongrie",
-   "resume": "En Hongrie, l'ère de Viktor Orbán est révolue et le nouveau dirigeant, Péter Magyar, est attendu au tournant après six mois au pouvoir. Les Hongrois s'inquiètent surtout de la vie chère et de la baisse de leur pouvoir d'",
-   "source": "Le Monde — International · 17/10 08:30"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Impasse diplomatique autour de la succession d'Antonio Guterres à l'ONU",
-   "zone": "International / ONU",
-   "resume": "L'élection du futur secrétaire général de l'ONU pour remplacer Antonio Guterres est totalement bloquée par les grandes puissances. Les sept candidats en lice se sont tous heurtés au refus d'au moins un des pays membres p",
-   "source": "Le Monde — International · 17/10 00:34"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Débarquement éclair de la porte-parole de la Maison Blanche Katie Zacharia",
+   "titre": "Mobilisation nationale du mouvement « No Kings » contre Donald Trump",
    "zone": "États-Unis",
-   "resume": "Katie Zacharia, nommée porte-parole de la Maison Blanche par Donald Trump, a été poussée vers la sortie après seulement cinq jours en poste. Sa première apparition publique a été marquée par de nombreuses maladresses et ",
-   "source": "Le Monde — International · 16/10 22:59"
+   "resume": "Aux États-Unis, des milliers d'opposants se sont rassemblés sous le slogan « Pas de rois » pour contester la politique de Donald Trump. À l'approche d'élections législatives capitales, les manifestants veulent mobiliser ",
+   "source": "Le Monde — International · 18/10 04:25"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Présidentielle brésilienne : incertitudes économiques et craintes écologiques",
+   "zone": "Brésil",
+   "resume": "Le Brésil s'apprête à voter pour le second tour d'une présidentielle sous haute tension entre le président de gauche Lula et Flavio Bolsonaro, fils de l'ancien chef d'État d'extrême droite. Une victoire de ce dernier pou",
+   "source": "Le Monde — International · 18/10 04:05"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade militaire houthiste au Yémen et accusations saoudiennes contre Téhéran",
-   "zone": "Moyen-Orient / Péninsule arabique",
-   "resume": "Les rebelles houthis, qui contrôlent une grande partie du Yémen, ont intensifié leurs attaques contre des aéroports et des cibles en Arabie saoudite. Le gouvernement saoudien accuse l'Iran de tirer les ficelles, ce que T",
-   "source": "Le Monde — International · 16/10 23:40"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Multiplication des violences et bilan humain en Cisjordanie occupée",
+   "titre": "Attaque d'un convoi diplomatique européen et violences de colons en Cisjordanie",
    "zone": "Moyen-Orient / Cisjordanie",
-   "resume": "En Cisjordanie, la violence a atteint des niveaux record en marge de la guerre à Gaza, avec plus de 1 100 Palestiniens et une cinquantaine d'Israéliens tués en deux ans. Les attaques menées par des résidents des colonies",
-   "source": "France 24 — Moyen-Orient · 17/10 08:44"
+   "resume": "Des colons israéliens ont violemment attaqué un groupe de diplomates européens en Cisjordanie, blessant notamment un élu français en mission sur place. Alors que Washington hausse inhabituellement le ton contre ces viole",
+   "source": "Le Monde — International · 18/10 01:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Affrontements meurtriers entre groupes terroristes rivaux au Sahel",
-   "zone": "Sahel / Afrique de l'Ouest",
-   "resume": "Au Sahel, les deux principales branches terroristes liées à Al-Qaïda et à Daech se livrent une guerre impitoyable pour contrôler le terrain et les trafics. Ces combats aggravent la détresse des populations locales qui so",
-   "source": "France 24 — Monde · 16/10 21:11"
+   "titre": "Incendie meurtrier sur la base militaire de Wainwright au Canada",
+   "zone": "Canada",
+   "resume": "Un grave incendie a ravagé une base militaire dans l'ouest du Canada, faisant des morts et saturant totalement les hôpitaux de la région. Face à cette urgence absolue, les autorités locales ont dû suspendre un vote référ",
+   "source": "Le Monde — International · 18/10 09:06"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Manoeuvres géopolitiques autour des hydrocarbures et des marchés céréaliers mondiaux",
-   "zone": "International",
-   "resume": "Les grandes puissances comme les États-Unis et la Russie s'affrontent indirectement pour contrôler les circuits du pétrole, du gaz et des céréales. Les sanctions s'assouplissent d'un côté mais les navires clandestins res",
-   "source": "RFI — Monde · 17/10 05:00"
+   "titre": "Suspension par Washington des sanctions sur les hydrocarbures russes",
+   "zone": "États-Unis / Russie",
+   "resume": "Les États-Unis ont décidé de geler temporairement de lourdes sanctions économiques qui devaient pénaliser les acheteurs de pétrole et de gaz russes. L'administration américaine affirme vouloir préserver le marché énergét",
+   "source": "Le Monde — International · 18/10 04:00"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Tournant protectionniste de l'industrie allemande vis-à-vis de Pékin",
+   "zone": "Allemagne / Chine",
+   "resume": "Pendant des décennies, l'Allemagne a fondé sa prospérité sur la vente de ses machines et voitures en Chine. Mais face à la concurrence agressive des produits chinois subventionnés et aux fermetures d'usines chez elle, l'",
+   "source": "Le Monde — International · 18/10 08:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Mobilisation sociale en France : tentative d'union des lycéens et des Gilets jaunes",
+   "titre": "Tensions majeures et interpellations records en France lors des manifestations du 17 octobre",
    "zone": "France",
-   "resume": "En France, les lycéens mobilisés contre la plateforme d'orientation Parcoursup ont tenté d'unir leurs forces ce samedi avec d'anciens Gilets jaunes et des écologistes. Cette manifestation cherche à rassembler toutes les ",
-   "source": "France 24 — Monde · 17/10 08:41"
+   "resume": "Des centaines de milliers de personnes sont descendues dans la rue en France pour protester contre l'inflation et la baisse du pouvoir d'achat. Le rassemblement a dégénéré en violences urbaines inédites, provoquant un no",
+   "source": "France 24 — Monde · 18/10 09:07"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Feux de forêts massifs en Indonésie et crise environnementale régionale",
+   "zone": "Asie du Sud-Est",
+   "resume": "D'immenses feux de forêts ravagent l'Indonésie, recouvrant plusieurs pays voisins d'un épais nuage de fumée toxique. Cette pollution de l'air dépasse les seuils critiques et met en danger la santé de millions d'habitants",
+   "source": "© Abriansyah Liberto, Reuters · 18/10 06:11"
   }
  ]
 }
