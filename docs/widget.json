@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-18T09:23:25+00:00",
+ "genere_le": "2026-10-19T10:30:08+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "L'impuissance des diplomaties occidentales au Moyen-Orient",
-   "zone": "Moyen-Orient",
-   "resume": "Les grandes démocraties occidentales se montrent incapables de faire respecter le droit international ou d'arrêter l'escalade militaire au Moyen-Orient. Leurs discours restent sans effet réel sur le terrain, ce qui décré",
-   "source": "Le Monde — International · 18/10 04:25"
+   "titre": "Législatives en Israël : appui de Donald Trump et désinformation par IA",
+   "zone": "Moyen-Orient / Israël",
+   "resume": "À l'approche des élections en Israël, Donald Trump s'est positionné très clairement en faveur de Benyamin Nétanyahou. Dans le même temps, les partis politiques s'attaquent à coup de trucages ultra-réalistes créés par l'i",
+   "source": "© Jonathan Ernst, Reuters · 18/10 16:54"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Mobilisation populaire à Tunis contre le pouvoir de Kaïs Saïed",
-   "zone": "Tunisie",
-   "resume": "Des milliers de Tunisiens ont bravé la peur pour manifester dans la capitale contre la vie chère et le régime autoritaire du président Kaïs Saïed. Cinq ans après son coup de force constitutionnel, l'opposition et les pri",
-   "source": "Le Monde — International · 18/10 07:41"
+   "titre": "Tournée d'Emmanuel Macron dans le Golfe pour sécuriser les hydrocarbures",
+   "zone": "Moyen-Orient / Golfe Persique",
+   "resume": "En pleine crise sociale chez lui, Emmanuel Macron s'est rendu dans les pays du Golfe pour négocier des livraisons de carburant. L'objectif est d'assurer les stocks de diesel et de pétrole français face aux risques de pén",
+   "source": "© Benoît Tessier, AFP · 19/10 07:49"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Mobilisation nationale du mouvement « No Kings » contre Donald Trump",
-   "zone": "États-Unis",
-   "resume": "Aux États-Unis, des milliers d'opposants se sont rassemblés sous le slogan « Pas de rois » pour contester la politique de Donald Trump. À l'approche d'élections législatives capitales, les manifestants veulent mobiliser ",
-   "source": "Le Monde — International · 18/10 04:25"
+   "titre": "Crise institutionnelle et maintien de l'ordre en France après le 17 octobre",
+   "zone": "France / Europe",
+   "resume": "Après des manifestations très violentes dans plusieurs villes françaises, le préfet de police a proposé de démissionner, ce qu'Emmanuel Macron a refusé. Les autorités reconnaissent avoir été dépassées par endroits et che",
+   "source": "© Laurent Cipriani, AP · 19/10 05:18"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Présidentielle brésilienne : incertitudes économiques et craintes écologiques",
-   "zone": "Brésil",
-   "resume": "Le Brésil s'apprête à voter pour le second tour d'une présidentielle sous haute tension entre le président de gauche Lula et Flavio Bolsonaro, fils de l'ancien chef d'État d'extrême droite. Une victoire de ce dernier pou",
-   "source": "Le Monde — International · 18/10 04:05"
+   "titre": "Débat d'entre-deux-tours et désinformation numérique au Brésil",
+   "zone": "Amérique du Sud / Brésil",
+   "resume": "Au Brésil, le face-à-face télévisé entre Lula et le fils de l'ancien président Jair Bolsonaro a été particulièrement âpre à l'approche du second tour. La campagne électorale est polluée par des vidéos et faux contenus gé",
+   "source": "Le Monde — International · 19/10 09:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaque d'un convoi diplomatique européen et violences de colons en Cisjordanie",
+   "titre": "Réduction drastique de l'aide humanitaire du PAM à Gaza",
+   "zone": "Moyen-Orient / Bande de Gaza",
+   "resume": "L'agence de l'ONU chargée de la faim dans le monde n'a plus assez d'argent et doit couper son aide d'un tiers à Gaza. Environ 500 000 personnes ne recevront plus de nourriture d'urgence. Cette décision montre à quel poin",
+   "source": "Le Monde — International · 19/10 10:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Arrestation de colons après des violences en Cisjordanie",
    "zone": "Moyen-Orient / Cisjordanie",
-   "resume": "Des colons israéliens ont violemment attaqué un groupe de diplomates européens en Cisjordanie, blessant notamment un élu français en mission sur place. Alors que Washington hausse inhabituellement le ton contre ces viole",
-   "source": "Le Monde — International · 18/10 01:00"
+   "resume": "Des colons israéliens radicaux ont attaqué des diplomates occidentaux, blessant un maire français venu en visite en Cisjordanie, ainsi qu'une journaliste américaine. Dix suspects ont été arrêtés par la police israélienne",
+   "source": "Le Monde — International · 19/10 08:14"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Incendie meurtrier sur la base militaire de Wainwright au Canada",
-   "zone": "Canada",
-   "resume": "Un grave incendie a ravagé une base militaire dans l'ouest du Canada, faisant des morts et saturant totalement les hôpitaux de la région. Face à cette urgence absolue, les autorités locales ont dû suspendre un vote référ",
-   "source": "Le Monde — International · 18/10 09:06"
+   "titre": "Frappes balistiques russes sur Kiev et tensions entre l'Ukraine et ses alliés",
+   "zone": "Europe / Ukraine",
+   "resume": "La capitale ukrainienne a de nouveau été touchée par des missiles russes, faisant des victimes civiles. Le président ukrainien a regretté de ne pas avoir été prévenu par les services de renseignement de ses alliés occide",
+   "source": "Le Monde — International · 19/10 08:35"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Incendie tragique sur une base militaire canadienne en Alberta",
+   "zone": "Amérique du Nord / Canada",
+   "resume": "Un grave incendie sur une base militaire en Alberta a fait quatre morts et de nombreux blessés graves parmi les soldats canadiens. Le gouvernement a réagi en déclarant le pays en deuil face à ce drame exceptionnel en tem",
+   "source": "Le Monde — International · 19/10 00:00"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Suspension par Washington des sanctions sur les hydrocarbures russes",
-   "zone": "États-Unis / Russie",
-   "resume": "Les États-Unis ont décidé de geler temporairement de lourdes sanctions économiques qui devaient pénaliser les acheteurs de pétrole et de gaz russes. L'administration américaine affirme vouloir préserver le marché énergét",
-   "source": "Le Monde — International · 18/10 04:00"
+   "titre": "Tensions navales dans le détroit d'Ormuz et impact gazier sur le Qatar",
+   "zone": "Détroit d'Ormuz / Golfe Persique",
+   "resume": "L'Iran multiplie les attaques contre les navires dans le détroit d'Ormuz, une voie maritime étroite par laquelle transite une grande partie du pétrole et du gaz mondial. Le Qatar, dont la richesse dépend totalement de se",
+   "source": "Le Monde — International · 19/10 04:30"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Tournant protectionniste de l'industrie allemande vis-à-vis de Pékin",
-   "zone": "Allemagne / Chine",
-   "resume": "Pendant des décennies, l'Allemagne a fondé sa prospérité sur la vente de ses machines et voitures en Chine. Mais face à la concurrence agressive des produits chinois subventionnés et aux fermetures d'usines chez elle, l'",
-   "source": "Le Monde — International · 18/10 08:00"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Tensions majeures et interpellations records en France lors des manifestations du 17 octobre",
-   "zone": "France",
-   "resume": "Des centaines de milliers de personnes sont descendues dans la rue en France pour protester contre l'inflation et la baisse du pouvoir d'achat. Le rassemblement a dégénéré en violences urbaines inédites, provoquant un no",
-   "source": "France 24 — Monde · 18/10 09:07"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Feux de forêts massifs en Indonésie et crise environnementale régionale",
-   "zone": "Asie du Sud-Est",
-   "resume": "D'immenses feux de forêts ravagent l'Indonésie, recouvrant plusieurs pays voisins d'un épais nuage de fumée toxique. Cette pollution de l'air dépasse les seuils critiques et met en danger la santé de millions d'habitants",
-   "source": "© Abriansyah Liberto, Reuters · 18/10 06:11"
+   "titre": "Émeutes et contestation de la vie chère à Milan",
+   "zone": "Europe / Italie",
+   "resume": "Des jeunes se sont heurtés à la police à Milan lors de manifestations contre la flambée des prix et du coût de la vie. La capitale financière italienne subit directement la colère populaire face à la baisse du pouvoir d'",
+   "source": "France 24 — Monde · 19/10 10:05"
   }
  ]
 }
