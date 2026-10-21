@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-20T10:01:19+00:00",
+ "genere_le": "2026-10-21T10:02:00+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives en Israël et campagne axée sur l'alliance avec Donald Trump",
-   "zone": "Israël / Palestine",
-   "resume": "En plein milieu de sa campagne électorale pour les législatives, le dirigeant israélien Benjamin Netanyahu s'affiche publiquement avec Donald Trump pour séduire ses électeurs. Cette tactique vise à montrer qu'il a de sol",
-   "source": "© France 24 - David Gormezano · 20/10 05:31"
+   "titre": "Pourparlers de paix sur l'Ukraine et libération d'un citoyen américain",
+   "zone": "Ukraine / Russie / États-Unis",
+   "resume": "L'envoyé spécial de Donald Trump a rencontré Vladimir Poutine en Russie pour avancer sur la fin de la guerre en Ukraine. Pendant la discussion, le dirigeant russe a libéré un prisonnier américain en guise de geste diplom",
+   "source": "Le Monde — International · 21/10 07:55"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Gestion des violences urbaines et couvre-feux en France",
+   "titre": "Recours croisés et tensions juridiques avant le second tour au Brésil",
+   "zone": "Brésil",
+   "resume": "La course à la présidence du Brésil est ultra-tendue à l'approche du vote décisif. Lula et Flavio Bolsonaro demandent chacun à la justice d'annuler la candidature de l'autre, s'accusant mutuellement de manipulation des r",
+   "source": "Le Monde — International · 21/10 05:07"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Violences du 17 octobre en France et riposte judiciaire",
    "zone": "France",
-   "resume": "Face aux pillages et aux violences qui ont marqué le week-end du 17 octobre, le gouvernement français a durci le ton avec des milliers d'interpellations et la mise en place de couvre-feux nocturnes dans certaines villes.",
-   "source": "France 24 — Monde · 20/10 09:20"
+   "resume": "Après des manifestations émaillées de violences mi-octobre, la justice française applique une politique de tolérance zéro avec de nombreuses condamnations en comparution immédiate et près de 150 incarcérations. Le gouver",
+   "source": "France 24 — Monde · 21/10 09:23"
   },
   {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Élections de mi-mandat aux États-Unis : enjeux cruciaux pour le Sénat",
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Déploiement militaire à Milan après les troubles urbains en Italie",
+   "zone": "Italie",
+   "resume": "Face à des vagues de violences et de pillages urbains à Milan, le gouvernement italien d'extrême droite a décidé d'envoyer 500 soldats en renfort. L'exécutif durcit en outre l'arsenal répressif pour punir plus sévèrement",
+   "source": "© Stefano Porta, LaPresse via AP · 20/10 22:08"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Survol non autorisé de sites militaires à Toulon",
+   "zone": "France",
+   "resume": "Des drones mystérieux ont survolé la base navale de Toulon et des zones militaires protégées lors d'un grand exercice de défense en octobre. La marine a confirmé l'incident, qui met en lumière les vulnérabilités face à c",
+   "source": "© Thibaud Moritz, AFP · 21/10 09:33"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Tensions et recrudescence des violences de colons en Cisjordanie",
+   "zone": "Israël / Palestine",
+   "resume": "La récolte des olives en Cisjordanie est gâchée par une forte hausse des violences menées par des colons extrémistes contre les civils palestiniens. Les agriculteurs locaux dénoncent des agressions régulières sur leurs t",
+   "source": "© Les Observateurs · 20/10 19:12"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Crash d'un avion de chasse Mirage 2000D près de Nancy",
+   "zone": "France",
+   "resume": "Un avion militaire de chasse s'est crashé lors d'un vol d'entraînement dans l'Est de la France, provoquant la mort d'au moins un pilote. L'armée a ouvert une enquête pour comprendre les raisons de ce dramatique accident.",
+   "source": "© Ludovic Marin, AP · 21/10 06:18"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Boeing décroche la certification américaine pour son long-courrier 737 MAX 10",
    "zone": "États-Unis",
-   "resume": "Le 3 novembre prochain se tiendront les élections de mi-mandat aux États-Unis, un scrutin crucial pour savoir quel parti contrôlera le Sénat. Alors que les électeurs votent déjà massivement par anticipation malgré les ac",
-   "source": "© Studio graphique France Médias Monde · 20/10 09:03"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Tensions géopolitiques et déclarations sur l'Iran dans le Golfe",
-   "zone": "Moyen-Orient / Iran / Golfe Persique",
-   "resume": "Israël menace ouvertement l'Iran de reprendre les hostilités militaires avec l'aide des États-Unis, ce qui fait craindre une nouvelle guerre majeure au Moyen-Orient. La situation dans le Golfe est extrêmement tendue et l",
-   "source": "RFI — Monde · 20/10 07:40"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Récolte des olives sous occupation dans le sud du Liban",
-   "zone": "Liban / Israël",
-   "resume": "Les paysans du sud du Liban n'ont d'autre choix que de récolter leurs olives tout en vivant sous la menace de l'armée et des drones israéliens présents dans la zone. Cet événement illustre l'impact direct de l'occupation",
-   "source": ""
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Sécurisation de livraisons de gazole en France depuis le Golfe",
-   "zone": "France / Émirats arabes unis / Bahreïn",
-   "resume": "Pour éviter toute pénurie de carburant, la France a conclu de nouveaux accords avec des pays du Golfe comme les Émirats arabes unis et Bahreïn afin de importer davantage de diesel. Cela représente un dixième de la consom",
-   "source": ""
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Accord sur le gazole entre Donald Trump et Vladimir Poutine",
-   "zone": "États-Unis / Russie / Ukraine",
-   "resume": "Donald Trump et Vladimir Poutine se sont entendus sur un accord pétrolier portant sur le gazole, contournant ainsi les sanctions internationales prises contre la Russie depuis la guerre en Ukraine. Cette décision diploma",
-   "source": "Le Monde — International · 20/10 03:00"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Restructuration industrielle de GSK et menace sur l'emploi en Wallonie",
-   "zone": "Belgique",
-   "resume": "Le géant pharmaceutique GSK a annoncé la suppression potentielle de plus de 1 200 emplois en Wallonie, où il est le plus grand employeur privé. Cette restructuration industrielle représente un choc majeur pour l'économie",
-   "source": "Le Monde — International · 20/10 09:30"
+   "resume": "L'avionneur Boeing a enfin reçu le feu vert des autorités américaines pour commercialiser son grand avion de ligne, le 737 MAX 10. Ce modèle phare pourra être livré aux compagnies aériennes à partir de 2027, après des an",
+   "source": "© Jim Anderson, Boeing via AFP · 20/10 21:07"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Condamnation du pasteur Paul Mackenzie au Kenya pour le meurtre de 191 personnes",
-   "zone": "Kenya",
-   "resume": "Au Kenya, le chef de secte Paul Mackenzie a été jugé coupable de la mort de 191 personnes, en grande majorité des enfants, qui avaient péri après avoir suivi ses prêches prônant un jeûne absolu dans une forêt. C'est l'ép",
-   "source": "France 24 — Monde · 19/10 18:40"
+   "titre": "Alerte maximale au Nigeria après un premier cas d'Ebola",
+   "zone": "Nigeria / Ouganda",
+   "resume": "Le Nigeria a placé son système sanitaire en alerte maximale après avoir détecté un cas d'Ebola chez une voyageuse venue d'Ouganda. Les autorités recherchent activement toutes les personnes ayant été en contact étroit ave",
+   "source": "© Chinedu Asadu, AP · 20/10 21:50"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Ligue des champions : choc européen entre le Paris Saint-Germain et le FC Barcelone",
-   "zone": "France / Espagne",
-   "resume": "C'est l'un des matchs phares de la semaine en Coupe d'Europe : le Paris Saint-Germain affronte le FC Barcelone au Parc des Princes en Ligue des champions. En grande forme, les Parisiens espèrent s'imposer lors de ce duel",
-   "source": "© Dave Thompson, AP · 20/10 05:46"
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Activités caritatives et de sensibilisation pour Octobre Rose à Henriville",
+   "zone": "France",
+   "resume": "La ville d'Henriville se mobilise pour Octobre Rose en proposant des marches de sensibilisation, des conseils de prévention et un défilé de mode solidaire. Des actions locales importantes pour rappeler l'utilité du dépis",
+   "source": "Radio Mélodie · 21/10 04:00"
   }
  ]
 }
