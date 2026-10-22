@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-21T10:02:00+00:00",
+ "genere_le": "2026-10-22T09:49:48+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Pourparlers de paix sur l'Ukraine et libération d'un citoyen américain",
-   "zone": "Ukraine / Russie / États-Unis",
-   "resume": "L'envoyé spécial de Donald Trump a rencontré Vladimir Poutine en Russie pour avancer sur la fin de la guerre en Ukraine. Pendant la discussion, le dirigeant russe a libéré un prisonnier américain en guise de geste diplom",
-   "source": "Le Monde — International · 21/10 07:55"
+   "titre": "Visite d'Emmanuel Macron dans le Golfe",
+   "zone": "Golfe Persique",
+   "resume": "Malgré des critiques politiques en France à la suite de violences récentes, Emmanuel Macron a maintenu son voyage officiel de trois jours dans le Golfe. Il estime qu'il était indispensable de ne pas annuler cette visite ",
+   "source": "Le Monde — International · 22/10 06:02"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Recours croisés et tensions juridiques avant le second tour au Brésil",
-   "zone": "Brésil",
-   "resume": "La course à la présidence du Brésil est ultra-tendue à l'approche du vote décisif. Lula et Flavio Bolsonaro demandent chacun à la justice d'annuler la candidature de l'autre, s'accusant mutuellement de manipulation des r",
-   "source": "Le Monde — International · 21/10 05:07"
+   "titre": "Dialogue diplomatique entre la France et les talibans",
+   "zone": "Afghanistan / France",
+   "resume": "La France a ouvert des discussions avec le régime des talibans en Afghanistan pour pouvoir expulser plus facilement certains exilés afghans considérés comme dangereux. Une décision qui angoisse la communauté des réfugiés",
+   "source": "Le Monde — International · 22/10 04:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Violences du 17 octobre en France et riposte judiciaire",
-   "zone": "France",
-   "resume": "Après des manifestations émaillées de violences mi-octobre, la justice française applique une politique de tolérance zéro avec de nombreuses condamnations en comparution immédiate et près de 150 incarcérations. Le gouver",
-   "source": "France 24 — Monde · 21/10 09:23"
+   "titre": "Tensions et mesures d'évacuation en Arabie saoudite",
+   "zone": "Moyen-Orient / Golfe Persique",
+   "resume": "Les États-Unis demandent à une partie de leur personnel diplomatique et à leurs familles de quitter l'Arabie saoudite après des attaques et des explosions signalées dans le pays. C'est un signe fort de préoccupation face",
+   "source": "© Giuseppe Cacace, AFP (archives) · 22/10 00:37"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Déploiement militaire à Milan après les troubles urbains en Italie",
-   "zone": "Italie",
-   "resume": "Face à des vagues de violences et de pillages urbains à Milan, le gouvernement italien d'extrême droite a décidé d'envoyer 500 soldats en renfort. L'exécutif durcit en outre l'arsenal répressif pour punir plus sévèrement",
-   "source": "© Stefano Porta, LaPresse via AP · 20/10 22:08"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Survol non autorisé de sites militaires à Toulon",
-   "zone": "France",
-   "resume": "Des drones mystérieux ont survolé la base navale de Toulon et des zones militaires protégées lors d'un grand exercice de défense en octobre. La marine a confirmé l'incident, qui met en lumière les vulnérabilités face à c",
-   "source": "© Thibaud Moritz, AFP · 21/10 09:33"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Tensions et recrudescence des violences de colons en Cisjordanie",
+   "titre": "Frappes et escalade au Proche-Orient",
    "zone": "Israël / Palestine",
-   "resume": "La récolte des olives en Cisjordanie est gâchée par une forte hausse des violences menées par des colons extrémistes contre les civils palestiniens. Les agriculteurs locaux dénoncent des agressions régulières sur leurs t",
-   "source": "© Les Observateurs · 20/10 19:12"
+   "resume": "Un ministre israélien a diffusé une vidéo humoristique et provocatrice créée par IA montrant l'expulsion d'un habitant de Gaza vers un Paris en ruines. Cette publication illustre la dureté de la communication politique a",
+   "source": "France 24 — Moyen-Orient · 21/10 21:19"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Crash d'un avion de chasse Mirage 2000D près de Nancy",
-   "zone": "France",
-   "resume": "Un avion militaire de chasse s'est crashé lors d'un vol d'entraînement dans l'Est de la France, provoquant la mort d'au moins un pilote. L'armée a ouvert une enquête pour comprendre les raisons de ce dramatique accident.",
-   "source": "© Ludovic Marin, AP · 21/10 06:18"
+   "titre": "Intensification des combats en Ukraine",
+   "zone": "Ukraine / Russie",
+   "resume": "De nouvelles frappes meurtrières ont touché l'Ukraine et Kiev, tandis que la Russie affirme avoir abattu des centaines de drones. Le président ukrainien réclame d'urgence plus d'aide militaire face à un Kremlin qui ne mo",
+   "source": "Le Monde — International · 22/10 07:47"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Boeing décroche la certification américaine pour son long-courrier 737 MAX 10",
+   "titre": "Condamnation historique de Meta pour Cambridge Analytica",
    "zone": "États-Unis",
-   "resume": "L'avionneur Boeing a enfin reçu le feu vert des autorités américaines pour commercialiser son grand avion de ligne, le 737 MAX 10. Ce modèle phare pourra être livré aux compagnies aériennes à partir de 2027, après des an",
-   "source": "© Jim Anderson, Boeing via AFP · 20/10 21:07"
+   "resume": "Meta (la maison mère de Facebook) écope d'une amende géante de 25 milliards de dollars aux États-Unis pour le scandale de fuite et d'utilisation de données personnelles révélé en 2018.",
+   "source": "© Fabrice Coffrini, AFP (archives) · 21/10 20:43"
   },
   {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Alerte maximale au Nigeria après un premier cas d'Ebola",
-   "zone": "Nigeria / Ouganda",
-   "resume": "Le Nigeria a placé son système sanitaire en alerte maximale après avoir détecté un cas d'Ebola chez une voyageuse venue d'Ouganda. Les autorités recherchent activement toutes les personnes ayant été en contact étroit ave",
-   "source": "© Chinedu Asadu, AP · 20/10 21:50"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Activités caritatives et de sensibilisation pour Octobre Rose à Henriville",
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Taux d'emprunt de la France : un seuil symbolique franchi",
    "zone": "France",
-   "resume": "La ville d'Henriville se mobilise pour Octobre Rose en proposant des marches de sensibilisation, des conseils de prévention et un défilé de mode solidaire. Des actions locales importantes pour rappeler l'utilité du dépis",
-   "source": "Radio Mélodie · 21/10 04:00"
+   "resume": "Emprunter de l'argent sur dix ans coûte désormais plus de 5 % à la France, un plus haut historique depuis 2002. Cette situation reflète les difficultés budgétaires et les crises traversées par le pays ces dernières année",
+   "source": "France 24 — Monde · 21/10 19:59"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Manifestations interdites à Paris et Lyon",
+   "zone": "France",
+   "resume": "Face aux risques de violences et de débordements, le gouvernement a interdit les manifestations prévues à Paris et à Lyon. Une mesure de sécurité forte pour tenter de calmer la situation sociale.",
+   "source": "AP Photo/Laurent Cipriani - Laurent Cipriani · 22/10 02:48"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "L'impact de l'intelligence artificielle sur les miniséries en Chine",
+   "zone": "Chine",
+   "resume": "En Chine, l'intelligence artificielle génère désormais la grande majorité des petits formats de séries pour mobiles, cassant les coûts de production. En contrepartie, les créateurs voient leurs revenus s'effondrer face à",
+   "source": "Le Monde — International · 22/10 09:00"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Le pape Léon XIV jugé sans besoin de traitement post-opératoire",
+   "zone": "Vatican",
+   "resume": "Bonne nouvelle pour le Vatican : le pape Léon XIV est guéri de son cancer pulmonaire localisé et n'aura pas besoin de chimiothérapie ou de rayons après son opération. Son voyage en Amérique latine en novembre est mainten",
+   "source": "Le Monde — International · 21/10 23:40"
   }
  ]
 }
