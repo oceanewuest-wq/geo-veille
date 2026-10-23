@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-22T09:49:48+00:00",
+ "genere_le": "2026-10-23T09:57:12+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Visite d'Emmanuel Macron dans le Golfe",
-   "zone": "Golfe Persique",
-   "resume": "Malgré des critiques politiques en France à la suite de violences récentes, Emmanuel Macron a maintenu son voyage officiel de trois jours dans le Golfe. Il estime qu'il était indispensable de ne pas annuler cette visite ",
-   "source": "Le Monde — International · 22/10 06:02"
+   "titre": "Tensions sociales en France et restrictions préfectorales de manifestations",
+   "zone": "France",
+   "resume": "Face à la grogne sociale et aux manifestations sur le pouvoir d'achat, Emmanuel Macron a rencontré des lycéens à l'Élysée. Pour éviter les débordements et les violences observées récemment, le gouvernement a décidé d'int",
+   "source": "© Abdul Saboor, Reuters · 22/10 22:55"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Dialogue diplomatique entre la France et les talibans",
-   "zone": "Afghanistan / France",
-   "resume": "La France a ouvert des discussions avec le régime des talibans en Afghanistan pour pouvoir expulser plus facilement certains exilés afghans considérés comme dangereux. Une décision qui angoisse la communauté des réfugiés",
-   "source": "Le Monde — International · 22/10 04:30"
+   "titre": "Campagne présidentielle en Bulgarie sur fond de guerre en Ukraine",
+   "zone": "Bulgarie / Europe",
+   "resume": "Les électeurs bulgares élisent leur président ce dimanche 25 octobre dans un contexte international tendu. La présidente sortante, grande favorite, prône la reprise du dialogue avec la Russie et se montre critique envers",
+   "source": "Le Monde — International · 23/10 09:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions et mesures d'évacuation en Arabie saoudite",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "Les États-Unis demandent à une partie de leur personnel diplomatique et à leurs familles de quitter l'Arabie saoudite après des attaques et des explosions signalées dans le pays. C'est un signe fort de préoccupation face",
-   "source": "© Giuseppe Cacace, AFP (archives) · 22/10 00:37"
+   "titre": "Projet de frappes conjointes américano-israéliennes contre l'Iran",
+   "zone": "Iran / Israël / États-Unis",
+   "resume": "Les gouvernements américain et israélien prépareraient de nouvelles frappes militaires contre l'Iran, qui pourraient avoir lieu juste après des élections à venir. L'objectif est de maintenir une forte pression sur le rég",
+   "source": "© Win McNamee, AFP · 22/10 15:21"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes et escalade au Proche-Orient",
+   "titre": "Bouclage de la Cisjordanie après une attaque armée",
    "zone": "Israël / Palestine",
-   "resume": "Un ministre israélien a diffusé une vidéo humoristique et provocatrice créée par IA montrant l'expulsion d'un habitant de Gaza vers un Paris en ruines. Cette publication illustre la dureté de la communication politique a",
-   "source": "France 24 — Moyen-Orient · 21/10 21:19"
+   "resume": "Après qu'une attaque armée a fait plusieurs blessés près de Hébron, le Premier ministre israélien a ordonné de fermer hermétiquement la Cisjordanie. Cette mesure forte est prise en pleine campagne pour les élections légi",
+   "source": "© Mahmoud Illean, AP · 23/10 08:54"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des combats en Ukraine",
+   "titre": "Point sur la situation de Starlink et Starshield pour l'armée ukrainienne",
    "zone": "Ukraine / Russie",
-   "resume": "De nouvelles frappes meurtrières ont touché l'Ukraine et Kiev, tandis que la Russie affirme avoir abattu des centaines de drones. Le président ukrainien réclame d'urgence plus d'aide militaire face à un Kremlin qui ne mo",
-   "source": "Le Monde — International · 22/10 07:47"
+   "resume": "L'accès au réseau internet par satellite Starlink, indispensable pour l'armée ukrainienne, a été partiellement remis en route après des restrictions. Bien que certaines unités profitent à nouveau de connexions rapides, l",
+   "source": "Le Monde — International · 23/10 09:04"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Condamnation historique de Meta pour Cambridge Analytica",
+   "titre": "Menace de dégradation de la note souveraine française et marchés financiers",
+   "zone": "France / Europe",
+   "resume": "Les agences de notation financière s'apprêtent à baisser la note de la dette française, suivant l'avis de plusieurs experts économiques. Cette mauvaise nouvelle bouscule les marchés, alors que l'État peine à maîtriser se",
+   "source": "© Lionel Bonaventure, AFP · 22/10 22:37"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Inquiétudes à Wall Street liées aux investissements massifs dans l'intelligence artificielle",
    "zone": "États-Unis",
-   "resume": "Meta (la maison mère de Facebook) écope d'une amende géante de 25 milliards de dollars aux États-Unis pour le scandale de fuite et d'utilisation de données personnelles révélé en 2018.",
-   "source": "© Fabrice Coffrini, AFP (archives) · 21/10 20:43"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Taux d'emprunt de la France : un seuil symbolique franchi",
-   "zone": "France",
-   "resume": "Emprunter de l'argent sur dix ans coûte désormais plus de 5 % à la France, un plus haut historique depuis 2002. Cette situation reflète les difficultés budgétaires et les crises traversées par le pays ces dernières année",
-   "source": "France 24 — Monde · 21/10 19:59"
+   "resume": "La bourse de New York a baissé après que Meta a annoncé de nouveaux investissements massifs dans l'intelligence artificielle. Les investisseurs craignent que ces dépenses pharaoniques ne rapportent pas assez d'argent rap",
+   "source": "Le Monde — International · 23/10 08:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Manifestations interdites à Paris et Lyon",
-   "zone": "France",
-   "resume": "Face aux risques de violences et de débordements, le gouvernement a interdit les manifestations prévues à Paris et à Lyon. Une mesure de sécurité forte pour tenter de calmer la situation sociale.",
-   "source": "AP Photo/Laurent Cipriani - Laurent Cipriani · 22/10 02:48"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "L'impact de l'intelligence artificielle sur les miniséries en Chine",
+   "titre": "Séisme meurtrier de magnitude 7 au Tibet en Chine",
    "zone": "Chine",
-   "resume": "En Chine, l'intelligence artificielle génère désormais la grande majorité des petits formats de séries pour mobiles, cassant les coûts de production. En contrepartie, les créateurs voient leurs revenus s'effondrer face à",
-   "source": "Le Monde — International · 22/10 09:00"
+   "resume": "Un violent tremblement de terre de magnitude 7 a secoué le Tibet en Chine, causant la mort d'au moins 16 personnes et en blessant des dizaines d'autres. De nombreuses maisons ont été détruites dans cette région montagneu",
+   "source": "© Frederick Florin, AFP · 22/10 21:17"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Le pape Léon XIV jugé sans besoin de traitement post-opératoire",
-   "zone": "Vatican",
-   "resume": "Bonne nouvelle pour le Vatican : le pape Léon XIV est guéri de son cancer pulmonaire localisé et n'aura pas besoin de chimiothérapie ou de rayons après son opération. Son voyage en Amérique latine en novembre est mainten",
-   "source": "Le Monde — International · 21/10 23:40"
+   "titre": "Vers un verdict dans le procès pour homicide involontaire concernant Diego Maradona",
+   "zone": "Argentine",
+   "resume": "Le procès visant à déterminer les responsabilités médicales dans la mort de la légende argentine Diego Maradona s'apprête à s'achever, avec un jugement attendu le 22 décembre. Sept professionnels de santé encadrent de lo",
+   "source": "© Rodrigo Abd, AP · 23/10 02:33"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Impact de la tempête Austen : coupures d'électricité et vigilance en France",
+   "zone": "France",
+   "resume": "La tempête Austen a frappé la France, poussant les autorités à placer 23 départements en vigilance orange. Près de 161 000 foyers, principalement en Bretagne, se sont réveillés sans électricité en raison des dégâts causé",
+   "source": "©  Fred Tanneau, AFP · 23/10 05:44"
   }
  ]
 }
