@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-24T09:24:53+00:00",
+ "genere_le": "2026-10-25T09:39:10+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Législatives israéliennes et poussée des projets de colonisation",
-   "zone": "Israël / Palestine",
-   "resume": "À quelques jours des élections en Israël, la campagne électorale est marquée par une surenchère sur la colonisation en Cisjordanie. La droite et les nationalistes poussent pour étendre le territoire israélien, compliquan",
-   "source": "Le Monde — International · 24/10 08:30"
+   "titre": "Élections législatives cruciales et manifestations en Israël",
+   "zone": "Moyen-Orient / Israël",
+   "resume": "Les Israéliens s'apprêtent à voter pour renouveler leur Parlement dans un climat politique très tendu. C'est la première fois qu'ils retournent aux urnes depuis l'attaque du 7 octobre 2023. Le Premier ministre Benyamin N",
+   "source": "RFI — Monde · 25/10 06:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Débat décisif pour la présidentielle brésilienne",
-   "zone": "Amérique du Sud",
-   "resume": "Le duel pour la présidence du Brésil est plus serré que jamais entre la gauche de Lula et l'extrême droite menée par le fils de Jair Bolsonaro. Le dernier débat a mis en scène deux visions opposées du pays à la veille du",
-   "source": "Le Monde — International · 24/10 08:16"
+   "titre": "Second tour très disputé pour l'élection présidentielle au Brésil",
+   "zone": "Amérique du Sud / Brésil",
+   "resume": "Le Brésil choisit son nouveau président dans un scrutin au coude-à-coude entre le président de gauche Lula et Flávio Bolsonaro, le fils de l'ancien président d'extrême droite. Après une campagne très tendue, les deux can",
+   "source": "Le Monde — International · 25/10 09:23"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Mobilisation diplomatique du Sénégal pour Mbayang Diop",
-   "zone": "Arabie saoudite / Moyen-Orient",
-   "resume": "La société civile et les autorités du Sénégal se mobilisent pour tenter d'éviter l'exécution d'une jeune travailleuse domestique sénégalaise emprisonnée en Arabie saoudite depuis plusieurs années.",
-   "source": "Le Monde — International · 24/10 05:00"
+   "titre": "Élections législatives anticipées sous haute tension en Serbie",
+   "zone": "Europe / Serbie",
+   "resume": "En Serbie, les habitants votent pour renouveler leur Parlement après des mois de manifestations portées par les étudiants. Au pouvoir depuis 14 ans, le président Aleksandar Vucic tente de garder la main face à une opposi",
+   "source": "© Petr David Josek, AP · 25/10 02:22"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Dernière droite des élections américaines de mi-mandat de 2026",
+   "zone": "Amérique du Nord / États-Unis",
+   "resume": "Les États-Unis s'apprêtent à renouveler une grande partie du Congrès lors des élections de mi-mandat. Barack Obama est parti en campagne pour aider le camp démocrate, tandis que Donald Trump prévient déjà qu'il contester",
+   "source": "Le Monde — International · 25/10 08:31"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Menaces de frappes américaines contre l'Iran",
-   "zone": "Iran / Golfe Persique",
-   "resume": "Les relations entre Washington et Téhéran atteignent un seuil critique après les déclarations d'un diplomate américain évoquant des frappes possibles. Cela fait craindre un embrasement direct dans le Golfe Persique, une ",
-   "source": "ZUMA Press Wire via Reuters Conn - Marek Ladzinski · 23/10 20:42"
+   "titre": "Bouclage militaire de la Cisjordanie et déplacements de population à Hébron",
+   "zone": "Moyen-Orient / Cisjordanie",
+   "resume": "Après la mort de deux de ses soldats près de Hébron, l'armée israélienne a lancé une vaste opération militaire, forçant environ 2 000 Palestiniens à quitter leur foyer. De plus, les points de passage de Cisjordanie seron",
+   "source": "© Ammar Awad, Reuters · 25/10 07:27"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaque meurtrière contre une église orthodoxe en Jordanie",
+   "titre": "Institutionnalisation des zones tampons israéliennes à Gaza, au Liban et en Syrie",
    "zone": "Moyen-Orient",
-   "resume": "Une fusillade contre une église a fait sept morts en Jordanie, un pays d'ordinaire réputé pour sa relative stabilité. Cet attentat réveille les craintes d'une propagation des violences régionales du Proche-Orient à l'int",
-   "source": "Le Monde — International · 24/10 07:10"
+   "resume": "Pour éviter de nouvelles attaques, Israël a mis en place des bandeaux de sécurité fermés, appelés « zones tampons », tout autour de Gaza, du sud du Liban et du sud de la Syrie. L'armée israélienne affirme que cela protèg",
+   "source": "Le Monde — International · 25/10 04:30"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Revendications d'attaques des Houthis contre l'Arabie saoudite et Aden",
+   "zone": "Moyen-Orient / Golfe Persique",
+   "resume": "Au Yémen, les rebelles houthis ont affirmé avoir attaqué des aéroports et des usines pétrolières en Arabie saoudite. Malgré les frappes de la coalition saoudienne pour les stopper, ce groupe montre qu'il conserve la capa",
+   "source": ""
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Tensions entre Elon Musk et Kiev sur l'usage militaire de Starlink en Ukraine",
+   "zone": "Europe de l'Est / Ukraine",
+   "resume": "Elon Musk menace de restreindre l'utilisation d'Internet par satellite Starlink en Ukraine, accusant le pays d'employer son réseau civil à des fins militaires d'attaque. Cela crée une vive tension, car l'armée ukrainienn",
+   "source": "Le Monde — International · 25/10 03:27"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Rupture commerciale entre Dubaï et l'Iran",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Dubaï coupe ses liens commerciaux avec l'Iran, ce qui représente un coup très dur pour les entreprises iraniennes. La ville servait jusque-là de plaque tournante pour commercer avec le reste du monde malgré les sanctions",
-   "source": "Le Monde — International · 23/10 18:30"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Entrée en Bourse de la mégaraffinerie Dangote au Nigeria",
-   "zone": "Afrique de l'Ouest",
-   "resume": "La gigantesque raffinerie de l'homme d'affaires Aliko Dangote s'apprête à entrer sur les marchés financiers. Elle a pour but de permettre au Nigeria, grand producteur de brut, de raffiner lui-même son essence au lieu de ",
-   "source": "Le Monde — International · 24/10 06:00"
+   "titre": "Contestation sociale et sécurisation des cortèges contre la vie chère en Italie",
+   "zone": "Europe / Italie",
+   "resume": "En Italie, le gouvernement d'extrême droite de Giorgia Meloni a envoyé la police et l'armée pour encadrer fermement des défilés contre la hausse des prix. L'exécutif vient de voter des règles antimanifestations strictes,",
+   "source": "Le Monde — International · 24/10 20:30"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Mobilisation sociale et dispositif policier massif en France",
-   "zone": "Europe",
-   "resume": "Des dizaines de milliers de forces de l'ordre ont été mobilisées en France pour encadrer des manifestations contre l'inflation et la baisse du pouvoir d'achat. Après de violents débordements une semaine plus tôt, l'État ",
-   "source": "© Hannah McKay, Reuters · 24/10 05:00"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Attaque à caractère raciste à Trappes",
-   "zone": "France",
-   "resume": "Un homme a tiré sur des passants dans les Yvelines, faisant un mort et plusieurs blessés. L'attaque a été qualifiée d'acte terroriste raciste par le chef de l'État et la justice antiterroriste a pris en main le dossier.",
-   "source": "© Hannah McKay,  AFP · 23/10 19:57"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Clásico FC Barcelone contre Real Madrid",
-   "zone": "Europe",
-   "resume": "C'est le sommet du football espagnol : le Barça et le Real s'affrontent au Camp Nou dans une rencontre très équilibrée. Au-delà de la rivalité historique, la première place du championnat se joue sur ce match.",
-   "source": "France 24 — Monde · 23/10 20:57"
+   "titre": "Journée nationale de mobilisation sociale et d'interpellations en France",
+   "zone": "Europe / France",
+   "resume": "Des centaines de milliers de Français ont défilé samedi 24 octobre pour demander une hausse des salaires et davantage de moyens pour l'école ou la santé. Si la majorité des défilés s'est déroulée au calme, des heurts en ",
+   "source": "© Thibault Camus, AP · 24/10 20:24"
   }
  ]
 }
