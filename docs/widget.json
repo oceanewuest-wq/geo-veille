@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-25T09:39:10+00:00",
+ "genere_le": "2026-10-26T10:49:37+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives cruciales et manifestations en Israël",
-   "zone": "Moyen-Orient / Israël",
-   "resume": "Les Israéliens s'apprêtent à voter pour renouveler leur Parlement dans un climat politique très tendu. C'est la première fois qu'ils retournent aux urnes depuis l'attaque du 7 octobre 2023. Le Premier ministre Benyamin N",
-   "source": "RFI — Monde · 25/10 06:00"
+   "titre": "Législatives en Serbie : victoire historique du mouvement étudiant contre Aleksandar Vucic",
+   "zone": "Serbie",
+   "resume": "Après quatorze ans au pouvoir, le dirigeant serbe Aleksandar Vucic a concédé sa défaite face aux étudiants lors des législatives. Ce scrutin marque une transition démocratique majeure après des années de contestation men",
+   "source": "© Marko Drobnjakovic, AP · 26/10 10:28"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Second tour très disputé pour l'élection présidentielle au Brésil",
-   "zone": "Amérique du Sud / Brésil",
-   "resume": "Le Brésil choisit son nouveau président dans un scrutin au coude-à-coude entre le président de gauche Lula et Flávio Bolsonaro, le fils de l'ancien président d'extrême droite. Après une campagne très tendue, les deux can",
-   "source": "Le Monde — International · 25/10 09:23"
+   "titre": "Élections au Brésil : Luiz Inácio Lula da Silva réélu pour un quatrième mandat",
+   "zone": "Brésil",
+   "resume": "Le président brésilien sortant Lula a remporté de justesse un quatrième mandat face au candidat de droite Flavio Bolsonaro, malgré des sondages défavorables. Cette victoire surprise suscite de vives réactions internation",
+   "source": "France 24 — Monde · 26/10 10:07"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives anticipées sous haute tension en Serbie",
-   "zone": "Europe / Serbie",
-   "resume": "En Serbie, les habitants votent pour renouveler leur Parlement après des mois de manifestations portées par les étudiants. Au pouvoir depuis 14 ans, le président Aleksandar Vucic tente de garder la main face à une opposi",
-   "source": "© Petr David Josek, AP · 25/10 02:22"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Dernière droite des élections américaines de mi-mandat de 2026",
-   "zone": "Amérique du Nord / États-Unis",
-   "resume": "Les États-Unis s'apprêtent à renouveler une grande partie du Congrès lors des élections de mi-mandat. Barack Obama est parti en campagne pour aider le camp démocrate, tandis que Donald Trump prévient déjà qu'il contester",
-   "source": "Le Monde — International · 25/10 08:31"
+   "titre": "Retour au Venezuela de la cheffe de l'opposition et prix Nobel Maria Corina Machado",
+   "zone": "Venezuela",
+   "resume": "Maria Corina Machado, principale opposante vénézuélienne et prix Nobel de la paix, est rentrée secrètement au pays après presque un an d'exil. Ce retour surprise relance la contestation politique face au gouvernement en ",
+   "source": "France 24 — Monde · 26/10 10:10"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Bouclage militaire de la Cisjordanie et déplacements de population à Hébron",
-   "zone": "Moyen-Orient / Cisjordanie",
-   "resume": "Après la mort de deux de ses soldats près de Hébron, l'armée israélienne a lancé une vaste opération militaire, forçant environ 2 000 Palestiniens à quitter leur foyer. De plus, les points de passage de Cisjordanie seron",
-   "source": "© Ammar Awad, Reuters · 25/10 07:27"
+   "titre": "Déploiement militaire inédit de l'Algérie au Niger pour protéger des infrastructures",
+   "zone": "Niger / Algérie",
+   "resume": "L'Algérie a décidé d'envoyer des soldats au Niger pour garder des sites énergétiques, abandonnant sa règle historique de ne jamais intervenir militairement à l'étranger. C'est un changement radical de sa politique de déf",
+   "source": "© Fateh Guidoum, AP · 26/10 10:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Institutionnalisation des zones tampons israéliennes à Gaza, au Liban et en Syrie",
-   "zone": "Moyen-Orient",
-   "resume": "Pour éviter de nouvelles attaques, Israël a mis en place des bandeaux de sécurité fermés, appelés « zones tampons », tout autour de Gaza, du sud du Liban et du sud de la Syrie. L'armée israélienne affirme que cela protèg",
-   "source": "Le Monde — International · 25/10 04:30"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Revendications d'attaques des Houthis contre l'Arabie saoudite et Aden",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "Au Yémen, les rebelles houthis ont affirmé avoir attaqué des aéroports et des usines pétrolières en Arabie saoudite. Malgré les frappes de la coalition saoudienne pour les stopper, ce groupe montre qu'il conserve la capa",
+   "titre": "Tensions en Cisjordanie : plus de 2 670 Palestiniens déplacés à Hébron",
+   "zone": "Israël / Palestine",
+   "resume": "L'armée israélienne a forcé des milliers de Palestiniens à quitter leur foyer à Hébron, en Cisjordanie. Cette situation aggrave la crise humanitaire locale et illustre la dureté des opérations militaires dans les territo",
    "source": ""
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions entre Elon Musk et Kiev sur l'usage militaire de Starlink en Ukraine",
-   "zone": "Europe de l'Est / Ukraine",
-   "resume": "Elon Musk menace de restreindre l'utilisation d'Internet par satellite Starlink en Ukraine, accusant le pays d'employer son réseau civil à des fins militaires d'attaque. Cela crée une vive tension, car l'armée ukrainienn",
-   "source": "Le Monde — International · 25/10 03:27"
+   "titre": "Attaque meurtrière contre une église en Jordanie : trois suspects arrêtés",
+   "zone": "Moyen-Orient",
+   "resume": "Trois hommes ont été arrêtés en Jordanie après avoir attaqué une église chrétienne, faisant neuf morts. C'est un événement rarissime et extrêmement choquant pour la sécurité et la cohésion de ce pays du Moyen-Orient.",
+   "source": ""
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Contestation sociale et sécurisation des cortèges contre la vie chère en Italie",
-   "zone": "Europe / Italie",
-   "resume": "En Italie, le gouvernement d'extrême droite de Giorgia Meloni a envoyé la police et l'armée pour encadrer fermement des défilés contre la hausse des prix. L'exécutif vient de voter des règles antimanifestations strictes,",
-   "source": "Le Monde — International · 24/10 20:30"
+   "titre": "Vol de câbles en cuivre à Los Angeles : une opportunité en or pour une PME française",
+   "zone": "États-Unis",
+   "resume": "À cause d'une vague de vols de câbles électriques en cuivre à Los Angeles, l'éclairage public est en panne partout. Une petite entreprise française d'Agen en profite pour vendre ses lampadaires solaires et décroche un co",
+   "source": ""
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Journée nationale de mobilisation sociale et d'interpellations en France",
-   "zone": "Europe / France",
-   "resume": "Des centaines de milliers de Français ont défilé samedi 24 octobre pour demander une hausse des salaires et davantage de moyens pour l'école ou la santé. Si la majorité des défilés s'est déroulée au calme, des heurts en ",
-   "source": "© Thibault Camus, AP · 24/10 20:24"
+   "titre": "Début du procès de trois policiers pour homicide involontaire après la mort de Cédric Chouviat",
+   "zone": "France",
+   "resume": "Plus de six ans après la mort de Cédric Chouviat lors d'une interpellation tendue à Paris, trois policiers jugés pour homicide involontaire font face à la justice. Ce procès très attendu doit établir les responsabilités ",
+   "source": "© Thibaud Moritz, AFP archives · 26/10 07:36"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Évolution de la figure du grand-père dans la société contemporaine",
+   "zone": "France",
+   "resume": "Grâce à l'augmentation de l'espérance de vie, les grands-pères d'aujourd'hui profitent beaucoup plus longtemps de leurs petits-enfants. Leur rôle a bien changé : ils sont plus proches, plus disponibles et cassent l'image",
+   "source": "RFI — Monde · 26/10 06:00"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Le Real Madrid s'impose dans le Clasico face au FC Barcelone grâce à Kylian Mbappé",
+   "zone": "Espagne",
+   "resume": "Grâce à deux buts de Kylian Mbappé, le Real Madrid a battu Barcelone 2-1 lors du célèbre Clasico. Cette victoire permet au club merengue de se rapprocher de la tête du classement en Liga.",
+   "source": "France 24 — Monde · 26/10 06:29"
   }
  ]
 }
