@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-26T10:49:37+00:00",
+ "genere_le": "2026-10-27T10:22:59+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Législatives en Serbie : victoire historique du mouvement étudiant contre Aleksandar Vucic",
-   "zone": "Serbie",
-   "resume": "Après quatorze ans au pouvoir, le dirigeant serbe Aleksandar Vucic a concédé sa défaite face aux étudiants lors des législatives. Ce scrutin marque une transition démocratique majeure après des années de contestation men",
-   "source": "© Marko Drobnjakovic, AP · 26/10 10:28"
+   "titre": "Élections législatives en Israël : scrutin décisif pour Benjamin Netanyahu",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Les Israéliens votent pour élire leurs députés dans un climat politique très tendu, marqué par le souvenir des attaques du 7 octobre 2023. Ce scrutin est crucial car il déterminera si Benjamin Netanyahu reste au pouvoir ",
+   "source": "Le Monde — International · 27/10 04:47"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections au Brésil : Luiz Inácio Lula da Silva réélu pour un quatrième mandat",
-   "zone": "Brésil",
-   "resume": "Le président brésilien sortant Lula a remporté de justesse un quatrième mandat face au candidat de droite Flavio Bolsonaro, malgré des sondages défavorables. Cette victoire surprise suscite de vives réactions internation",
-   "source": "France 24 — Monde · 26/10 10:07"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Retour au Venezuela de la cheffe de l'opposition et prix Nobel Maria Corina Machado",
-   "zone": "Venezuela",
-   "resume": "Maria Corina Machado, principale opposante vénézuélienne et prix Nobel de la paix, est rentrée secrètement au pays après presque un an d'exil. Ce retour surprise relance la contestation politique face au gouvernement en ",
-   "source": "France 24 — Monde · 26/10 10:10"
+   "titre": "Défense européenne : réunion stratégique de cinq puissances de l'OTAN à Paris",
+   "zone": "Europe",
+   "resume": "Les principales puissances militaires européennes se sont réunies à Paris pour renforcer la défense du continent par elles-mêmes. Constatant que les États-Unis pourraient réduire leur présence militaire, ces pays veulent",
+   "source": "© Thomas Samson, AFP · 27/10 00:39"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Déploiement militaire inédit de l'Algérie au Niger pour protéger des infrastructures",
-   "zone": "Niger / Algérie",
-   "resume": "L'Algérie a décidé d'envoyer des soldats au Niger pour garder des sites énergétiques, abandonnant sa règle historique de ne jamais intervenir militairement à l'étranger. C'est un changement radical de sa politique de déf",
-   "source": "© Fateh Guidoum, AP · 26/10 10:00"
+   "titre": "Cisjordanie : alerte de l'ONU sur l'opération militaire israélienne à Hébron",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "L'ONU tire la sonnette d'alarme concernant les récentes opérations de l'armée israélienne dans la ville d'Hébron, en Cisjordanie. Les responsables humanitaires craignent un déplacement forcé des habitants palestiniens du",
+   "source": "© Hazem Bader, AFP · 26/10 20:02"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions en Cisjordanie : plus de 2 670 Palestiniens déplacés à Hébron",
-   "zone": "Israël / Palestine",
-   "resume": "L'armée israélienne a forcé des milliers de Palestiniens à quitter leur foyer à Hébron, en Cisjordanie. Cette situation aggrave la crise humanitaire locale et illustre la dureté des opérations militaires dans les territo",
-   "source": ""
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attaque meurtrière contre une église en Jordanie : trois suspects arrêtés",
+   "titre": "Escalade régionale : frappes de la Jordanie en Syrie après un attentat",
    "zone": "Moyen-Orient",
-   "resume": "Trois hommes ont été arrêtés en Jordanie après avoir attaqué une église chrétienne, faisant neuf morts. C'est un événement rarissime et extrêmement choquant pour la sécurité et la cohésion de ce pays du Moyen-Orient.",
-   "source": ""
+   "resume": "En réponse à un attentat meurtrier commis dans une église sur son territoire, la Jordanie a bombardé des positions armées en Syrie voisine. Le gouvernement jordanien affirme avoir visé les responsables de cette attaque t",
+   "source": "Le Monde — International · 27/10 04:22"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Guerre en Ukraine : trêve humanitaire à Olechky et poursuite des combats",
+   "zone": "Europe",
+   "resume": "Une pause temporaire dans les combats a été décidée localement à Olechky pour aider les habitants bloqués dans cette zone sous contrôle russe. En dehors de cette courte trêve humanitaire, les affrontements intenses se po",
+   "source": "© Armée ukrainienne via AP · 27/10 02:56"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Soudan : attaques de drones et répercussions humanitaires de la guerre civile",
+   "zone": "Afrique",
+   "resume": "La guerre civile au Soudan continue de frapper violemment la population, avec un bombardement sur un marché qui a fait plus de vingt victimes civiles. Un an après les massacres commis au Darfour, la rivalité entre l'armé",
+   "source": "Le Monde — International · 27/10 07:30"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Vol de câbles en cuivre à Los Angeles : une opportunité en or pour une PME française",
-   "zone": "États-Unis",
-   "resume": "À cause d'une vague de vols de câbles électriques en cuivre à Los Angeles, l'éclairage public est en panne partout. Une petite entreprise française d'Agen en profite pour vendre ses lampadaires solaires et décroche un co",
-   "source": ""
+   "titre": "Sommet énergétique : la Russie réunit les grands producteurs de gaz à Moscou",
+   "zone": "Moyen-Orient",
+   "resume": "La Russie rassemble les grands pays producteurs de gaz à Moscou pour discuter des prix et des livraisons mondiales. Alors que l'énergie coûte cher et que Moscou fait face à des sanctions, cet événement permet à la Russie",
+   "source": "France 24 — Monde · 27/10 09:34"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Brésil : suite de la réélection de Lula et secousse sur la bourse de Sao Paulo",
+   "zone": "Amérique du Sud",
+   "resume": "Après l'élection présidentielle au Brésil, les marchés financiers ont réagi très négativement avec une baisse brutale de la bourse. Sur le plan politique, l'opposition a renoncé à contester le résultat, confirmant la tra",
+   "source": "France 24 — Monde · 26/10 21:56"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Début du procès de trois policiers pour homicide involontaire après la mort de Cédric Chouviat",
-   "zone": "France",
-   "resume": "Plus de six ans après la mort de Cédric Chouviat lors d'une interpellation tendue à Paris, trois policiers jugés pour homicide involontaire font face à la justice. Ce procès très attendu doit établir les responsabilités ",
-   "source": "© Thibaud Moritz, AFP archives · 26/10 07:36"
+   "titre": "Iran : appel international pour préserver la population civile",
+   "zone": "Iran",
+   "resume": "Des personnalités du monde entier se mobilisent pour demander que les civils en Iran soient épargnés par les tensions et sanctions internationales. Elles rappellent que la population subit de plein fouet les crises sans ",
+   "source": "Le Monde — International · 27/10 09:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Évolution de la figure du grand-père dans la société contemporaine",
+   "titre": "France : mobilisation lycéenne persistante malgré les annonces sur Parcoursup",
    "zone": "France",
-   "resume": "Grâce à l'augmentation de l'espérance de vie, les grands-pères d'aujourd'hui profitent beaucoup plus longtemps de leurs petits-enfants. Leur rôle a bien changé : ils sont plus proches, plus disponibles et cassent l'image",
-   "source": "RFI — Monde · 26/10 06:00"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Le Real Madrid s'impose dans le Clasico face au FC Barcelone grâce à Kylian Mbappé",
-   "zone": "Espagne",
-   "resume": "Grâce à deux buts de Kylian Mbappé, le Real Madrid a battu Barcelone 2-1 lors du célèbre Clasico. Cette victoire permet au club merengue de se rapprocher de la tête du classement en Liga.",
-   "source": "France 24 — Monde · 26/10 06:29"
+   "resume": "Des lycéens continuent de manifester et de bloquer des établissements en France. Le gouvernement a pourtant promis d'abandonner progressivement Parcoursup et de créer des places à l'université. Mais pour les jeunes mobil",
+   "source": "© Anne-Christine Poujoulat, AFP · 27/10 06:48"
   }
  ]
 }
