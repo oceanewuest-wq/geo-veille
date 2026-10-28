@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-27T10:22:59+00:00",
+ "genere_le": "2026-10-28T11:07:33+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives en Israël : scrutin décisif pour Benjamin Netanyahu",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Les Israéliens votent pour élire leurs députés dans un climat politique très tendu, marqué par le souvenir des attaques du 7 octobre 2023. Ce scrutin est crucial car il déterminera si Benjamin Netanyahu reste au pouvoir ",
-   "source": "Le Monde — International · 27/10 04:47"
+   "titre": "Législatives en Israël : participation record et blocage parlementaire",
+   "zone": "Israël",
+   "resume": "Les Israéliens ont voté en masse pour renouveler leur Parlement lors d'un scrutin très disputé. Même si le Premier ministre sortant Benjamin Nétanyahou arrive en tête, ni lui ni ses opposants ne disposent des voix nécess",
+   "source": "Le Monde — International · 28/10 04:57"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Défense européenne : réunion stratégique de cinq puissances de l'OTAN à Paris",
-   "zone": "Europe",
-   "resume": "Les principales puissances militaires européennes se sont réunies à Paris pour renforcer la défense du continent par elles-mêmes. Constatant que les États-Unis pourraient réduire leur présence militaire, ces pays veulent",
-   "source": "© Thomas Samson, AFP · 27/10 00:39"
+   "titre": "Brésil : fuite de Flavio Bolsonaro après sa défaite électorale",
+   "zone": "Brésil",
+   "resume": "Battu à l'élection présidentielle au Brésil, Flavio Bolsonaro a fui le pays alors qu'il faisait l'objet d'interdictions de sortie du territoire. Le candidat de droite est soupçonné de corruption par la justice brésilienn",
+   "source": "Le Monde — International · 28/10 04:00"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Tunisie : peine de prison ferme pour un journaliste critique du pouvoir",
+   "zone": "Tunisie",
+   "resume": "Un journaliste indépendant qui critiquait ouvertement le président tunisien a été condamné à quatre ans de prison ferme. Depuis 2021 et la prise en main du pouvoir par Kaïs Saïed, les figures de l'opposition et les repor",
+   "source": "Le Monde — International · 27/10 23:09"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Cisjordanie : alerte de l'ONU sur l'opération militaire israélienne à Hébron",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "L'ONU tire la sonnette d'alarme concernant les récentes opérations de l'armée israélienne dans la ville d'Hébron, en Cisjordanie. Les responsables humanitaires craignent un déplacement forcé des habitants palestiniens du",
-   "source": "© Hazem Bader, AFP · 26/10 20:02"
+   "titre": "Inquiétudes des renseignements européens face à la menace clandestine iranienne",
+   "zone": "Iran / Europe",
+   "resume": "Plusieurs services secrets européens alertent sur des tentatives de sabotage et des menaces d'attentats pilotées depuis l'Iran sur leur territoire. Les actions identifiées vont du piratage informatique à la préparation d",
+   "source": "Le Monde — International · 28/10 04:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Escalade régionale : frappes de la Jordanie en Syrie après un attentat",
-   "zone": "Moyen-Orient",
-   "resume": "En réponse à un attentat meurtrier commis dans une église sur son territoire, la Jordanie a bombardé des positions armées en Syrie voisine. Le gouvernement jordanien affirme avoir visé les responsables de cette attaque t",
-   "source": "Le Monde — International · 27/10 04:22"
+   "titre": "Attaque déjouée près de l'ambassade d'Israël en Serbie",
+   "zone": "Serbie / Israël",
+   "resume": "La police a tué un homme armé qui s'approchait de l'ambassade d'Israël à Belgrade. Le gouvernement israélien affirme qu'il s'agissait d'une attaque terroriste évitée de justesse. La sécurité des représentations diplomati",
+   "source": "Le Monde — International · 28/10 09:31"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : trêve humanitaire à Olechky et poursuite des combats",
-   "zone": "Europe",
-   "resume": "Une pause temporaire dans les combats a été décidée localement à Olechky pour aider les habitants bloqués dans cette zone sous contrôle russe. En dehors de cette courte trêve humanitaire, les affrontements intenses se po",
-   "source": "© Armée ukrainienne via AP · 27/10 02:56"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Soudan : attaques de drones et répercussions humanitaires de la guerre civile",
-   "zone": "Afrique",
-   "resume": "La guerre civile au Soudan continue de frapper violemment la population, avec un bombardement sur un marché qui a fait plus de vingt victimes civiles. Un an après les massacres commis au Darfour, la rivalité entre l'armé",
-   "source": "Le Monde — International · 27/10 07:30"
+   "titre": "Guerre en Ukraine : maintien d'une trêve humanitaire locale à Olechky",
+   "zone": "Ukraine / Russie",
+   "resume": "Dans la ville occupée d'Olechky au sud de l'Ukraine, une courte pause dans les combats a été prolongée d'un jour pour secourir les civils. Cette trêve locale permet d'apporter de l'aide humanitaire sur place. Mais partou",
+   "source": "Le Monde — International · 28/10 10:29"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Sommet énergétique : la Russie réunit les grands producteurs de gaz à Moscou",
-   "zone": "Moyen-Orient",
-   "resume": "La Russie rassemble les grands pays producteurs de gaz à Moscou pour discuter des prix et des livraisons mondiales. Alors que l'énergie coûte cher et que Moscou fait face à des sanctions, cet événement permet à la Russie",
-   "source": "France 24 — Monde · 27/10 09:34"
+   "titre": "États-Unis : pression de l'inflation sur le niveau de vie des ménages modestes",
+   "zone": "États-Unis",
+   "resume": "Aux États-Unis, la hausse du prix des courses et de l'essence pèse lourdement sur les foyers modestes, notamment chez les aides à domicile. Cette crise du pouvoir d'achat attise la colère des habitants à l'approche des é",
+   "source": "Le Monde — International · 28/10 05:00"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Brésil : suite de la réélection de Lula et secousse sur la bourse de Sao Paulo",
-   "zone": "Amérique du Sud",
-   "resume": "Après l'élection présidentielle au Brésil, les marchés financiers ont réagi très négativement avec une baisse brutale de la bourse. Sur le plan politique, l'opposition a renoncé à contester le résultat, confirmant la tra",
-   "source": "France 24 — Monde · 26/10 21:56"
+   "titre": "Espagne : remplacement stratégique du parc éolien en Galice",
+   "zone": "Espagne",
+   "resume": "En Espagne, 40 vieilles éoliennes construites il y a 30 ans vont laisser la place à seulement 4 éoliennes géantes très modernes. Grâce à cette nouvelle technologie, le site produira deux fois plus d'électricité tout en d",
+   "source": "Le Monde — International · 28/10 04:30"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Iran : appel international pour préserver la population civile",
-   "zone": "Iran",
-   "resume": "Des personnalités du monde entier se mobilisent pour demander que les civils en Iran soient épargnés par les tensions et sanctions internationales. Elles rappellent que la population subit de plein fouet les crises sans ",
-   "source": "Le Monde — International · 27/10 09:00"
+   "titre": "Collision ferroviaire meurtrière en Espagne au sud de Madrid",
+   "zone": "Espagne",
+   "resume": "Au moins dix personnes ont perdu la vie en Espagne après un choc dramatique entre deux trains au sud de Madrid. L'accident a eu lieu sur la voie ferrée reliant la capitale à l'Andalousie. De nombreux moyens de secours so",
+   "source": "Le Monde — International · 28/10 09:33"
   },
   {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "France : mobilisation lycéenne persistante malgré les annonces sur Parcoursup",
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Abandon du sport chez les adolescentes : constats d'une étude en France",
    "zone": "France",
-   "resume": "Des lycéens continuent de manifester et de bloquer des établissements en France. Le gouvernement a pourtant promis d'abandonner progressivement Parcoursup et de créer des places à l'université. Mais pour les jeunes mobil",
-   "source": "© Anne-Christine Poujoulat, AFP · 27/10 06:48"
+   "resume": "D'après une récente étude, la moitié des jeunes filles en France s'arrêtent de faire du sport avant leurs 15 ans. Ce décrochage s'explique par le manque d'équipements adaptés, la pression sociale ou des clichés tenaces. ",
+   "source": "RFI — Monde · 28/10 06:00"
   }
  ]
 }
