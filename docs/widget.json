@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-28T11:07:33+00:00",
+ "genere_le": "2026-10-29T11:29:37+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Législatives en Israël : participation record et blocage parlementaire",
-   "zone": "Israël",
-   "resume": "Les Israéliens ont voté en masse pour renouveler leur Parlement lors d'un scrutin très disputé. Même si le Premier ministre sortant Benjamin Nétanyahou arrive en tête, ni lui ni ses opposants ne disposent des voix nécess",
-   "source": "Le Monde — International · 28/10 04:57"
+   "titre": "Élections législatives en Israël : absence de majorité claire et percée des partis arabes",
+   "zone": "Israël / Palestine",
+   "resume": "Les électeurs israéliens ont voté pour la première fois depuis le 7 octobre 2023, mais les résultats ne donnent aucune majorité nette au Parlement. Le parti de Benyamin Netanyahu reste le premier, mais il est talonné par",
+   "source": "France 24 — Moyen-Orient · 29/10 10:56"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Brésil : fuite de Flavio Bolsonaro après sa défaite électorale",
-   "zone": "Brésil",
-   "resume": "Battu à l'élection présidentielle au Brésil, Flavio Bolsonaro a fui le pays alors qu'il faisait l'objet d'interdictions de sortie du territoire. Le candidat de droite est soupçonné de corruption par la justice brésilienn",
-   "source": "Le Monde — International · 28/10 04:00"
+   "titre": "Sommet Russie-Afrique : Moscou renforce ses liens politiques et économiques",
+   "zone": "Russie / Afrique",
+   "resume": "Moscou a accueilli un sommet de deux jours réunissant des dizaines de dirigeants africains pour resserrer les liens diplomatiques et commerciaux. Pour la Russie, c'est un moyen stratégique d'étendre son influence en Afri",
+   "source": "France 24 — Monde · 29/10 10:41"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tunisie : peine de prison ferme pour un journaliste critique du pouvoir",
-   "zone": "Tunisie",
-   "resume": "Un journaliste indépendant qui critiquait ouvertement le président tunisien a été condamné à quatre ans de prison ferme. Depuis 2021 et la prise en main du pouvoir par Kaïs Saïed, les figures de l'opposition et les repor",
-   "source": "Le Monde — International · 27/10 23:09"
+   "titre": "Brésil : exil et contestation de l'élection par Flávio Bolsonaro",
+   "zone": "Brésil / États-Unis",
+   "resume": "Battu lors de l'élection présidentielle au Brésil, le sénateur Flávio Bolsonaro s'est enfui aux États-Unis et s'autoproclame président légitime depuis la Floride. Cette situation reflète les fortes divisions politiques d",
+   "source": ""
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Sommet UE-Canada à Montréal : un partenariat stratégique inédit",
+   "zone": "Canada / Union européenne",
+   "resume": "L'Union européenne et le Canada lancent un grand sommet à Montréal pour renforcer leurs liens économiques et technologiques. L'objectif est de s'entraider, notamment sur l'accès aux matières premières essentielles, pour ",
+   "source": "© Pascal Bastien, AP · 29/10 00:13"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Inquiétudes des renseignements européens face à la menace clandestine iranienne",
-   "zone": "Iran / Europe",
-   "resume": "Plusieurs services secrets européens alertent sur des tentatives de sabotage et des menaces d'attentats pilotées depuis l'Iran sur leur territoire. Les actions identifiées vont du piratage informatique à la préparation d",
-   "source": "Le Monde — International · 28/10 04:00"
+   "titre": "Attentat raciste de Trappes : le suspect transféré en vue d'une mise en examen",
+   "zone": "France",
+   "resume": "L'auteur présumé de l'attentat raciste qui a frappé les Yvelines fin octobre a avoué avoir visé des personnes musulmanes ou d'origine africaine. Il a été transféré devant la justice antiterroriste à Paris pour être mis e",
+   "source": "France 24 — Monde · 29/10 10:54"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Attaque déjouée près de l'ambassade d'Israël en Serbie",
-   "zone": "Serbie / Israël",
-   "resume": "La police a tué un homme armé qui s'approchait de l'ambassade d'Israël à Belgrade. Le gouvernement israélien affirme qu'il s'agissait d'une attaque terroriste évitée de justesse. La sécurité des représentations diplomati",
-   "source": "Le Monde — International · 28/10 09:31"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : maintien d'une trêve humanitaire locale à Olechky",
+   "titre": "Guerre en Ukraine : frappe meurtrière sur la gare de Dnipro et appel à de nouvelles sanctions",
    "zone": "Ukraine / Russie",
-   "resume": "Dans la ville occupée d'Olechky au sud de l'Ukraine, une courte pause dans les combats a été prolongée d'un jour pour secourir les civils. Cette trêve locale permet d'apporter de l'aide humanitaire sur place. Mais partou",
-   "source": "Le Monde — International · 28/10 10:29"
+   "resume": "Un drone russe a frappé une gare ferroviaire dans le centre-est de l'Ukraine, faisant 13 morts, ce qui a poussé Volodymyr Zelensky à réclamer des sanctions supplémentaires contre Moscou. Cet événement rappelle la violenc",
+   "source": "Le Monde — International · 29/10 10:50"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Péninsule coréenne : tirs de missiles balistiques par Pyongyang sur fond de tensions géopolitiques",
+   "zone": "Corée du Nord / Corée du Sud / Japon",
+   "resume": "La Corée du Nord a testé une dizaine de missiles balistiques en mer du Japon, accentuant les tensions militaires dans la région. Cette situation de crise permanente pèse lourdement sur le moral des pays voisins, la Corée",
+   "source": "© Activision · 28/10 20:59"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "États-Unis : pression de l'inflation sur le niveau de vie des ménages modestes",
-   "zone": "États-Unis",
-   "resume": "Aux États-Unis, la hausse du prix des courses et de l'essence pèse lourdement sur les foyers modestes, notamment chez les aides à domicile. Cette crise du pouvoir d'achat attise la colère des habitants à l'approche des é",
-   "source": "Le Monde — International · 28/10 05:00"
+   "titre": "Banque centrale européenne : Christine Lagarde quittera ses fonctions en février 2027",
+   "zone": "Union européenne",
+   "resume": "Christine Lagarde va abandonner la présidence de la Banque centrale européenne en février 2027, avec quelques mois d'avance sur la fin officielle de son contrat. C'est un changement important pour la gestion de l'euro et",
+   "source": "© Antony Wallace, AFP · 29/10 10:16"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Espagne : remplacement stratégique du parc éolien en Galice",
-   "zone": "Espagne",
-   "resume": "En Espagne, 40 vieilles éoliennes construites il y a 30 ans vont laisser la place à seulement 4 éoliennes géantes très modernes. Grâce à cette nouvelle technologie, le site produira deux fois plus d'électricité tout en d",
-   "source": "Le Monde — International · 28/10 04:30"
+   "titre": "Informatique quantique : la start-up française Alice & Bob annonce une percée technologique",
+   "zone": "France",
+   "resume": "La start-up française Alice & Bob a fait parler d'elle en annonçant une découverte majeure dans le domaine de l'informatique quantique. Elle espère ainsi concurrencer les plus grands géants américains de la tech sur ce m",
+   "source": "France 24 — Monde · 29/10 09:28"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Collision ferroviaire meurtrière en Espagne au sud de Madrid",
+   "titre": "Catastrophe ferroviaire en Espagne : deuil national après la collision de deux trains",
    "zone": "Espagne",
-   "resume": "Au moins dix personnes ont perdu la vie en Espagne après un choc dramatique entre deux trains au sud de Madrid. L'accident a eu lieu sur la voie ferrée reliant la capitale à l'Andalousie. De nombreux moyens de secours so",
-   "source": "Le Monde — International · 28/10 09:33"
-  },
-  {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Abandon du sport chez les adolescentes : constats d'une étude en France",
-   "zone": "France",
-   "resume": "D'après une récente étude, la moitié des jeunes filles en France s'arrêtent de faire du sport avant leurs 15 ans. Ce décrochage s'explique par le manque d'équipements adaptés, la pression sociale ou des clichés tenaces. ",
-   "source": "RFI — Monde · 28/10 06:00"
+   "resume": "Suite à une terrible collision entre deux trains au sud de Madrid qui a fait au moins 68 morts, l'Espagne observe trois jours de deuil national. Les secours poursuivent leur travail tandis que des questions se posent déj",
+   "source": "France 24 — Monde · 29/10 10:45"
   }
  ]
 }
