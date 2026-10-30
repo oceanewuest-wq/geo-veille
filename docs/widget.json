@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-29T11:29:37+00:00",
+ "genere_le": "2026-10-30T11:19:08+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives en Israël : absence de majorité claire et percée des partis arabes",
-   "zone": "Israël / Palestine",
-   "resume": "Les électeurs israéliens ont voté pour la première fois depuis le 7 octobre 2023, mais les résultats ne donnent aucune majorité nette au Parlement. Le parti de Benyamin Netanyahu reste le premier, mais il est talonné par",
-   "source": "France 24 — Moyen-Orient · 29/10 10:56"
+   "titre": "Législatives en Israël : le camp de Netanyahu en tête sans majorité",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Le camp du Premier ministre israélien Benjamin Netanyahu a gagné les élections, mais sans obtenir la majorité absolue nécessaire pour gouverner seul au Parlement. Le président du pays doit désormais jouer les médiateurs ",
+   "source": "France 24 — Moyen-Orient · 30/10 10:37"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Sommet Russie-Afrique : Moscou renforce ses liens politiques et économiques",
-   "zone": "Russie / Afrique",
-   "resume": "Moscou a accueilli un sommet de deux jours réunissant des dizaines de dirigeants africains pour resserrer les liens diplomatiques et commerciaux. Pour la Russie, c'est un moyen stratégique d'étendre son influence en Afri",
-   "source": "France 24 — Monde · 29/10 10:41"
+   "titre": "Arrêt forcé du journal russe indépendant Novaïa Gazeta",
+   "zone": "Iran",
+   "resume": "Le célèbre journal d'investigation russe Novaïa Gazeta, connu pour son franc-parler et son opposition au Kremlin, a été contrainte de fermer ses portes. C'est la fin d'une des dernières voix indépendantes et critiques da",
+   "source": "© Natalia Kolesnikova, AFP · 30/10 09:12"
   },
   {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Brésil : exil et contestation de l'élection par Flávio Bolsonaro",
-   "zone": "Brésil / États-Unis",
-   "resume": "Battu lors de l'élection présidentielle au Brésil, le sénateur Flávio Bolsonaro s'est enfui aux États-Unis et s'autoproclame président légitime depuis la Floride. Cette situation reflète les fortes divisions politiques d",
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Tensions en Iran face à la menace d'une confrontation",
+   "zone": "Iran",
+   "resume": "L'Iran se dit prêt militairement à riposter en cas d'attaque conjointe des États-Unis ou d'Israël, tout en continuant à discuter discrètement par l'intermédiaire de pays voisins pour éviter le pire. Cette situation montr",
+   "source": "Le Monde — International · 30/10 04:30"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Interception d'un drone houthiste par l'Arabie saoudite",
+   "zone": "Moyen-Orient",
+   "resume": "L'armée saoudite affirme avoir détruit un drone explosif envoyé par les rebelles yéménites houthis près de la ville sainte de La Mecque, ce que ces derniers contestent. Cet événement confirme la reprise des hostilités ar",
+   "source": "Le Monde — International · 30/10 07:30"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Collision ferroviaire tragique en Espagne : deuil national",
+   "zone": "Iran",
+   "resume": "Un terrible accident impliquant deux trains à grande vitesse a fait près de 70 morts en Espagne, plongeant le pays dans un deuil national. La population et les autorités cherchent à comprendre les causes de cette collisi",
+   "source": "France 24 — Monde · 30/10 10:55"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "L'UE libère des réserves pétrolières face à la crise énergétique",
+   "zone": "Moyen-Orient",
+   "resume": "Onze pays européens ont décidé de puiser dans leurs stocks de secours de pétrole pour faire baisser les prix du carburant avant l'hiver. L'objectif est de protéger les consommateurs et les entreprises d'une trop forte au",
+   "source": "Le Monde — International · 30/10 03:21"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Cyberattaque massive et gel de fonds sur la plateforme Binance",
+   "zone": "Moyen-Orient",
+   "resume": "La plus grande bourse de cryptomonnaies au monde, Binance, a subi un piratage informatique géant qui l'a poussée à bloquer d'urgence plus de 2,5 milliards de dollars d'avoirs. C'est un coup dur qui met en lumière les ris",
+   "source": "© Dado Ruvic, Reuters · 30/10 03:15"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Ralentissement de l'économie française et recul du PIB",
+   "zone": "Iran",
+   "resume": "L'économie de la France a légèrement reculé de 0,1 % entre juillet et septembre, confirmant une quasi-stagnation inquiétante pour l'avenir. Le gouvernement s'alarme de ce coup d'arrêt qui fragilise les finances publiques",
    "source": ""
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Sommet UE-Canada à Montréal : un partenariat stratégique inédit",
-   "zone": "Canada / Union européenne",
-   "resume": "L'Union européenne et le Canada lancent un grand sommet à Montréal pour renforcer leurs liens économiques et technologiques. L'objectif est de s'entraider, notamment sur l'accès aux matières premières essentielles, pour ",
-   "source": "© Pascal Bastien, AP · 29/10 00:13"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Attentat raciste de Trappes : le suspect transféré en vue d'une mise en examen",
-   "zone": "France",
-   "resume": "L'auteur présumé de l'attentat raciste qui a frappé les Yvelines fin octobre a avoué avoir visé des personnes musulmanes ou d'origine africaine. Il a été transféré devant la justice antiterroriste à Paris pour être mis e",
-   "source": "France 24 — Monde · 29/10 10:54"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : frappe meurtrière sur la gare de Dnipro et appel à de nouvelles sanctions",
-   "zone": "Ukraine / Russie",
-   "resume": "Un drone russe a frappé une gare ferroviaire dans le centre-est de l'Ukraine, faisant 13 morts, ce qui a poussé Volodymyr Zelensky à réclamer des sanctions supplémentaires contre Moscou. Cet événement rappelle la violenc",
-   "source": "Le Monde — International · 29/10 10:50"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Péninsule coréenne : tirs de missiles balistiques par Pyongyang sur fond de tensions géopolitiques",
-   "zone": "Corée du Nord / Corée du Sud / Japon",
-   "resume": "La Corée du Nord a testé une dizaine de missiles balistiques en mer du Japon, accentuant les tensions militaires dans la région. Cette situation de crise permanente pèse lourdement sur le moral des pays voisins, la Corée",
-   "source": "© Activision · 28/10 20:59"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Banque centrale européenne : Christine Lagarde quittera ses fonctions en février 2027",
-   "zone": "Union européenne",
-   "resume": "Christine Lagarde va abandonner la présidence de la Banque centrale européenne en février 2027, avec quelques mois d'avance sur la fin officielle de son contrat. C'est un changement important pour la gestion de l'euro et",
-   "source": "© Antony Wallace, AFP · 29/10 10:16"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Informatique quantique : la start-up française Alice & Bob annonce une percée technologique",
-   "zone": "France",
-   "resume": "La start-up française Alice & Bob a fait parler d'elle en annonçant une découverte majeure dans le domaine de l'informatique quantique. Elle espère ainsi concurrencer les plus grands géants américains de la tech sur ce m",
-   "source": "France 24 — Monde · 29/10 09:28"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Catastrophe ferroviaire en Espagne : deuil national après la collision de deux trains",
-   "zone": "Espagne",
-   "resume": "Suite à une terrible collision entre deux trains au sud de Madrid qui a fait au moins 68 morts, l'Espagne observe trois jours de deuil national. Les secours poursuivent leur travail tandis que des questions se posent déj",
-   "source": "France 24 — Monde · 29/10 10:45"
+   "titre": "Déploiement massif des forces de l'ordre pour les manifestations en France",
+   "zone": "Iran",
+   "resume": "Soixante-dix mille policiers et gendarmes sont mobilisés en France pour sécuriser les cortèges de protestation sociale. Un bras de fer judiciaire oppose par ailleurs les syndicats aux autorités locales au sujet des traje",
+   "source": "France 24 — Monde · 30/10 10:34"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Khaby Lame ambassadeur des Jeux Olympiques de la Jeunesse à Dakar",
+   "zone": "Iran",
+   "resume": "Les Jeux olympiques de la jeunesse ont officiellement débuté au Sénégal, une première historique pour l'Afrique. La star d'internet Khaby Lame est présente sur place en tant qu'ambassadeur pour promouvoir cet événement s",
+   "source": "France 24 — Monde · 30/10 10:48"
   }
  ]
 }
