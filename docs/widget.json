@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-30T11:19:08+00:00",
+ "genere_le": "2026-10-31T10:52:07+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Législatives en Israël : le camp de Netanyahu en tête sans majorité",
+   "titre": "Législatives en Israël et contestations politiques",
    "zone": "Israël / Palestine / Liban",
-   "resume": "Le camp du Premier ministre israélien Benjamin Netanyahu a gagné les élections, mais sans obtenir la majorité absolue nécessaire pour gouverner seul au Parlement. Le président du pays doit désormais jouer les médiateurs ",
-   "source": "France 24 — Moyen-Orient · 30/10 10:37"
+   "resume": "Après les récents votes en Israël, le Premier ministre Benyamin Nétanyahou peine à former une majorité pour gouverner. Pour fragiliser ses opposants, il s'en prend ouvertement à la représentation des citoyens arabes isra",
+   "source": "Le Monde — International · 31/10 04:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Arrêt forcé du journal russe indépendant Novaïa Gazeta",
-   "zone": "Iran",
-   "resume": "Le célèbre journal d'investigation russe Novaïa Gazeta, connu pour son franc-parler et son opposition au Kremlin, a été contrainte de fermer ses portes. C'est la fin d'une des dernières voix indépendantes et critiques da",
-   "source": "© Natalia Kolesnikova, AFP · 30/10 09:12"
+   "titre": "Élections de mi-mandat aux États-Unis",
+   "zone": "États-Unis",
+   "resume": "Les Américains s'prêtent à renouveler une partie de leur Parlement lors des traditionnelles élections de mi-mandat. Le camp du président Donald Trump craint de perdre sa majorité en raison des inquiétudes sur le coût de ",
+   "source": "Le Monde — International · 31/10 09:45"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Crise institutionnelle et heurts en Pologne",
+   "zone": "Europe / Pologne",
+   "resume": "La Pologne traverse une grave crise de ses institutions politiques. Le gouvernement et le président de la République s'affrontent sur le contrôle de la plus haute cour de justice du pays, ce qui a déclenché des manifesta",
+   "source": "France 24 — Monde · 31/10 10:10"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Fuite de Flavio Bolsonaro et crise diplomatique sud-américaine",
+   "zone": "Amérique latine",
+   "resume": "Après sa défaite électorale au Brésil, l'homme politique Flavio Bolsonaro s'est réfugié aux États-Unis en prétextant des menaces politiques. Son départ clandestin, apparemment aidé par l'Argentine, provoque des protestat",
+   "source": "Le Monde — International · 31/10 09:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions en Iran face à la menace d'une confrontation",
-   "zone": "Iran",
-   "resume": "L'Iran se dit prêt militairement à riposter en cas d'attaque conjointe des États-Unis ou d'Israël, tout en continuant à discuter discrètement par l'intermédiaire de pays voisins pour éviter le pire. Cette situation montr",
-   "source": "Le Monde — International · 30/10 04:30"
+   "titre": "Livraison de missiles Patriot américains à l'Ukraine",
+   "zone": "Ukraine / États-Unis",
+   "resume": "L'administration américaine a donné son feu vert pour vendre pour 2 milliards de dollars de systèmes de défense antimissiles Patriot à l'Ukraine. Le président ukrainien s'inquiète toutefois des délais de livraison, alors",
+   "source": "Le Monde — International · 31/10 07:28"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Interception d'un drone houthiste par l'Arabie saoudite",
-   "zone": "Moyen-Orient",
-   "resume": "L'armée saoudite affirme avoir détruit un drone explosif envoyé par les rebelles yéménites houthis près de la ville sainte de La Mecque, ce que ces derniers contestent. Cet événement confirme la reprise des hostilités ar",
-   "source": "Le Monde — International · 30/10 07:30"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Collision ferroviaire tragique en Espagne : deuil national",
-   "zone": "Iran",
-   "resume": "Un terrible accident impliquant deux trains à grande vitesse a fait près de 70 morts en Espagne, plongeant le pays dans un deuil national. La population et les autorités cherchent à comprendre les causes de cette collisi",
-   "source": "France 24 — Monde · 30/10 10:55"
+   "titre": "Hommages aux victimes de l'attentat raciste dans les Yvelines",
+   "zone": "France",
+   "resume": "De nombreux citoyens et personnalités se sont réunis dans les Yvelines pour honorer la mémoire des personnes touchées par une attaque raciste survenue quelques jours plus tôt. Les discours ont souligné le besoin d'apaise",
+   "source": "France 24 — Monde · 31/10 10:17"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "L'UE libère des réserves pétrolières face à la crise énergétique",
+   "titre": "Tensions au Moyen-Orient et hausse du fret pétrolier",
    "zone": "Moyen-Orient",
-   "resume": "Onze pays européens ont décidé de puiser dans leurs stocks de secours de pétrole pour faire baisser les prix du carburant avant l'hiver. L'objectif est de protéger les consommateurs et les entreprises d'une trop forte au",
-   "source": "Le Monde — International · 30/10 03:21"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Cyberattaque massive et gel de fonds sur la plateforme Binance",
-   "zone": "Moyen-Orient",
-   "resume": "La plus grande bourse de cryptomonnaies au monde, Binance, a subi un piratage informatique géant qui l'a poussée à bloquer d'urgence plus de 2,5 milliards de dollars d'avoirs. C'est un coup dur qui met en lumière les ris",
-   "source": "© Dado Ruvic, Reuters · 30/10 03:15"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Ralentissement de l'économie française et recul du PIB",
-   "zone": "Iran",
-   "resume": "L'économie de la France a légèrement reculé de 0,1 % entre juillet et septembre, confirmant une quasi-stagnation inquiétante pour l'avenir. Le gouvernement s'alarme de ce coup d'arrêt qui fragilise les finances publiques",
-   "source": ""
+   "resume": "Les affrontements au Moyen-Orient perturbent gravement les routes maritimes empruntées par les navires citernes. Comme les trajets sont plus longs et les navires plus rares, le prix du transport du pétrole s'envole. À te",
+   "source": "Le Monde — International · 31/10 04:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Déploiement massif des forces de l'ordre pour les manifestations en France",
-   "zone": "Iran",
-   "resume": "Soixante-dix mille policiers et gendarmes sont mobilisés en France pour sécuriser les cortèges de protestation sociale. Un bras de fer judiciaire oppose par ailleurs les syndicats aux autorités locales au sujet des traje",
-   "source": "France 24 — Monde · 30/10 10:34"
+   "titre": "Troisième journée de mobilisation sociale en France",
+   "zone": "France",
+   "resume": "La France connaît un troisième samedi consécutif de manifestations contre la baisse du pouvoir d'achat. Pour encadrer les cortèges et éviter des débordements en ce jour de fête d'Halloween, les autorités ont mobilisé 70 ",
+   "source": "France 24 — Monde · 31/10 10:20"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Identification des victimes du drame ferroviaire en Espagne",
+   "zone": "Espagne",
+   "resume": "Après la grave collision de deux trains en Espagne ayant coûté la vie à au moins 69 personnes, les scientifiques s'activent pour identifier précisément toutes les victimes. En parallèle, des spécialistes cherchent à comp",
+   "source": "France 24 — Monde · 31/10 10:14"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Khaby Lame ambassadeur des Jeux Olympiques de la Jeunesse à Dakar",
-   "zone": "Iran",
-   "resume": "Les Jeux olympiques de la jeunesse ont officiellement débuté au Sénégal, une première historique pour l'Afrique. La star d'internet Khaby Lame est présente sur place en tant qu'ambassadeur pour promouvoir cet événement s",
-   "source": "France 24 — Monde · 30/10 10:48"
+   "titre": "Ouverture des Jeux olympiques de la jeunesse à Dakar",
+   "zone": "Afrique / Sénégal",
+   "resume": "Le Sénégal devient le premier pays africain à organiser une compétition de l'écosystème olympique en accueillant les Jeux de la jeunesse à Dakar. Pendant deux semaines, des milliers de jeunes sportifs du monde entier von",
+   "source": "© Patrick Meinhardt, AFP · 31/10 06:59"
   }
  ]
 }
