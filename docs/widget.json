@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-10-31T10:52:07+00:00",
+ "genere_le": "2026-11-01T11:46:34+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Législatives en Israël et contestations politiques",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Après les récents votes en Israël, le Premier ministre Benyamin Nétanyahou peine à former une majorité pour gouverner. Pour fragiliser ses opposants, il s'en prend ouvertement à la représentation des citoyens arabes isra",
-   "source": "Le Monde — International · 31/10 04:00"
+   "titre": "Tensions et arrestations au poste-frontière de Rafah",
+   "zone": "Moyen-Orient / Palestine / Égypte",
+   "resume": "Rafah est la seule porte de sortie et d'entrée vers le monde extérieur pour les Palestiniens bloqués dans la bande de Gaza. Les contrôles de sécurité y sont drastiques et la traversée est devenue une épreuve périlleuse m",
+   "source": "Le Monde — International · 01/11 04:50"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections de mi-mandat aux États-Unis",
+   "titre": "Mobilisation massive pour les élections de mi-mandat américaines",
    "zone": "États-Unis",
-   "resume": "Les Américains s'prêtent à renouveler une partie de leur Parlement lors des traditionnelles élections de mi-mandat. Le camp du président Donald Trump craint de perdre sa majorité en raison des inquiétudes sur le coût de ",
-   "source": "Le Monde — International · 31/10 09:45"
+   "resume": "Les Américains élisent leurs représentants au Parlement fédéral lors d'un vote décisif de mi-mandat. La participation s'annonce record avec des dizaines de millions de votes déjà enregistrés. L'enjeu est capital : le par",
+   "source": "France 24 — Monde · 01/11 11:12"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Crise institutionnelle et heurts en Pologne",
-   "zone": "Europe / Pologne",
-   "resume": "La Pologne traverse une grave crise de ses institutions politiques. Le gouvernement et le président de la République s'affrontent sur le contrôle de la plus haute cour de justice du pays, ce qui a déclenché des manifesta",
-   "source": "France 24 — Monde · 31/10 10:10"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Fuite de Flavio Bolsonaro et crise diplomatique sud-américaine",
-   "zone": "Amérique latine",
-   "resume": "Après sa défaite électorale au Brésil, l'homme politique Flavio Bolsonaro s'est réfugié aux États-Unis en prétextant des menaces politiques. Son départ clandestin, apparemment aidé par l'Argentine, provoque des protestat",
-   "source": "Le Monde — International · 31/10 09:30"
+   "titre": "Contestations massives des listes électorales à New Delhi",
+   "zone": "Inde",
+   "resume": "Des manifestations géantes secouent la capitale indienne suite à la suppression de 130 millions d'inscrits sur les listes électorales. L'opposition accuse le pouvoir de vouloir écarter certains citoyens du vote de façon ",
+   "source": "Le Monde — International · 01/11 11:33"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Livraison de missiles Patriot américains à l'Ukraine",
-   "zone": "Ukraine / États-Unis",
-   "resume": "L'administration américaine a donné son feu vert pour vendre pour 2 milliards de dollars de systèmes de défense antimissiles Patriot à l'Ukraine. Le président ukrainien s'inquiète toutefois des délais de livraison, alors",
-   "source": "Le Monde — International · 31/10 07:28"
+   "titre": "Menaces de frappes américaines sur des sites nucléaires en Iran",
+   "zone": "Moyen-Orient / Iran",
+   "resume": "Donald Trump menace de bombarder des installations stratégiques en Iran, notamment près de la centrale nucléaire de Natanz. Ces déclarations ravivent la crainte d'un affrontement direct entre Washington et Téhéran. La si",
+   "source": "France 24 — Monde · 01/11 11:08"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Hommages aux victimes de l'attentat raciste dans les Yvelines",
-   "zone": "France",
-   "resume": "De nombreux citoyens et personnalités se sont réunis dans les Yvelines pour honorer la mémoire des personnes touchées par une attaque raciste survenue quelques jours plus tôt. Les discours ont souligné le besoin d'apaise",
-   "source": "France 24 — Monde · 31/10 10:17"
+   "titre": "Frappe ukrainienne sur la raffinerie de Kstovo et attaques de drones russes",
+   "zone": "Russie / Ukraine",
+   "resume": "L'Ukraine a mené une frappe de drones à grande distance contre une importante raffinerie en Russie. Dans le même temps, la Russie a répliqué en envoyant des centaines de drones sur le territoire ukrainien. Ces échanges i",
+   "source": "Le Monde — International · 01/11 10:18"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Tensions au Moyen-Orient et hausse du fret pétrolier",
-   "zone": "Moyen-Orient",
-   "resume": "Les affrontements au Moyen-Orient perturbent gravement les routes maritimes empruntées par les navires citernes. Comme les trajets sont plus longs et les navires plus rares, le prix du transport du pétrole s'envole. À te",
-   "source": "Le Monde — International · 31/10 04:00"
+   "titre": "Aggravation de la crise économique au Liban face aux réformes du FMI",
+   "zone": "Moyen-Orient / Liban",
+   "resume": "La population libanaise subit une hausse constante du coût de la vie quotidienne. Pour prêter de l'argent au pays, le FMI exige de profondes réformes financières et bancaires. Ce sujet est crucial car l'économie libanais",
+   "source": "© Moncef Ait-Kaci · 01/11 10:29"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Le FBI accuse la Corée du Nord du piratage historique de Binance",
+   "zone": "International / Corée du Nord",
+   "resume": "La plus grande plateforme mondiale d'échange de cryptomonnaies, Binance, s'est fait voler plus de 6 milliards de dollars. La police américaine pointe du doigt des hackers d'État nord-coréens. C'est le plus gros vol virtu",
+   "source": "Le Monde — International · 01/11 10:04"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Troisième journée de mobilisation sociale en France",
-   "zone": "France",
-   "resume": "La France connaît un troisième samedi consécutif de manifestations contre la baisse du pouvoir d'achat. Pour encadrer les cortèges et éviter des débordements en ce jour de fête d'Halloween, les autorités ont mobilisé 70 ",
-   "source": "France 24 — Monde · 31/10 10:20"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Identification des victimes du drame ferroviaire en Espagne",
-   "zone": "Espagne",
-   "resume": "Après la grave collision de deux trains en Espagne ayant coûté la vie à au moins 69 personnes, les scientifiques s'activent pour identifier précisément toutes les victimes. En parallèle, des spécialistes cherchent à comp",
-   "source": "France 24 — Monde · 31/10 10:14"
+   "titre": "Manifestations de la jeunesse en Allemagne et répercussions en France",
+   "zone": "Europe (France / Allemagne)",
+   "resume": "Inspirée par la jeunesse française, la génération Z allemande manifeste à son tour pour demander une réforme et plus de budget pour l'école. En France, l'ampleur des contestations pousse les autorités à surveiller de prè",
+   "source": "France 24 — Monde · 01/11 11:07"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Ouverture des Jeux olympiques de la jeunesse à Dakar",
-   "zone": "Afrique / Sénégal",
-   "resume": "Le Sénégal devient le premier pays africain à organiser une compétition de l'écosystème olympique en accueillant les Jeux de la jeunesse à Dakar. Pendant deux semaines, des milliers de jeunes sportifs du monde entier von",
-   "source": "© Patrick Meinhardt, AFP · 31/10 06:59"
+   "titre": "Lancement historique des Jeux olympiques de la jeunesse à Dakar",
+   "zone": "Sénégal / Afrique",
+   "resume": "Le Sénégal accueille les Jeux olympiques de la jeunesse, devenant le premier pays africain de l'histoire à organiser une compétition olympique. L'événement est perçu comme une grande fierté collective pour tout le contin",
+   "source": "France 24 — Monde · 01/11 10:45"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Coup d'envoi de la 13e édition de la Route du Rhum à Saint-Malo",
+   "zone": "France / Guadeloupe",
+   "resume": "Plus de cent navigateurs ont pris la mer depuis la Bretagne pour rejoindre les Antilles lors de la célèbre course de voile en solitaire. C'est un défi physique et technique extrême à travers l'océan Atlantique. Cette com",
+   "source": "France 24 — Monde · 01/11 10:07"
   }
  ]
 }
