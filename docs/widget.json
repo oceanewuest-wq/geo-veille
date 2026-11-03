@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-02T13:10:45+00:00",
+ "genere_le": "2026-11-03T12:34:12+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Inquiétude des pays du Golfe face au risque de frappes américaines en Iran",
-   "zone": "Golfe Persique / Moyen-Orient",
-   "resume": "Les monarchies du Golfe craignent de se retrouver en première ligne si la guerre reprend entre Washington et Téhéran. Elles demandent instamment aux diplomates de privilégier la négociation plutôt que les armes. Un confl",
-   "source": "Le Monde — International · 02/11 07:30"
+   "titre": "Impasse politique en Israël et tractations pour le gouvernement",
+   "zone": "Israël / Palestine",
+   "resume": "Après des élections législatives sans vainqueur net en Israël, les hommes politiques se livrent à un intense jeu d'alliances. Le dirigeant de longue date Benjamin Netanyahu cherche à conserver le pouvoir en unissant ses ",
+   "source": ""
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Bilan d'un an de conflit et d'occupation dans la bande de Gaza",
-   "zone": "Moyen-Orient / Gaza",
-   "resume": "Malgré un accord de trêve annoncé l'an dernier, la situation ne s'est pas stabilisée et les bombardements continuent de toucher Gaza. Des spécialistes estiment que cette crise montre les limites des institutions internat",
-   "source": "France 24 — Moyen-Orient · 01/11 21:04"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Participation record et enjeux économiques des Midterms américaines",
+   "titre": "Élections de mi-mandat (Midterms) cruciales aux États-Unis",
    "zone": "États-Unis",
-   "resume": "Les Américains se rendent massivement aux urnes pour renouveler les membres de leur Parlement. Ce vote sert de test pour le président Donald Trump, alors que les ménages souffrent de l'inflation et s'inquiètent des tensi",
-   "source": "France 24 — Monde · 02/11 12:31"
+   "resume": "Les Américains votent pour renouveler le Congrès, ce qui va décider si le président Donald Trump aura les mains libres ou non pour les deux dernières années de son mandat. Les sondages montrent un mécontentement populair",
+   "source": "France 24 — Monde · 03/11 08:31"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Démission du Premier ministre belge Bart De Wever",
-   "zone": "Belgique / Europe",
-   "resume": "En Belgique, le gouvernement traverse une grave crise parce que les partis au pouvoir n'arrivent pas à s'entendre sur les finances du pays. Ne pouvant pas faire voter son budget au Parlement, le Premier ministre a demand",
+   "titre": "Élections municipales sous tension financière en Afrique du Sud",
+   "zone": "Afrique du Sud",
+   "resume": "Les habitants d'Afrique du Sud votent pour él leurs représentants locaux dans un climat d'inquiétude. Près de la moitié des communes sont criblées de dettes et peinent à fournir l'eau ou l'électricité, faisant de ces éle",
+   "source": ""
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Crise institutionnelle en Pologne autour du Tribunal constitutionnel",
+   "zone": "Pologne",
+   "resume": "En Pologne, le chef du gouvernement demande au président nationaliste de valider de nouveaux juges pour débloquer la justice constitutionnelle. Ce désaccord institutionnel bloque le bon fonctionnement des institutions et",
+   "source": "France 24 — Monde · 03/11 10:21"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes américaines sur l'île de Qeshm et tensions avec l'Iran",
+   "zone": "Iran / Golfe Persique",
+   "resume": "Les États-Unis ont bombardé l'île iranienne de Qeshm, un point stratégique près du détroit d'Ormuz où transitent de nombreux navires pétroliers. Cette attaque surprise s'accompagne de menaces verbales en Iran, mais le pr",
    "source": ""
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Tensions irano-américaines et conditions de réouverture du détroit d'Ormuz",
-   "zone": "Iran / Détroit d'Ormuz",
-   "resume": "L'Iran menace de maintenir fermé le détroit d'Ormuz, une voie maritime essentielle où circule un quart du pétrole mondial, afin de faire plier les États-Unis sur les sanctions. De son côté, Washington hausse le ton et n'",
-   "source": "Le Monde — International · 02/11 11:28"
+   "titre": "Frappes russes meurtrières et négociations prévues à Abou Dhabi",
+   "zone": "Ukraine / Russie",
+   "resume": "Malgré de nouveaux bombardements russes particulièrement meurtriers qui détruisent l'industrie ukrainienne, des pourparlers de paix s'organisent. Moscou a accepté de participer à des discussions avec l'Ukraine et Washing",
+   "source": "France 24 — Monde · 03/11 11:41"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Fin de l'opération militaire israélienne à Hébron",
-   "zone": "Israël / Palestine",
-   "resume": "L'armée israélienne quitte la ville de Hébron après une grande opération menée en réaction à la mort de deux de ses soldats. Des milliers d'habitants palestiniens avaient été contraints de quitter leur quartier pendant l",
-   "source": "Le Monde — International · 02/11 10:11"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Ouverture du procès de l'affaire de fraude fiscale des Dubaï Papers",
-   "zone": "France / Émirats arabes unis",
-   "resume": "Le procès d'une énorme affaire d'évasion fiscale vient d'ouvrir à Paris avec plus d'une dizaine de personnes sur le banc des accusés. On leur reproche d'avoir caché des millions d'euros aux impôts en utilisant des compte",
-   "source": "France 24 — Monde · 02/11 10:07"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Projets d'exportation de gaz naturel liquéfié canadien vers l'Europe",
-   "zone": "Canada / Europe",
-   "resume": "Le Canada aimerait vendre son gaz liquéfié aux pays européens pour les aider à trouver de nouvelles sources d'énergie. Même si le pays dispose de réserves immenses, il faut construire de nouveaux terminaux et transporter",
-   "source": "Le Monde — International · 02/11 08:00"
+   "titre": "Évolution stratégique de l'armée américaine sous l'ère Hegseth",
+   "zone": "États-Unis",
+   "resume": "Le ministre américain de la Défense a taillé dans les effectifs supérieurs de l'armée en supprimant un cinquième des postes de généraux et d'amiraux. L'objectif affiché est de recentrer l'institution sur l'efficacité mil",
+   "source": "France 24 — Monde · 03/11 12:18"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Poursuite du mouvement lycéen contre la vie chère en France",
+   "titre": "Tensions budgétaires et blocages lycéens en France",
    "zone": "France",
-   "resume": "Des jeunes bloquent leurs lycées et leurs universités pour manifester contre la hausse des prix et la précarité. Commencée il y a un mois et demi, la contestation reprend de plus belle après les vacances scolaires. Les é",
-   "source": "France 24 — Monde · 02/11 11:08"
+   "resume": "Le gouvernement français est sous pression avec des difficultés économiques qui complurent le vote du budget, tandis que des lycéens bloquent plusieurs dizaines d'établissements à travers le pays. Ces actions de protesta",
+   "source": "France 24 — Monde · 03/11 11:54"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Sacre historique de Kimi Antonelli en Championnat du monde de Formule 1",
-   "zone": "International / Mexique",
-   "resume": "À 20 ans seulement, le jeune Italien Kimi Antonelli rentre dans la légende des sports mécaniques en devenant le plus jeune champion du monde de Formule 1. Sa troisième place lors de la course au Mexique lui a permis de s",
-   "source": "France 24 — Monde · 02/11 11:18"
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Démantèlement d'un campement pour le logement à Madrid",
+   "zone": "Espagne",
+   "resume": "À Madrid, les forces de l'ordre ont évacué un campement installé depuis plusieurs semaines pour réclamer le droit à un logement abordable. Cette manifestation visait à alerter sur la flambée des prix de l'immobilier qui ",
+   "source": ""
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Résurgence de la rougeole à New York et inquiétudes sanitaires",
+   "zone": "États-Unis",
+   "resume": "Pour la première fois en trente ans, un enfant est mort de la rougeole dans l'État de New York. Les autorités s'alarment de cette résurgence virale, alimentée par la baisse des vaccinations et le scepticisme d'une partie",
+   "source": ""
   }
  ]
 }
