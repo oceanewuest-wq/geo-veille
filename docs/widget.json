@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-03T12:34:12+00:00",
+ "genere_le": "2026-11-04T12:54:35+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Impasse politique en Israël et tractations pour le gouvernement",
-   "zone": "Israël / Palestine",
-   "resume": "Après des élections législatives sans vainqueur net en Israël, les hommes politiques se livrent à un intense jeu d'alliances. Le dirigeant de longue date Benjamin Netanyahu cherche à conserver le pouvoir en unissant ses ",
-   "source": ""
+   "titre": "Menace d'une reprise de la guerre américaine contre l'Iran",
+   "zone": "Iran",
+   "resume": "Malgré sa défaite électorale aux États-Unis, Donald Trump a menacé de relancer un conflit direct contre l'Iran en frappant fort. Cette position agressive fait peser un risque lourd de nouvelle guerre ouverte au Moyen-Ori",
+   "source": "Le Monde — International · 04/11 09:42"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections de mi-mandat (Midterms) cruciales aux États-Unis",
+   "titre": "Fin de l'aide sécuritaire américaine à Israël",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Le jour des élections américaines, Donald Trump a brusquement coupé l'aide militaire annuelle de 3,8 milliards de dollars versée à Israël. C'est un coup de tonnerre diplomatique qui redéfinit les relations entre les deux",
+   "source": "France 24 — Moyen-Orient · 04/11 10:05"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Résultats officiels des législatives en Israël et appel au compromis",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "Après les élections législatives en Israël, aucun parti n'a gagné de majorité claire. Le président israélien a donc demandé aux différentes formations politiques de faire des compromis pour réussir à s'entendre et gouver",
+   "source": "© Ohad Zwigenberg, AP · 04/11 07:32"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Défaite historique du camp Trump lors des élections de mi-mandat aux États-Unis",
    "zone": "États-Unis",
-   "resume": "Les Américains votent pour renouveler le Congrès, ce qui va décider si le président Donald Trump aura les mains libres ou non pour les deux dernières années de son mandat. Les sondages montrent un mécontentement populair",
-   "source": "France 24 — Monde · 03/11 08:31"
+   "resume": "Les Américains ont infligé un camouflet historique à Donald Trump lors des élections de mi-mandat, en donnant la majorité aux démocrates dans les deux chambres du Congrès. C'est un vote de colère face à sa politique, qui",
+   "source": "Le Monde — International · 04/11 08:58"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections municipales sous tension financière en Afrique du Sud",
+   "titre": "Élections municipales en Afrique du Sud : le Congrès national africain menacé",
    "zone": "Afrique du Sud",
-   "resume": "Les habitants d'Afrique du Sud votent pour él leurs représentants locaux dans un climat d'inquiétude. Près de la moitié des communes sont criblées de dettes et peinent à fournir l'eau ou l'électricité, faisant de ces éle",
-   "source": ""
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Crise institutionnelle en Pologne autour du Tribunal constitutionnel",
-   "zone": "Pologne",
-   "resume": "En Pologne, le chef du gouvernement demande au président nationaliste de valider de nouveaux juges pour débloquer la justice constitutionnelle. Ce désaccord institutionnel bloque le bon fonctionnement des institutions et",
-   "source": "France 24 — Monde · 03/11 10:21"
+   "resume": "Les Sud-Africains votent pour élire leurs représentants locaux lors d'un scrutin municipal crucial. L'ANC, le parti historique au pouvoir depuis plus de trente ans, risque de perdre pied dans les grandes villes en raison",
+   "source": "Le Monde — International · 04/11 05:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes américaines sur l'île de Qeshm et tensions avec l'Iran",
-   "zone": "Iran / Golfe Persique",
-   "resume": "Les États-Unis ont bombardé l'île iranienne de Qeshm, un point stratégique près du détroit d'Ormuz où transitent de nombreux navires pétroliers. Cette attaque surprise s'accompagne de menaces verbales en Iran, mais le pr",
-   "source": ""
+   "titre": "Destruction de pétroliers et tensions dans le détroit d'Ormuz",
+   "zone": "Détroit d'Ormuz / Golfe Persique",
+   "resume": "Quatre pétroliers ont été détruits par des mines en essayant de traverser le détroit d'Ormuz, une route maritime vitale pour le pétrole mondial, à la suite d'attaques américaines. L'Iran confirme ainsi sa volonté de bloq",
+   "source": "©  Majid Asgaripour, Reuters · 04/11 09:03"
   },
   {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Frappes russes meurtrières et négociations prévues à Abou Dhabi",
-   "zone": "Ukraine / Russie",
-   "resume": "Malgré de nouveaux bombardements russes particulièrement meurtriers qui détruisent l'industrie ukrainienne, des pourparlers de paix s'organisent. Moscou a accepté de participer à des discussions avec l'Ukraine et Washing",
-   "source": "France 24 — Monde · 03/11 11:41"
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Poursuite judiciaire historique contre une mine chinoise en RD Congo pour pollution",
+   "zone": "République Démocratique du Congo",
+   "resume": "À Kolwezi en RD Congo, 27 habitants ont décidé de traîner en justice le gouvernement et une grande entreprise minière chinoise pour pollution massive. C'est un procès hors norme qui met en lumière les dérives écologiques",
+   "source": "France 24 — Monde · 04/11 12:01"
   },
   {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Évolution stratégique de l'armée américaine sous l'ère Hegseth",
-   "zone": "États-Unis",
-   "resume": "Le ministre américain de la Défense a taillé dans les effectifs supérieurs de l'armée en supprimant un cinquième des postes de généraux et d'amiraux. L'objectif affiché est de recentrer l'institution sur l'efficacité mil",
-   "source": "France 24 — Monde · 03/11 12:18"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Tensions budgétaires et blocages lycéens en France",
-   "zone": "France",
-   "resume": "Le gouvernement français est sous pression avec des difficultés économiques qui complurent le vote du budget, tandis que des lycéens bloquent plusieurs dizaines d'établissements à travers le pays. Ces actions de protesta",
-   "source": "France 24 — Monde · 03/11 11:54"
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Blocage institutionnel au Sénégal après le rejet du budget rectificatif",
+   "zone": "Sénégal",
+   "resume": "Au Sénégal, l'Assemblée nationale contrôlée par l'opposition a refusé d'adopter le budget rectificatif du gouvernement, conçu pour rassurer le FMI (Fonds monétaire international). Cela crée une crise politique et bloque ",
+   "source": "Le Monde — International · 04/11 11:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Démantèlement d'un campement pour le logement à Madrid",
-   "zone": "Espagne",
-   "resume": "À Madrid, les forces de l'ordre ont évacué un campement installé depuis plusieurs semaines pour réclamer le droit à un logement abordable. Cette manifestation visait à alerter sur la flambée des prix de l'immobilier qui ",
-   "source": ""
+   "titre": "Accord sur le salaire minimum dans le secteur textile au Bangladesh",
+   "zone": "Bangladesh",
+   "resume": "Après plusieurs jours de manifestations, les ouvriers du textile au Bangladesh ont obtenu un accord sur l'augmentation de leur salaire minimum pour compenser la vie chère. Le montant exact de la hausse sera fixé en décem",
+   "source": "Le Monde — International · 04/11 11:11"
   },
   {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Résurgence de la rougeole à New York et inquiétudes sanitaires",
-   "zone": "États-Unis",
-   "resume": "Pour la première fois en trente ans, un enfant est mort de la rougeole dans l'État de New York. Les autorités s'alarment de cette résurgence virale, alimentée par la baisse des vaccinations et le scepticisme d'une partie",
-   "source": ""
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Le Paris Saint-Germain écrte Villarreal en Ligue des champions",
+   "zone": "Europe",
+   "resume": "En Ligue des champions, le Paris Saint-Germain a écrasé Villarreal 6 à 0. La victoire s'est dessinée dès les premières minutes de la rencontre grâce à une entame de match fulgurante des Parisiens.",
+   "source": "France 24 — Monde · 04/11 10:45"
   }
  ]
 }
