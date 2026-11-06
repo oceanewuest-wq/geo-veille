@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-05T12:59:34+00:00",
+ "genere_le": "2026-11-06T12:46:57+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Menace d'une reprise de la guerre américaine contre l'Iran",
-   "zone": "Iran",
-   "resume": "Malgré sa défaite électorale aux États-Unis, Donald Trump a menacé de relancer un conflit direct contre l'Iran en frappant fort. Cette position agressive fait peser un risque lourd de nouvelle guerre ouverte au Moyen-Ori",
-   "source": "Le Monde — International · 04/11 09:42"
+   "titre": "Israël : Gadi Eisenkot pressenti pour former le prochain gouvernement",
+   "zone": "Israël / Moyen-Orient",
+   "resume": "En Israël, le chef du parti centriste Gadi Eisenkot est en position favorable pour devenir Premier ministre en obtenant le soutien de députés arabes. C'est un tournant important qui pourrait redistribuer les cartes du po",
+   "source": "France 24 — Monde · 06/11 10:10"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Fin de l'aide sécuritaire américaine à Israël",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Le jour des élections américaines, Donald Trump a brusquement coupé l'aide militaire annuelle de 3,8 milliards de dollars versée à Israël. C'est un coup de tonnerre diplomatique qui redéfinit les relations entre les deux",
-   "source": "France 24 — Moyen-Orient · 04/11 10:05"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Résultats officiels des législatives en Israël et appel au compromis",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "Après les élections législatives en Israël, aucun parti n'a gagné de majorité claire. Le président israélien a donc demandé aux différentes formations politiques de faire des compromis pour réussir à s'entendre et gouver",
-   "source": "© Ohad Zwigenberg, AP · 04/11 07:32"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Défaite historique du camp Trump lors des élections de mi-mandat aux États-Unis",
+   "titre": "États-Unis : Victoire des démocrates aux midterms et contestations de Donald Trump",
    "zone": "États-Unis",
-   "resume": "Les Américains ont infligé un camouflet historique à Donald Trump lors des élections de mi-mandat, en donnant la majorité aux démocrates dans les deux chambres du Congrès. C'est un vote de colère face à sa politique, qui",
-   "source": "Le Monde — International · 04/11 08:58"
+   "resume": "Les démocrates ont remporté les élections américaines de mi-mandat, reprenant ainsi le contrôle de la Chambre des représentants et du Sénat. Cette défaite électorale va réduire considérablement la marge de manœuvre polit",
+   "source": "France 24 — Monde · 06/11 06:04"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections municipales en Afrique du Sud : le Congrès national africain menacé",
+   "titre": "Belgique : Impasse budgétaire et démission refusée du Premier ministre",
+   "zone": "Belgique / Europe",
+   "resume": "Le gouvernement belge traverse une crise politique majeure en raison d'un désaccord sur un plan d'économies de 10 milliards d'euros. Le Premier ministre a voulu démissionner, mais le roi a refusé afin d'obliger la coalit",
+   "source": "Le Monde — International · 06/11 11:58"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Afrique du Sud : Recul historique de l'ANC lors des élections municipales",
    "zone": "Afrique du Sud",
-   "resume": "Les Sud-Africains votent pour élire leurs représentants locaux lors d'un scrutin municipal crucial. L'ANC, le parti historique au pouvoir depuis plus de trente ans, risque de perdre pied dans les grandes villes en raison",
-   "source": "Le Monde — International · 04/11 05:00"
+   "resume": "L'ANC, le parti emblématique qui dirige l'Afrique du Sud depuis la fin de l'apartheid en 1994, a réalisé son pire score historique aux élections municipales. Cette baisse reflète le mécontentement de la population face a",
+   "source": "Le Monde — International · 06/11 11:51"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Destruction de pétroliers et tensions dans le détroit d'Ormuz",
-   "zone": "Détroit d'Ormuz / Golfe Persique",
-   "resume": "Quatre pétroliers ont été détruits par des mines en essayant de traverser le détroit d'Ormuz, une route maritime vitale pour le pétrole mondial, à la suite d'attaques américaines. L'Iran confirme ainsi sa volonté de bloq",
-   "source": "©  Majid Asgaripour, Reuters · 04/11 09:03"
+   "titre": "Guerre en Ukraine : Lourd bilan humain après une frappe russe à Komychouvakha",
+   "zone": "Ukraine / Russie",
+   "resume": "Une frappe militaire russe particulièrement meurtrière a touché un centre de distribution d'aide humanitaire établi dans une école du sud de l'Ukraine. Le bilan s'élève à plus de 50 victimes civiles, rappelant la violenc",
+   "source": "Le Monde — International · 06/11 11:51"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Poursuite judiciaire historique contre une mine chinoise en RD Congo pour pollution",
-   "zone": "République Démocratique du Congo",
-   "resume": "À Kolwezi en RD Congo, 27 habitants ont décidé de traîner en justice le gouvernement et une grande entreprise minière chinoise pour pollution massive. C'est un procès hors norme qui met en lumière les dérives écologiques",
-   "source": "France 24 — Monde · 04/11 12:01"
+   "titre": "Énergie : Abandon des livraisons de gazole russe vers les États-Unis",
+   "zone": "États-Unis / Russie",
+   "resume": "Un projet d'accord commercial devant permettre l'envoi de gazole russe vers les États-Unis a échoué, poussant les navires déjà en route à faire demi-tour. Cet abandon illustre la difficulté de maintenir des échanges éner",
+   "source": "© Studio graphique France Médias Monde · 06/11 06:37"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Blocage institutionnel au Sénégal après le rejet du budget rectificatif",
-   "zone": "Sénégal",
-   "resume": "Au Sénégal, l'Assemblée nationale contrôlée par l'opposition a refusé d'adopter le budget rectificatif du gouvernement, conçu pour rassurer le FMI (Fonds monétaire international). Cela crée une crise politique et bloque ",
-   "source": "Le Monde — International · 04/11 11:00"
+   "titre": "Russie : Réquisition accélérée des actifs appartenant à des entreprises occidentales",
+   "zone": "Russie / Europe",
+   "resume": "Moscou accélère la prise de contrôle forcée des usines et des filiales de sociétés occidentales situées en Russie. Cette stratégie de riposte aux sanctions économiques rend le désengagement des entreprises étrangères par",
+   "source": "Le Monde — International · 06/11 10:15"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Finance : Baisse nette des marchés boursiers liée aux incertitudes sur l'IA",
+   "zone": "International",
+   "resume": "Les bourses mondiales ont chuté en raison d'inquiétudes financières pesant sur le secteur de l'intelligence artificielle. Les investisseurs craignent que la nouvelle donne politique américaine ne freine l'implantation de",
+   "source": "France 24 — Monde · 06/11 10:16"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Accord sur le salaire minimum dans le secteur textile au Bangladesh",
-   "zone": "Bangladesh",
-   "resume": "Après plusieurs jours de manifestations, les ouvriers du textile au Bangladesh ont obtenu un accord sur l'augmentation de leur salaire minimum pour compenser la vie chère. Le montant exact de la hausse sera fixé en décem",
-   "source": "Le Monde — International · 04/11 11:11"
+   "titre": "France : Poursuite de la mobilisation sociale pour le pouvoir d'achat",
+   "zone": "France",
+   "resume": "De nombreuses personnes se sont rassemblées en France pour réclamer des augmentations de salaire face au coût de la vie. Pour répondre à la contestation, le gouvernement a programmé une grande réunion avec les syndicats ",
+   "source": "France 24 — Monde · 06/11 09:54"
   },
   {
-   "emoji": "⚽",
-   "theme": "Sport",
-   "titre": "Le Paris Saint-Germain écrte Villarreal en Ligue des champions",
-   "zone": "Europe",
-   "resume": "En Ligue des champions, le Paris Saint-Germain a écrasé Villarreal 6 à 0. La victoire s'est dessinée dès les premières minutes de la rencontre grâce à une entame de match fulgurante des Parisiens.",
-   "source": "France 24 — Monde · 04/11 10:45"
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "France : Accident mortel impliquant un car scolaire dans le département de l'Ain",
+   "zone": "France",
+   "resume": "Un grave accident de car assurant une ligne régionale s'est produit dans l'Ain, provoquant le décès de deux jeunes et blessant seize personnes. Les forces de l'ordre ont ouvert une enquête pour déterminer les circonstanc",
+   "source": "© Jeff Pachoud, AFP · 06/11 10:26"
   }
  ]
 }
