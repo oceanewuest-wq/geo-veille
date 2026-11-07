@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-06T12:46:57+00:00",
+ "genere_le": "2026-11-07T11:34:54+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Israël : Gadi Eisenkot pressenti pour former le prochain gouvernement",
-   "zone": "Israël / Moyen-Orient",
-   "resume": "En Israël, le chef du parti centriste Gadi Eisenkot est en position favorable pour devenir Premier ministre en obtenant le soutien de députés arabes. C'est un tournant important qui pourrait redistribuer les cartes du po",
-   "source": "France 24 — Monde · 06/11 10:10"
+   "titre": "Les démocrates ciblent le budget du Pentagone et la politique iranienne après les midterms",
+   "zone": "États-Unis / Iran",
+   "resume": "Grâce à leur victoire aux élections américaines de mi-mandat, les démocrates veulent faire baisser les dépenses militaires excessives, comme le projet de bouclier antimissile géant « Golden Dome ». Ils s'opposent aussi f",
+   "source": ""
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "États-Unis : Victoire des démocrates aux midterms et contestations de Donald Trump",
+   "titre": "Destitution du président paraguayen Santiago Peña sur fond de crise bancaire",
+   "zone": "Paraguay",
+   "resume": "Le président du Paraguay, Santiago Peña, a été viré par le Sénat après un énorme scandale financier qui a bloqué l'argent de millions de clients dans les banques. Son vice-président, Pedro Alliana, a pris sa place en urg",
+   "source": "Le Monde — International · 07/11 06:41"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Promotion de Stephen Miller au poste de chef de l'administration Trump",
    "zone": "États-Unis",
-   "resume": "Les démocrates ont remporté les élections américaines de mi-mandat, reprenant ainsi le contrôle de la Chambre des représentants et du Sénat. Cette défaite électorale va réduire considérablement la marge de manœuvre polit",
-   "source": "France 24 — Monde · 06/11 06:04"
+   "resume": "Après la défaite des républicains aux élections, Donald Trump a choisi Stephen Miller, un dur de la droite nationaliste, pour diriger son équipe à la Maison-Blanche. Connu pour ses positions extrêmes sur l'immigration, M",
+   "source": "Le Monde — International · 07/11 04:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Belgique : Impasse budgétaire et démission refusée du Premier ministre",
-   "zone": "Belgique / Europe",
-   "resume": "Le gouvernement belge traverse une crise politique majeure en raison d'un désaccord sur un plan d'économies de 10 milliards d'euros. Le Premier ministre a voulu démissionner, mais le roi a refusé afin d'obliger la coalit",
-   "source": "Le Monde — International · 06/11 11:58"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Afrique du Sud : Recul historique de l'ANC lors des élections municipales",
-   "zone": "Afrique du Sud",
-   "resume": "L'ANC, le parti emblématique qui dirige l'Afrique du Sud depuis la fin de l'apartheid en 1994, a réalisé son pire score historique aux élections municipales. Cette baisse reflète le mécontentement de la population face a",
-   "source": "Le Monde — International · 06/11 11:51"
+   "titre": "Sortie du programme présidentiel de La France insoumise pour 2027",
+   "zone": "France",
+   "resume": "À la veille d'un grand rassemblement politique au Bourget, La France insoumise a dévoilé son programme pour l'élection présidentielle de 2027. Fidèle à ses habitudes, le parti propose des mesures de rupture radicale avec",
+   "source": "France 24 — Monde · 07/11 10:08"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : Lourd bilan humain après une frappe russe à Komychouvakha",
-   "zone": "Ukraine / Russie",
-   "resume": "Une frappe militaire russe particulièrement meurtrière a touché un centre de distribution d'aide humanitaire établi dans une école du sud de l'Ukraine. Le bilan s'élève à plus de 50 victimes civiles, rappelant la violenc",
-   "source": "Le Monde — International · 06/11 11:51"
+   "titre": "Offre américaine d'informations sur le programme nucléaire iranien",
+   "zone": "Iran / États-Unis",
+   "resume": "Les États-Unis promettent 20 millions de dollars et une nouvelle vie protégée à toute personne capable de leur fournir des secrets sur le programme nucléaire de l'Iran. C'est une méthode agressive pour espionner et tente",
+   "source": "Le Monde — International · 07/11 02:13"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Autorisations de passage en mer Rouge délivrées par les rebelles houthis",
+   "zone": "Mer Rouge / Yémen",
+   "resume": "Les rebelles houthis au Yémen envoient désormais des e-mails aux compagnies maritimes pour leur donner ou non le droit de traverser la mer Rouge. Pour éviter d'être attaqués, les navires marchands se sentent obligés de d",
+   "source": "Le Monde — International · 07/11 01:29"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes russes massives contre les infrastructures énergétiques à Kiev",
+   "zone": "Ukraine",
+   "resume": "L'armée russe a bombardé des ponts et des centrales électriques à Kiev et ses alentours, plongeant une partie de la capitale ukrainienne dans le noir et privant ses habitants d'électricité. Le président ukrainien Volodym",
+   "source": "France 24 — Monde · 07/11 09:54"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Énergie : Abandon des livraisons de gazole russe vers les États-Unis",
-   "zone": "États-Unis / Russie",
-   "resume": "Un projet d'accord commercial devant permettre l'envoi de gazole russe vers les États-Unis a échoué, poussant les navires déjà en route à faire demi-tour. Cet abandon illustre la difficulté de maintenir des échanges éner",
-   "source": "© Studio graphique France Médias Monde · 06/11 06:37"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Russie : Réquisition accélérée des actifs appartenant à des entreprises occidentales",
-   "zone": "Russie / Europe",
-   "resume": "Moscou accélère la prise de contrôle forcée des usines et des filiales de sociétés occidentales situées en Russie. Cette stratégie de riposte aux sanctions économiques rend le désengagement des entreprises étrangères par",
-   "source": "Le Monde — International · 06/11 10:15"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Finance : Baisse nette des marchés boursiers liée aux incertitudes sur l'IA",
-   "zone": "International",
-   "resume": "Les bourses mondiales ont chuté en raison d'inquiétudes financières pesant sur le secteur de l'intelligence artificielle. Les investisseurs craignent que la nouvelle donne politique américaine ne freine l'implantation de",
-   "source": "France 24 — Monde · 06/11 10:16"
+   "titre": "Piratage de la plateforme Binance par des hackeurs nord-coréens",
+   "zone": "Corée du Nord / International",
+   "resume": "Le vol de cryptomonnaies subi par la plateforme géante Binance est l'œuvre de pirates informatiques nord-coréens. Le régime de Pyongyang utilise cette technique pour s'enrichir en cachette et financer ses missiles malgré",
+   "source": "Le Monde — International · 07/11 04:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "France : Poursuite de la mobilisation sociale pour le pouvoir d'achat",
+   "titre": "Journée de mobilisation sociale et tensions autour des manifestations en France",
    "zone": "France",
-   "resume": "De nombreuses personnes se sont rassemblées en France pour réclamer des augmentations de salaire face au coût de la vie. Pour répondre à la contestation, le gouvernement a programmé une grande réunion avec les syndicats ",
-   "source": "France 24 — Monde · 06/11 09:54"
+   "resume": "Une nouvelle journée de manifestations monstres a lieu en France, avec des centaines de milliers de personnes dans la rue pour protester contre la politique du gouvernement et la vie chère. Pour éviter les débordements s",
+   "source": "© Ludovic Marin, AFP · 07/11 06:05"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "France : Accident mortel impliquant un car scolaire dans le département de l'Ain",
+   "titre": "Obsèques de Pengo Bossio Wangi à Guyancourt après l'attentat de Trappes",
    "zone": "France",
-   "resume": "Un grave accident de car assurant une ligne régionale s'est produit dans l'Ain, provoquant le décès de deux jeunes et blessant seize personnes. Les forces de l'ordre ont ouvert une enquête pour déterminer les circonstanc",
-   "source": "© Jeff Pachoud, AFP · 06/11 10:26"
+   "resume": "Un dernier hommage est rendu à Guyancourt à Pengo Bossio Wangi, tué lors de l'attentat raciste survenu fin octobre à Trappes. Sa famille et ses proches se réunissent pour ses obsèques publiques. Ce drame a choqué le pays",
+   "source": "© Simon Wohlfahrt, AFP · 07/11 10:14"
   }
  ]
 }
