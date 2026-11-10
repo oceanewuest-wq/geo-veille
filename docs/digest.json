@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-09T13:38:12.586742+00:00",
+ "genere_le": "2026-11-10T13:13:41.590946+00:00",
  "mode_brut": false,
  "erreurs": [
   "ISW: HTTPError",
@@ -12,730 +12,748 @@
    "lang": "fr",
    "sujets": [
     {
-     "titre": "Formation du gouvernement en Israël : Gadi Eisenkot face au défi de la coalition",
+     "titre": "Pourparlers de paix sur l'Ukraine à Abou Dhabi",
+     "theme": "Conflits & Sécurité",
+     "zone": "Ukraine / Russie / Émirats arabes unis",
+     "formel": "Des pourparlers trilatéraux inédits entre la Russie, l'Ukraine et les États-Unis se sont ouverts le 10 novembre 2026 à Abou Dhabi, sous médiation américaine. L'Union européenne, dont la France, y participe pour peser sur les discussions relatives à une éventuelle trêve partielle. La délégation russe est notamment menée par Vladimir Medinski, tandis que les alliés occidentaux rappellent l'impératif de respecter l'intégrité territoriale ukrainienne.",
+     "en_clair": "Des négociations de paix exceptionnelles ont débuté le 10 novembre aux Émirats arabes unis pour tenter de trouver une issue à la guerre en Ukraine. Les États-Unis jouent les médiateurs, tandis que les Européens s'invitent à la table pour s'assurer que leurs intérêts et les frontières ukrainiennes soient protégés. C'est un test diplomatique majeur pour tenter d'obtenir au moins des cessez-le-feu partiels sur le terrain.",
+     "urls": [
+      "https://www.france24.com/fr/vid%C3%A9o/20261110-r%C3%A9unions-%C3%A0-abu-dhabi-les-europ%C3%A9ens-inquiets-que-trump-penche-vers-poutine",
+      "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-tout-accord-sur-l-ukraine-doit-respecter-son-integrite-territoriale-affirment-europeens-et-americains_6808609_3210.html"
+     ]
+    },
+    {
+     "titre": "Riposte française après des cyberattaques imputées à l'Iran",
+     "theme": "Conflits & Sécurité",
+     "zone": "France / Iran",
+     "formel": "Le gouvernement français a publiquement attribué à l'unité cyber Shahid Kaveh des Gardiens de la révolution iraniens une vague de cyberattaques d'ampleur ayant visé les contrôleurs réfrigérés de près de 700 supermarchés en France à la mi-octobre 2026. L'ambassadeur d'Iran à Paris a été convoqué le 10 novembre, le Quai d'Orsay avertissant que la France ne s'interdisait aucune mesure de rétorsion face à cette agression économique.",
+     "en_clair": "La France accuse formellement l'Iran d'avoir piraté les systèmes frigorifiques de centaines de supermarchés français, entraînant la destruction de tonnes de nourriture. L'ambassadeur iranien a été convoqué et Paris menace de riposter fermement à cette attaque informatique qualifiée d'acte de guerre économique.",
+     "urls": [
+      "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+      "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-avertit-jean-noel-barrot_6808797_3210.html"
+     ]
+    },
+    {
+     "titre": "Crise politique en Israël : Gadi Eisenkot chargé de former une majorité",
      "theme": "Politique & Diplomatie",
      "zone": "Israël",
-     "formel": "Gadi Eisenkot, principal opposant au Premier ministre sortant Benjamin Netanyahu, s'emploie à bâtir une coalition gouvernementale large et rapide après les récentes élections législatives n'ayant dégagé aucune majorité claire. Mandaté pour former le prochain exécutif, il cherche à incarner un rééquilibrage de la vie politique israélienne. Les analystes soulignent que sa popularité repose en grande partie sur cette promesse d'apaisement institutionnel au sein d'une arène profondément polarisée.",
-     "en_clair": "Après des élections sans vainqueur net en Israël, l'opposant Gadi Eisenkot essaie de rassembler différents partis pour former un nouveau gouvernement. Les gens le soutiennent parce qu'il représente une promesse de calme politique, par opposition au Premier ministre actuel Benjamin Netanyahu. C'est une étape cruciale pour stabiliser le pays.",
+     "formel": "Le président israélien Isaac Herzog a confié le 10 novembre 2026 à Gadi Eisenkot la mission de constituer une majorité à la Knesset, ouvrant potentiellement la voie à la fin de la période politique dominée par Benjamin Netanyahu depuis dix-neuf ans. Cette tentative de transition gouvernementale se heurte aux tractations complexes avec les partis de l'opposition et aux exigences de figures clés comme Avigdor Liberman.",
+     "en_clair": "Le président d'Israël a demandé à un nouveau responsable politique, Gadi Eisenkot, de tenter de former un gouvernement pour remplacer potentiellement le Premier ministre de longue date Benjamin Netanyahu. C'est un moment charnière pour la vie politique israélienne, qui nécessite de négocier ardemment avec de nombreux petits partis pour obtenir une majorité.",
      "urls": [
-      "https://www.france24.com/fr/vid%C3%A9o/20261109-isra%C3%ABl-gadi-eisenkot-face-au-d%C3%A9fi-de-former-une-large-coalition",
-      "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261108-samy-cohen-eisenkot-est-populaire-car-il-repr%C3%A9sente-un-apaisement-de-la-vie-politique-isra%C3%A9lienne"
+      "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261110-isra%C3%ABl-eisenkot-pour-tourner-la-page-netanyahu",
+      "https://www.france24.com/fr/moyen-orient/20261109-israel-avigdor-liberman-principal-obstacle-gouvernement-eisenkot-netanyahu"
      ]
     },
     {
-     "titre": "Frappe houthie sur le quartier financier de Riyad",
-     "theme": "Conflits & Sécurité",
-     "zone": "Moyen-Orient",
-     "formel": "Une tour de la compagnie nationale saoudienne Aramco, située dans le quartier du Roi-Abdallah à Riyad, a été endommagée dimanche lors d'une frappe revendiquée par les rebelles houthistes du Yémen, soutenus par l'Iran. Cette attaque marque une escalade en ciblant directement le cœur financier de la capitale saoudienne, après des antécédents visant principalement des aéroports et des sites pétroliers périphériques. L'objectif manifeste des insurgés est d'éroder la confiance des investisseurs internationaux dans la stabilité économique du royaume.",
-     "en_clair": "Les rebelles yéménites des Houthis, alliés de l'Iran, ont frappé un grand quartier d'affaires et une tour de la compagnie pétrolière Aramco à Riyad, en Arabie saoudite. C'est une attaque rare qui vise directement l'économie et la sécurité du pays pour effrayer les investisseurs.",
-     "urls": [
-      "https://www.lemonde.fr/international/article/2026/11/09/arabie-saoudite-en-frappant-le-quartier-financier-de-riyad-les-houthistes-cherchent-a-eroder-la-confiance-des-investisseurs_6808628_3210.html"
-     ]
-    },
-    {
-     "titre": "Inondations catastrophiques dans les abris de fortune à Gaza",
-     "theme": "Société",
-     "zone": "Israël / Palestine",
-     "formel": "De récentes pluies diluviennes ont submergé des dizaines de milliers d'abris de fortune dans la bande de Gaza, aggravant la détresse humanitaire des populations civiles. Ces inondations mettent en lumière la destruction massive des infrastructures provoquée par les opérations militaires menées par Israël depuis le 7 octobre 2023. Les organisations humanitaires rappellent que l'État hébreu continue d'imposer de strictes restrictions sur l'acheminement de l'aide et des matériaux de reconstruction.",
-     "en_clair": "De fortes pluies ont inondé des dizaines de milliers de tentes et d'abris précaires à Gaza, plongeant les habitants dans une situation dramatique. Cela montre l'ampleur des dégâts causés par la guerre en cours, alors que l'entrée des secours reste très limitée par Israël.",
-     "urls": [
-      "https://www.lemonde.fr/international/article/2026/11/09/a-gaza-la-detresse-des-habitants-apres-les-pluies-diluviennes-qui-ont-submerge-des-dizaines-de-milliers-d-abris-de-fortune_6808645_3210.html"
-     ]
-    },
-    {
-     "titre": "Réunion ministérielle du G7 à Paris sous le signe des recompositions diplomatiques",
-     "theme": "Politique & Diplomatie",
-     "zone": "France / États-Unis",
-     "formel": "Les ministres des Affaires étrangères des pays du G7 se réunissent ce lundi à Paris, en présence du secrétaire d'État américain Marco Rubio. Cette rencontre intervient au lendemain des élections de mi-mandat aux États-Unis, qui constituent un sérieux revers pour l'administration de Donald Trump. Les diplomates évaluent l'impact de ce scrutin sur la politique extérieure américaine, tout en abordant les dossiers prioritaires de l'Ukraine, de l'Iran et du Liban.",
-     "en_clair": "Les chefs de la diplomatie des grands pays riches (le G7) se réunissent à Paris avec le représentant américain Marco Rubio. Ils discutent des crises en Ukraine, au Moyen-Orient et des répercussions des récentes élections américaines sur la politique internationale de Donald Trump.",
-     "urls": [
-      "https://www.france24.com/fr/vid%C3%A9o/20261109-france-r%C3%A9union-%C3%A0-paris-des-ministres-du-g7",
-      "https://www.france24.com/fr/france/20261109-r%C3%A9union-du-g7-les-midterms-rebattent-elles-les-cartes-de-la-diplomatie-de-donald-trump"
-     ]
-    },
-    {
-     "titre": "Hausse du SMIC en France : le gouvernement annonce une revalorisation de 1,6 %",
-     "theme": "Économie & Énergie",
-     "zone": "France",
-     "formel": "Sous la pression de mouvements sociaux et de manifestations, le Premier ministre Sébastien Lecornu a réuni le patronat et les syndicats à Matignon pour une conférence sociale. Le ministre du Travail, Jean-Pierre Farandou, a officialisé une hausse de 1,6 % du salaire minimum interprofessionnel de croissance (Smic) au 1er décembre prochain. Cette revalorisation portera le montant net mensuel à environ 1 502 euros, soit un gain d'environ 24 euros par mois pour les salariés concernés, bien que les syndicats jugent cette mesure insuffisante.",
-     "en_clair": "Face à la grogne sociale, le gouvernement français a négocié avec les syndicats et annoncé une augmentation de 1,6 % du salaire minimum (Smic) à partir du 1er décembre. Il atteindra environ 1 502 euros net par mois, ce qui représente 24 euros de plus, même si les syndicats estiment que ce n'est pas assez.",
-     "urls": [
-      "https://www.france24.com/fr/vid%C3%A9o/20261109-france-hausse-de-1-6-du-smic-les-syndicats-ne-d%C3%A9sarment-pas",
-      "https://www.france24.com/fr/france/20261109-smic-port%C3%A9-%C3%A0-1-502-euros-net-d%C3%A9cembre-soit-24-euros-de-plus-par-mois"
-     ]
-    },
-    {
-     "titre": "Scandale d'espionnage chez Nvidia : Jensen Huang reconnaît une liaison",
+     "titre": "Soupçons d'espionnage technologique autour du patron de Nvidia",
      "theme": "Économie & Énergie",
      "zone": "États-Unis / Chine",
-     "formel": "Jensen Huang, le PDG de l'entreprise américaine Nvidia, poids lourd mondial des microprocesseurs indispensables à l'intelligence artificielle, fait l'objet d'une enquête interne après avoir reconnu une liaison extraconjugale avec une citoyenne chinoise soupçonnée d'être une espionne à la solde de Pékin. Alors que le New York Times a révélé cette relation étroite, la Chine a officiellement démenti toute tentative de piéger le dirigeant. Cette affaire éclabousse une entreprise valorisée à 4 500 milliards de dollars, en pleine rivalité technologique sino-américaine.",
-     "en_clair": "Le patron de Nvidia, le géant américain des puces électroniques pour l'intelligence artificielle, est au cœur d'une enquête après avoir avoué une relation avec une femme soupçonnée d'espionnage pour le compte de la Chine. Pékin nie toute manœuvre de piégeage, mais l'affaire fait grand bruit vu le poids économique et stratégique de l'entreprise.",
+     "formel": "Jensen Huang, le dirigeant du géant américain des semi-conducteurs Nvidia, fait l'objet d'un scandale après avoir reconnu une liaison avec une femme d'affaires soupçonnée par le contre-espionnage américain d'espionner pour le compte de Pékin. Cette affaire illustre les tensions croissantes de la « guerre froide technologique » entre les États-Unis et la Chine pour la domination des puces d'intelligence artificielle.",
+     "en_clair": "Le patron de Nvidia, une entreprise cruciale pour l'intelligence artificielle, est éclaboussé par une enquête pour espionnage au profit de la Chine. Ce scandale met en lumière la guerre invisible que se livrent Américains et Chinois pour monopoliser les technologies de pointe.",
      "urls": [
-      "https://www.lemonde.fr/international/article/2026/11/09/operation-d-espionnage-visant-le-patron-de-nvidia-la-chine-dement-toute-tentative-de-pieger-jensen-huang_6808638_3210.html",
-      "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html"
+      "https://www.france24.com/fr/vid%C3%A9o/20261110-affaire-huang-soup%C3%A7ons-d-espionnage-chez-nvidia-roi-des-puces-d-ia",
+      "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-china_6808810_3234.html"
      ]
     },
     {
-     "titre": "Fermeture définitive du journal russe Novaya Gazeta",
+     "titre": "Revalorisation du Smic en France et contestations sociales",
+     "theme": "Économie & Énergie",
+     "zone": "France",
+     "formel": "À l'issue d'une conférence sociale à Matignon le 9 novembre 2026, le Premier ministre Sébastien Lecornu a annoncé une revalorisation du Smic de 0,6 % (portant la hausse totale à 1,6 % au 1er décembre), fixant le salaire net à 1 502 €. Qualifiée de « deuxième hausse la plus importante en 20 ans » par l'exécutif, cette mesure a néanmoins été jugée insuffisante par les syndicats, notamment la CGT qui la qualifie de « miettes ».",
+     "en_clair": "Le gouvernement français a validé une augmentation de 1,6 % du Smic effective au 1er décembre, amenant le salaire net à 1 502 euros. Présentée par le Premier ministre comme un coup de pouce notable, elle est critiquée par les syndicats qui estiment l'effort insuffisant face à l'inflation.",
+     "urls": [
+      "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-une-revalorisation-qu-il-ne-faut-pas-m%C3%A9priser",
+      "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-le-smic-%C3%A0-1-502-%E2%82%AC-net-des-miettes-selon-la-cgt"
+     ]
+    },
+    {
+     "titre": "Candidature surprise de Teddy Riner à l'élection présidentielle de 2027",
      "theme": "Politique & Diplomatie",
-     "zone": "Russie",
-     "formel": "Le journal d'opposition russe Novaya Gazeta, fondé par le prix Nobel de la paix Dmitri Mouratov, a publié ce lundi 9 novembre son tout dernier numéro, actant sa fermeture définitive. Soumis à une pression constante et intenable de la part du Kremlin depuis de nombreuses années, le média indépendant représentait le dernier grand bastion de la liberté de la presse en Russie. Ses journalistes saluent la fin d'un repère historique pour l'opposition démocratique au régime de Vladimir Poutine.",
-     "en_clair": "Symbole de la résistance journalistique en Russie et fondé par le prix Nobel Dmitri Mouratov, le journal Novaya Gazeta a publié son ultime édition ce lundi. Étouffé par les pressions du pouvoir russe, le média indépendant met définitivement la clé sous la porte.",
+     "zone": "France",
+     "formel": "Le champion olympique de judo Teddy Riner a officialisé le 10 novembre 2026 sa candidature à l'élection présidentielle française de 2027 en se positionnant « ni de droite ni de gauche ». Cette annonce inattendue suscite de vives réactions politiques et médiatiques, interrogeant la place des personnalités issues de la société civile dans le paysage électoral français.",
+     "en_clair": "Le célèbre judoka Teddy Riner s'est lancé dans la course à l'élection présidentielle française de 2027, en se déclarant hors des partis traditionnels. Une annonce qui surprend les observateurs et bouscule le débat politique dominé jusque-là par les figures partisanes habituelles.",
      "urls": [
-      "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261109-fermeture-de-novaya-gazeta-nous-avons-%C3%A9t%C3%A9-tu%C3%A9s",
-      "https://www.lemonde.fr/idees/article/2026/11/09/la-fermeture-de-novaia-gazeta-la-fin-d-un-repere-pour-l-autre-russie_6808564_3232.html"
+      "https://www.france24.com/fr/%C3%A9missions/sports/20261110-judoka-teddy-riner-annonce-candidature-%C3%A9lections-pr%C3%A9sidentielles-de-2027",
+      "https://www.france24.com/fr/france/20261110-france-teddy-riner-champion-judo-candidat-election-presidentielle-2027-macroniste"
      ]
     },
     {
-     "titre": "Essais cliniques contre Ebola en République démocratique du Congo",
+     "titre": "La Moldavie s'affranchit du gaz et de l'électricité russes",
+     "theme": "Économie & Énergie",
+     "zone": "Moldavie / Roumanie / Russie",
+     "formel": "La Moldavie a inauguré le 8 novembre 2026 une nouvelle ligne haute tension la reliant directement à la Roumanie, lui permettant de contourner la région séparatiste prorusse de Transnistrie. Cette infrastructure critique permet au pays de couvrir désormais la moitié de sa demande en électricité, réduisant significativement sa dépendance historique à l'égard de Moscou.",
+     "en_clair": "La Moldavie a inauguré une ligne électrique reliant son réseau à la Roumanie, ce qui lui permet de s'approvisionner sans dépendre de la Russie ou de la zone séparatiste de Transnistrie. C'est une étape cruciale pour l'indépendance énergétique de ce pays d'Europe de l'Est.",
+     "urls": [
+      "https://www.lemonde.fr/international/article/2026/11/10/la-moldavie-reduit-sa-dependance-energetique-a-la-russie-grace-a-une-ligne-haute-tension_6808809_3210.html"
+     ]
+    },
+    {
+     "titre": "Le journalisme en temps de crise : les défis de la liberté de la presse",
      "theme": "Société",
-     "zone": "République démocratique du Congo",
-     "formel": "De nouveaux essais cliniques visant à tester l'efficacité de vaccins et de traitements inédits ont été lancés à Bunia, épicentre d'une épidémie d'Ebola qui frappe durement l'est de la République démocratique du Congo. Portés par des équipes médicales locales et internationales, ces protocoles font renaître l'espoir d'endiguer la propagation du virus dans une région déjà fragilisée par des crises sécuritaires récurrentes. Les autorités sanitaires espèrent ainsi valider des solutions thérapeutiques rapides pour protéger les populations vulnérables.",
-     "en_clair": "Dans l'est de la RDC, touché de plein fouet par une épidémie d'Ebola, des tests de nouveaux traitements et vaccins ont débuté à Bunia. Cette initiative médicale apporte une lueur d'espoir pour enrayer la maladie dans cette zone fragile.",
+     "zone": "Ukraine / Égypte",
+     "formel": "Alors que le média ukrainien indépendant 'The Kyiv Independent' fête ses cinq ans de survie grâce à des donateurs, la situation de la presse en Égypte reste critique avec la comparution programmée le 11 novembre de Lina Attalah, fondatrice de 'Mada Masr'. L'ONU a par ailleurs exhorté le Caire à cesser le harcèlement contre les journalistes, illustrant les périls persistants pour le journalisme d'investigation.",
+     "en_clair": "Tandis que les médias indépendants ukrainiens survivent tant bien que mal grâce au soutien des lecteurs, la situation empire pour les journalistes en Égypte, menacés par le pouvoir militaire. L'ONU a dû intervenir pour dénoncer ces pressions et défendre le droit à l'information.",
      "urls": [
-      "https://www.lemonde.fr/afrique/article/2026/11/09/ebola-en-rdc-dans-l-epicentre-de-l-epidemie-le-lancement-des-premiers-essais-de-traitements-fait-renaitre-l-espoir_6808646_3212.html"
+      "https://www.lemonde.fr/international/article/2026/11/10/en-ukraine-the-kyiv-independent-ou-le-journalisme-par-temps-de-guerre_6808834_3210.html",
+      "https://www.lemonde.fr/afrique/article/2026/11/10/l-onu-appelle-l-egypte-a-mettre-fin-au-harcelement-des-journalistes-et-medias-nationaux_6808827_3212.html"
      ]
     },
     {
-     "titre": "Teddy Riner annonce sa candidature à l'élection présidentielle française de 2027",
-     "theme": "Politique & Diplomatie",
-     "zone": "France",
-     "formel": "Le quintuple champion olympique et légende du judo français, Teddy Riner, a officialisé lundi sa candidature à l'élection présidentielle de 2027 via ses réseaux sociaux. À la surprise générale, l'athlète formule l'ambition de porter une voix politique se voulant indépendante des clivages partisans traditionnels (« ni de droite ni de gauche »). Cette incursion d'une grande figure sportive dans le débat national intervient à moins d'un an des échéances électorales majeures.",
-     "en_clair": "Le célèbre champion de judo Teddy Riner a surpris tout le monde en annonçant sur les réseaux sociaux sa candidature à l'élection présidentielle française de 2027. Il souhaite proposer une alternative politique en dehors des partis habituels.",
-     "urls": [
-      "https://www.france24.com/fr/vid%C3%A9o/20261109-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
-      "https://www.france24.com/fr/france/20261109-le-champion-olympique-de-judo-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle"
-     ]
-    },
-    {
-     "titre": "Le judoka Teddy Riner vise la présidentielle tandis que l'OM s'impose en Ligue 1",
-     "theme": "Sport",
-     "zone": "France",
-     "formel": "L'actualité sportive française du week-end est marquée par l'annonce fracassante du champion de judo Teddy Riner de briguer la présidence de la République en 2027. Sur les terrains de football, l'Olympique de Marseille a consolidé sa quatrième place en s'imposant face à Lens (2-1), signant ainsi sa cinquième victoire consécutive en championnat de Ligue 1. D'autres performances notables incluent la victoire de Tom Laperche sur la Route du Rhum et le sacre de Carlos Alcaraz au Masters 1000 de Paris.",
-     "en_clair": "En plus de la surprise politique de Teddy Riner qui veut devenir président, le week-end sportif a été marqué par la belle série de l'Olympique de Marseille, vainqueur de Lens en Ligue 1. On retiendra aussi les victoires du marin Tom Laperche et du tennisman Carlos Alcaraz.",
-     "urls": [
-      "https://www.france24.com/fr/%C3%A9missions/sports/20261109-om-bat-lens-pour-sa-cinqui%C3%A8me-victoire-cons%C3%A9cutive-en-ligue-1",
-      "https://www.france24.com/fr/sports/20261109-alcaraz-laperche-om-lens-infos-sport-week-end"
-     ]
-    },
-    {
-     "titre": "L'artisanat et la création à l'honneur lors de l'Essaouira Fashion Week",
-     "theme": "Presse · Cinéma · Mode",
-     "zone": "Maroc",
-     "formel": "La première édition de l'Essaouira Fashion Week a officiellement pris fin sur le site historique de la Skala, mettant en valeur le croisement entre la haute couture contemporaine et l'artisanat traditionnel marocain. Cet événement culturel d'envergure cherche à positionner la ville côtière comme un carrefour majeur pour la mode en Afrique du Nord. Les organisateurs ont salué l'implication des créateurs locaux et internationaux dans la promotion des savoir-faire ancestraux.",
-     "en_clair": "La première édition de la semaine de la mode d'Essaouira, au Maroc, s'est achevée à la Skala en célébrant le mariage entre la mode et l'artisanat local. Cet événement met en lumière les talents créatifs de la région sur la scène culturelle.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU1dIYWdGOEw2bGgwMEpYN1UwSkhQTGE4R1lPS0k3d1lJLXRCMlAzQW4tS1NfaHNnX1M2NEpsSEo2Y0RPOTBROTh3TVNkSVZpS0RRQXczQ2hxLWtrbGVrbWgxZk9KQWZZOHdnMVBrd1ktdVJ3dmF5S0JLX1NtNkw3S25SQUpOSUwwWGw3bW4zakRaekxiQTVHbXRYVTAzcC11MW1YLVdzQTIwdkZlcEl6ZlpfTXU2UzF0aE8zVXBtMUNVQVJ2RlU3U0JRZmVKVlR2eTgtRi1tNGVXd3VhakZxRzQtQnVDY19Wc21uZnEzazZUckhkdUhTRkNFS3N5Q00?oc=5"
-     ]
-    },
-    {
-     "titre": "Défis de rétrocompatibilité et choix technologiques pour la Nintendo Switch 2",
+     "titre": "La course record de la Nintendo Switch 2 et du marché du jeu vidéo",
      "theme": "Streamers & Gaming",
-     "zone": "Japon",
-     "formel": "Le lancement imminent de titres majeurs et de remakes sur la nouvelle console Nintendo Switch 2 relance le débat sur l'ergonomie des jeux classiques, à l'instar des adaptations de la franchise Zelda. Parallèlement, l'industrie vidéoludique fait face à des problématiques persistantes liées aux formats physiques et à l'obsolescence des licences musicales intégrées dans les productions passées, comme le démontrent les difficultés rencontrées par des éditeurs majeurs. Ces enjeux techniques traduisent la complexité d'adapter le patrimoine vidéoludique aux exigences des joueurs modernes.",
-     "en_clair": "L'arrivée de jeux rétro et de remakes sur la nouvelle Nintendo Switch 2 pousse les joueurs et les développeurs à se pencher sur l'adaptation des classiques d'antan. Entre les soucis de formats physiques et de licences musicales expirées, l'industrie du jeu vidéo cherche constamment à concilier nostalgie et modernité.",
+     "zone": "Monde",
+     "formel": "Au 30 septembre 2026, la console Nintendo Switch 2 a officiellement franchi le cap des 26 millions d'exemplaires vendus à travers le monde, confirmant son hégémonie commerciale. Parallèlement, l'industrie du jeu vidéo s'interroge sur l'intégration de l'intelligence artificielle, l'éditeur Take-Two qualifiant par exemple la production de 'GTA 6' de démarche artisanale incompatible avec le remplacement des créatifs par l'IA.",
+     "en_clair": "La nouvelle console de Nintendo, la Switch 2, cartonne avec déjà plus de 26 millions de ventes mondiales fin septembre 2026. Dans le même temps, les studios de jeux vidéo discutent de la place de l'intelligence artificielle, estimant pour certains grands jeux comme GTA 6 que seule une fabrication humaine et artisanale garantit la qualité.",
      "urls": [
-      "https://www.jeuxvideo.com/news/2112892/coup-dur-pour-le-jeu-video-en-physique-sur-switch-2-nintendo-a-un-probleme.htm",
-      "https://www.jeuxvideo.com/news/2112569/musiques-retirees-de-gta-quand-rockstar-est-confronte-a-un-enorme-probleme.htm"
+      "https://www.jeuxvideo.com/news/2113467/quels-sont-les-jeux-nintendo-switch-2-qui-se-vendent-le-mieux-le-classement-mondial-est-sorti.htm",
+      "https://www.jeuxvideo.com/news/2113360/pour-gta-6-cela-n-avait-aucun-sens-de-remplacer-les-creatifs-par-de-l-ia-le-jeu-est-une-production-artisanale-pour-le-patron-de-take-two.htm"
      ]
     },
     {
-     "titre": "Débats sur la reconstruction du « Nid d'aigle » d'Adolf Hitler en Bavière",
+     "titre": "Action judiciaire du couple Macron contre des infox transphobes",
+     "theme": "Société",
+     "zone": "France / États-Unis",
+     "formel": "Le couple présidentiel français a relancé des poursuites judiciaires aux États-Unis, déposant cette fois une plainte dans le Tennessee contre l'influenceuse américaine Candace Owens. Cette procédure fait suite à un premier rejet pour prescription dans le Delaware, et vise à sanctionner la diffusion de fausses informations transphobes ciblant la première dame Brigitte Macron.",
+     "en_clair": "Emmanuel et Brigitte Macron poursuivent en justice aux États-Unis la commentatrice américaine Candace Owens pour avoir relayé de fausses informations transphobes à l'encontre de la première dame française. Après un échec technique dans un premier État américain, le couple retente sa chance devant un autre tribunal.",
+     "urls": [
+      "https://www.france24.com/fr/france/20261110-france-brigitte-macron-nouvelle-man%C5%93uvre-judiciaire-couple-pr%C3%A9sidentiel-contre-candace-owens-influenceuse-transgenre",
+      "https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html"
+     ]
+    },
+    {
+     "titre": "La Fashion Week de Tel-Aviv et la mise en avant de la mode israélienne",
+     "theme": "Presse · Cinéma · Mode",
+     "zone": "Israël",
+     "formel": "La Fashion Week de Tel-Aviv s'est ouverte en plaçant l'édition sous le signe de la solidarité et de la mise en valeur des femmes et de la créativité locale. Cet événement culturel majeur offre une tribune aux stylistes israéliens pour exprimer la résilience de leur secteur artistique en période de tensions géopolitiques.",
+     "en_clair": "La semaine de la mode à Tel-Aviv met cette année l'accent sur la solidarité et la place des femmes à travers les créations de stylistes locaux. C'est un rendez-vous culturel important qui montre le dynamisme de la scène artistique israélienne malgré un contexte national difficile.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWpMYU5vblR6d3NsVTgwajZkU2VmT01BVXdoWjBkN1FSUENPYTZMcDVuMFlVRTF6Umk2RWw5b0J6UzdMU2VTRE9KMm1BTVFMMXJ0eDNqUzlzNGo1c1drcmhmNy1HYjNvYmhvdnNRR2lyVVNkTGtyYkl0VFNWQlZLWGx5QUtteW1faF9aem1kX2d4RE9KSjRfVDJtTFNrTjFyWTlzTlc5MUxXS0VyZV9Xb1VlTjdsNVhVYk5rRG02TTRNdC1uTDJFOXVBc21lbDQ?oc=5"
+     ]
+    },
+    {
+     "titre": "Défilé de mode automnal pour l'équipe de France de football",
+     "theme": "Presse · Cinéma · Mode",
+     "zone": "France",
+     "formel": "Des joueurs phares de l'équipe de France de football, tels que Kylian Mbappé, Bradley Barcola ou Désiré Doué, ont participé à un défilé de mode automnal très médiatisé. Cet événement illustre l'interconnexion croissante entre le sport de haut niveau, la culture populaire et l'industrie internationale du vêtement de luxe.",
+     "en_clair": "Plusieurs stars de l'équipe de France de football se sont prêtées au jeu d'un défilé de mode automnal. Une apparition remarquée qui confirme les liens étroits entre les sportifs célèbres et les grandes marques de l'univers de la mode.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnZBT3dlT0xyZ3lseEZLR21WR0szd1NEXzFQT0FzQVg0Wlh4UUk1YXJvOXNFYW5reDNEcGhNZ1ZvM01LMXRzQUJ5dFBhUkVUeTdZeFlVRW03WHpVUWhBdjZuSzlBNUl1dFZmOFlBb09OaU8xRUhNUTVrVi0yWlVXdmZmR3ZXNVF3RFpRY0x3OWVUMHBNR293T2xaTUxYbjVoTm5FR1lXRmF2NXctRVhaSE5IZ0tJWnZRdzR4MDNlSDJvUGZTeWhjR0R0YWM?oc=5"
+     ]
+    },
+    {
+     "titre": "Enjeux climatiques de la COP31 et transition énergétique en Éthiopie",
+     "theme": "Économie & Énergie",
+     "zone": "Turquie / Éthiopie / Pacifique",
+     "formel": "Alors que la COP31 s'est ouverte en Turquie le 9 novembre 2026, les petits États insulaires du Pacifique et des pays en développement comme l'Éthiopie – qui investit massivement dans de nouveaux barrages hydroélectriques – tentent de porter leurs exigences d'indépendance énergétique et de justice climatique. Malgré une légère baisse mondiale anticipée des émissions de CO2, les pressions géopolitiques et climatiques restent intenses.",
+     "en_clair": "La conférence mondiale sur le climat (la COP31) a débuté en Turquie avec une forte mobilisation des îles du Pacifique menacées par la montée des eaux. Au même moment, des pays comme l'Éthiopie développent leurs propres infrastructures énergétiques, comme des barrages, pour s'affranchir des énergies fossiles malgré des contextes économiques délicats.",
+     "urls": [
+      "https://www.france24.com/fr/vid%C3%A9o/20261110-%C3%A9thiopie-construction-d-un-nouveau-barrage-pour-renforcer-son-ind%C3%A9pendance-%C3%A9nerg%C3%A9tique",
+      "https://www.lemonde.fr/planete/article/2026/11/10/cop31-sur-la-ligne-de-front-du-rechauffement-climatique-les-etats-insulaires-du-pacifique-veulent-se-faire-entendre_6808818_3244.html"
+     ]
+    },
+    {
+     "titre": "Crise politique et sociale en Afrique du Sud après le recul historique de l'ANC",
      "theme": "Politique & Diplomatie",
-     "zone": "Allemagne",
-     "formel": "Un incendie d'origine criminelle survenu en octobre dernier a endommagé le « Nid d'aigle », chalet haut placé construit pour Adolf Hitler dans les années 1930 dans les Alpes de Berchtesgaden. Cet événement déclenche un vif débat en Allemagne sur l'opportunité de reconstruire ce site historique ou de le laisser en l'état. Les historiens et les autorités locales s'interrogent sur le traitement mémoriel adéquat à réserver à ces vestiges du national-socialisme pour éviter qu'ils ne devancent des lieux de pèlerinage extrémiste.",
-     "en_clair": "L'incendie criminel du célèbre refuge d'Adolf Hitler dans les montagnes bavaroises relance le débat en Allemagne. Faut-il reconstruire ce bâtiment lié au nazisme ou le laisser détruit ? C'est une question délicate sur la gestion de la mémoire historique.",
+     "zone": "Afrique du Sud",
+     "formel": "Le Congrès national africain (ANC), parti dominant en Afrique du Sud depuis la fin de l'apartheid, a essuyé un revers électoral historique lors des municipales du 8 novembre 2026 en obtenant seulement 30,76 % des voix. Ce score marque le plus bas niveau du parti en plus de trente ans, révélant la profonde défiance des électeurs face aux difficultés socio-économiques du pays.",
+     "en_clair": "L'ANC, le parti qui dirige l'Afrique du Sud depuis la chute de l'apartheid, a réalisé le pire score de son histoire lors des élections municipales début novembre. Un signal fort envoyé par la population qui sanctionne les difficultés économiques persistantes du pays.",
      "urls": [
-      "https://www.lemonde.fr/international/article/2026/11/09/apres-l-incendie-du-nid-d-aigle-d-hitler-un-debat-s-ouvre-sur-sa-reconstruction_6808597_3210.html"
-     ]
-    },
-    {
-     "titre": "Cyberattaque contre le chef de la diplomatie italienne : Rome accuse des hackers prorusses",
-     "theme": "Conflits & Sécurité",
-     "zone": "Italie / Russie",
-     "formel": "Le ministre italien des Affaires étrangères, Antonio Tajani, a révélé que des données personnelles le concernant avaient été dérobées et diffusées sur le dark Web. La cheffe du gouvernement, Giorgia Meloni, a immédiatement dénoncé une action imputée à des « hackeurs prorusses ». Les autorités italiennes redoutent que cette fuite de données ne serve de levier pour de futures opérations de déstabilisation politique destinées à influencer l'opinion publique transalpine.",
-     "en_clair": "Le ministre des Affaires étrangères italien a été victime d'un piratage informatique ayant exposé ses données personnelles en ligne. Le gouvernement de Giorgia Meloni accuse des pirates informatiques russes et craint de futures tentatives de déstabilisation politique.",
-     "urls": [
-      "https://www.lemonde.fr/international/article/2026/11/08/italie-le-ministre-des-affaires-etrangeres-vise-par-une-cyberattaque-giorgia-meloni-denonce-des-hackers-prorusses_6808467_3210.html"
+      "https://www.france24.com/fr/vid%C3%A9o/20261110-afrique-du-sud-l-anc-subit-le-pire-score-de-son-histoire-%C3%A9lectoral-depuis-plus-de-30-ans"
      ]
     }
    ],
    "articles": [
     {
-     "titre": "France : hausse de 1,6% du smic, les syndicats ne désarment pas",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-hausse-de-1-6-du-smic-les-syndicats-ne-d%C3%A9sarment-pas",
-     "resume": "Le gouvernement français a annoncé lundi ⁠une hausse de ​1,6% du salaire minimum au 1er décembre prochain, ainsi porté à 1.502 euros mensuels net, première d'une série de mesures censées répondre aux revendications sociales qui s'expriment dans la rue ​depuis la mi-septembre.",
-     "date": "2026-11-09T13:16:44+00:00",
-     "image": "https://s.france24.com/media/display/9acda03e-dc3e-11f1-bd9c-d18c5759e759/w:1024/p:16x9/FR-20261109-133112-133652-CS.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "France : que retenir de la conférence sociale tenue par Sébastien Lecornu ?",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-que-retenir-de-la-conf%C3%A9rence-sociale-tenue-par-s%C3%A9bastien-lecornu",
-     "resume": "Le ministre du Travail Jean-Pierre Farandou a annoncé lundi que le Smic allait être augmenté de 1,6 % dès le 1er décembre pour être porté à 1.502 euros net environ, soit une augmentation mensuelle d'environ 24 euros.",
-     "date": "2026-11-09T13:00:34+00:00",
-     "image": "https://s.france24.com/media/display/27514ad0-dc3d-11f1-81f3-d18c5759e759/w:1024/p:16x9/FR-20261109-130132-132514-CS.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Midterms 2026 : « Le réalignement des Hispaniques sur le Parti démocrate n’est pas acquis pour la présidentielle de 2028 »",
-     "url": "https://www.lemonde.fr/idees/article/2026/11/09/midterms-2026-le-realignement-des-hispaniques-sur-le-parti-democrate-n-est-pas-acquis-pour-la-presidentielle-de-2028_6808652_3232.html",
-     "resume": "Après les jeunes, les Hispaniques constituent le second segment de population qui a le plus basculé en faveur des démocrates lors des élections de mi-mandat aux Etats-Unis, explique, dans une tribune au « Monde », Jonathan Leblanc, spécialiste de la civilisation américaine.",
-     "date": "2026-11-09T14:00:08+01:00",
-     "image": "https://img.lemde.fr/2026/03/05/125/0/1500/750/644/322/60/0/d09a6fb_upload-1-ufawt3i05por-frame-1461.jpg",
+     "titre": "En Ukraine, « The Kyiv Independent », ou le journalisme par temps de guerre",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/en-ukraine-the-kyiv-independent-ou-le-journalisme-par-temps-de-guerre_6808834_3210.html",
+     "resume": "En activité depuis cinq ans, « The Kyiv Independent », fort d’une centaine d’employés, subsiste seulement grâce à une communauté de 35 000 membres donateurs. Comme les quelques autres rédactions indépendantes du pays, le média en ligne est confronté aux menaces russes, mais aussi aux intérêts d’Etat et aux tensions internes de l’Ukraine.",
+     "date": "2026-11-10T14:00:05+01:00",
+     "image": "https://img.lemde.fr/2026/11/07/670/0/4000/2000/644/322/60/0/0f52ff0_upload-1-qijee7nvunlz-reportage-kyiv-independant-4.jpg",
      "source": "Le Monde — International"
     },
     {
-     "titre": "REPLAY - Lecornu annonce une hausse du salaire minimum de 1,6 %",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-replay-lecornu-annonce-une-hausse-du-salaire-minimum-de-1-6",
-     "resume": "Sous pression des manifestants, le Premier ministre Sébastien Lecornu a reçu lundi matin à Matignon les représentants du patronat et des syndicats du secteur privé afin d'apporter des \"réponses concrètes\" aux revendications sociales. Il a annoncé au terme de la rencontre une hausse du salaire minimum de 1,6 % à compter du 1ᵉʳ décembre.",
-     "date": "2026-11-09T12:59:59+00:00",
-     "image": "https://s.france24.com/media/display/3aafb544-dc3d-11f1-95b9-695cb59fade5/w:1024/p:16x9/FR-20261109-122320-130129-CS.jpg",
+     "titre": "Mobilisations en France : une revalorisation qu'il \"ne faut pas mépriser\"",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-une-revalorisation-qu-il-ne-faut-pas-m%C3%A9priser",
+     "resume": "À l'issue d'une conférence sociale à Matignon lundi 9 novembre qui a réuni syndicats et patronat, le Premier ministre a annoncé un coup de pouce de 0,6 % au Smic dès le 1er décembre, représentant une augmentation d'environ 24 euros, loin des demandes des syndicats qui réclamaient une hausse entre 100 et 150 euros. Le Premier ministre a annoncé en conférence de presse qu'il était important \"de ne p",
+     "date": "2026-11-10T12:37:00+00:00",
+     "image": "https://s.france24.com/media/display/689ef3ee-dcff-11f1-9759-695cb59fade5/w:1024/p:16x9/FR-20261110-121409-121520-CS.jpg",
      "source": "France 24 — Monde"
     },
     {
-     "titre": "France : réunion à Paris des ministres du G7",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-r%C3%A9union-%C3%A0-paris-des-ministres-du-g7",
-     "resume": "Une réunion des ministres des ⁠Affaires étrangères des ​pays du G7 prévue ce lundi à Paris va permettre aux alliés de Washington d'évaluer si le revers subi par Donald Trump ​lors des élections de mi-mandat aux Etats-Unis va modifier l'approche du président américain à l'égard de l'Ukraine, du Moyen-Orient et des partenaires traditionnels, ont dit quatre diplomates du G7.",
-     "date": "2026-11-09T12:57:56+00:00",
-     "image": "https://s.france24.com/media/display/31bae32e-dc28-11f1-a47e-bf1914cabd52/w:1024/p:16x9/FR-20261109-090608-091108-CS.jpg",
+     "titre": "Guerre en Ukraine : 400 000 morts russes ?",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-ukraine-400-000-morts-russes",
+     "resume": "400 000. C'est le nombre de soldats russes qui auraient été tués depuis le début de la guerre en Ukraine. Après plus de quatre ans de guerre en Ukraine, le bilan reste difficile à établir. Moscou et Kiev communiquent très peu sur leurs pertes militaires.Mais de nouvelles données pourraient permettre d'y voir plus clair. Des hackers ont réussi à infiltrer les systèmes de Rosstat, l'agence russe des",
+     "date": "2026-11-10T12:27:21+00:00",
+     "image": "https://s.france24.com/media/display/087102f8-dd01-11f1-9e1f-695cb59fade5/w:1024/p:16x9/ukraine-morts-russie.jpg",
      "source": "France 24 — Monde"
     },
     {
-     "titre": "Essaouira Fashion Week : La première édition s'achève à la Skala sur la mode et l'artisanat - lopinion.ma",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU1dIYWdGOEw2bGgwMEpYN1UwSkhQTGE4R1lPS0k3d1lJLXRCMlAzQW4tS1NfaHNnX1M2NEpsSEo2Y0RPOTBROTh3TVNkSVZpS0RRQXczQ2hxLWtrbGVrbWgxZk9KQWZZOHdnMVBrd1ktdVJ3dmF5S0JLX1NtNkw3S25SQUpOSUwwWGw3bW4zakRaekxiQTVHbXRYVTAzcC11MW1YLVdzQTIwdkZlcEl6ZlpfTXU2UzF0aE8zVXBtMUNVQVJ2RlU3U0JRZmVKVlR2eTgtRi1tNGVXd3VhakZxRzQtQnVDY19Wc21uZnEzazZUckhkdUhTRkNFS3N5Q00?oc=5",
-     "resume": "Essaouira Fashion Week : La première édition s'achève à la Skala sur la mode et l'artisanat lopinion.ma",
-     "date": "2026-11-09T12:51:18+00:00",
-     "image": null,
-     "source": "lopinion.ma"
-    },
-    {
-     "titre": "Exercices militaires, message politique ?",
-     "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261109-exercices-militaires-message-politique",
-     "resume": "La Pologne accueille jusqu'au 22 novembre un exercice grandeur nature de la Force internationale de la coalition des volontaires, alliée de l'Ukraine. Durant deux semaines, les amis de Kiev pilotés par la France et le Royaume-Uni vont mener et répéter des manœuvres destinées à une Ukraine où les hostilités auront cessé, afin de dissuader toute nouvelle agression russe. Exercices militaires, messag",
-     "date": "2026-11-09T12:48:00+00:00",
-     "image": "https://s.france24.com/media/display/ecff404c-dc25-11f1-a526-a575454bc579/w:1024/p:16x9/FRAN261109-1000-Live-CS1000.jpg",
+     "titre": "Les entreprises chinoises à la conquête de l'Europe : menace ou moteur ?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261110-les-entreprises-chinoises-%C3%A0-la-conqu%C3%AAte-de-l-europe-menace-ou-moteur",
+     "resume": "Shein, BYD, TikTok, CATL, Xiaomi… Les multinationales chinoises font partie de notre quotidien et grignotent des parts de marché partout dans le monde. Faut-il bloquer leur expansion ou travailler avec elles ?",
+     "date": "2026-11-10T12:21:26+00:00",
+     "image": "https://s.france24.com/media/display/11bc4f5a-dcea-11f1-a3a4-5f54d898a954/w:1024/p:16x9/FR-NW-HAB-OUVERTURE-SHEIN-AU-BHV-PARIS-AUBIN-Sophian-transfer.jpg",
      "source": "France 24 — Monde"
     },
     {
-     "titre": "Le Smic porté à 1 502 euros net au 1ᵉʳ décembre, soit 24 euros de plus par mois",
-     "url": "https://www.france24.com/fr/france/20261109-smic-port%C3%A9-%C3%A0-1-502-euros-net-d%C3%A9cembre-soit-24-euros-de-plus-par-mois",
-     "resume": "Le Smic augmente de 24 euros par mois à partir du 1ᵉʳ décembre, soit une augmentation de 1,6 % qui porte le salaire minimum à 1 502 euros net mensuel, a annoncé le ministre français du Travail. La CFDT regrette une mesure \"insuffisante\", tandis que la CGT dénonce \"des miettes\".",
-     "date": "2026-11-09T12:42:04+00:00",
-     "image": "https://s.france24.com/media/display/6eb82596-dc39-11f1-a07d-1beafce15fea/w:1024/p:16x9/000-33DR6PF.jpg",
-     "source": "© AFP, Denis Charlet"
-    },
-    {
-     "titre": "France : Teddy Riner annonce sa candidature à l'élection présidentielle",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
-     "resume": "Teddy Riner, légende du judo français et quintuple médaillé d'or aux Jeux olympiques, a fait savoir ce lundi 9 novembre via ses réseaux sociaux, qu'il est candidat à la présidence de la République en 2027.",
-     "date": "2026-11-09T12:04:11+00:00",
-     "image": "https://s.france24.com/media/display/d58c270e-dc34-11f1-8fca-bf1914cabd52/w:1024/p:16x9/miniateddyriner.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Épée Biggoron Zelda Ocarina of Time : Comment obtenir la meilleure arme du jeu",
-     "url": "https://www.jeuxvideo.com/news/2113406/epee-biggoron-zelda-ocarina-of-time-comment-obtenir-la-meilleure-arme-du-jeu.htm",
-     "resume": "Découvrez comment obtenir la célèbre épée Biggoron la meilleure arme du remake Switch 2 de Zelda OOT. Préparez-vous à courir, parce qu'on est sur la plus longue quête FEDEX du jeu, avec de nombreux trocs à valider dans toutes les régions d'Hyrule.",
-     "date": "2026-11-09T12:55:09+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179422/1794224614-3089-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Coup dur pour le jeu vidéo en physique sur Switch 2 : Nintendo a un problème...",
-     "url": "https://www.jeuxvideo.com/news/2112892/coup-dur-pour-le-jeu-video-en-physique-sur-switch-2-nintendo-a-un-probleme.htm",
-     "resume": "Dans les allées des magasins comme sur les étagères des collectionneurs, les boîtes de jeux Nintendo occupent une place à part. Alors que la concurrence mise presque tout sur le dématérialisé, la firme japonaise a toujours cultivé un attachement viscéral au support cartouche. Sauf que Nintendo ne décide...",
-     "date": "2026-11-09T12:50:08+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179390/1793898516-6709-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "🔴 Conférence sociale en direct : le gouvernement annonce une hausse du salaire minimum de 1,6 %",
-     "url": "https://www.france24.com/fr/france/20261109-en-direct-lecornu-re%C3%A7oit-syndicats-et-patronat-pour-tenter-de-r%C3%A9pondre-aux-revendications-sociales",
-     "resume": "",
-     "date": "2026-11-09T11:47:51+00:00",
-     "image": null,
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Ebola : en RDC, dans l’épicentre de l’épidémie, le lancement des premiers essais de traitements fait renaître l’espoir",
-     "url": "https://www.lemonde.fr/afrique/article/2026/11/09/ebola-en-rdc-dans-l-epicentre-de-l-epidemie-le-lancement-des-premiers-essais-de-traitements-fait-renaitre-l-espoir_6808646_3212.html",
-     "resume": "A Bunia, dans l’est de la République démocratique du Congo, où l’épidémie frappe durement, des essais cliniques testant l’efficacité de plusieurs vaccins et médicaments sont actuellement menés. Leur but est de protéger les populations de la contamination et d’augmenter les chances de survie des malades.",
-     "date": "2026-11-09T12:30:07+01:00",
-     "image": "https://img.lemde.fr/2026/11/05/551/0/6612/3306/644/322/60/0/85b4831_upload-1-d3j2ys9y3awy-07-pb-lemonde-ebola-ituri-essais-cliniques-bunia.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "A Gaza, la détresse des habitants après les pluies diluviennes qui ont submergé des dizaines de milliers d’abris de fortune",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/a-gaza-la-detresse-des-habitants-apres-les-pluies-diluviennes-qui-ont-submerge-des-dizaines-de-milliers-d-abris-de-fortune_6808645_3210.html",
-     "resume": "Les inondations qui frappent la bande de Gaza révèlent l’ampleur des destructions causées par la guerre menée par Israël depuis le 7 octobre 2023, alors que l’Etat hébreu continue de restreindre l’acheminement de l’aide nécessaire à la reconstruction. Dimanche, cinq personnes, dont trois enfants, ont perdu la vie.",
-     "date": "2026-11-09T12:30:01+01:00",
-     "image": "https://img.lemde.fr/2026/11/07/138/0/5045/2522/644/322/60/0/31d2ac1_ftp-1-ayqzp62qfprv-afp-d6qn3cu.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Buros : Lookafrochic organise un défilé de mode solidaire chez Défoul Zone - La République des Pyrénées",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT21SZHQwT3dLUjVRbHdubV9rTFlmeVF6Y0xoRFYyRG81eXF3OF8wWFhXUUNkQWFrbnh4M1lpcy1xTVlDc3FXeEh1VmVsbDI3emNLYnlLVTFOVWd4RmJwaF9mN3lKTUdMdXRzcV8wZ1R0MHNWa0s4bWJYU0RKS1ZTTGU1TnNnZHZ4eFpXSldyYWVJWmRhTk1aeDhTY1pPeTcwbXZMVldveGZtNi1NUTM4NnV2VjY3dEl0bzY0Rmg4eTFPN2NseFNlNmtJYk9RRkYtM0ZyaHJyazVaWV9acFlFY0pqNUsxUQ?oc=5",
-     "resume": "Buros : Lookafrochic organise un défilé de mode solidaire chez Défoul Zone La République des Pyrénées",
-     "date": "2026-11-09T10:57:31+00:00",
-     "image": null,
-     "source": "La République des Pyrénées"
-    },
-    {
-     "titre": "🔴 Présidentielle 2027 : la star française du judo Teddy Riner annonce sa candidature",
-     "url": "https://www.france24.com/fr/france/20261109-le-champion-olympique-de-judo-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
-     "resume": "",
-     "date": "2026-11-09T10:52:24+00:00",
-     "image": null,
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Le champion olympique de judo Teddy Riner annonce sa candidature à la présidentielle de 2027",
-     "url": "https://www.france24.com/fr/france/20261109-le-champion-olympique-de-judo-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
-     "resume": "Le champion olympique Teddy Riner se lance dans la course à la présidentielle de 2027. Le judoka français a annoncé, lundi, sa candidature sur X, à la surprise générale. Il veut porter une voix \"ni de droite, ni de gauche\" qui \"refuse le chaos\".",
-     "date": "2026-11-09T10:49:31+00:00",
-     "image": "https://s.france24.com/media/display/bc602c8a-dc2a-11f1-8d90-a575454bc579/w:1024/p:16x9/000-74DB964.jpg",
-     "source": "© Richard A. Brooks, AFP"
-    },
-    {
-     "titre": "Climat, déforestation, orpaillage... l'Amazonie lutte pour sa survie",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-climat-d%C3%A9forestation-orpaillage-l-amazonie-lutte-pour-sa-survie",
-     "resume": "Climat, déforestation, orpaillage illégal… L’Amazonie, poumon vert de la planète, est aujourd’hui menacée de toutes parts. Quels sont les périls qui pèsent sur cet écosystème essentiel et quelles sont les conséquences pour les populations qui y vivent ? Pour décrypter les enjeux de cette lutte pour la survie de l’Amazonie, nous accueillons sur notre plateau Bruno Meyerfeld, journaliste au Monde et",
-     "date": "2026-11-09T10:42:56+00:00",
-     "image": "https://s.france24.com/media/display/d15420fc-dc29-11f1-9e0b-d18c5759e759/w:1024/p:16x9/FR-20261109-093259-094053-CS.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Nvidia : la Chine dément toute tentative de piéger Jensen Huang, le PDG qui a reconnu une liaison avec une femme accusée d’être une espionne chinoise",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/operation-d-espionnage-visant-le-patron-de-nvidia-la-chine-dement-toute-tentative-de-pieger-jensen-huang_6808638_3210.html",
-     "resume": "La Chine avait précédemment démenti l’article du « New York Times » selon lequel il avait développé une relation étroite avec une citoyenne chinoise espionne à la solde de Pékin.",
-     "date": "2026-11-09T11:36:38+01:00",
-     "image": "https://img.lemde.fr/2026/11/09/455/0/7488/3744/644/322/60/0/9dd2310_upload-1-i1cxjledmgiz-000-d36r6zh.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Israël : Gadi Eisenkot face au défi de former une large coalition",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-isra%C3%ABl-gadi-eisenkot-face-au-d%C3%A9fi-de-former-une-large-coalition",
-     "resume": "Gadi Eisenkot, principal adversaire du Premier ministre israélien ⁠Benjamin Netanyahu, a déclaré ​dimanche vouloir former un large gouvernement de coalition le plus rapidement possible après des élections législatives sans vainqueur clair qui n'ont dégagé aucune majorité.",
-     "date": "2026-11-09T10:33:05+00:00",
-     "image": "https://s.france24.com/media/display/69f70736-dc28-11f1-991d-1beafce15fea/w:1024/p:16x9/FR-20261109-091140-091621-CS.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Deux opposants à la dictature au Nicaragua demandent une pression internationale contre le régime d’Ortega-Murillo",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/deux-opposants-a-la-dictature-au-nicaragua-demandent-une-pression-internationale-contre-le-regime-d-ortega-murillo_6808635_3210.html",
-     "resume": "Dans un entretien au « Monde », Dora Maria Tellez, ancienne guérillera sandiniste et historienne, emprisonnée vingt mois, puis libérée en 2023, réclame une plus grande implication de l’UE contre Managua. Le journaliste Carlos Fernando Chamorro, qui a fui le Nicaragua en 2021, dénonce un Etat policier liberticide.",
-     "date": "2026-11-09T11:30:07+01:00",
-     "image": "https://img.lemde.fr/2026/11/08/1074/0/2136/1068/644/322/60/0/f4111b6_upload-1-afwo1wspggik-000-mvd671825.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "La COP31 s'ouvre avec un appel à se montrer à la hauteur face à l'urgence climatique",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-la-cop31-s-ouvre-avec-un-appel-%C3%A0-se-montrer-%C3%A0-la-hauteur-face-%C3%A0-l-urgence-climatique",
-     "resume": "La conférence annuelle sur le climat des Nations unies a débuté lundi avec de premiers contentieux sur l'argent à débourser face au changement climatique, le chef de l'ONU appelant les Etats à se montrer à la hauteur face à l'urgence du réchauffement.",
-     "date": "2026-11-09T10:29:18+00:00",
-     "image": "https://s.france24.com/media/display/51cb3fc0-dc27-11f1-aace-d18c5759e759/w:1024/p:16x9/FR-20261109-110839-110957-CS.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Nvidia : Jensen Huang, patron vedette de l'IA rattrapé par une liaison dangereuse",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-nvidia-jensen-huang-patron-vedette-de-l-ia-rattrap%C3%A9-par-une-liaison-dangereuse",
-     "resume": "Plongé par une liaison extra-conjugale dans un scandale d'espionnage chinois présumé, Jensen Huang est devenu avec l'explosion de l'intelligence artificielle (IA) l'un des patrons les plus puissants et visibles au monde.",
-     "date": "2026-11-09T10:28:40+00:00",
-     "image": "https://s.france24.com/media/display/9024ec3a-dc27-11f1-aede-695cb59fade5/w:1024/p:16x9/FR-20261109-111032-111252-CS.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "France : une conférence à Matignon pour tenter de répondre aux revendications sociales",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-une-conf%C3%A9rence-%C3%A0-matignon-pour-tenter-de-r%C3%A9pondre-aux-revendications-sociales",
-     "resume": "Le Premier ministre, Sébastien Lecornu, reçoit ⁠ce lundi matin ​les représentants du patronat et des syndicats du secteur privé afin d'apporter des \"réponses concrètes\" aux revendications sociales qui ​s'expriment dans la rue depuis la mi-septembre, notamment sur la question du salaire minimum (smic).",
-     "date": "2026-11-09T10:28:24+00:00",
-     "image": "https://s.france24.com/media/display/8b054254-dc27-11f1-9769-695cb59fade5/w:1024/p:16x9/FR-20261109-110110-110802-CS.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "«L'ONU est plus nécessaire que jamais», pour la diplomate Maria Fernanda Espinosa",
-     "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261109-l-onu-est-plus-n%C3%A9cessaire-que-jamais-pour-la-diplomate-maria-fernanda-espinosa",
-     "resume": "Maria Fernanda Espinosa, diplomate équatorienne, ex-ministre des Affaires étrangères, ex-ministre de la Défense, candidate au poste de secrétaire générale de l'ONU, est l'invitée de RFI ce 9 novembre 2026. Elle estime que le monde a toujours besoin de l'ONU mais que la machine doit être réformée.",
-     "date": "2026-11-09T10:21:58+00:00",
-     "image": "https://s.rfi.fr/media/display/f4d16a16-dc1b-11f1-b5a1-bf1914cabd52/w:1024/p:16x9/Studio-31-2026-11-09T06-19-59-468Z.jpg",
-     "source": "RFI — Monde"
-    },
-    {
-     "titre": "Dahuang Phantom Blade Zero : Où trouver le chien perdu ?",
-     "url": "https://www.jeuxvideo.com/news/2112464/dahuang-phantom-blade-zero-ou-trouver-le-chien-perdu.htm",
-     "resume": "Trouver chaque secret dissimulé dans le monde sombre de Phantom Blade Zero demande d'explorer minutieusement chaque zone. Suivez notre guide pas à pas pour localiser le chien fugueur Dahuang.",
-     "date": "2026-11-09T11:20:10+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179387/1793872457-4509-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "En Pologne, les tensions politiques exacerbées après l'attaque de Cracovie",
-     "url": "https://www.france24.com/fr/europe/20261109-pologne-tensions-politiques-exacerb%C3%A9es-apr%C3%A8s-attaque-cracovie-extreme-droite-tusk",
-     "resume": "Alors que l'auteur de l'attaque de Cracovie est mort de ses blessures lundi à l'hôpital, les enquêteurs poursuivent leurs investigations pour déterminer les motivations de l'assaillant, soupçonné d'avoir été fasciné par les idéologies d'extrême droite. La fusillade, qui a fait au moins six victimes, ravive les tensions politiques en Pologne.",
-     "date": "2026-11-09T10:06:19+00:00",
-     "image": "https://s.france24.com/media/display/a15c1840-dc20-11f1-a84c-d18c5759e759/w:1024/p:16x9/2026-11-09T084816Z-608081544-RC27KOAOEVB7-RTRMADP-3-POLAND-SHOOTING.jpg",
-     "source": "© Jakub Porzycki, Reuters"
-    },
-    {
-     "titre": "Alcaraz vainqueur, Laperche triomphe, l'OM enfonce Lens : les infos sport du week-end",
-     "url": "https://www.france24.com/fr/sports/20261109-alcaraz-laperche-om-lens-infos-sport-week-end",
-     "resume": "Tom Laperche a remporté la Route du Rhum en un temps record tandis que Carlos Alcaraz a enfin triomphé dans le Masters 1000 de Paris. Enfin, Lens n'a pas su se remettre à l'endroit, renversé par l'OM, quelques jours après l'humiliation en Ligue des champions.",
-     "date": "2026-11-09T09:56:50+00:00",
-     "image": "https://s.france24.com/media/display/923906d2-dc22-11f1-8b45-695cb59fade5/w:1024/p:16x9/recap-sport-09-11-2026-1.png",
-     "source": "© Studio graphique FMM"
-    },
-    {
-     "titre": "« C’est plus qu’un simple défilé de mode » : ce comité recherche ses prochains Miss et Mister Ronds en Occitanie - Actu.fr",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY2luQWc1Smxmdlg0ODdnSmE4MDNNNVRUTWhacHR5LWNzQ1kxd3ZhUW5XU0k2TU11NU8zQ2xmbkNrZWdlN1p0anJnSVlrUjB3UlNoVVdYeXRFdFEzQ3RGS0dHbjJPSVVHVVJGaUctZmV0WHhheXBlRWxNWjYxMTBCNUZPTFRmV2trSnhnODZRcl9HaXRVM0FodENCU3I3TVRIbi1VaDBiLWZEWFhKTWlFWmtMcmdBZ2Qxb1VvbHdHTGNBYUlCcThBcG9uVjZwMVIwYzR4ZS05aW5ta2tVT2RfRHA1VzhYMHNobFl5OVBTeHh4eGRF?oc=5",
-     "resume": "« C’est plus qu’un simple défilé de mode » : ce comité recherche ses prochains Miss et Mister Ronds en Occitanie Actu.fr",
-     "date": "2026-11-09T09:52:38+00:00",
-     "image": null,
-     "source": "Actu.fr"
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : quinze donateurs ont confirmé 278 millions d’euros d’engagements pour réparer l’arche de confinement de Tchernobyl, lors d’une conférence lundi à Paris",
-     "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-a-l-approche-de-pourparlers-a-abou-dhabi-volodymyr-zelensky-dit-s-etre-coordonne-avec-ursula-von-der-leyen_6808609_3210.html",
-     "resume": "La rencontre est organisée dans le cadre de la présidence française du G7, avec le gouvernement ukrainien et la Banque européenne pour la reconstruction et le développement.",
-     "date": "2026-11-09T10:34:46+01:00",
-     "image": "https://img.lemde.fr/2026/11/09/668/0/8020/4010/644/322/60/0/4842666_ftp-1-ixeymeuouj8s-afp-d6vq7av.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Nvidia : son patron au cœur d'une affaire d'espionnage chinois",
-     "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261109-nvidia-son-patron-au-c%C5%93ur-d-une-affaire-d-espionnage-chinois",
-     "resume": "Le géant américain des puces électroniques a ouvert une enquête interne après les révélations sur une possible opération d'espionnage chinois visant son patron, Jensen Huang. Ce dernier a reconnu avoir trompé son épouse. Une affaire aux lourds enjeux économiques et politiques, en pleine guerre technologique entre Washington et Pékin.",
-     "date": "2026-11-09T09:31:02+00:00",
-     "image": "https://s.france24.com/media/display/e7508f78-dc13-11f1-9cb7-695cb59fade5/w:1024/p:16x9/capture-090b3e50.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Musiques retirées de GTA : quand Rockstar est confronté à un énorme problème",
-     "url": "https://www.jeuxvideo.com/news/2112569/musiques-retirees-de-gta-quand-rockstar-est-confronte-a-un-enorme-probleme.htm",
-     "resume": "On s'en souvient tous : rouler de nuit dans Liberty City sur notre morceau préféré, pour découvrir des années plus tard qu'il a été effacé par une simple mise à jour. Face au cauchemar des licences expirées et des strikes Twitch, Rockstar change radicalement les règles du jeu pour GTA 6.",
-     "date": "2026-11-09T10:30:09+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179398/1793982710-2162-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Conférence sociale en direct : le gouvernement annonce une hausse du salaire minimum de 1,6 %",
-     "url": "https://www.france24.com/fr/france/20261109-en-direct-lecornu-re%C3%A7oit-syndicats-et-patronat-pour-tenter-de-r%C3%A9pondre-aux-revendications-sociales",
-     "resume": "Sous pression des manifestants, le Premier ministre Sébastien Lecornu a reçu lundi matin à Matignon les représentants du patronat et des syndicats du secteur privé afin d'apporter des \"réponses concrètes\" aux revendications sociales. Il a annoncé au terme de la rencontre une hausse du salaire minimum de 1,6 % à compter du 1ᵉʳ décembre. Suivez notre direct.",
-     "date": "2026-11-09T09:17:53+00:00",
-     "image": "https://s.france24.com/media/display/23136886-dc33-11f1-b2ff-a575454bc579/w:1024/p:16x9/000-D6WB27W.jpg",
-     "source": "© Kenzo Tribouillard, AFP"
-    },
-    {
-     "titre": "À la Une: quel gouvernement en Israël?",
-     "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261109-%C3%A0-la-une-quel-gouvernement-en-isra%C3%ABl",
-     "resume": "",
-     "date": "2026-11-09T09:03:27+00:00",
-     "image": "https://s.rfi.fr/media/display/87348ab0-dc07-11f1-b1df-695cb59fade5/w:1024/p:16x9/000-D6U96CC.jpg",
-     "source": "RFI — Monde"
-    },
-    {
-     "titre": "Guerre en Ukraine : Melania Trump, nouvelle médiatrice du conflit?",
-     "url": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261109-guerre-en-ukraine-melania-trump-nouvelle-m%C3%A9diatrice-du-conflit",
-     "resume": "Volodymyr Zelensky a distingué Melania Trump pour son engagement humanitaire. Le président ukrainien lui a remis « l’Ordre de la princesse Olga » après son implication dans la trêve locale entre Moscou et Kiev qui a permis l’évacuation de 800 civils d'Olechky, dans le sud de l'Ukraine. Quel rôle joue réellement la Première dame américaine dans ce conflit ? Peut-elle peser là où son mari, Donald Tr",
-     "date": "2026-11-09T08:49:15+00:00",
-     "image": "https://s.rfi.fr/media/display/43c09d14-93a6-11f0-9f1c-005056a90284/w:1024/p:16x9/AP25259742684189.jpg",
-     "source": "RFI — Monde"
-    },
-    {
-     "titre": "JOJ Dakar 2026 : le champion de boxe Souleymane M’Baye forme la relève",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-joj-dakar-2026-le-champion-de-boxe-souleymane-m-baye-forme-la-rel%C3%A8ve",
-     "resume": "🇸🇳Trois fois champion du monde de boxe pour la France, Souleymane M’Baye transmet son exigence à la jeunesse sénégalaise au sein de son académie Keur of Champions à Dakar. 🥊 Entre rigueur et ambitions internationales, immersion sur le ring avec ceux qui préparent le futur de la boxe sénégalaise, avec les JO de Los Angeles 2028 en ligne de mire.",
-     "date": "2026-11-09T08:42:45+00:00",
-     "image": "https://s.france24.com/media/display/67eea818-db83-11f1-a3a9-695cb59fade5/w:1024/p:16x9/mini-souleymane.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "L'OM bat Lens pour sa cinquième victoire consécutive en Ligue 1",
-     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261109-om-bat-lens-pour-sa-cinqui%C3%A8me-victoire-cons%C3%A9cutive-en-ligue-1",
-     "resume": "Marseille a battu Lens (2-1) en clôture de la 10ᵉ journée de Ligue 1. Grâce à ce résultat, l'OM est quatrième du classement.",
-     "date": "2026-11-09T08:34:08+00:00",
-     "image": "https://s.france24.com/media/display/f82883bc-dbe3-11f1-b840-a575454bc579/w:1024/p:16x9/om-2.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Arabie saoudite : en frappant le quartier financier de Riyad, les houthistes cherchent à éroder la confiance des investisseurs",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/arabie-saoudite-en-frappant-le-quartier-financier-de-riyad-les-houthistes-cherchent-a-eroder-la-confiance-des-investisseurs_6808628_3210.html",
-     "resume": "Une tour de la compagnie nationale Aramco a été endommagée dimanche dans le quartier du Roi-Abdallah. Après les aéroports et les infrastructures pétrolières, le mouvement yéménite, soutenu par l’Iran, s’en prend désormais aux ambitions économiques du royaume en frappant un symbole du plan de transformation économique de Mohammed Ben Salman.",
-     "date": "2026-11-09T09:30:05+01:00",
-     "image": "https://img.lemde.fr/2026/10/16/150/0/2412/1206/644/322/60/0/a9abb93_ftp-1-csrcv1c7fken-2026-10-16t120015z-391827927-rc2a4oaimp85-rtrmadp-3-iran-risis-saudi-riyadh.JPG",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Test Silver Pines sur PC, PS5, Switch et Switch 2",
-     "url": "https://www.jeuxvideo.com/test/2111091/quand-silent-hill-croise-twin-peaks-notre-test-d-une-des-pepites-de-l-annee-silver-pines.htm",
-     "resume": "Jeu de lancement du studio indépendant Wych Elm, Silver Pines marie les obsessions de David Lynch à la tension culte de Silent Hill dans l'un des meilleurs metroidvanias de l'année. Un coup d'essai déjà magistral, testé et approuvé.",
-     "date": "2026-11-09T09:22:25+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179313/1793125713-4806-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Trump reconnaît une politique d'expulsions des immigrés \"trop dure\" après sa déroute électorale",
-     "url": "https://www.france24.com/fr/am%C3%A9riques/20261109-trump-reconna%C3%AEt-politique-expulsions-immigr%C3%A9s-trop-dure-apr%C3%A8s-d%C3%A9route-%C3%A9lectorale-%C3%A9tats-unis",
-     "resume": "Peu après la défaite des républicains aux élections de mi-mandat, le président américain a reconnu des excès dans sa politique migratoire, sans toutefois annoncer de changement concret. Une prise de distance qui intervient alors qu'il vient de confier un poste stratégique à Stephen Miller, artisan des expulsions massives.",
-     "date": "2026-11-09T08:13:49+00:00",
-     "image": "https://s.france24.com/media/display/d373e164-dc11-11f1-a96a-d18c5759e759/w:1024/p:16x9/AP26313093851055.jpg",
-     "source": "© AP, Nathan Howard"
-    },
-    {
-     "titre": "Vingt et une personnes retrouvées mortes dans des embarcations au large de la Crète",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/douze-morts-decouverts-dans-une-embarcation-de-migrants-au-sud-de-la-crete_6808626_3210.html",
-     "resume": "L’île grecque constitue l’un des principaux points d’entrée de migrants dans l’Union européenne. D’autres empruntent un itinéraire bien plus court, mais souvent tout aussi dangereux, à partir des côtes turques vers les îles grecques voisines de la mer Egée.",
-     "date": "2026-11-09T09:05:03+01:00",
-     "image": "https://img.lemde.fr/2026/11/02/1368/0/8192/4096/644/322/60/0/a3c7abf_ftp-1-zegwgduqj1fh-2026-11-02t152428z-1939613812-rc2ofoa3iw8c-rtrmadp-3-europe-migrants-greece.JPG",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "3 jeux pour Final Fantasy 7 c'est trop ? On a demandé à Square Enix qui reconnaît un regret",
-     "url": "https://www.jeuxvideo.com/news/2112953/3-jeux-pour-final-fantasy-7-c-est-trop-on-a-demande-a-square-enix-qui-reconnait-un-regret.htm",
-     "resume": "Découper Final Fantasy VII en trois jeux était-il un pari insensé ? À l’occasion de la Paris Games Week, on a a a directement posé la question à Naoki Hamaguchi, réalisateur de Final Fantasy VII Revelation, la troisième et dernière partie, qui nous a confié son unique véritable regret par rapport au...",
-     "date": "2026-11-09T08:40:07+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179396/1793957691-2848-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Fermeture du journal russe Novaya Gazeta : \"Nous avons été tués\"",
-     "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261109-fermeture-de-novaya-gazeta-nous-avons-%C3%A9t%C3%A9-tu%C3%A9s",
-     "resume": "À la une de la presse, ce lundi 9 novembre, la publication du dernier numéro du journal d’opposition russe Novaya Gazeta, symbole du combat pour la démocratie. Un chiffre également à la une : 500. C'est le nombre de jours que le journaliste français Christophe Gleizes aura passé en prison, mercredi. Le début aujourd’hui de la COP31 sur le climat, à Antalya. Un pays hôte très critiqué en matière d’",
-     "date": "2026-11-09T06:59:49+00:00",
-     "image": "https://s.france24.com/media/display/a9b1a868-dc19-11f1-8169-bf1914cabd52/w:1024/p:16x9/capture-cf4a0f75.jpg",
-     "source": "France 24 — Monde"
-    },
-    {
-     "titre": "Réunion du G7 : les midterms rebattent-elles les cartes de la diplomatie de Donald Trump ?",
-     "url": "https://www.france24.com/fr/france/20261109-r%C3%A9union-du-g7-les-midterms-rebattent-elles-les-cartes-de-la-diplomatie-de-donald-trump",
-     "resume": "Réunis ce lundi en France, les ministres des Affaires étrangères du G7 vont échanger avec le secrétaire d'État américain Marco Rubio. Ukraine, Iran et Liban seront au cœur des discussions, alors que les alliés de Washington s'interrogent sur la stratégie de l'équipe de Donald Trump après la débâcle républicaine.",
-     "date": "2026-11-09T06:46:45+00:00",
-     "image": "https://s.france24.com/media/display/f7a491b0-dc06-11f1-943a-695cb59fade5/w:1024/p:16x9/2026-11-08T221016Z-496211046-RC2YJOAS5MAN-RTRMADP-3-USA-RUBIO.jpg",
-     "source": "© Brendan Smialowski, Reuters"
-    },
-    {
-     "titre": "Attentat à Cracovie : le tireur est mort des suites de ses blessures, aucune certitude sur ses motivations à ce stade",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/l-auteur-de-la-fusillade-de-cracovie-est-mort_6808619_3210.html",
-     "resume": "Six personnes, dont deux étrangers, ont été tuées, et une quinzaine d’autres ont été blessées sur la Grand-Place de la ville polonaise, dimanche.",
-     "date": "2026-11-09T07:28:29+01:00",
-     "image": "https://img.lemde.fr/2026/11/09/664/0/6000/3000/644/322/60/0/49b2a70_ftp-1-ggqjwsfec6ms-2026-11-09t092152z-1289289161-rc27koaya8dx-rtrmadp-3-poland-shooting.JPG",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Zelda : les joueurs de Breath of the Wild peuvent-ils apprécier Ocarina of Time ?",
-     "url": "https://www.jeuxvideo.com/news/2111719/zelda-les-joueurs-de-breath-of-the-wild-peuvent-ils-apprecier-ocarina-of-time.htm",
-     "resume": "Disponible depuis le 5 novembre sur Nintendo Switch 2, le remake d'Ocarina of Time fait revenir la licence à son ancien système. Mais après avoir goûté à la liberté totale de Breath of the Wild et Tears of the Kingdom, la formule originelle modernisée peut-elle encore séduire ?",
-     "date": "2026-11-09T07:05:08+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179398/1793980737-8851-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "La puissance des liens",
-     "url": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20261109-la-puissance-des-liens",
-     "resume": "L’être humain est, par nature, un être social. Les relations marquent notre développement tout au long de notre vie. De la naissance à la mort, nous sommes constamment en lien avec notre environnement, les autres, le monde…",
-     "date": "2026-11-09T06:00:50+00:00",
-     "image": "https://s.rfi.fr/media/display/d8a57446-d85a-11f1-bc96-695cb59fade5/w:1024/p:16x9/matt-silveira-YjaZWyMHQNI-unsplash.jpg",
-     "source": "RFI — Monde"
-    },
-    {
-     "titre": "Donald Trump reconnaît que la politique d’expulsions d’immigrés par son administration a été « trop dure »",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3211.html",
-     "resume": "Sous pression après la défaite républicaine, le président américain a fait ces déclarations après avoir nommé comme directeur de cabinet l’artisan de cette politique, Stephen Miller, il y a quelques jours.",
-     "date": "2026-11-09T06:30:28+01:00",
-     "image": "https://img.lemde.fr/2026/11/07/119/0/5437/2718/644/322/60/0/0014c5f_ftp-1-71i47qhpf9s9-2303906772.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Comment les papas de Call of Duty peuvent sauver le FPS le plus important de Xbox ? Nos 5 conseils et attentes",
-     "url": "https://www.jeuxvideo.com/news/2112977/comment-les-papas-de-call-of-duty-peuvent-sauver-le-fps-le-plus-important-de-xbox-nos-5-conseils-et-attentes.htm",
-     "resume": "Autrefois licence la plus plus importante des consoles Xbox, Halo est perçu comme un poids pour Microsoft. Avec ses 500 kg, John-117 s’enlise et ne parvient plus à se distinguer comme avant. L’équipe qui le gouverne depuis presque 20 ans, celle de Halo Studios (ex 343 Industries), est contrainte de céder...",
-     "date": "2026-11-09T06:05:08+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179396/1793961679-4365-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "En Argentine, la leçon du pape Léon XIV à Javier Milei : « L’économie doit être au service de la personne, pas le contraire »",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/en-argentine-la-lecon-du-pape-leon-xiv-a-javier-milei-l-economie-doit-etre-au-service-de-la-personne-et-non-la-personne-au-service-de-l-economie_6808600_3210.html",
-     "resume": "Accueilli par le président argentin à Buenos Aires, dimanche, le souverain pontife a délivré un discours exprimant sans ambages ce qu’il pense de la politique ultralibérale mise en œuvre par le dirigeant d’extrême droite.",
-     "date": "2026-11-09T05:30:07+01:00",
-     "image": "https://img.lemde.fr/2026/11/08/38/217/5046/2523/644/322/60/0/ad78fc8_ftp-1-iallp71whb25-2026-11-08t225038z-2114293115-rc2yjoaqm34j-rtrmadp-3-pope-latam-argentina.JPG",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Donald Trump affirme que sa proposition de nommer Dana White, patron de l’UFC, porte-parole de la Maison Blanche était une blague",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-affirme-que-sa-proposition-de-nommer-dana-white-patron-de-l-ufc-porte-parole-de-la-maison-blanche-etait-une-blague_6808598_3210.html",
-     "resume": "Le poste stratégique de porte-parole de la Maison Blanche est vacant depuis l’éviction, le 16 octobre, de Katie Zacharia, congédiée au bout de cinq jours.",
-     "date": "2026-11-09T05:04:46+01:00",
-     "image": "https://img.lemde.fr/2026/11/07/187/0/2250/1125/644/322/60/0/3019c3c_ftp-1-02ydfyoiob2a-afp-d6rt4nq.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Après l’incendie du « nid d’aigle » d’Hitler dans les montagnes de Bavière, un débat s’ouvre sur sa reconstruction",
-     "url": "https://www.lemonde.fr/international/article/2026/11/09/apres-l-incendie-du-nid-d-aigle-d-hitler-un-debat-s-ouvre-sur-sa-reconstruction_6808597_3210.html",
-     "resume": "Le feu criminel qui a endommagé en octobre la maison construite dans les années 1930 dans les Alpes de Berchtesgaden, à la frontière autrichienne, donne lieu à une réflexion sur le traitement réservé aux nombreux vestiges nazis en Allemagne.",
-     "date": "2026-11-09T05:00:16+01:00",
-     "image": "https://img.lemde.fr/2026/11/09/0/0/4275/2137/644/322/60/0/48af778_upload-1-ujwb4tp3au05-000-d4ak9w8.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "La fermeture du journal « Novaïa Gazeta », la fin d’un repère pour l’« autre Russie »",
-     "url": "https://www.lemonde.fr/idees/article/2026/11/09/la-fermeture-de-novaia-gazeta-la-fin-d-un-repere-pour-l-autre-russie_6808564_3232.html",
-     "resume": "Le journal du Prix Nobel de la paix Dmitri Mouratov cesse son existence ce lundi 9 novembre. Ses journalistes, sous la pression du Kremlin, avaient réussi à tenir à bout de bras le titre depuis les débuts de la guerre en Ukraine en 2022.",
-     "date": "2026-11-09T05:00:05+01:00",
-     "image": "https://img.lemde.fr/2026/11/06/654/0/7849/3924/644/322/60/0/1a62cf9_upload-1-y5xtcdmfaa2p-000-d2dv9zc.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Jensen Huang, le dirigeant de Nvidia, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
-     "url": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
-     "resume": "Cette affaire aux airs de vaudeville concerne une entreprise valorisée à 4 500 milliards de dollars qui fabrique des microprocesseurs essentiels à la révolution de l’IA, au cœur de la rivalité entre les Etats-Unis et la Chine. La firme a lancé une enquête interne.",
-     "date": "2026-11-09T03:21:07+01:00",
-     "image": "https://img.lemde.fr/2026/11/08/527/0/7488/3744/644/322/60/0/cfd6605_ftp-1-fh3by3ofridg-afp-d6v66zr.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Afrique: CANEX WKND 2026 - À Lagos, la mode africaine affirme ses ambitions sur la scène internationale - allAfrica.fr",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JaHFqYVN4T2FUY3dfUzFpVWlhZ3RTdXBLU2xDWGNFb1d5UkxmZjFxS3hidGxFcVFBQ0pWQnM3OVhEckF4SldrcmhWYmp3WGo2ampFeEpWcDhfSHo4UFdv?oc=5",
-     "resume": "Afrique: CANEX WKND 2026 - À Lagos, la mode africaine affirme ses ambitions sur la scène internationale allAfrica.fr",
-     "date": "2026-11-09T01:30:05+00:00",
-     "image": null,
-     "source": "allAfrica.fr"
-    },
-    {
-     "titre": "Guerre en Ukraine : Marco Rubio fait état de progrès pour l’« architecture de sécurité » après la guerre. Retrouvez les informations du 1ᵉʳ au 8 novembre.",
-     "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
-     "resume": "Le secrétaire d’Etat américain s’exprimait avant de s’envoler pour un sommet des ministres des affaires étrangères du G7 à Paris, alors que des négociations entre la Russie et l’Ukraine sous médiation américaine sont prévues pour mardi et mercredi à Abou Dhabi.",
-     "date": "2026-11-09T00:34:04+01:00",
-     "image": "https://img.lemde.fr/2026/11/08/927/0/8256/4128/644/322/60/0/5d53066_ftp-1-gsrnx1689ppe-6036beae406e4f07988722fecb46e23b-0-1d810253586b46579cb296f8efde6b80.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "La baisse des prix du soufre se poursuit, faute de demande suffisante",
-     "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261108-la-baisse-des-prix-du-soufre-se-poursuit-faute-de-demande-suffisante",
-     "resume": "La baisse des prix du soufre, qui a débuté en août, se poursuit. L'acide sulfurique, utilisé dans le secteur minier et dans celui des engrais, suit aussi la même pente baissière, mais les difficultés d'approvisionnement depuis la guerre en Iran ne sont pas pour autant résolues. L'offre disponible sur le marché est en effet toujours restreinte.",
-     "date": "2026-11-08T23:02:52+00:00",
-     "image": "https://s.rfi.fr/media/display/b88f2a02-383d-11f1-b02c-005056a90284/w:1024/p:16x9/AP26104188624119.jpg",
-     "source": "RFI — Monde"
-    },
-    {
-     "titre": "Zelda Ocarina of Time a traumatisé toute une génération de joueurs : et si nous avions tous tort à propos du Temple de l'Eau ?",
-     "url": "https://www.jeuxvideo.com/news/2112898/zelda-ocarina-of-time-a-traumatise-toute-une-generation-de-joueurs-et-si-nous-avions-tous-tort-a-propos-du-temple-de-l-eau.htm",
-     "resume": "Considéré comme le pire calvaire du jeu, le Temple de l'Eau d'Ocarina of Time refait parler de lui avec l'arrivée de son remake sur Nintendo Switch 2. Entre erreurs d'ergonomie d'époque, légendes urbaines et génie architectural incompris, on revient sur ce mythe fondateur du jeu vidéo.",
-     "date": "2026-11-08T22:20:09+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179390/1793895048-3359-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Samy Cohen : \"Eisenkot est populaire car il représente un apaisement de la vie politique en Israël\"",
-     "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261108-samy-cohen-eisenkot-est-populaire-car-il-repr%C3%A9sente-un-apaisement-de-la-vie-politique-isra%C3%A9lienne",
-     "resume": "En Israël, Gadi Eisenkot a été missionné par le président Herzog pour former le prochain gouvernement, dix jours après le résultat des législatives à l'issue desquelles aucune majorité claire ne s'est dégagée. La tâche de l'ancien chef d'état-major s'annonce particulièrement complexe. Il affiche sa détermination à réussir et tend même la main au Likoud de Benjamin Netanyahu. Samy Cohen, directeur ",
-     "date": "2026-11-08T20:44:06+00:00",
-     "image": "https://s.france24.com/media/display/305cbf72-dbae-11f1-834a-1beafce15fea/w:1024/p:16x9/FR-20261108-200120-202109-CS.jpg",
+     "titre": "Réunions à Abu Dhabi : les Européens inquiets que Trump penche vers Poutine",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-r%C3%A9unions-%C3%A0-abu-dhabi-les-europ%C3%A9ens-inquiets-que-trump-penche-vers-poutine",
+     "resume": "Européens et Américains ont réaffirmé mardi leur engagement en faveur d'une sécurité européenne \"forte\", une fois la paix revenue en Ukraine, dont l'\"intégrité territoriale\" et la \"souveraineté\" devront être garantis dans tout accord futur. Toutefois, les résultats des midterms, sanctionnant la politique trumpiste, inquiètent l'Europe quant à ses possibles rapprochements avec Vladimir poutine. Les",
+     "date": "2026-11-10T12:16:06+00:00",
+     "image": "https://s.france24.com/media/display/68f55c94-dcfe-11f1-bf6b-29048b396e03/w:1024/p:16x9/FR-20261110-120621-121032-CS.jpg",
      "source": "France 24 — Moyen-Orient"
     },
     {
-     "titre": "Italie : le ministre des affaires étrangères dit avoir été visé par une fuite de données, Giorgia Meloni dénonce des « hackeurs prorusses »",
-     "url": "https://www.lemonde.fr/international/article/2026/11/08/italie-le-ministre-des-affaires-etrangeres-vise-par-une-cyberattaque-giorgia-meloni-denonce-des-hackers-prorusses_6808467_3210.html",
-     "resume": "Antonio Tajani a annoncé, samedi, que certaines de ses données personnelles avaient été diffusées sur le dark Web. Selon lui, de futures opérations de déstabilisation pourraient chercher à influencer l’opinion italienne dans la perspective des prochaines échéances électorales, des législatives étant attendues en 2027.",
-     "date": "2026-11-08T20:19:14+01:00",
-     "image": "https://img.lemde.fr/2026/10/22/281/0/5500/2750/644/322/60/0/e066faf_ftp-1-d7o1ukucftzb-2026-10-22t081257z-643967038-rc278oadv5n4-rtrmadp-3-montenegro-summit.JPG",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Pourquoi WoW Forever n'est pas un problème pour GTA 6 ?",
-     "url": "https://www.jeuxvideo.com/news/2113138/pourquoi-wow-forever-n-est-pas-un-probleme-pour-gta-6.htm",
-     "resume": "Alors que l'industrie retient son souffle face à l'arrivée imminente de Grand Theft Auto VI, une communauté bien spécifique continue de vaquer à ses occupations sur Azeroth sans ciller. Pourquoi la sortie de WoW Forever n'entrera-t-elle pas en collision frontale avec le mastodonte de Rockstar Games,...",
-     "date": "2026-11-08T20:10:10+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179399/1793987046-7603-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Sénégal : au moins 35 morts dans le naufrage d’une pirogue de migrants",
-     "url": "https://www.lemonde.fr/afrique/article/2026/11/08/senegal-au-moins-34-morts-dans-le-naufrage-d-une-pirogue-de-migrants_6808424_3213.html",
-     "resume": "Des milliers de personnes tentent depuis des années de gagner clandestinement l’Europe en empruntant la route de l’Atlantique à bord d’embarcations surchargées, souvent vétustes.",
-     "date": "2026-11-08T19:54:49+01:00",
-     "image": "https://img.lemde.fr/2026/11/08/500/0/6000/3000/644/322/60/0/48a2b16_upload-1-jsjw1sfry2ut-2025-07-01t222856z-1746893655-rc2vdfaidnhr-rtrmadp-3-migration-senegal-gambia-pirogue.JPG",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Municipales en Afrique du Sud : l’ANC, parti dominant depuis la fin de l’apartheid, enregistre le pire score de son histoire",
-     "url": "https://www.lemonde.fr/afrique/article/2026/11/08/afrique-du-sud-l-anc-principal-parti-du-pays-enregistre-le-pire-score-de-son-histoire-aux-elections-municipales_6808463_3212.html",
-     "resume": "Avec 30,76 % des voix, le parti de Nelson Mandela devance encore l’Alliance démocratique, mais plus de la moitié des conseils municipaux, dont presque toutes les grandes villes, devront former des coalitions.",
-     "date": "2026-11-08T19:18:00+01:00",
-     "image": "https://img.lemde.fr/2026/11/08/300/0/3600/1800/644/322/60/0/dc0c7b5_upload-1-drugzkgqvffs-000-d6ew3aq.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Perle noire The Witcher 3 Remastered : Où trouver ce matériau d'artisanat ?",
-     "url": "https://www.jeuxvideo.com/news/2112978/perle-noire-the-witcher-3-remastered-ou-trouver-ce-materiau-d-artisanat.htm",
-     "resume": "Indispensable pour confectionner de puissantes runes et optimiser votre équipement de grand maître dans The Witcher 3 Wild Hunt, la perle noire est difficile à obtenir quand on ignore où la trouver. Découvrez toutes les méthodes fiables pour mettre la main sur cette précieuse ressource dans ce guide.",
-     "date": "2026-11-08T19:15:14+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179396/1793962633-3952-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "GTA 6 : un ancien braqueur juge le réalisme du jeu du siècle... Il va y avoir des déçus !",
-     "url": "https://www.jeuxvideo.com/news/2112543/gta-6-un-ancien-braqueur-juge-le-realisme-du-jeu-du-siecle-il-va-y-avoir-des-decus.htm",
-     "resume": "GTA 6 est le jeu de la décennie, et peut-être même celui du siècle. La création de Rockstar s’apprête à pulvériser tous les records, à commencer par son budget, et ses ventes pourraient bien atteindre des sommets inédits. À une dizaine de jours de la sortie, la rédaction de Jeuxvideo.com a voulu savoir...",
-     "date": "2026-11-08T18:45:06+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179389/1793889146-2768-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "En Israël, Eisenkot invite le Likoud de Netanyahu à participer à une coalition",
-     "url": "https://www.france24.com/fr/moyen-orient/20261108-en-isra%C3%ABl-eisenkot-invite-le-likoud-de-netanyahu-%C3%A0-participer-%C3%A0-une-coalition",
-     "resume": "Officiellement chargé dimanche de former le prochain gouvernement israélien, l'ex-haut gradé centriste Gadi Eisenkot a appelé à l'unité face à une \"crise historique\" dont il tient Benjamin Netanyahu pour responsable. Il s'est néanmoins dit ouvert à une coalition avec des élus du Likoud, mais aussi du parti d'extrême droite de Bezalel Smotrich.",
-     "date": "2026-11-08T17:12:03+00:00",
-     "image": "https://s.france24.com/media/display/be4c1c22-dbb5-11f1-bbd7-a575454bc579/w:1024/p:16x9/2026-11-08T152158Z-1569314181-RC2RJOASDUSW-RTRMADP-3-ISRAEL-POLITICS.jpg",
-     "source": "© Ronen Zvulun, Reuters"
-    },
-    {
-     "titre": "Pays-Bas : à Amsterdam, des dizaines de milliers de personnes manifestent en soutien aux Palestiniens",
-     "url": "https://www.lemonde.fr/international/article/2026/11/08/pays-bas-a-amsterdam-des-dizaines-de-milliers-de-personnes-manifestent-en-soutien-aux-palestiniens_6808452_3210.html",
-     "resume": "Selon les organisateurs de la manifestation, environ 200 000 personnes ont défilé pour réclamer des actions du gouvernement néerlandais à l’encontre d’Israël.",
-     "date": "2026-11-08T17:39:24+01:00",
-     "image": "https://img.lemde.fr/2026/11/08/443/0/5315/2657/644/322/60/0/afaae70_ftp-1-zv5zggyyjlsx-d407d29102344c01a1042132c9812151-0-f75ae6ee00034bd2a408602b1605dc2a.jpg",
-     "source": "Le Monde — International"
-    },
-    {
-     "titre": "Un avocat nous explique pourquoi Nintendo attaque systématiquement les jeux créés par les fans",
-     "url": "https://www.jeuxvideo.com/news/2111143/un-avocat-nous-explique-pourquoi-nintendo-attaque-systematiquement-les-jeux-crees-par-les-fans.htm",
-     "resume": "Nintendo est réputé pour sa tolérance zéro à l'égard des projets créés par la communauté. Derrière la passion des joueurs se cache toutefois une réalité économique implacable qui motive Nintendo et d'autres ayant droit à agir ainsi.",
-     "date": "2026-11-08T17:15:10+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179319/1793189893-199-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Quêtes annexes Zelda Ocarina of Time : Comment finir le remake Switch 2 à 100% ?",
-     "url": "https://www.jeuxvideo.com/news/2113330/quetes-annexes-zelda-ocarina-of-time-comment-finir-le-remake-switch-2-a-100.htm",
-     "resume": "Découvrez notre guide recensant toutes les plus grosses quêtes annexes du remake Switch 2 de Zelda OOT. A l'intérieur, vous retrouverez l'emplacement de tous les quarts de coeur, toutes les skulltulas d'or, mais aussi les grandes fées et toutes les partitions d'ocarina. En bref, tout ce qu'il vous faut...",
-     "date": "2026-11-08T17:00:13+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179415/1794152991-4706-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "23 développeurs se sont alliés pour faire ça : le jeu gratuit le plus étrange de l'année",
-     "url": "https://www.jeuxvideo.com/news/2110281/23-developpeurs-se-sont-allies-pour-faire-ca-le-jeu-gratuit-le-plus-etrange-de-l-annee.htm",
-     "resume": "Un curseur de volume a-t-il déjà ruiné votre journée ? Dirigé par le créateur de Buckshot Roulette, le projet loufoque de Volume.art transforme cette simple fonctionnalité en un véritable parcours du combattant.",
-     "date": "2026-11-08T16:00:15+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179266/1792661043-6504-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Bouclier Hylien Zelda Ocarina of Time : Comment l'obtenir gratuitement ?",
-     "url": "https://www.jeuxvideo.com/news/2113326/bouclier-hylien-zelda-ocarina-of-time-comment-l-obtenir-gratuitement.htm",
-     "resume": "Découvrez les différentes manières d'obtenir le célèbre Bouclier Hylien dans le remake Switch 2 de Zelda OOT. Que vous souhaitiez claquer des dizaines de rubis en ville, ou affronter l'Effroi qui traine dans le cimetière, voici la marche à suivre pour obtenir cette pièce d'équipement.",
-     "date": "2026-11-08T15:15:11+01:00",
-     "image": "https://image.jeuxvideo.com/medias-lg/179415/1794146532-6453-card.jpg",
-     "source": "jeuxvideo.com"
-    },
-    {
-     "titre": "Yémen : première livraison d'aide médicale du CICR dans la ville de Taëz",
-     "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-y%C3%A9men-premi%C3%A8re-livraison-d-aide-m%C3%A9dicale-du-cicr-dans-la-ville-de-ta%C3%ABz",
-     "resume": "Dr Pierre Catoire, médecin urgentiste vice-président de l'ONG Mehad, est notre invité.",
-     "date": "2026-11-08T13:39:15+00:00",
-     "image": "https://s.france24.com/media/display/526e9b66-db78-11f1-ba8a-bf1914cabd52/w:1024/p:16x9/FR-20261108-140507-141558-CS.jpg",
+     "titre": "Sommet du G7 : l'émir du Qatar présent pour évoquer la guerre en iran",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-sommet-du-g7-l-%C3%A9mir-du-qatar-pr%C3%A9sent-pour-%C3%A9voquer-la-guerre-en-iran",
+     "resume": "Le ⁠Premier ministre ​du Qatar devait rencontrer mardi 10 novembre à Paris les ​ministres des Affaires étrangères de quatre puissances européennes et de l'Arabie saoudite. Des rencontres en marge de la réunion ​des ‌chefs de la diplomatie ⁠du G7 et au lendemain des discussions de ​Mohammed ben Abdoulrahman al Thani avec le ‌président américain Donald Trump sur la guerre en ⁠Iran. Les explications ",
+     "date": "2026-11-10T12:11:47+00:00",
+     "image": "https://s.france24.com/media/display/aa318376-dcff-11f1-b13c-3f371022a770/w:1024/p:16x9/2026-11-10T093718Z-1674399234-RC2XKOAHWF1T-RTRMADP-3-G7-FOREIGN.jpg",
      "source": "France 24 — Moyen-Orient"
+    },
+    {
+     "titre": "En Turquie, six mandats d’arrêt au lendemain d’une explosion meurtrière dans une usine",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/en-turquie-six-mandats-d-arret-au-lendemain-d-une-explosion-meurtriere-dans-une-usine_6808830_3210.html",
+     "resume": "L’accident, survenu lors du remplacement d’une chaudière dans une usine près d’Izmir, a provoqué la mort d’au moins 17 personnes. Le président turc a déclaré que « l’éventuelle existence de négligences et l’identité des responsables » seraient établies.",
+     "date": "2026-11-10T13:02:51+01:00",
+     "image": "https://img.lemde.fr/2026/11/09/375/0/4500/2250/644/322/60/0/20e2374_ftp-1-mv6tzyfdvjsi-afp-d6ya2nr.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Lina Attalah : « Je suis journaliste en Egypte depuis plus de vingt ans. Aucun espace de liberté ne nous a jamais été accordé »",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/10/lina-attalah-je-suis-journaliste-en-egypte-depuis-plus-de-vingt-ans-aucun-espace-de-liberte-ne-nous-a-jamais-ete-accorde_6808829_3212.html",
+     "resume": "La fondatrice et rédactrice en chef de « Mada Masr », un site d’information indépendant reconnu, critique du régime militaire, doit comparaître devant un tribunal le 11 novembre. Dans un entretien au « Monde », elle affirme sa volonté de se battre pour faire reconnaître à son média le droit d’exercer légalement.",
+     "date": "2026-11-10T13:00:04+01:00",
+     "image": "https://img.lemde.fr/2026/11/09/404/0/4845/2422/644/322/60/0/6293840_ftp-1-wc8tngngxext-52571047623b46a7876b152908fb8323-2-545e2309571643e2a330281651ed2645.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Guerre en Ukraine: le Congrès démocrate va-t-il changer la donne ?",
+     "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261110-guerre-en-ukraine-le-congr%C3%A8s-d%C3%A9mocrate-va-t-il-changer-la-donne",
+     "resume": "Les pourparlers tripartites qui se sont ouvert ce mardi 10 novembre à Abou Dhabi vont marquer le premier test de la diplomatie américaine post-Midterms. Affaibli au Congrès, Donald Trump va-t-il infléchir sa politique à l’égard de l’Ukraine et de la Russie ?",
+     "date": "2026-11-10T11:53:16+00:00",
+     "image": "https://s.rfi.fr/media/display/9525024a-cdce-11f1-aff3-4da0d2c6855d/w:1024/p:16x9/AP26252824127179.jpg",
+     "source": "RFI — Monde"
+    },
+    {
+     "titre": "PS6 : la nouvelle console de PlayStation ne sera pas impactée par les problèmes de RAM",
+     "url": "https://www.jeuxvideo.com/news/2113041/ps6-la-nouvelle-console-de-playstation-ne-sera-pas-impactee-par-les-problemes-de-ram.htm",
+     "resume": "Malgré une flambée historique des prix de la mémoire et le ralentissement du rythme des consoles de salon, Sony rassure sur la préparation de la future PS6.",
+     "date": "2026-11-10T12:50:07+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179398/1793975185-400-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "RD Congo : les rebelles \"empêchent l'accès aux soins\" pour les victimes de violences sexuelles",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-rd-congo-les-rebelles-emp%C3%AAchent-l-acc%C3%A8s-aux-soins-pour-les-victimes-de-violences-sexuelles",
+     "resume": "Médecins sans frontières a dénoncé lundi 9 novembres des mesures mises en place dans l'est de la République démocratique du Congo par le groupe M23, récemment rebaptisé FRN, qui ont entravé l'accès aux soins pour les victimes de violences sexuelles et provoqué une chute brutale des consultations. L'Est de la RDC est déchiré par des conflits depuis plus de trente ans et les violences sexuelles y so",
+     "date": "2026-11-10T11:41:59+00:00",
+     "image": "https://s.france24.com/media/display/58de95bc-dcfb-11f1-bd75-3f371022a770/w:1024/p:16x9/capture-f59b327b.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Afrique du Sud : l'ANC subit le pire score de son histoire électoral depuis plus de 30 ans",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-afrique-du-sud-l-anc-subit-le-pire-score-de-son-histoire-%C3%A9lectoral-depuis-plus-de-30-ans",
+     "resume": "Le Congrès national africain (ANC), parti dominant la politique sud-africaine depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales dimanche 8 novembre. Ces résultats montrent le recul spectaculaire de l'ANC, le parti de Nelson Mandela, figure de la lutte contre le régime raciste d'apartheid, qui avait remporté près des deux tiers des voix lors des premières élections d",
+     "date": "2026-11-10T11:29:50+00:00",
+     "image": "https://s.france24.com/media/display/26fbb406-dcf8-11f1-9969-3f371022a770/w:1024/p:16x9/FR-20261109-214253-214433-CS.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Guerre en Ukraine : les États-Unis apellent à \"un nouveau\" cadre de sécurité avec l'Europe",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-ukraine-les-%C3%A9tats-unis-apellent-%C3%A0-un-nouveau-cadre-de-s%C3%A9curit%C3%A9-avec-l-europe",
+     "resume": "Des négociations entre Kiev et Moscou, sous médiation américaine, ont débuté mardi 10 novembre à Abu Dhabi après des mois d'interruption, avec l'espoir de progresser vers un règlement du conflit et, selon Washington, de travailler à un \"nouveau\" cadre de sécurité incluant l'Europe. Cette première rencontre depuis février s'est ouverte avec les délégations russes et ukrainiennes se faisant face, en",
+     "date": "2026-11-10T11:24:47+00:00",
+     "image": "https://s.france24.com/media/display/7476fd54-dcf7-11f1-bfd5-29048b396e03/w:1024/p:16x9/FR-20261110-110150-110341-CS.jpg",
+     "source": "France 24 — Moyen-Orient"
+    },
+    {
+     "titre": "L’ONU appelle l’Egypte à mettre fin au « harcèlement » des journalistes et médias nationaux",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/10/l-onu-appelle-l-egypte-a-mettre-fin-au-harcelement-des-journalistes-et-medias-nationaux_6808827_3212.html",
+     "resume": "« Le peuple égyptien a le droit de lire et d’entendre les points de vue exprimés par le biais [des sites d’information] sur des questions d’intérêt public légitime », a affirmé, devant la presse à Genève, le porte-parole du Haut-Commissariat aux droits de l’homme Thameen Al-Kheetan.",
+     "date": "2026-11-10T12:14:39+01:00",
+     "image": "https://img.lemde.fr/2026/11/10/1440/0/8640/4320/644/322/60/0/bcbb16f_ftp-1-umw4nn42auog-9f5e84056581426283816f6b08eda935-3-a3c8f2cccb9b44a1a0d3ec317ae38b30.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Affaire Huang : soupçons d'espionnage chez Nvidia, roi des puces d'IA",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-affaire-huang-soup%C3%A7ons-d-espionnage-chez-nvidia-roi-des-puces-d-ia",
+     "resume": "Le scandale de soupçons d'espionnage qui éclabousse Jensen Huang inquiète toute l'industrie de l'intelligence artificielle (IA). L'avenir du grand patron, soupçonné d'avoir été espionné par Pékin grâce à une relation extraconjugale, devrait se jouer à Washington. Les précisions de Michel Levy Provençal, entrepreneur dans la tech, fondateur de Qapten.com et spécialiste de l'IA.",
+     "date": "2026-11-10T11:02:53+00:00",
+     "image": "https://s.france24.com/media/display/3f0b0350-dcf6-11f1-b010-5f54d898a954/w:1024/p:16x9/capture-ec2a0faa.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Yonatan Touval, essayiste : « La légitimité des élus arabes israéliens relève du principe démocratique »",
+     "url": "https://www.lemonde.fr/idees/article/2026/11/10/yonatan-touval-essayiste-la-legitimite-des-elus-arabes-israeliens-releve-du-principe-democratique_6808824_3232.html",
+     "resume": "Après les élections générales du 27 octobre, et alors que la situation privilégiée qu’Israël occupait dans la politique américaine vacille, la place des élus arabes dans une majorité gouvernementale reste contestée, souligne le chercheur dans une tribune au « Monde ».",
+     "date": "2026-11-10T12:00:07+01:00",
+     "image": "https://img.lemde.fr/2026/10/28/1404/0/6160/3080/644/322/60/0/44b434a_upload-1-0oma6j75bkbm-ll-elections-israel-journee-23.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Crise bancaire au Paraguay : près de la moitié de la population privée de son argent",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-crise-bancaire-au-paraguay-pr%C3%A8s-de-la-moiti%C3%A9-de-la-population-priv%C3%A9e-de-son-argent",
+     "resume": "Le nouveau président du Paraguay, Pedro Alliana, a demandé lundi 9 novembre à tous les ministres et hauts fonctionnaires du pays de démissionner, dans le cadre d'un vaste remaniement après la chute de son prédécesseur Santiago Peña. Le pays à annoncer avoir lancé des démarches avec les États-Unis, le Luxembourg et l'Argentine pour retrouver les fonds détournés dans le scandale bancaire ayant causé",
+     "date": "2026-11-10T10:59:03+00:00",
+     "image": "https://s.france24.com/media/display/cdb0cf80-daf9-11f1-9509-a575454bc579/w:1024/p:16x9/2026-11-07T153653Z-181768230-RC23JOAS4CY2-RTRMADP-3-PARAGUAY-POLITICS.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Sanctions contre la Russie : les ratés de l’Union européenne",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/sanctions-contre-la-russie-les-rates-de-l-union-europeenne_6808822_3210.html",
+     "resume": "Pour élaborer les dernières mesures de rétorsion adoptées par les Vingt-Sept contre le complexe militaro-industriel russe, la diplomatie européenne a changé de méthode. Le site « The Insider » relève de nombreuses erreurs et approximations.",
+     "date": "2026-11-10T11:58:35+01:00",
+     "image": "https://img.lemde.fr/2026/11/06/295/0/6000/3000/644/322/60/0/07cdab1_ftp-1-rnuupl197ywn-2026-11-06t222939z-2141489669-rc2gioae062a-rtrmadp-3-ukraine-crisis-poland-eu.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Israël : Eisenkot pour tourner la page Netanyahu ?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261110-isra%C3%ABl-eisenkot-pour-tourner-la-page-netanyahu",
+     "resume": "Le président israélien Isaac Herzog confie à Gadi Eisenkot le soin de trouver une majorité à la Knesset. Une tentative qui annonce la fin de dix-neuf ans de pouvoir pour Benjamin Netanyahu ?",
+     "date": "2026-11-10T10:58:08+00:00",
+     "image": "https://s.france24.com/media/display/da1961ea-dcf4-11f1-b50e-3f371022a770/w:1024/p:16x9/capture-a705de73.jpg",
+     "source": "France 24 — Moyen-Orient"
+    },
+    {
+     "titre": "Éthiopie : construction d'un nouveau barrage pour renforcer son indépendance énergétique",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-%C3%A9thiopie-construction-d-un-nouveau-barrage-pour-renforcer-son-ind%C3%A9pendance-%C3%A9nerg%C3%A9tique",
+     "resume": "La COP31 qui permet de discuter des changements climatiques a débuté ce lundi 9 novembre en Turquie. C’est dans ce contexte que l'électrification s'impose comme un sujet majeur. Donald Trump a relancé la polémique autour du Grand Barrage de la Renaissance, accusant Addis-Abeba de s'approprier les eaux du Nil. L'Éthiopie développe aussi un immense projet hydroélectrique sur la rivière Omo pour renf",
+     "date": "2026-11-10T10:54:46+00:00",
+     "image": "https://s.france24.com/media/display/5f7491ea-dcee-11f1-87a7-5f54d898a954/w:1024/p:16x9/FR-20261110-093354-093545-CS.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "En Cisjordanie occupée, un adolescent palestinien de 14 ans tué par l’armée israélienne",
+     "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/10/en-cisjordanie-occupee-un-adolescent-palestinien-de-14-ans-tue-par-l-armee-israelienne_6808821_6325529.html",
+     "resume": "Les forces israéliennes font régulièrement usage de balles réelles contre des Palestiniens, dont des mineurs, lançant des pierres en Cisjordanie, territoire occupé par Israël depuis 1967.",
+     "date": "2026-11-10T11:53:18+01:00",
+     "image": "https://img.lemde.fr/2026/11/07/486/0/5817/2908/644/322/60/0/6ea3b94_ftp-1-lci0jogpceua-afp-d6qn23r.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Changement climatique : une légère baisse des émissions CO2 \"encourageante\"",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-changement-climatique-une-l%C3%A9g%C3%A8re-baisse-des-%C3%A9missions-co2-encourageante",
+     "resume": "Une légère diminution des émissions mondiales est anticipée pour 2026 après le record de 2025. Toutefois, cette tendance conjoncturelle, influencée par le conflit iranien, ne suffit pas à satisfaire les objectifs climatiques mondiaux selon les chercheurs. Après une hausse moyenne annuelle de 0,9 % ces dix dernières années, les émissions devraient baisser de 0,4 % en 2026, selon le rapport scientif",
+     "date": "2026-11-10T10:51:39+00:00",
+     "image": "https://s.france24.com/media/display/cfefc478-dcec-11f1-8bc7-5f54d898a954/w:1024/p:16x9/FR-20261110-093136-093335-CS.jpg",
+     "source": "France 24 — Moyen-Orient"
+    },
+    {
+     "titre": "En Inde, l’opérateur télécom Jio Platforms est devenu le nouveau joyau boursier de l’empire Ambani",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/10/en-inde-l-operateur-telecom-jio-platforms-est-devenu-le-nouveau-joyau-boursier-de-l-empire-ambani_6808820_3234.html",
+     "resume": "L’entrée en Bourse du géant des télécommunications consolide le conglomérat Reliance, propriété de l’homme le plus riche d’Asie, Mukesh Ambani. Une étape stratégique pour le groupe, qui ambitionne d’investir dans l’IA et l’Internet par satellite.",
+     "date": "2026-11-10T11:45:05+01:00",
+     "image": "https://img.lemde.fr/2026/10/30/834/0/5000/2500/644/322/60/0/382eb3d_ftp-1-3bqw965vqqbo-2026-10-30t134236z-1273342783-rc293oamiycu-rtrmadp-3-jio-platforms-results.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Ukraine - Russie : l'Union Européenne impose sa présence à Abu Dhabi",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-ukraine-russie-l-union-europ%C3%A9enne-impose-sa-pr%C3%A9sence-%C3%A0-abu-dhabi",
+     "resume": "Les Européens, dont la France, seront \"représentés\" lors des pourparlers entre Russes et Ukrainiens qui doivent se dérouler les 10 et 11 novembre à Abou Dhabi, sous médiation américaine. Jean-Noël Barrot a déclaré que'il \"y a eu des discussions, parfois sans les Européens, parfois avec les Européens. Cette fois-ci, ils y participeront. La France y sera et elle fera entendre la voix de l'Europe\". L",
+     "date": "2026-11-10T10:41:55+00:00",
+     "image": "https://s.france24.com/media/display/56c996c4-dceb-11f1-889f-f71d22e7fea9/w:1024/p:16x9/FR-20261110-090400-091007-CS.jpg",
+     "source": "France 24 — Moyen-Orient"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : la France et l’Ukraine saluent les efforts américains à Abou Dhabi pour « obtenir des trêves partielles »",
+     "url": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-tout-accord-sur-l-ukraine-doit-respecter-son-integrite-territoriale-affirment-europeens-et-americains_6808609_3210.html",
+     "resume": "« Alors que de nouveaux pourparlers s’ouvrent ce jour à Abou Dhabi, auxquels la France est représentée », les chefs de la diplomatie française et ukrainienne « ont salué les efforts des Etats-Unis pour relancer les négociations et obtenir des trêves partielles, qui doivent constituer une première étape en vue d’un cessez-le-feu complet et inconditionnel ».",
+     "date": "2026-11-10T11:40:12+01:00",
+     "image": "https://img.lemde.fr/2026/11/10/94/0/6397/3198/644/322/60/0/d231369_ftp-1-iiq21dr360me-afp-d6z38nd.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "États-Unis : une procédure de destitution lancée contre le ministre de la Défense",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-%C3%A9tats-unis-une-proc%C3%A9dure-de-destitution-lanc%C3%A9e-contre-le-ministre-de-la-d%C3%A9fense",
+     "resume": "Une procédure de destitution du ministre américain de la Défense, Pete Hegseth, a été initiée lundi 9 novembre au Congrès par un député républicain, qui dénonce notamment la guerre en Iran et la manière dont ce ministre de Donald Trump l'a menée. Le député Thomas Massie, critique fréquent du président républicain, a déclaré que \"le ministre Hegseth a agi d'une manière contraire à la confiance plac",
+     "date": "2026-11-10T10:39:44+00:00",
+     "image": "https://s.france24.com/media/display/52a6cec0-dcf2-11f1-b362-5f54d898a954/w:1024/p:16x9/2026-11-06T012421Z-163758692-RC20IOALR7O5-RTRMADP-3-USA-TRUMP-HEGSETH.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Réunions à Abu Dhabi : la reprise des pourparlers entre la Russie et l'Ukraine",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-r%C3%A9unions-%C3%A0-abu-dhabi-la-reprise-des-pourparlers-entre-la-russie-et-l-ukraine",
+     "resume": "L'émissaire de Donald Trump, Jared Kushner, a appelé, mardi 10 novembre, à un \"nouveau\" cadre de sécurité pour l'Ukraine et la Russie, mais aussi pour l'Europe, au début de pourparlers à Abou Dhabi entre Kiev et Moscou sous médiation américaine. Les précisions d'Emmanuelle Chaze, correspondante France 24 à Kharkiv.",
+     "date": "2026-11-10T10:32:21+00:00",
+     "image": "https://s.france24.com/media/display/d23e560e-dcf1-11f1-8e93-3f371022a770/w:1024/p:16x9/2026-11-10T090754Z-228052966-RC2XKOA2GSCZ-RTRMADP-3-UKRAINE-CRISIS-TALKS-ABU-DHABI.jpg",
+     "source": "France 24 — Moyen-Orient"
+    },
+    {
+     "titre": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber Shahid Kaveh des gardiens de la révolution",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+     "resume": "L’Etat français, qui accuse Téhéran d’être à l’origine de l’attaque de la mi-octobre, a convoqué l’ambassadeur iranien à Paris. Cette unité est connue pour ses attaques contre les systèmes industriels.",
+     "date": "2026-11-10T11:30:17+01:00",
+     "image": "https://img.lemde.fr/2026/10/12/500/0/6000/3000/644/322/60/0/c291890_ftp-1-9kwosdfuml6x-2026-10-12t154034z-1680256209-rc2q1oaaopie-rtrmadp-3-france-cyberattack.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "En Pologne, les démocrates ont besoin de l’unité de l’Europe",
+     "url": "https://www.lemonde.fr/idees/article/2026/11/10/en-pologne-les-democrates-ont-besoin-de-l-unite-de-l-europe_6808816_3232.html",
+     "resume": "Alors que la violence saisit une société polonaise très divisée, les Européens doivent serrer les rangs autour du premier ministre de centre droit, Donald Tusk. Les démocraties auraient tout à craindre de la perspective d’un retour au pouvoir du PiS, allié à l’extrême droite.",
+     "date": "2026-11-10T11:30:07+01:00",
+     "image": "https://img.lemde.fr/2026/11/07/1036/0/7906/3953/644/322/60/0/4e8d965_ftp-1-sg0qqjubbpf1-afp-d6ry97f.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Les îles du Pacifique, aux avant-postes de la lutte contre le changement climatique, veulent se faire entendre à la COP31",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/10/cop31-sur-la-ligne-de-front-du-rechauffement-climatique-les-etats-insulaires-du-pacifique-veulent-se-faire-entendre_6808818_3244.html",
+     "resume": "Aux avant-postes de la lutte contre le changement climatique, les îles du Pacifique sont, avec la Turquie et l’Australie, le troisième acteur de la COP31, qui s’est ouverte lundi à Antalya dans une configuration inédite.",
+     "date": "2026-11-10T11:30:05+01:00",
+     "image": "https://img.lemde.fr/2026/10/14/411/0/3747/1873/644/322/60/0/a100643_ftp-1-kecghemeqmkd-2026-10-14t060826z-325871741-rc2cxnaarnj4-rtrmadp-3-tuvalu-dailylife.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Mobilisations en France : le Smic à 1 502 € net, \"des miettes\" selon la CGT",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-le-smic-%C3%A0-1-502-%E2%82%AC-net-des-miettes-selon-la-cgt",
+     "resume": "La revalorisation du Smic de 1,6 % au 1er décembre sera \"la deuxième hausse la plus importante en 20 ans\", a affirmé lundi le Premier ministre Sébastien Lecornu, défendant un \"coup de pouce\" qui \"n'est pas que symbolique\", pour tenter de calmer la colère sociale. La secrétaire général de la CGT a fustigé cette décision, pointant que le \"gouvernement n'a annoncé que des miettes\". Les précisions d'O",
+     "date": "2026-11-10T10:27:00+00:00",
+     "image": "https://s.france24.com/media/display/a14c225a-dce8-11f1-af3a-3f371022a770/w:1024/p:16x9/FR-20261109-200429-201201-CS.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Interpol annonce plus de 260 arrestations en lien avec des réseaux criminels de passeurs de migrants",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/interpol-annonce-plus-de-260-arrestations-en-lien-avec-des-reseaux-criminels-de-passeurs-de-migrants_6808813_3210.html",
+     "resume": "Menée en octobre par les polices de 16 pays, l’opération « Communis Maris » a permis de mettre au jour 41 organisations criminelles et d’intercepter plusieurs embarcations en mer.",
+     "date": "2026-11-10T11:16:41+01:00",
+     "image": "https://img.lemde.fr/2026/11/09/350/0/4200/2100/644/322/60/0/4a8215d_ftp-1-vo6ylgo1f5mi-afp-d6yh7df.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "La Moldavie réduit sa dépendance énergétique à la Russie grâce à une nouvelle ligne haute tension",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/la-moldavie-reduit-sa-dependance-energetique-a-la-russie-grace-a-une-nouvelle-ligne-haute-tension_6808809_3210.html",
+     "resume": "Inaugurée dimanche 8 novembre, la ligne, qui est reliée à la Roumanie, contourne la région séparatiste prorusse de Transnistrie et permet à la Moldavie de satisfaire la moitié de sa demande en électricité. C’est un levier de moins pour Moscou, qui continue cependant de peser dans le paysage politique moldave.",
+     "date": "2026-11-10T11:00:11+01:00",
+     "image": "https://img.lemde.fr/2026/11/08/349/0/5717/2858/644/322/60/0/483c46d_ftp-1-utvxzfwdckj3-2026-11-08t162755z-866501884-rc2njoatgcs7-rtrmadp-3-moldova-electricity.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/10/le-scandale-d-espionnage-chez-nvidia-revele-la-face-cachee-de-la-guerre-froide-technologique-a-laquelle-se-livrent-les-etats-unis-et-la-chine_6808810_3234.html",
+     "resume": "Jensen Huang, le dirigeant du géant de la tech, a reconnu avoir entretenu une liaison avec une femme d’affaires chinoise suspectée par les services secrets américains d’espionner pour le compte de Pékin, explique Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
+     "date": "2026-11-10T11:00:09+01:00",
+     "image": "https://img.lemde.fr/2026/11/09/24/0/800/400/644/322/60/0/22eb630_ftp-1-znsn33bwwhmi-2026-11-09t115214z-950371170-rc2akoa0jnij-rtrmadp-3-nvidia-probe-ceo.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle 2027",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261110-judoka-teddy-riner-annonce-candidature-%C3%A9lections-pr%C3%A9sidentielles-de-2027",
+     "resume": "Champion olympique de judo, Teddy Riner, qui se dit \"ni de droite ni de gauche\", a annoncé sa candidature pour l'élection présidentielle française en 2027. La semaine dernière, l'administration fiscale l'a reconnu coupable d'avoir cherché à minorer ses impôts.",
+     "date": "2026-11-10T09:51:30+00:00",
+     "image": "https://s.france24.com/media/display/1ce5d6ca-dc73-11f1-b3f0-a575454bc579/w:1024/p:16x9/AP26313423095961.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Fashion Week de Tel-Aviv : la mode israélienne célèbre les femmes, la créativité et la solidarité - IsraJ",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWpMYU5vblR6d3NsVTgwajZkU2VmT01BVXdoWjBkN1FSUENPYTZMcDVuMFlVRTF6Umk2RWw5b0J6UzdMU2VTRE9KMm1BTVFMMXJ0eDNqUzlzNGo1c1drcmhmNy1HYjNvYmhvdnNRR2lyVVNkTGtyYkl0VFNWQlZLWGx5QUtteW1faF9aem1kX2d4RE9KSjRfVDJtTFNrTjFyWTlzTlc5MUxXS0VyZV9Xb1VlTjdsNVhVYk5rRG02TTRNdC1uTDJFOXVBc21lbDQ?oc=5",
+     "resume": "Fashion Week de Tel-Aviv : la mode israélienne célèbre les femmes, la créativité et la solidarité IsraJ",
+     "date": "2026-11-10T09:43:21+00:00",
+     "image": null,
+     "source": "IsraJ"
+    },
+    {
+     "titre": "Espagne : Alberto Nuñez Feijoo, un aspirant premier ministre prêt à s’allier à l’extrême droite",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/espagne-alberto-nunez-feijoo-un-aspirant-premier-ministre-pret-a-s-allier-a-l-extreme-droite_6808806_3210.html",
+     "resume": "L’ancien haut fonctionnaire de Galice, propulsé à la tête du Parti populaire en 2022, espère mettre un terme au mandat du socialiste Pedro Sanchez, à l’occasion des élections législatives du 29 novembre. N’écartant plus un accord avec l’extrême droite, il met en avant son profil de gestionnaire pour convaincre un électorat encore dubitatif.",
+     "date": "2026-11-10T10:31:06+01:00",
+     "image": "https://img.lemde.fr/2026/11/07/388/0/4640/2320/644/322/60/0/378beaf_ftp-1-uewuuv12vvvm-afp-d6qu4ew.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Quels sont les jeux Nintendo Switch 2 qui se vendent le mieux ? Le classement mondial est sorti",
+     "url": "https://www.jeuxvideo.com/news/2113467/quels-sont-les-jeux-nintendo-switch-2-qui-se-vendent-le-mieux-le-classement-mondial-est-sorti.htm",
+     "resume": "Au 30 septembre 2026, la Nintendo Switch 2 a franchi le cap des 26 millions de consoles vendues. Mais qu’en est-il de ses jeux ? Voici les titres qui se sont le mieux vendus",
+     "date": "2026-11-10T10:30:08+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179424/1794238577-2652-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Mais que fait Xbox avec cette console crocodile ? On vous explique le lien avec GTA 6",
+     "url": "https://www.jeuxvideo.com/news/2113423/mais-que-fait-xbox-avec-cette-console-crocodile-on-vous-explique-le-lien-avec-gta-6.htm",
+     "resume": "À quelques jours de la sortie mondiale de GTA 6, Microsoft dégaine une étonnante Xbox Series X avalée par un alligator.",
+     "date": "2026-11-10T10:24:07+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179423/1794231592-5445-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Cyberattaques contre les supermarchés : pourquoi l'Iran mène-t-il une guerre économique en France ?",
+     "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261110-cyberattaques-contre-les-supermarch%C3%A9s-pourquoi-l-iran-m%C3%A8ne-t-il-une-guerre-%C3%A9conomique-en-france",
+     "resume": "Quelque 700 supermarchés français ont été victimes de cyberattaques qui ont provoqué la destruction de tonnes de produits alimentaires. Paris accuse les Gardiens de la révolution iraniens. Derrière ces sabotages, une stratégie de déstabilisation économique à moindre coût.",
+     "date": "2026-11-10T09:04:20+00:00",
+     "image": "https://s.france24.com/media/display/f0aeae6e-dce1-11f1-8e69-3f371022a770/w:1024/p:16x9/capture-4df33581.jpg",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "EN IMAGES : Cherki, Mbappé, Olise, Doué… Le défilé de mode automnal des Ble… - 20 Minutes",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnZBT3dlT0xyZ3lseEZLR21WR0szd1NEXzFQT0FzQVg0Wlh4UUk1YXJvOXNFYW5reDNEcGhNZ1ZvM01LMXRzQUJ5dFBhUkVUeTdZeFlVRW03WHpVUWhBdjZuSzlBNUl1dFZmOFlBb09OaU8xRUhNUTVrVi0yWlVXdmZmR3ZXNVF3RFpRY0x3OWVUMHBNR293T2xaTUxYbjVoTm5FR1lXRmF2NXctRVhaSE5IZ0tJWnZRdzR4MDNlSDJvUGZTeWhjR0R0YWM?oc=5",
+     "resume": "EN IMAGES : Cherki, Mbappé, Olise, Doué… Le défilé de mode automnal des Ble… 20 Minutes",
+     "date": "2026-11-10T08:47:12+00:00",
+     "image": null,
+     "source": "20 Minutes"
+    },
+    {
+     "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : la France « ne s’interdit rien » dans la riposte contre l’Iran, avertit le gouvernement",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/cyberattaque-contre-des-refrigerateurs-de-supermarches-la-france-ne-s-interdit-rien-dans-la-riposte-contre-l-iran-avertit-jean-noel-barrot_6808797_3210.html",
+     "resume": "La France a officiellement attribué à une unité cyber relevant du corps des Gardiens de la révolution de la République islamique la responsabilité de la cyberattaque d’ampleur contre des contrôleurs de réfrigération de supermarchés en octobre.",
+     "date": "2026-11-10T09:37:11+01:00",
+     "image": "https://img.lemde.fr/2026/10/13/616/0/6000/3000/644/322/60/0/443cb1e_ftp-1-8ewc1fr8bm04-5340344-01-06.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "À la Une: pléthore de candidats à l’élection présidentielle en France…",
+     "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261110-%C3%A0-la-une-pl%C3%A9thore-de-candidats-%C3%A9lection-pr%C3%A9sidentielle-france",
+     "resume": "",
+     "date": "2026-11-10T08:31:03+00:00",
+     "image": "https://s.rfi.fr/media/display/b9f61404-381b-11f1-8066-005056a97e36/w:1024/p:16x9/000-A7RE3ZQ.jpg",
+     "source": "RFI — Monde"
+    },
+    {
+     "titre": "Teddy Riner à la présidentielle de 2027, un candidat macroniste de plus ?",
+     "url": "https://www.france24.com/fr/france/20261110-france-teddy-riner-champion-judo-candidat-election-presidentielle-2027-macroniste",
+     "resume": "La candidature de Teddy Riner à la présidentielle de 2027 a créé la surprise lundi dans une campagne jusqu’ici dominée médiatiquement par Marine Le Pen et Jean-Luc Mélenchon. Mais quel positionnement politique adoptera le champion de judo ? Dans un long entretien au Parisien, il dévoile des orientations plutôt libérales, mais pourrait paradoxalement prendre des voix au leader insoumis.",
+     "date": "2026-11-10T08:16:49+00:00",
+     "image": "https://s.france24.com/media/display/6d4a2e8e-dce3-11f1-a645-29048b396e03/w:1024/p:16x9/000-36GB3A3.jpg",
+     "source": "© Sarah Meyssonnier, AFP"
+    },
+    {
+     "titre": "Infox sur Brigitte Macron : nouvelle manœuvre judiciaire du couple présidentiel contre Candace Owens",
+     "url": "https://www.france24.com/fr/france/20261110-infox-brigitte-macron-nouvelle-man%C5%93uvre-judiciaire-couple-pr%C3%A9sidentiel-contre-candace-owens-influenceuse-transgenre",
+     "resume": "Après un premier revers procédural aux États-Unis, les époux Macron ont relancé les poursuites contre l'influenceuse américaine Candace Owens, dont les vidéos consacrées à la Première dame ont contribué à donner une audience internationale à la théorie complotiste selon laquelle Brigitte Macron aurait effectué une transition de genre. La nouvelle procédure la vise dans le Tennessee, où elle réside",
+     "date": "2026-11-10T07:46:00+00:00",
+     "image": "https://s.france24.com/media/display/17aee8ee-dcd8-11f1-8485-695cb59fade5/w:1024/p:16x9/AP26281341335922.jpg",
+     "source": "© AP, Teresa Suarez"
+    },
+    {
+     "titre": "Frigos victimes de cyberattaques : la France \"ne s'interdit rien\" dans la riposte contre l'Iran",
+     "url": "https://www.france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran",
+     "resume": "⁠L'ambassadeur d'Iran en France, dont le pays est soupçonné d'être à l'origine des ⁠cyberattaques de grande ampleur ayant visé les réfrigérateurs de plusieurs supermarchés, a été convoqué mardi matin, a indiqué le ministère français des Affaires étrangères. Jean-Noël Barrot a déclaré mardi que Paris \"ne s'interdit rien\" dans sa riposte contre Téhéran.",
+     "date": "2026-11-10T07:32:02+00:00",
+     "image": "https://s.france24.com/media/display/d17bf19a-dcd8-11f1-8872-3f371022a770/w:1024/p:16x9/59e9ec860999a36645a3744ea75b80269a890b7f.jpg",
+     "source": "© Dimitar Dilkoff, AFP"
+    },
+    {
+     "titre": "Teddy Riner candidat à la présidentielle : quand tout le monde a un avis sur tout",
+     "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261110-t-riner-candidat-%C3%A0-la-pr%C3%A9sidentielle-ou-quand-tout-le-monde-a-un-avis-sur-tout-et-surtout-un-avis",
+     "resume": "À la une de la presse, ce mardi 10 novembre, la perplexité d’une partie de la presse face à la candidature du quintuple médaillé olympique de judo Teddy Riner à la présidentielle de 2027, les réactions plus que mitigées, en France, à l’annonce de la revalorisation du salaire minimum. Et une nouvelle statue de Trump (ou plutôt de son gros orteil).",
+     "date": "2026-11-10T07:09:06+00:00",
+     "image": "https://s.france24.com/media/display/51fdee10-dcd2-11f1-bdd6-a575454bc579/w:1024/p:16x9/5-L-EQUIPE-RINER.png",
+     "source": "France 24 — Monde"
+    },
+    {
+     "titre": "Guerre en Ukraine : cinq choses à savoir sur les pourparlers d'Abu Dhabi",
+     "url": "https://www.france24.com/fr/moyen-orient/20261110-guerre-ukraine-cinq-choses-savoir-pourparlers-abou-dhabi-russie-%C3%A9tats-unis-trump",
+     "resume": "Trouver une issue à la guerre qui oppose depuis plus de quatre ans la Russie à l'Ukraine : voilà l'ambitieux objectif des pourparlers de paix qui s'ouvrent mardi à Abu Dhabi, aux Émirats arabes unis. France 24 dresse la liste des cinq choses à savoir sur ces discussions tripartites prévues entre la Russie, l'Ukraine et les États-Unis.",
+     "date": "2026-11-10T06:19:35+00:00",
+     "image": "https://s.france24.com/media/display/8e77aaca-dc82-11f1-9693-a575454bc579/w:1024/p:16x9/2026-11-05T090059Z-1254041086-RC26DNA29012-RTRMADP-3-UKRAINE-CRISIS-USA-RUSSIA.jpg",
+     "source": "© Gavriil Grigorov, Reuters"
+    },
+    {
+     "titre": "Les modes africaines doivent-elles encore passer par Paris, Londres ou New-York",
+     "url": "https://www.rfi.fr/fr/podcasts/8-milliards-de-voisins/20261110-les-modes-africaines-doivent-elles-forc%C3%A9ment-passer-par-paris",
+     "resume": "Considérées comme les capitales mondiales de la mode, les « Big Four » - Paris, Milan, New-York et Londres - ont longtemps façonné les tendances et dicté les codes de la mode internationale. Mais ces dernières années, de nouvelles scènes créatives s’imposent, en particulier sur le continent africain.",
+     "date": "2026-11-10T06:00:50+00:00",
+     "image": "https://s.rfi.fr/media/display/979fa6a0-d856-11f1-b4eb-a575454bc579/w:1024/p:16x9/ben-iwara-01W4Xbz3Ayk-unsplash.jpg",
+     "source": "RFI — Monde"
+    },
+    {
+     "titre": "Infox transphobe sur Brigitte Macron : le couple présidentiel porte plainte dans le Tennessee contre Candace Owens",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html",
+     "resume": "Après une précédente plainte déposée aux Etats-Unis en 2025, un magistrat du Delaware avait estimé que la podcasteuse ne pouvait être tenue responsable à titre personnel, car il y avait prescription.",
+     "date": "2026-11-10T06:05:19+01:00",
+     "image": "https://img.lemde.fr/2026/10/28/187/0/4830/2415/644/322/60/0/9e9627d_ftp-1-30goc2slhfws-2026-10-28t162318z-558084938-rc2umla2hon7-rtrmadp-3-macron-lawsuit-defamation.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Sans Zelda et Mario, vous ne joueriez pas à GTA 6, ni à aucun jeu en 3D ! Et ce n'est pas nous qui le disons…",
+     "url": "https://www.jeuxvideo.com/news/2113031/sans-zelda-et-mario-vous-ne-joueriez-pas-a-gta-6-ni-a-aucun-jeu-en-3d-et-ce-n-est-pas-nous-qui-le-disons.htm",
+     "resume": "On pourrait croire qu’il n’y a pas plus opposé que The Legend of Zelda : Ocarina of Time et GTA 6 et pourtant, les co-fondateurs de Rockstar rappellent que les jeux en 3D n’existeraient pas sans Mario et Zelda !",
+     "date": "2026-11-10T06:05:08+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179397/1793973585-9414-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Vladimir Medinski, ce négociateur du Kremlin aux pourparlers d’Abou Dhabi dont l’idée fixe est d’incorporer l’Ukraine à la Russie",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/heraut-du-recit-imperialiste-russe-vladimir-medinski-le-negociateur-du-kremlin-aux-pourparlers-d-abou-dhabi-n-est-pas-enclin-au-compromis_6808782_3210.html",
+     "resume": "La désignation de ce propagandiste à la tête de la délégation russe aux discussions trilatérales – Russie, Ukraine, Etats-Unis –, prévues mardi 10 et mercredi 11 novembre aux Emirats arabes unis, n’est pas un bon signe pour la paix.",
+     "date": "2026-11-10T05:34:32+01:00",
+     "image": "https://img.lemde.fr/2026/11/09/64/0/2733/1366/644/322/60/0/1d0def6_upload-1-rlvjz7hmdjgg-2026-02-20t152630z-270067122-rc2rpjamjv7z-rtrmadp-3-ukraine-crisis-russia-talks.JPG",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Ben Rhodes, ex-conseiller de Barack Obama : « Nous, les Américains, ne pouvons pas continuer à nous engager dans le monde avec notre seule puissance militaire »",
+     "url": "https://www.lemonde.fr/international/article/2026/11/10/midterms-2026-nous-les-americains-ne-pouvons-pas-continuer-a-nous-engager-dans-le-monde-avec-notre-seule-puissance-militaire_6808780_3210.html",
+     "resume": "Dans un entretien au « Monde », l’ancien conseiller adjoint à la sécurité nationale du président démocrate expose les priorités de politique extérieure de la nouvelle majorité démocrate au Congrès.",
+     "date": "2026-11-10T05:31:05+01:00",
+     "image": "https://img.lemde.fr/2026/11/09/121/0/3980/1990/644/322/60/0/09e272f_upload-1-p73ss0ucbbcn-maxnewsfrfive068482.jpg",
+     "source": "Le Monde — International"
+    },
+    {
+     "titre": "Pour GTA 6, cela n'avait aucun sens de remplacer les créatifs par de l'IA : le jeu est une \"production artisanale\" pour le patron de Take Two",
+     "url": "https://www.jeuxvideo.com/news/2113360/pour-gta-6-cela-n-avait-aucun-sens-de-remplacer-les-creatifs-par-de-l-ia-le-jeu-est-une-production-artisanale-pour-le-patron-de-take-two.htm",
+     "resume": "Nous sommes en 2026. Toute l'industrie vidéoludique est occupée par l'intelligence artificielle générative... Toute ? Non ! Car un studio peuplé d'irréductibles développeurs nommé Rockstar Games résiste encore et toujours à l'envahisseur algorithmique.",
+     "date": "2026-11-09T22:20:08+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179424/1794235330-9076-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "\"Je ne comprends pas comment c'est légal\", ce joueur ne peut plus jouer à Minecraft alors qu'il l'a acheté : attention, ça pourrait vous arriver à vous aussi...",
+     "url": "https://www.jeuxvideo.com/news/2112904/je-ne-comprends-pas-comment-c-est-legal-ce-joueur-ne-peut-plus-jouer-a-minecraft-alors-qu-il-l-a-achete-attention-ca-pourrait-vous-arriver-a-vous-aussi.htm",
+     "resume": "Avec le succès du film Minecraft au cinéma, beaucoup de joueurs qui n’avaient pas touché au jeu depuis plusieurs années ont voulu réessayer de s’y mettre. Petit problème : certains ont eu la mauvaise surprise de découvrir qu’ils ne pouvaient plus jouer à un jeu qu’ils avaient pourtant acheté plusieurs...",
+     "date": "2026-11-09T21:40:09+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179389/1793894733-7759-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Call of Duty Modern Warfare 4 respecte-t-il les promesses faites aux joueurs ?",
+     "url": "https://www.jeuxvideo.com/news/2113421/call-of-duty-modern-warfare-4-respecte-t-il-les-promesses-faites-aux-joueurs.htm",
+     "resume": "L’année dernière, après la sortie de Black Ops 7, Call of Duty faisait son mea culpa… Est-ce que les promesses ont été tenues avec Modern Warfare 4 ?",
+     "date": "2026-11-09T20:10:10+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179423/1794230685-6649-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "WoW Forever : nouvelle volte face de Blizzard qui augmente de 50% l'expérience gagnée en tuant les monstres en donjon",
+     "url": "https://www.jeuxvideo.com/news/2113434/wow-forever-nouvelle-volte-face-de-blizzard-qui-augmente-de-50-l-experience-gagnee-en-tuant-les-monstres-en-donjon.htm",
+     "resume": "Blizzard semble incapable de se décider pour ce qui est de WoW Forever. Après avoir drastiquement bridé le gain d'expérience en donjon pour pousser la communauté vers le monde ouvert, le studio rétropédale une nouvelle fois en appliquant une hausse de 50% sur les monstres abattus en donjon.",
+     "date": "2026-11-09T20:10:09+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179423/1794231582-5802-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot ?",
+     "url": "https://www.france24.com/fr/moyen-orient/20261109-israel-avigdor-liberman-principal-obstacle-gouvernement-eisenkot-netanyahu",
+     "resume": "Avec seulement sept députés, Avigdor Liberman tente à nouveau de s'imposer comme le faiseur de roi de la politique israélienne. Le chef d'Israël Beitenou, un parti ultranationaliste membre de la coalition d'opposition, refuse toute inclusion des 19 députés issus des partis arabes dans la formation du prochain gouvernement. Gadi Eisenkot, le leader de l'opposition à Benjamin Netanyahu, parviendra-t",
+     "date": "2026-11-09T18:25:37+00:00",
+     "image": "https://s.france24.com/media/display/625cfd66-dc5d-11f1-b095-a575454bc579/w:1024/p:16x9/000-D3684XX.jpg",
+     "source": "© Jack Guez, AFP"
+    },
+    {
+     "titre": "Afro-Argentins : briser le mythe de l’Argentine blanche",
+     "url": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261109-afro-argentins-briser-le-mythe-de-l-argentine-blanche",
+     "resume": "En Argentine, un vieux dicton populaire assure que « les Mexicains descendent des Aztèques, les Péruviens des Incas, et les Argentins des bateaux ». Une allégorie sympathique qui authentifie le roman national... l'Argentine serait une nation issue de l’immigration européenne. Sauf que ce récit est une fable. Occultant totalement l'arrivée au XVIIIè siècle de centaines de milliers d’esclaves africa",
+     "date": "2026-11-09T18:15:13+00:00",
+     "image": "https://s.rfi.fr/media/display/33a3fe4c-1145-11ea-8d03-005056bf7c53/w:1024/p:16x9/IMG_9924_0.jpg",
+     "source": "RFI — Monde"
+    },
+    {
+     "titre": "Mu Xiaokui Phantom Blade Zero : Comment débloquer la phase secrète et battre ce boss ?",
+     "url": "https://www.jeuxvideo.com/news/2112354/mu-xiaokui-phantom-blade-zero-comment-debloquer-la-phase-secrete-et-battre-ce-boss.htm",
+     "resume": "Les anciens alliés de Soul sont aussi à sa poursuite dans Phantom Blade Zero. La jeune maîtresse de l'ordre, Mu Xiaokui, qui est comme sa petite sœur, l'affronte lors d'un long combat. Découvrez une vidéo de ce boss avec un guide écrit en complément.",
+     "date": "2026-11-09T19:15:09+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179422/1794219217-6687-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Sony annonce une nouvelle PlayStation Portal, voici ses caractéristiques",
+     "url": "https://www.jeuxvideo.com/news/2113344/sony-annonce-une-nouvelle-playstation-portal-voici-ses-caracteristiques.htm",
+     "resume": "Trois ans après son lancement, la PlayStation Portal continue d'évoluer. Sony vient d'annoncer une nouvelle version de son appareil portable, avec une modification matérielle qui pourrait bien changer son utilisation à l'avenir. Mais cette nouveauté s'accompagne de plusieurs restrictions.",
+     "date": "2026-11-09T18:45:07+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179422/1794218164-3901-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Comment de fausses vidéos sont utilisées pour décrédibiliser les inondations à Gaza",
+     "url": "https://www.france24.com/fr/moyen-orient/20261109-comment-de-fausses-vid%C3%A9os-sont-utilis%C3%A9es-pour-d%C3%A9cr%C3%A9dibiliser-les-inondations-%C3%A0-gaza",
+     "resume": "Les 6 et 7 novembre, des inondations ont touché des camps de réfugiés dans la bande de Gaza. De nombreuses vidéos, partagées sur les réseaux sociaux montrent la détresse des habitants. Cependant, de fausses vidéos, générées par l’intelligence artificielle, viennent semer le doute et sont instrumentalisées par des comptes pro-israéliens.",
+     "date": "2026-11-09T17:30:52+00:00",
+     "image": "https://s.france24.com/media/display/21120812-dc60-11f1-b1d9-bf1914cabd52/w:1024/p:16x9/neutre-bis.jpg",
+     "source": "© X / Montage Les Observateurs"
+    },
+    {
+     "titre": "Gaza : de fortes pluies font quatre morts dans un camp de déplacés palestiniens",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-gaza-de-fortes-pluies-font-quatre-morts-dans-un-camp-de-d%C3%A9plac%C3%A9s-palestiniens",
+     "resume": "Des pluies torrentielles dans ​la bande de Gaza ont provoqué l'effondrement d'un talus de sable et de pierres sur des tentes de Palestiniens déplacés, tuant une femme et ​trois enfants. Près de 70 000 tentes de camps où vivent des déplacés ont été inondées.",
+     "date": "2026-11-09T17:23:27+00:00",
+     "image": "https://s.france24.com/media/display/34b49cea-dc60-11f1-99c2-d18c5759e759/w:1024/p:16x9/miniagaza.jpg",
+     "source": "France 24 — Moyen-Orient"
+    },
+    {
+     "titre": "La dynamique du populisme de droite est-elle freinée?",
+     "url": "https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20261109-la-dynamique-du-populisme-de-droite-est-elle-frein%C3%A9e",
+     "resume": "États-Unis, Brésil, Serbie, Hongrie. Dans ces quatre pays, l’année a été marquée par des élections qui ont vu la défaite des candidats populistes. Des résultats à l’encontre de la poussée observée partout dans le monde, notamment en Allemagne et en France. Quels enseignements peut-on tirer de ces scrutins ? Quelles différences et quel points communs ? La tendance peut-elle se poursuivre ?",
+     "date": "2026-11-09T17:20:13+00:00",
+     "image": "https://s.rfi.fr/media/display/a9582364-d184-11f1-b7e2-5b4a75578ebb/w:1024/p:16x9/AP26299070267601.jpg",
+     "source": "RFI — Monde"
+    },
+    {
+     "titre": "Epona Zelda Ocarina of Time : Comment débloquer le cheval de Link",
+     "url": "https://www.jeuxvideo.com/news/2113508/epona-zelda-ocarina-of-time-comment-debloquer-le-cheval-de-link.htm",
+     "resume": "Découvrez comment débloquer Epona, la célèbre monture de Link, dans le remake Switch 2 de Zelda OOT. Une petite quête annexe pas bien compliquée, mais qui peut vous laisser bloqué si vous n'allez pas au bon en droit au bon moment. Voici comment faire dans ce guide rapide.",
+     "date": "2026-11-09T18:01:09+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179424/1794242858-7817-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Preview Exterminauts sur PC, PS5 et Xbox Series",
+     "url": "https://www.jeuxvideo.com/preview/2113495/exterminauts-le-studio-de-dead-by-daylight-prepare-t-il-le-rival-inattendu-de-helldivers-2-nos-premieres-impressions.htm",
+     "resume": "En amont de la bêta publique prévue du 12 au 18 novembre, nous avons pu tester Exterminauts pendant deux heures aux côtés des développeurs de Behaviour Interactive. L'occasion de vérifier si ce jeu d'action coopératif à trois joueurs a les armes pour bousculer la référence Helldivers 2.",
+     "date": "2026-11-09T17:30:10+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179424/1794241024-5899-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "À Guissény, les Ateliers d’Ambroisine envisagent un nouveau défilé de mode - Le Télégramme",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGw5ZVdmRHpFTGNIS3JjMVlvX1FHZEpYVnhwSVAwWUIzYnpvdURFMmVnUlpwN1ZRWUhYYWVyZU9NX3BXNHRsZUFXSkhPOHFlMVlhLW52QXNkRF95MVFMOFMyU0IyT004ZEJwQzREN0tBT2xLb3VXOVlSYkhDUjZXNzFMQWNhYmtsVzZzaG1HVmQ4bXdrS0tuTnlCOTNuQzIyaERNYWVsazZhakJ1Nl95cGNPRHFKblppMGhxWTN5ajJXWU9BVU0wQmJXMjV4b1BoYnEw?oc=5",
+     "resume": "À Guissény, les Ateliers d’Ambroisine envisagent un nouveau défilé de mode Le Télégramme",
+     "date": "2026-11-09T16:27:00+00:00",
+     "image": null,
+     "source": "Le Télégramme"
+    },
+    {
+     "titre": "La Switch 2 ne sera jamais au niveau de sa petite soeur et voici pourquoi...",
+     "url": "https://www.jeuxvideo.com/news/2113139/la-switch-2-ne-sera-jamais-au-niveau-de-sa-petite-soeur-et-voici-pourquoi.htm",
+     "resume": "Après un lancement explosif, la Switch 2 encaisse un sérieux coup de frein au cours de sa deuxième année de commercialisation. Entre flambée du prix des composants, calendrier timide et concurrence écrasante, les analystes financiers s'accordent désormais pour affirmer que la machine ne rééditera jamais...",
+     "date": "2026-11-09T17:15:08+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179399/1793986949-7537-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Quand et comment pré-télécharger GTA 6 ? Toutes les infos sur PS5 et Xbox Series",
+     "url": "https://www.jeuxvideo.com/news/2113342/quand-et-comment-pre-telecharger-gta-6-toutes-les-infos-sur-ps5-et-xbox-series.htm",
+     "resume": "Rockstar Games avance le pré-chargement de GTA 6 au 10 novembre 2026. Afin d'anticiper sa taille colossale, voici tout ce qu'il faut savoir pour être prêt le jour de la sortie sur PS5 et Xbox Series.",
+     "date": "2026-11-09T16:45:07+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179423/1794226095-5100-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Essaouira accueille la première édition de sa Fashion Week - Lebrief",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdE1zTTMyZDNTZ05pdnJIT1pleDZMcGpsN1Q4SjRvQXVWNjJLRXE4dGJxODhSMmZtWjlnUEhxclFaLXpmanF5T3JkdERSZUo2UmJuUHFaa05kZFYzYkZYSVRKNkI1amZ1d0lYdzd6ZC1iUHBsczNENHFHaTV1VTI2ZUpn?oc=5",
+     "resume": "Essaouira accueille la première édition de sa Fashion Week Lebrief",
+     "date": "2026-11-09T15:41:00+00:00",
+     "image": null,
+     "source": "Lebrief"
+    },
+    {
+     "titre": "Les stars de la Nati en mode défilé à Saint-Gall - Blick",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlotS09pUjk5N3VXcWwtb0pIbmladWdsVnFmbmVTMVl5NDd0UHhtcEg5R0QtMFZHWEpoeXNob29jcUxBVFR5cndIcFhUaVl3cEpPaWFrZkRzZXNSVFdSajBmbF9uMFJUak9zcnlYdGJtVXRJWGloVUlsSWdiekNoY3BDcVAyeS1SbUJXZFlhdE1DcHZnWjltZW5Vdw?oc=5",
+     "resume": "Les stars de la Nati en mode défilé à Saint-Gall Blick",
+     "date": "2026-11-09T15:04:59+00:00",
+     "image": null,
+     "source": "Blick"
+    },
+    {
+     "titre": "PS5 : on sait combien la console a rapporté d'argent en 2026... La fin des disques ne suffira pas à faire vaciller Sony",
+     "url": "https://www.jeuxvideo.com/news/2113130/ps5-on-sait-combien-la-console-a-rapporte-d-argent-en-2026-la-fin-des-disques-ne-suffira-pas-a-faire-vaciller-sony.htm",
+     "resume": "PlayStation se porte bien. Entre les pétitions en ligne, les appels au boycott et les débats houleux sur les réseaux sociaux, on aurait presque pu imaginer un constructeur fragilisé par ses choix stratégiques... et bien pas du tout. L'annonce de la disparition progressive des supports physiques d'ici...",
+     "date": "2026-11-09T16:00:09+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179399/1793985569-2007-card.jpg",
+     "source": "jeuxvideo.com"
+    },
+    {
+     "titre": "Essaouira clôture sa première Fashion Week au croisement de la mode et du patrimoine - Industrie du Maroc",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1PVWZ3dk5pQzZFdmNWX1l0UVZjRUdheUZ0bm5KbjFLeF9oeFlMQ3JfUk1UWmhSeVN3ME9QMmpxaDZ4dklPV2RkSUhteUNKWGdrSW1RNFM2SF93ODNKamxEdzhLVlNKOXZ0QndvSWxsdDBteWJqVlhxNnNFOGs0aXZvbWZiUjBYcHh1eTBSbkUzczYya2Z2a051em1EVHd2ZDhRR2c2R2VfSEk?oc=5",
+     "resume": "Essaouira clôture sa première Fashion Week au croisement de la mode et du patrimoine Industrie du Maroc",
+     "date": "2026-11-09T14:03:54+00:00",
+     "image": null,
+     "source": "Industrie du Maroc"
+    },
+    {
+     "titre": "Gymnase Gerudo Zelda Ocarina of Time : Comment avoir les flèches de glace et finir ce donjon ?",
+     "url": "https://www.jeuxvideo.com/news/2113416/gymnase-gerudo-zelda-ocarina-of-time-comment-avoir-les-fleches-de-glace-et-finir-ce-donjon.htm",
+     "resume": "Découvrez comment terminer le Gymnase Gerudo dans le remake Switch 2 de Zelda OOT. Ce petit donjon secondaire va vous permettre de mettre la main sur les flèches de glace : on voit comment les atteindre facilement dans ce guide avec la solution de toutes les énigmes.",
+     "date": "2026-11-09T14:50:12+01:00",
+     "image": "https://image.jeuxvideo.com/medias-lg/179423/1794228697-1641-card.jpg",
+     "source": "jeuxvideo.com"
     }
    ]
   },
