@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-10T13:13:41+00:00",
+ "genere_le": "2026-11-11T12:39:46+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Crise politique en Israël : Gadi Eisenkot chargé de former une majorité",
-   "zone": "Israël",
-   "resume": "Le président d'Israël a demandé à un nouveau responsable politique, Gadi Eisenkot, de tenter de former un gouvernement pour remplacer potentiellement le Premier ministre de longue date Benjamin Netanyahu. C'est un moment",
-   "source": "France 24 — Moyen-Orient · 10/11 10:58"
+   "titre": "Israël : Gadi Eisenkot lance une offensive politique contre Benjamin Netanyahu",
+   "zone": "Israël / Palestine / Liban",
+   "resume": "L'ancien chef militaire et opposant Gadi Eisenkot cherche à forcer la création d'une enquête officielle sur les attaques du 7 octobre 2007. C'est un coup dur politique pour le Premier ministre Benjamin Netanyahu, qui fai",
+   "source": "France 24 — Monde · 11/11 09:10"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Candidature surprise de Teddy Riner à l'élection présidentielle de 2027",
-   "zone": "France",
-   "resume": "Le célèbre judoka Teddy Riner s'est lancé dans la course à l'élection présidentielle française de 2027, en se déclarant hors des partis traditionnels. Une annonce qui surprend les observateurs et bouscule le débat politi",
-   "source": "France 24 — Monde · 10/11 09:51"
+   "titre": "Mobilisation pour la libération du journaliste Christophe Gleizes en Algérie",
+   "zone": "Afrique du Nord",
+   "resume": "Le journaliste français Christophe Gleizes totalise 500 jours d'emprisonnement en Algérie, un cas qui mobilise fortement les organisations de défense de la liberté de la presse comme RSF. Un match de solidarité rassemble",
+   "source": "France 24 — Monde · 11/11 12:07"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Crise politique et sociale en Afrique du Sud après le recul historique de l'ANC",
-   "zone": "Afrique du Sud",
-   "resume": "L'ANC, le parti qui dirige l'Afrique du Sud depuis la chute de l'apartheid, a réalisé le pire score de son histoire lors des élections municipales début novembre. Un signal fort envoyé par la population qui sanctionne le",
-   "source": "France 24 — Monde · 10/11 11:29"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Pourparlers de paix sur l'Ukraine à Abou Dhabi",
-   "zone": "Ukraine / Russie / Émirats arabes unis",
-   "resume": "Des négociations de paix exceptionnelles ont débuté le 10 novembre aux Émirats arabes unis pour tenter de trouver une issue à la guerre en Ukraine. Les États-Unis jouent les médiateurs, tandis que les Européens s'inviten",
-   "source": "France 24 — Moyen-Orient · 10/11 12:16"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Riposte française après des cyberattaques imputées à l'Iran",
-   "zone": "France / Iran",
-   "resume": "La France accuse formellement l'Iran d'avoir piraté les systèmes frigorifiques de centaines de supermarchés français, entraînant la destruction de tonnes de nourriture. L'ambassadeur iranien a été convoqué et Paris menac",
-   "source": "Le Monde — International · 10/11 10:30"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Soupçons d'espionnage technologique autour du patron de Nvidia",
-   "zone": "États-Unis / Chine",
-   "resume": "Le patron de Nvidia, une entreprise cruciale pour l'intelligence artificielle, est éclaboussé par une enquête pour espionnage au profit de la Chine. Ce scandale met en lumière la guerre invisible que se livrent Américain",
-   "source": "France 24 — Monde · 10/11 11:02"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Revalorisation du Smic en France et contestations sociales",
+   "titre": "Commémorations nationales du 108e anniversaire de l'Armistice du 11-Novembre en France",
    "zone": "France",
-   "resume": "Le gouvernement français a validé une augmentation de 1,6 % du Smic effective au 1er décembre, amenant le salaire net à 1 502 euros. Présentée par le Premier ministre comme un coup de pouce notable, elle est critiquée pa",
-   "source": "France 24 — Monde · 10/11 12:37"
+   "resume": "La France a célébré le 108e anniversaire de la fin de la Première Guerre mondiale sous la présidence d'Emmanuel Macron, qui effectuait là ses dernières commémorations officielles à ce poste. Des temps forts ont eu lieu à",
+   "source": "France 24 — Monde · 11/11 12:12"
   },
   {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "La Moldavie s'affranchit du gaz et de l'électricité russes",
-   "zone": "Moldavie / Roumanie / Russie",
-   "resume": "La Moldavie a inauguré une ligne électrique reliant son réseau à la Roumanie, ce qui lui permet de s'approvisionner sans dépendre de la Russie ou de la zone séparatiste de Transnistrie. C'est une étape cruciale pour l'in",
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Guerre en Ukraine : des pourparlers russo-ukrainiens dans une impasse à Abou Dhabi",
+   "zone": "Ukraine / Russie",
+   "resume": "Les négociations de paix menées à Abou Dhabi entre Kiev et Moscou n'ont pas permis d'avancée majeure, la Russie restant fermée à l'idée d'une trêve. L'Ukraine tente de son côté de sécuriser ses technologies de communicat",
    "source": ""
   },
   {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Intervention de forces salvadoriennes contre les gangs en Haïti",
+   "zone": "Haïti / Salvador",
+   "resume": "L'armée du Salvador est intervenue en Haïti pour prêter main-forte aux autorités locales en détruisant le QG d'un important gang criminel. Cette opération est menée sous l'impulsion du président salvadorien Nayib Bukele,",
+   "source": "France 24 — Monde · 11/11 09:28"
+  },
+  {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Enjeux climatiques de la COP31 et transition énergétique en Éthiopie",
-   "zone": "Turquie / Éthiopie / Pacifique",
-   "resume": "La conférence mondiale sur le climat (la COP31) a débuté en Turquie avec une forte mobilisation des îles du Pacifique menacées par la montée des eaux. Au même moment, des pays comme l'Éthiopie développent leurs propres i",
-   "source": "France 24 — Monde · 10/11 10:54"
+   "titre": "Mobilisation en Espagne et en France sur le logement et le pouvoir d'achat",
+   "zone": "Europe",
+   "resume": "Les Espagnols descendent dans la rue pour protester contre la cherté de la vie et la difficulté de se loger. Pendant ce temps, des économistes suggèrent que lier transition écologique et dépenses sociales pourrait aider ",
+   "source": "France 24 — Monde · 11/11 08:43"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "COP31 : la Turquie tente d'imposer l'électrification face aux tensions sur les énergies fossiles",
+   "zone": "Turquie / International",
+   "resume": "Lors du sommet climatique de la COP31, la question de l'abandon progressif du charbon et du pétrole provoque de vives discussions. La Turquie, qui accueille la conférence, propose de se concentrer sur l'électrification g",
+   "source": "France 24 — Monde · 11/11 09:48"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Le journalisme en temps de crise : les défis de la liberté de la presse",
-   "zone": "Ukraine / Égypte",
-   "resume": "Tandis que les médias indépendants ukrainiens survivent tant bien que mal grâce au soutien des lecteurs, la situation empire pour les journalistes en Égypte, menacés par le pouvoir militaire. L'ONU a dû intervenir pour d",
-   "source": "Le Monde — International · 10/11 13:00"
+   "titre": "Vague d'alertes à la bombe dans des centaines d'établissements scolaires en Italie",
+   "zone": "Italie",
+   "resume": "Plus de 300 écoles italiennes ont été évacuées simultanément suite à des menaces de bombes reçues par e-mail. Le gouvernement suit la situation de très près face à la panique et aux perturbations engendrées dans tout le ",
+   "source": "© Antonio Calanni, AP · 11/11 10:58"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Lancement d'une marche nationale contre le racisme en France après l'attentat de Trappes",
+   "zone": "France",
+   "resume": "Suite à l'attaque raciste survenue en octobre à Trappes, des militants ont entamé une longue marche pacifique entre Marseille et la région parisienne. Leur objectif est de sensibiliser le public aux dangers du racisme et",
+   "source": "France 24 — Monde · 11/11 11:44"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "L'Aneto, l'un des plus grands glaciers des Pyrénées, menacé de disparition à brève échéance",
+   "zone": "Espagne / France",
+   "resume": "Le plus grand glacier des Pyrénées, l'Aneto, fond à vue d'œil et devrait totalement disparaître dans la prochaine décennie. Ce phénomène visuel et scientifique témoigne de la violence du réchauffement climatique dans le ",
+   "source": "France 24 — Monde · 11/11 11:16"
   }
  ]
 }
