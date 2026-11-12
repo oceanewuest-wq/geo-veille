@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-11T12:39:46+00:00",
+ "genere_le": "2026-11-12T13:43:09+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Israël : Gadi Eisenkot lance une offensive politique contre Benjamin Netanyahu",
-   "zone": "Israël / Palestine / Liban",
-   "resume": "L'ancien chef militaire et opposant Gadi Eisenkot cherche à forcer la création d'une enquête officielle sur les attaques du 7 octobre 2007. C'est un coup dur politique pour le Premier ministre Benjamin Netanyahu, qui fai",
-   "source": "France 24 — Monde · 11/11 09:10"
+   "titre": "Incidents diplomatiques franco-israéliens autour de la Cisjordanie",
+   "zone": "Moyen-Orient / France / Israël",
+   "resume": "La France a refoulé à la frontière un délégué représentant les implantations israéliennes en Cisjordanie, provoquant la colère de Tel-Aviv. Les colonies étant jugées illégales par le droit international et l'UE, cet inci",
+   "source": "Le Monde — International · 12/11 02:36"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Mobilisation pour la libération du journaliste Christophe Gleizes en Algérie",
-   "zone": "Afrique du Nord",
-   "resume": "Le journaliste français Christophe Gleizes totalise 500 jours d'emprisonnement en Algérie, un cas qui mobilise fortement les organisations de défense de la liberté de la presse comme RSF. Un match de solidarité rassemble",
-   "source": "France 24 — Monde · 11/11 12:07"
+   "titre": "Recomposition politique aux États-Unis après les Midterms 2026",
+   "zone": "États-Unis",
+   "resume": "Aux États-Unis, les démocrates ont décroché une victoire historique dans le Mississippi et s'emparent de leviers clés du Congrès. Grâce à ces succès électoraux, ils prévoient de lancer d'importantes enquêtes sur le prési",
+   "source": "France 24 — Monde · 12/11 11:53"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Commémorations nationales du 108e anniversaire de l'Armistice du 11-Novembre en France",
-   "zone": "France",
-   "resume": "La France a célébré le 108e anniversaire de la fin de la Première Guerre mondiale sous la présidence d'Emmanuel Macron, qui effectuait là ses dernières commémorations officielles à ce poste. Des temps forts ont eu lieu à",
-   "source": "France 24 — Monde · 11/11 12:12"
+   "titre": "Tensions politiques et révision constitutionnelle en RDC",
+   "zone": "Afrique / RDC",
+   "resume": "Le président congolais Félix Tshisekedi change les règles constitutionnelles, ce qui pourrait lui permettre de se représenter à la fin de son mandat. En même temps, la justice poursuit l'un des principaux porte-paroles d",
+   "source": "Le Monde — International · 12/11 04:30"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Mobilisation nationaliste d'ampleur à Varsovie pour l'Indépendance",
+   "zone": "Europe / Pologne",
+   "resume": "Pour la fête nationale polonaise, un quart de million de manifestants ont défilé à Varsovie sous la bannière des mouvements nationalistes. Le défilé s'est déroulé sous haute tension juste après une attaque meurtrière à C",
+   "source": "Le Monde — International · 12/11 08:30"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : des pourparlers russo-ukrainiens dans une impasse à Abou Dhabi",
-   "zone": "Ukraine / Russie",
-   "resume": "Les négociations de paix menées à Abou Dhabi entre Kiev et Moscou n'ont pas permis d'avancée majeure, la Russie restant fermée à l'idée d'une trêve. L'Ukraine tente de son côté de sécuriser ses technologies de communicat",
-   "source": ""
+   "titre": "Impact humanitaire et cyber-tension dans le conflit iranien",
+   "zone": "Moyen-Orient / Iran",
+   "resume": "L'Iran traverse une crise majeure avec une population très éprouvée par la guerre et l'effondrement économique. En parallèle, les tensions s'étendent au domaine numérique, la France accusant ouvertement Téhéran d'avoir p",
+   "source": "Le Monde — International · 12/11 04:00"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intervention de forces salvadoriennes contre les gangs en Haïti",
-   "zone": "Haïti / Salvador",
-   "resume": "L'armée du Salvador est intervenue en Haïti pour prêter main-forte aux autorités locales en détruisant le QG d'un important gang criminel. Cette opération est menée sous l'impulsion du président salvadorien Nayib Bukele,",
-   "source": "France 24 — Monde · 11/11 09:28"
+   "titre": "Crise politique en Israël et poursuite de l'occupation au Sud-Liban",
+   "zone": "Moyen-Orient / Israël / Liban",
+   "resume": "Alors qu'Israël cherche à composer un nouveau gouvernement, l'armée maintient sa présence dans le sud du Liban où elle contrôle une bande frontalière. Ces combats ont déjà forcé des centaines de milliers de Libanais à fu",
+   "source": "France 24 — Moyen-Orient · 12/11 10:29"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Initiatives diplomatiques et perturbations technologiques en Ukraine",
+   "zone": "Europe de l'Est / Ukraine",
+   "resume": "Des négociations en coulisses s'accélèrent entre Américains, Russes et Ukrainiens pour tenter de trouver une porte de sortie au conflit. Dans le même temps, le président Zelensky signale des pannes préoccupantes du résea",
+   "source": "France 24 — Monde · 12/11 10:26"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Mobilisation en Espagne et en France sur le logement et le pouvoir d'achat",
-   "zone": "Europe",
-   "resume": "Les Espagnols descendent dans la rue pour protester contre la cherté de la vie et la difficulté de se loger. Pendant ce temps, des économistes suggèrent que lier transition écologique et dépenses sociales pourrait aider ",
-   "source": "France 24 — Monde · 11/11 08:43"
+   "titre": "Pression sur la direction de Nvidia et riposte commerciale de Pékin",
+   "zone": "États-Unis / Chine",
+   "resume": "Le patron du fabricant de puces électroniques Nvidia est menacé d'être écarté de la direction de son entreprise. De son côté, la Chine accuse les États-Unis d'inventer des histoires d'espionnage pour bloquer ses progrès ",
+   "source": "France 24 — Monde · 12/11 10:36"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "COP31 : la Turquie tente d'imposer l'électrification face aux tensions sur les énergies fossiles",
-   "zone": "Turquie / International",
-   "resume": "Lors du sommet climatique de la COP31, la question de l'abandon progressif du charbon et du pétrole provoque de vives discussions. La Turquie, qui accueille la conférence, propose de se concentrer sur l'électrification g",
-   "source": "France 24 — Monde · 11/11 09:48"
+   "titre": "Reprise économique et alerte sur la dette publique en Allemagne",
+   "zone": "Europe / Allemagne",
+   "resume": "Les conseillers économiques du gouvernement allemand notent un retour de la croissance mais s'inquiètent vivement du niveau de la dette du pays. Ils appellent le chancelier à freiner les dépenses de l'État pour éviter de",
+   "source": "Le Monde — International · 12/11 08:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Vague d'alertes à la bombe dans des centaines d'établissements scolaires en Italie",
-   "zone": "Italie",
-   "resume": "Plus de 300 écoles italiennes ont été évacuées simultanément suite à des menaces de bombes reçues par e-mail. Le gouvernement suit la situation de très près face à la panique et aux perturbations engendrées dans tout le ",
-   "source": "© Antonio Calanni, AP · 11/11 10:58"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Lancement d'une marche nationale contre le racisme en France après l'attentat de Trappes",
-   "zone": "France",
-   "resume": "Suite à l'attaque raciste survenue en octobre à Trappes, des militants ont entamé une longue marche pacifique entre Marseille et la région parisienne. Leur objectif est de sensibiliser le public aux dangers du racisme et",
-   "source": "France 24 — Monde · 11/11 11:44"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "L'Aneto, l'un des plus grands glaciers des Pyrénées, menacé de disparition à brève échéance",
-   "zone": "Espagne / France",
-   "resume": "Le plus grand glacier des Pyrénées, l'Aneto, fond à vue d'œil et devrait totalement disparaître dans la prochaine décennie. Ce phénomène visuel et scientifique témoigne de la violence du réchauffement climatique dans le ",
-   "source": "France 24 — Monde · 11/11 11:16"
+   "titre": "Grève générale pour le logement et le pouvoir d'achat en Espagne",
+   "zone": "Europe / Espagne",
+   "resume": "Plus de cent mille personnes se sont rassemblées dans les rues de Madrid pour dénoncer la hausse des loyers et le coût de la vie. Cette grève générale exprime la colère d'une large partie de la population face à la crise",
+   "source": "France 24 — Monde · 12/11 10:33"
   }
  ]
 }
