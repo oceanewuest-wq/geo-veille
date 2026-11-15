@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-14T12:03:24+00:00",
+ "genere_le": "2026-11-15T12:43:39+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Rapprochement stratégique entre l'Iran et la Russie",
-   "zone": "Moyen-Orient / Iran",
-   "resume": "L'Iran et la Russie resserrent leurs liens militaires et commerciaux face aux pressions occidentales et israéliennes. En exploitant la mer Caspienne comme voie d'échange privilégiée, ils cherchent à limiter l'effet des s",
-   "source": "Le Monde — International · 14/11 05:00"
+   "titre": "Impasse politique en Israël : Eisenkot accuse Netanyahu",
+   "zone": "Moyen-Orient / Israël",
+   "resume": "En Israël, former un gouvernement est devenu un véritable casse-tête politique. Le responsable désigné pour créer cette nouvelle alliance accuse Benjamin Netanyahu de bloquer les négociations en coulisses tout en réclama",
+   "source": "© Ohad Zwigenberg, AP · 14/11 21:14"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Négociations de paix sur l'Ukraine et concessions territoriales",
+   "titre": "L'Arabie saoudite sous la pression des conflits régionaux",
+   "zone": "Moyen-Orient / Arabie saoudite",
+   "resume": "L'Arabie saoudite essaie de transformer son économie, mais elle est coincée entre les tensions avec l'Iran et la guerre au Yémen voisin. Ces conflits menacent sa sécurité et effraient les investisseurs étrangers. Pour Ri",
+   "source": "Le Monde — International · 15/11 05:30"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Tensions entre la RDC et le Rwanda au Sommet de la Francophonie",
+   "zone": "Afrique / Asie",
+   "resume": "Le Sommet de la Francophonie qui réunit les pays francophones au Cambodge se déroule sur fond de dispute politique. La RDC ne veut pas que la dirigeante rwandaise actuelle soit reconduite à la tête de l'organisation à ca",
+   "source": "France 24 — Monde · 15/11 11:06"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes iraniennes contre une base américaine au Bahreïn",
+   "zone": "Moyen-Orient / Golfe Persique",
+   "resume": "L'Iran a lancé des attaques de drones contre des installations militaires des États-Unis stationnées au Bahreïn. C'est une escalade importante car Téhéran frappe directement les forces américaines dans les pays voisins d",
+   "source": "© 2026 Planet Labs PBC, AFP · 15/11 10:21"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Un commandant du Hamas éliminé dans le sud de Gaza",
+   "zone": "Moyen-Orient / Palestine",
+   "resume": "L'armée israélienne a mené un raid ciblé qui a coûté la vie à Samir Abou Younis, l'un des responsables militaires du Hamas à Gaza. La mort de ce cadre a été confirmée par le groupe armé lui-même. Ces frappes ciblées vise",
+   "source": "Le Monde — International · 15/11 03:57"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Jordanie : Peine de mort pour l'attaque contre l'église de Karak",
+   "zone": "Moyen-Orient / Jordanie",
+   "resume": "La justice de Jordanie a condamné à mort les trois auteurs d'une attaque ayant fait neuf morts dans une église orthodoxe en octobre. C'est un drame majeur dans un pays habituellement très stable au Moyen-Orient. Le pouvo",
+   "source": "© Raad Adayleh, AP Photo · 15/11 09:49"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Guerre en Ukraine : Pistes de négociations et concessions territorial",
    "zone": "Europe de l'Est / Ukraine",
-   "resume": "Des émissaires américains auraient proposé que l'Ukraine cède la région du Donbass pour obtenir en échange une protection garantie par l'OTAN. Volodymyr Zelensky a partagé publiquement cette suggestion tout en rappelant ",
-   "source": "Le Monde — International · 14/11 11:13"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Sommet trilatéral annoncé entre Trump, Xi et Poutine en Chine",
-   "zone": "Asie-Pacifique / Chine",
-   "resume": "Les dirigeants américain, chinois et russe doivent se réunir jeudi prochain en Chine pour discuter de désarmement nucléaire et du dossier iranien. Ce sommet est exceptionnel car il rassemble directement les trois plus gr",
-   "source": "© Dmitri Lovetsky, AP · 14/11 02:15"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Ouverture du XXe Sommet de la Francophonie au Cambodge",
-   "zone": "Asie-Pacifique / Afrique des Grands Lacs",
-   "resume": "Les représentants des pays francophones se sont réunis au Cambodge avec l'ambition de favoriser la paix et la coopération. Cependant, la réunion est dominée par les fortes tensions militaires entre le Rwanda et la Républ",
-   "source": "Le Monde — International · 14/11 05:00"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Offensives de sécurité d'inspiration salvadorienne contre les gangs en Haïti",
-   "zone": "Caraïbes / Haïti",
-   "resume": "Les forces de l'ordre en Haïti adoptent une stratégie très dure contre les gangs armés pour reprendre le contrôle du terrain. Plusieurs bases de criminels redoutés ont été totalement détruites au cours de raids ciblés. C",
-   "source": "France 24 — Monde · 14/11 10:06"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Mandats d'arrêt internationaux lancés par la junte du Burkina Faso",
-   "zone": "Afrique de l'Ouest / Burkina Faso",
-   "resume": "Le gouvernement militaire burkinabè a émis des mandats d'arrêt internationaux contre une vingtaine de journalistes et d'opposants vivant en exil. Le régime les accuse d'activités terroristes et réclame leur renvoi dans l",
-   "source": "Le Monde — International · 13/11 21:51"
+   "resume": "Des émissaires américains ont évoqué l'idée que l'Ukraine cède certains territoires en échange d'une protection par l'alliance de l'OTAN. Le président Zelensky estime que toute décision capitale sur les frontières devra ",
+   "source": "France 24 — Monde · 15/11 10:09"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Démission du PDG de Nvidia et retombées politiques à Washington",
-   "zone": "États-Unis",
-   "resume": "Le fondateur et patron incontournable de Nvidia a soudainement quitté son poste après des révélations sur sa vie privée. Cette démission affole le monde de la tech et crée une tempête politique à Washington, accusé d'avo",
-   "source": "France 24 — Monde · 14/11 11:13"
+   "titre": "Ralentissement économique de la France par rapport à l'Europe",
+   "zone": "France / Union Européenne",
+   "resume": "La croissance économique de la France ralentit plus nettement que celle de ses voisins européens. En conséquence, la richesse moyenne produite par habitant passe sous la moyenne de la zone euro. Cela pose problème pour f",
+   "source": "Le Monde — International · 15/11 05:15"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Panne massive du contrôle aérien aux États-Unis",
-   "zone": "États-Unis",
-   "resume": "Une immense panne informatique a paralysé le ciel américain, obligeant à clouer tous les avions au sol pendant plusieurs heures. La coupure a provoqué un chaos dans les aéroports et l'annulation de milliers de vols dans ",
-   "source": "Le Monde — International · 14/11 05:00"
+   "titre": "SpaceX réussit la récupération de l'étage supérieur de Starship",
+   "zone": "États-Unis / Espace",
+   "resume": "La société d'Elon Musk a réussi à attraper le deuxième morceau de sa fusée géante Starship lors de son retour sur Terre. C'est un exploit technique très difficile qui n'avait jamais été accompli auparavant. À terme, rend",
+   "source": "France 24 — Monde · 15/11 09:47"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Visite pastorale et rassemblement populaire pour le pape Léon XIV au Pérou",
-   "zone": "Amérique latine / Pérou",
-   "resume": "Le pape Léon XIV a terminé son grand voyage en Amérique latine par une visite au Pérou, accueillie par des foules immenses. Il est revenu à Chiclayo, une ville où il a été évêque pendant de nombreuses années. Ce voyage r",
-   "source": "France 24 — Monde · 14/11 10:14"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Nouvelle journée de mobilisation sociale « Acte V » en France",
+   "titre": "Vol de données de 22 millions de personnes chez Maileva",
    "zone": "France",
-   "resume": "Une nouvelle vague de manifestations a parcouru la France ce samedi pour protester contre la vie chère et réclamer des mesures d'urgence. Dans le même temps, les syndicats de police menacent de se mettre en grève s'ils n",
-   "source": "France 24 — Monde · 14/11 10:04"
+   "resume": "Une filiale de La Poste spécialisée dans le courrier d'entreprise s'est fait pirater ses serveurs. Résultat : les informations personnelles de 22 millions de personnes ont été volées. Les autorités recommandent la plus g",
+   "source": "© Joel Saget, AFP · 14/11 20:50"
   }
  ]
 }
