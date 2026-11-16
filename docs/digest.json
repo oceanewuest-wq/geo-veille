@@ -1,5 +1,5 @@
 {
- "genere_le": "2026-11-15T12:43:39.847191+00:00",
+ "genere_le": "2026-11-16T13:30:45.823394+00:00",
  "mode_brut": false,
  "erreurs": [
   "ISW: HTTPError",
@@ -840,680 +840,743 @@
    "lang": "en",
    "sujets": [
     {
-     "titre": "Iranian Missile and Drone Attacks Target US Radar Base in Bahrain",
+     "titre": "US Aircraft Carrier Arrives in Middle East Amid Tensions with Iran",
      "theme": "Conflicts & Security",
-     "zone": "Persian Gulf / Iran / Bahrain",
-     "formel": "Iranian forces launched aerial strikes targeting US military infrastructure, specifically radar systems, in Bahrain on November 15, 2026. The Bahrain Defence Force stated its air defense systems intercepted several incoming threats, while Iranian media reported ongoing diplomatic discussions in Oman. The Persian Gulf remains a focal point of regional escalation between Tehran and Washington, threatening naval transit and regional security. Official accounts differ on the extent of damage inflicted on the facilities housing the US Navy Fifth Fleet.",
-     "en_clair": "Iran launched missiles and drones at military radar installations in Bahrain, where the US Navy bases its Middle East fleet. Local air defenses managed to intercept several incoming attacks, but the escalation has heightened fears of a broader Gulf conflict. This situation matters because the Persian Gulf is a crucial global trade corridor, and direct strikes on US bases dramatically raise the risk of direct war.",
+     "zone": "Middle East / Iran",
+     "formel": "The USS Theodore Roosevelt has arrived in the Middle East, becoming the third US aircraft carrier deployed to the US Central Command area of responsibility. The naval reinforcement comes amid heightened tensions with Iran and potential risks of regional military escalation. US officials cited force protection and deterrence as primary objectives for the increased naval presence. Meanwhile, reports indicate Russian space intelligence sharing with Tehran could influence Iranian defensive preparations.",
+     "en_clair": "The US military has moved a third aircraft carrier, the USS Theodore Roosevelt, into the Middle East to strengthen its presence. This deployment highlights growing concerns about potential military conflict between the US and Iran. The extra naval power aims to deter attacks and protect international shipping lanes in strategic waters.",
      "urls": [
-      "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-      "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
+      "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss"
      ]
     },
     {
-     "titre": "Israeli Air Strike Kills Hamas Commander in Gaza Strip",
+     "titre": "Israel Military Cloud Surveillance via Amazon Facial Recognition",
      "theme": "Conflicts & Security",
-     "zone": "Gaza Strip / Middle East",
-     "formel": "An Israeli military air strike targeted and killed Samir Abu Younis, commander of the Rafah Brigade of Hamas, in a Gaza camp. Both Israeli Defense Forces (IDF) representatives and Hamas officials confirmed his death on November 15, 2026. The operation forms part of targeted Israeli military actions against armed leadership structures within the enclave. Palestinian medical sources reported accompanying damage to surrounding civilian infrastructure during the attack.",
-     "en_clair": "Israel launched an air strike in Gaza that killed Samir Abu Younis, a senior commander within Hamas's Rafah Brigade. Both sides have officially confirmed the death of the military figure. This is significant because targeting high-ranking commanders disrupts military command structures in Gaza while maintaining extreme military tension across the area.",
+     "zone": "Israel / Palestine",
+     "formel": "Reports reveal that the Israeli military uploaded approximately 3.5 million facial images to Amazon's Rekognition platform to track Palestinians. The data integration occurred alongside an increased reliance on Amazon Web Services cloud infrastructure during military operations in Gaza and the West Bank. Civil liberties groups have raised concerns over privacy violations and mass automated surveillance. Neither Amazon nor the Israeli Defense Forces have publicly clarified the contractual terms governing the biometric processing.",
+     "en_clair": "Israel's military reportedly uploaded millions of photos of Palestinians onto Amazon's cloud platform to use automated facial recognition tools. This allowed military systems to quickly track and identify individuals across Gaza and the West Bank. The news has sparked debates over how major tech companies supply surveillance technology used in conflict zones.",
      "urls": [
-      "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+      "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians"
      ]
     },
     {
-     "titre": "Jordan Sentences Three Men to Death Over Fatal Church Attack",
+     "titre": "Israeli Settler Attacks and Home Seizures in Jericho",
      "theme": "Conflicts & Security",
-     "zone": "Jordan / Middle East",
-     "formel": "A Jordanian court sentenced three men to death by hanging for their involvement in a fatal mass shooting at a Greek Orthodox church in Karak governorate. The attack, which occurred in October 2026 during a funeral service, resulted in nine deaths and injured 34 others. State authorities prosecuted the suspects under national anti-terrorism statutes. The court's verdict remains subject to final legal appeals according to Jordan's judicial procedures.",
-     "en_clair": "Jordan's court system has handed down death sentences to three men convicted of opening fire at a Christian funeral service last month, killing nine people. The government prosecuted the incident as a major terrorist attack intended to provoke sectarian violence. The verdict highlights Jordan's strict judicial stance against armed extremism and religious violence.",
+     "zone": "Israel / Palestine",
+     "formel": "Israeli settlers seized eight Palestinian residences in Jericho, West Bank, prompting fears among local residents of an expanded territorial takeover. During the incidents, journalists and residents were harassed, and several structures were leveled by settler groups. Local Palestinian authorities have reported an increase in systematic property confiscations across the occupied territory. Human rights organizations continue to document forced displacement and physical altercations surrounding these land seizures.",
+     "en_clair": "In the West Bank city of Jericho, Israeli settlers have taken over several Palestinian homes, causing heightened fear among local communities. Journalists covering the events were harassed as residents reported property destruction. The incidents reflect growing tensions and disputes over land ownership in the occupied West Bank.",
      "urls": [
-      "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/11/16/jericho-settlers-harass-al-jazeera-reporter-after-stealing-palestinian-home?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss"
      ]
     },
     {
-     "titre": "Israeli Measures Threaten Hebron Industrial Zone and Local Economy",
+     "titre": "Ahmad Tibi Elected Deputy Speaker of Israel's Knesset",
+     "theme": "Politics & Diplomacy",
+     "zone": "Israel",
+     "formel": "Ahmad Tibi, a veteran lawmaker representing Palestinian citizens of Israel, has been elected as deputy speaker of the Knesset. Tibi, who has served in the Israeli parliament for 27 years and previously acted as an adviser to Yasser Arafat, hailed the appointment as a significant political achievement for his parliamentary alliance. The position involves presiding over legislative sessions and managing administrative parliamentary duties. His election highlights shifting political dynamics within Israel's legislative assembly.",
+     "en_clair": "Ahmad Tibi, a long-serving Arab-Israeli politician, has been chosen as deputy speaker of Israel's parliament, the Knesset. Tibi has been a lawmaker for nearly three decades and represents Arab citizens of Israel. His new role gives him a prominent position in managing parliamentary debates and administrative work.",
+     "urls": [
+      "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss"
+     ]
+    },
+    {
+     "titre": "Saudi-Backed Yemeni Forces Reposition to Defend Aden",
+     "theme": "Conflicts & Security",
+     "zone": "Yemen / Red Sea",
+     "formel": "Saudi-backed Yemeni military forces have begun withdrawing troops from positions near the Bab al-Mandab Strait to reinforce defenses around the interim capital of Aden. The strategic redeployment is aimed at countering potential Houthi advances threatening southern government strongholds. Officials emphasized that consolidating control around Aden takes priority amid shifting frontline dynamics. Maritime security analysts note that the movement could impact coastal patrols along critical Red Sea shipping corridors.",
+     "en_clair": "Yemeni government troops backed by Saudi Arabia are moving back from the strategic Bab al-Mandab Strait to defend the city of Aden. They fear that Houthi rebels might push toward the temporary capital. This repositioning shifts military focus toward city defense, which could affect security along nearby sea routes.",
+     "urls": [
+      "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "titre": "Lebanon Plans Second Airport to Aid Economic Recovery",
      "theme": "Economy & Energy",
-     "zone": "West Bank / Middle East",
-     "formel": "Israeli security forces have enforced restrictive operational measures around the Beit Ula industrial zone near Hebron in the occupied West Bank. Local commercial representatives state that restricted access and security closures severely hinder manufacturing, movement of goods, and employment. The measures target a major hub of West Bank commercial activity, raising concerns among economic analysts regarding long-term regional stability. Israeli officials cite security considerations for maintaining access controls across the district.",
-     "en_clair": "Israeli authorities have placed tight restrictions on the Beit Ula industrial zone in the West Bank, blocking workers and goods from moving freely. Local business owners warn that these closures are devastating Palestinian enterprises and increasing economic hardship. This issue matters because shutting down key industrial hubs degrades the local economy and heightens daily instability.",
+     "zone": "Lebanon",
+     "formel": "Lebanese officials are advancing plans to establish a second commercial airport to reduce single-point dependency on Beirut-Rafic Hariri International Airport. Economists project that a secondary aviation hub could improve national logistical resilience, facilitate humanitarian transport, and spur economic recovery following prolonged conflict. Feasibility studies focus on converting existing airbases to handle civilian passenger and cargo traffic. Political analysts suggest the project could also decentralize regional infrastructure development.",
+     "en_clair": "Lebanon is looking to build or convert a second commercial airport to expand its travel and transport options beyond Beirut. Currently, the country relies on just one major international airport, which creates vulnerabilities during crises. A second hub could boost the economy, improve transport links, and help rebuild trade.",
      "urls": [
-      "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss"
+      "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss"
      ]
     },
     {
-     "titre": "US Explores Proposal on Donbas Territory and Ukrainian NATO Membership",
-     "theme": "Politics & Diplomacy",
-     "zone": "Ukraine / United States / Russia",
-     "formel": "Ukrainian President Volodymyr Zelensky stated that US officials have discussed a potential diplomatic framework under which Ukraine would cede control of the Donbas region in exchange for NATO membership. While US representatives acknowledged that multiple peace concepts remain under discussion, Washington has not formally endorsed a fixed agreement. The Kremlin maintains that NATO expansion to Ukraine constitutes a non-negotiable security threshold, whereas Kyiv officially opposes territorial concessions. The proposal reflects ongoing international negotiations aimed at ending the active military conflict.",
-     "en_clair": "The United States is reportedly discussing a compromise plan where Ukraine would give up claims to the eastern Donbas region in exchange for full NATO protection. Ukrainian leaders have historically refused to give up land, while Russia strongly opposes Ukraine joining NATO. This idea is important because it represents a potential major shift in international diplomatic attempts to end the war.",
+     "titre": "Ukraine Targets Kerch Bridge in Crimean Drone Barrage",
+     "theme": "Conflicts & Security",
+     "zone": "Ukraine / Russia",
+     "formel": "Ukrainian forces launched an overnight drone barrage targeting the Kerch Strait Bridge, connecting Russia to occupied Crimea, temporarily disrupting vehicular traffic. Russian authorities reported active air defenses and imposed temporary transit restrictions along the strategic link. The Kerch Bridge serves as a vital logistical corridor for Russian military supply lines into southern Ukraine. Concurrently, diplomatic negotiations remain stalled as Moscow signals reluctance to engage in unified European security framework talks.",
+     "en_clair": "Ukraine carried out a drone attack against the Kerch Bridge, which links Russia to occupied Crimea. The bridge is a crucial route for moving Russian troops and military supplies. Traffic was temporarily halted, marking another strategic strike against key Russian infrastructure.",
      "urls": [
-      "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
-      "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+      "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+      "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss"
      ]
     },
     {
-     "titre": "French Judo Legend Teddy Riner Launches Presidential Campaign",
-     "theme": "Politics & Diplomacy",
-     "zone": "France / Europe",
-     "formel": "Multiple Olympic judo champion Teddy Riner announced his candidacy for the upcoming French presidential election. Political survey data indicates that approximately 20 percent of polled voters express willingness to consider supporting his political platform. Riner's entry into electoral politics introduces an independent celebrity figure into a competitive political landscape. Analysts note his public popularity contrasts with traditional political party apparatuses leading into the campaign.",
-     "en_clair": "Teddy Riner, one of France's most decorated Olympic judo champions, has unexpectedly declared that he is running for president of France. Early polls suggest that up to one in five voters would consider voting for him due to his widespread public popularity. His campaign is notable because a sports icon entering politics could disrupt traditional political parties.",
-     "urls": [
-      "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "titre": "Hardware Switch Upgrade Triggers Massive US Aviation Outage",
+     "titre": "Silicon Valley Campaign Seeks Reinstatement of Ex-Nvidia CEO",
      "theme": "Economy & Energy",
      "zone": "United States",
-     "formel": "A nationwide grounding of commercial aircraft across the United States was caused by a faulty telecommunications switch replacement during routine infrastructure maintenance. Transportation Department officials confirmed that aging copper wire hardware overloaded during the upgrade, ruling out a hostile cyberattack. The technical disruption halted hundreds of flights and affected domestic air transport operations for hours. Federal regulators have initiated an investigation into contractor procedures and system redundancy safeguards.",
-     "en_clair": "A nationwide freeze on US flights was caused by a routine computer router and legacy wiring upgrade that malfunctioned and overloaded federal aviation systems. Officials confirmed it was a technical error rather than a cyberattack. This incident highlights how fragile critical transport infrastructure can be when relying on outdated technology.",
+     "formel": "Prominent technology leaders, including Elon Musk, have launched a high-profile campaign titled 'Bring Jensen Back' to reinstate former Nvidia CEO Jensen Huang following his ouster by the board. Industry figures argue that Huang's departure poses strategic risks to US leadership in artificial intelligence hardware and semiconductor design. Nvidia's board has faced market pressure and scrutiny over corporate governance following the leadership rift. The dispute underscores tensions between corporate boards and visionary tech executives.",
+     "en_clair": "Top tech figures, including Elon Musk, are campaigning to bring Jensen Huang back as CEO of chipmaking giant Nvidia after he was removed by the board. Supporters believe his leadership is crucial for maintaining the US lead in artificial intelligence chips. The push highlights high stakes and board drama within one of the world's most valuable tech companies.",
      "urls": [
-      "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
-      "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+      "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss"
      ]
     },
     {
-     "titre": "SpaceX Starship Achieves Double Catch Milestone in Test Flight",
-     "theme": "Economy & Energy",
-     "zone": "United States / Space",
-     "formel": "SpaceX successfully returned and caught the upper stage of its Starship megarocket at its Texas facility using mechanical tower arms known as 'chopsticks'. While the super-heavy booster rocket exploded during descent, the recovery of the upper stage marks a technical milestone for reusable launch vehicles. The mission advances the company's objective to lower space transportation costs through total vehicle reusability. The US Federal Aviation Administration continues to monitor launch parameters for environmental and safety compliance.",
-     "en_clair": "SpaceX successfully caught part of its giant Starship rocket using large mechanical arms attached to its launch tower as it returned from space. Even though another booster section exploded, catching the main stage brings the company closer to fully reusable rockets. Making rockets reusable drastically lowers the cost of sending payloads and humans into space.",
-     "urls": [
-      "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-      "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "titre": "Mass Demonstrations in Portugal Protest Escalating Housing Crisis",
-     "theme": "Society",
-     "zone": "Portugal / Europe",
-     "formel": "Thousands of protesters assembled across major Portuguese urban centers on November 15, 2026, demanding legislative action against rapidly rising residential rent prices. Demonstrators cited wage stagnation paired with speculative real estate investments as primary drivers of housing unaffordability. Civil society groups requested caps on short-term rentals and government rent controls. Prime Minister-led executive offices faced calls to accelerate public housing investment.",
-     "en_clair": "Thousands of people flooded the streets across Portugal to protest skyrocketing rent costs that are making housing unaffordable for average citizens. Protesters are urging the government to restrict short-term holiday rentals and introduce rent caps. This issue matters because soaring living costs are pushing middle- and lower-income families into economic crisis across southern Europe.",
-     "urls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "World Bank Highlights Poverty Reduction and Economic Vulnerability in India",
-     "theme": "Society",
-     "zone": "India / Asia",
-     "formel": "World Bank data indicates that India has lifted approximately 500 million citizens out of extreme poverty since 2011. However, economic analysts emphasize that millions of low-income households remain near the poverty threshold and vulnerable to inflation and informal employment insecurity. The findings highlight structural economic disparities despite strong national gross domestic product growth. Government social assistance programs continue to face calls for expansion to secure household resilience.",
-     "en_clair": "A World Bank report shows India has pulled half a billion people out of extreme poverty over the past decade, yet many families still struggle on low wages. Analysts explain that while official poverty rates fell, millions remain one emergency away from financial ruin. This matters because economic growth must translate into job security and stability for vulnerable populations.",
-     "urls": [
-      "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Dakar 2026 Youth Olympic Games Conclude in Senegal",
-     "theme": "Sport",
-     "zone": "Senegal / Africa",
-     "formel": "The Dakar 2026 Youth Olympic Games concluded in Senegal, marking the end of the first Olympic event hosted on the African continent. Host nation athletes recorded competitive performances across multiple disciplines amid wide international participation. Event organizers cited high spectator attendance and successful infrastructure delivery despite broader geopolitical challenges surrounding the games. International Olympic Committee representatives commended Senegal's operational execution.",
-     "en_clair": "The 2026 Youth Olympic Games in Dakar, Senegal, have officially drawn to a close, marking a historic achievement as the first Olympic event ever held in Africa. Senegal's young athletes performed exceptionally well, celebrating local sporting talent on a global stage. The success of the event shows Africa's growing capacity to host major worldwide sporting competitions.",
-     "urls": [
-      "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Japan Defeats Brazil 3-2 in Stoppage-Time Football Thriller",
-     "theme": "Sport",
-     "zone": "Japan / Brazil / Global",
-     "formel": "Japan's national football team secured a 3-2 victory over Brazil following a stoppage-time goal by substitute Tatsuhiro Sakamoto. The international match featured high-profile disciplinary incidents, including red cards issued to Brazilian manager Carlo Ancelotti and forward Raphinha. The result marks Japan's first victory against Brazil since their previous World Cup round-of-32 fixture. Football federation officials noted the match's intense competitive tempo ahead of upcoming international tournaments.",
-     "en_clair": "Japan scored a dramatic last-minute goal to defeat Brazil 3-2 in an intense international football match. The game was packed with drama, as Brazil's coach and star player both received red cards and were sent off. This win is a huge confidence booster for Japan as they continue to compete against the world's top football powerhouses.",
-     "urls": [
-      "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Philippines Candidate Carmelle Wins Inaugural Eurovision Song Contest Asia",
+     "titre": "Gérard Depardieu Drops Appeal Against Sexual Assault Conviction",
      "theme": "Press · Film · Fashion",
-     "zone": "Philippines / Asia",
-     "formel": "Nineteen-year-old Filipino artist Carmelle Collado won the inaugural Eurovision Song Contest Asia in Bangkok with her entry 'Sobra-Sobra'. The regional pop and rap performance secured top marks from jury panels and viewer voting across participating Asian nations. The event represents an expansion of the European broadcasting format into Asian media markets. Regional organizers confirmed plans to continue the annual competition following strong viewership ratings.",
-     "en_clair": "Filipino singer Carmelle won the first-ever Eurovision Song Contest Asia in Bangkok with her hit empowering song 'Sobra-Sobra'. The contest adapts the famous European music tournament format for Asian television audiences. Its success marks a major milestone for pan-Asian pop culture and entertainment broadcasting.",
+     "zone": "France",
+     "formel": "French actor Gérard Depardieu has formally withdrawn his appeal against a conviction for sexually assaulting two women on a film set in 2021. Depardieu issued an apology to both victims, bringing an end to legal proceedings that had drawn significant media attention to French cinema culture. Legal representatives confirmed the decision renders his criminal conviction final under French law. The case has intensified scrutiny regarding workplace safety and conduct in the entertainment industry.",
+     "en_clair": "Actor Gérard Depardieu has dropped his appeal against a sexual assault conviction stemming from an incident on a 2021 film set. He also issued an apology to the two women involved, making the court's guilty ruling official and final. The decision marks a major moment in France's ongoing efforts to address workplace harassment in the film industry.",
      "urls": [
-      "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-      "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
+      "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction"
      ]
     },
     {
-     "titre": "South Korea Exam Cheating Scandal Involving AI Tools Triggers National Review",
+     "titre": "Eurovision Organizers Criticize Censorship in First Asian Contest",
      "theme": "Streamers & Gaming",
-     "zone": "South Korea / Asia",
-     "formel": "The top scorer on South Korea's national tax accounting exam admitted to using artificial intelligence tools to cheat by transmitting photos of test questions during the examination. Educational authorities launched an investigation into test integrity standard operating procedures ahead of the upcoming national college entrance examination. The scandal has raised public debate regarding digital device security and AI monitoring in standardized testing environments. Legal counsel and ethics boards are reviewing potential administrative and legal penalties.",
-     "en_clair": "A student who got the highest score on South Korea's official tax exam confessed to using AI software by secretly photographing test questions and sending them to an online tool. This incident has raised widespread alarm right before the country's critical college entrance exams. It highlights the growing challenge schools and testing centers face in stopping tech-savvy students from using AI to cheat online and in exams.",
+     "zone": "Malaysia / Global",
+     "formel": "Eurovision organizers expressed disappointment after Malaysian broadcaster TV3 removed footage featuring drag performers and LGBTQ+ spokespersons during the first Eurovision Asia broadcast. The European Broadcasting Union highlighted that structural edits violated transmission guidelines designed to ensure editorial integrity across international partners. Malaysian regulators defended the cuts under local broadcasting decency laws prohibiting explicit content. The incident underscores cultural friction as European entertainment franchises expand into Asian markets.",
+     "en_clair": "Organizers of the Eurovision Song Contest criticized a Malaysian TV station for cutting out performances by drag artists and LGBTQ+ representatives during the show's Asian debut. The broadcaster stated the edits were necessary to comply with national content laws. The dispute highlights the challenges media franchises face when adapting Western programming for conservative international markets.",
      "urls": [
-      "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+      "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest"
+     ]
+    },
+    {
+     "titre": "Five EU Nations Propose Asylum Deportation Hub in Rwanda",
+     "theme": "Politics & Diplomacy",
+     "zone": "Europe / Rwanda",
+     "formel": "Germany, Denmark, Austria, Greece, and the Netherlands are expected to announce a joint initiative establishing an offshore 'return hub' in Rwanda for rejected asylum seekers. The proposal aims to streamline external deportations and deter irregular migration into the European Union. Human rights organizations have raised legal and humanitarian objections regarding third-country processing and standards of protection. The plan reflects a broader shift toward externalizing asylum management among EU member states.",
+     "en_clair": "Five European countries—including Germany and Denmark—are planning to build a center in Rwanda where asylum seekers whose applications were rejected can be sent. The goal is to make it easier to deport people who do not qualify to stay in Europe. However, human rights groups argue that sending migrants to third countries raises legal and safety concerns.",
+     "urls": [
+      "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "titre": "WHO Warns Antimicrobial Resistance Could Cause 39 Million Deaths",
+     "theme": "Society",
+     "zone": "Global",
+     "formel": "The World Health Organization (WHO) has issued a warning stating that antimicrobial resistance (AMR) could cause up to 39 million direct deaths over the next 25 years if unchecked. Overuse of antibiotics in healthcare and agriculture is accelerating drug-resistant bacterial strains worldwide. The UN agency urged governments to invest in new antimicrobial therapies, strengthen stewardship programs, and enforce global surveillance protocols. Experts emphasize that AMR poses a systemic threat to modern clinical medicine and global health security.",
+     "en_clair": "The World Health Organization warned that superbugs resistant to existing medicines could cause 39 million deaths over the next 25 years. Because bacteria are becoming resistant to common antibiotics, routine medical treatments could become dangerous or ineffective. The UN is calling on nations to limit antibiotic overuse and invest urgently in developing new drugs.",
+     "urls": [
+      "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss"
+     ]
+    },
+    {
+     "titre": "Malawian Innovator Develops AI Learning Tool for Blind Students",
+     "theme": "Society",
+     "zone": "Malawi",
+     "formel": "A 25-year-old Malawian innovator has created an artificial intelligence learning tool tailored specifically to assist visually impaired students in educational environments. The software converts printed text and visual study materials into real-time interactive audio and tactile feedback. Educational authorities in Malawi have initiated pilot implementations in specialized schools to measure improvements in academic performance. The project demonstrates the growing role of accessible technology in addressing educational inequality across developing regions.",
+     "en_clair": "A young innovator in Malawi has developed a new AI tool designed to help blind students learn more easily in school. The tool converts written text and images into audio descriptions so students can follow along with lessons. It is currently being tested in schools to help bridge the learning gap for students with visual impairments.",
+     "urls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss"
+     ]
+    },
+    {
+     "titre": "Jürgen Klopp Publicly Criticizes FIFA President Gianni Infantino",
+     "theme": "Sport",
+     "zone": "Global",
+     "formel": "Germany national team manager Jürgen Klopp launched strong public criticism against FIFA President Gianni Infantino, calling for his replacement at the helm of world football's governing body. Klopp stated that administrative governance under Infantino has deteriorated beyond the tenure of former president Sepp Blatter. The remarks follow widespread debate over expanding tournament calendars, international scheduling congestion, and commercialization strategies. FIFA has not issued an official response to the manager's comments.",
+     "en_clair": "Germany football manager Jürgen Klopp strongly criticized FIFA President Gianni Infantino, arguing he should be replaced. Klopp claimed that decision-making in world football management has gotten worse in recent years. His public comments reflect growing frustration among top coaches over congested match schedules and political leadership in sports.",
+     "urls": [
+      "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ],
    "articles": [
     {
-     "titre": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+     "titre": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
+     "resume": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone in any researcher’s career. She planned to study basic income as a medical intervention: her randomized control trial would test whether monthly grants of $500-c",
+     "date": "2026-11-16T13:00:01+00:00",
+     "image": "https://i.guim.co.uk/img/media/7bc9d1e5a2fcc38b045fd00a8be51070726c9d56/435_0_4353_3483/master/4353.jpg?width=140&quality=85&auto=format&fit=max&s=caaf91097142d920be5e8e873fd2fecd",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "resume": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
+     "date": "2026-11-16T12:54:44+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "‘Visceral response’: flag campaigns inspire anti-racism organising across England",
+     "url": "https://www.theguardian.com/world/2026/nov/16/visceral-response-flag-campaigns-inspire-anti-racism-organising-across-england",
+     "resume": "Exclusive: Study shows people taking action against far-right intimidation such as 75-year-old taking to his bike at 2am to remove flags Flag campaigns and far-right intimidation have sparked a wave of grassroots anti-racism organising across England in the past 12 months, according to new research. The Institute of Race Relations (IRR) warns that the widespread displays of St George’s cross and u",
+     "date": "2026-11-16T12:54:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/56ba62f39579dad429dd9d386c394486ed21d838/510_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=48fa365e6fea1c99f449f4710100dede",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+     "resume": "Brand’s wife Laura read out a message from him on their YouTube show At the lobby briefing, the PM’s spokesperson also played down the prospect of the government introducing a staggered age of consent. (See 11.30am .) Asked about the proposal, the PM’s spokesperson said the government would “always look at what more can be done to protect young people” but that changes in this area of law were “co",
+     "date": "2026-11-16T12:47:52+00:00",
+     "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+     "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+     "resume": "Traffic temporarily restricted on key connection after bridge targeted during overnight drone barrage by Ukraine Ukraine has hit the Kerch bridge connecting occupied Crimea with Russia, in a symbolic blow that temporarily paralysed road traffic and left thousands of drivers stranded. A Ukrainian kamikaze drone crashed into one of the bridge’s arches at 5.38am local time, local channels reported. E",
+     "date": "2026-11-16T12:45:09+00:00",
+     "image": "https://i.guim.co.uk/img/media/5d9bc8ebc5b7c43c5302bea08323e6024d72f453/860_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=7704ea25baced0d528d3fa4575ad26ad",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+     "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
+     "resume": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
+     "date": "2026-11-16T12:42:14+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da54/live/f1263820-e1b5-11f1-9a3f-99aca912798e.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "resume": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email US air travel was slowly returning to normal on Monday after three days of widespread disruption following an extraordinary no-takeoff order issued by US aviation authorities. The ground stop issued on Friday afterno",
+     "date": "2026-11-16T12:39:35+00:00",
+     "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "British farmers hope UK-EU deal with revive post-Brexit trade",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade?traffic_source=rss",
+     "resume": "Al Jazeera’s Charlie Angela speaks to a farmer in Sussex, who hopes a proposed UK-EU deal will ease trade barriers.",
+     "date": "2026-11-16T12:38:20+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "AI learning tool helps blind students excel in Malawi",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss",
+     "resume": "An artificial intelligence tool developed by a 25-year-old Malawian innovator is being used to help blind students.",
+     "date": "2026-11-16T12:35:44+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Man sentenced over 'horrific' attempted murder of three children",
+     "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
+     "resume": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
+     "date": "2026-11-16T12:27:15+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5a/live/9c3bd7d0-e1af-11f1-9a3f-99aca912798e.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Jericho settlers harass Al Jazeera reporter after stealing Palestinian home",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jericho-settlers-harass-al-jazeera-reporter-after-stealing-palestinian-home?traffic_source=rss",
+     "resume": "Israeli settlers who took over 8 homes in Jericho harassed Al Jazeera’s Nour Odeh.",
+     "date": "2026-11-16T12:25:54+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "resume": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+     "date": "2026-11-16T12:20:49+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dc/live/86b75570-e1b8-11f1-9a3f-99aca912798e.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Which cricket teams can qualify for the LA 2028 Olympics and how?",
+     "url": "https://www.aljazeera.com/sports/2026/11/16/which-cricket-teams-can-qualify-for-the-la-2028-olympics-and-how?traffic_source=rss",
+     "resume": "Six men's and six women's teams will compete for the medals in T20 format as cricket returns to the Olympics in 2028.",
+     "date": "2026-11-16T12:15:59+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Gérard Depardieu drops appeal against sexual assault conviction",
+     "url": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+     "resume": "French actor apologises to two women he was convicted of assaulting on a film set in 2021 The French actor Gérard Depardieu has dropped his appeal against a conviction for sexually assaulting two women on a film set, and has for the first time apologised to the victims. “I was found guilty. I hear it and I accept this conviction,” Depardieu, 77, said in a written statement. “I address my deep and ",
+     "date": "2026-11-16T12:10:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/8645152ecf7185cd8b3f83c5e21adaaddb0697bc/480_355_3217_2574/master/3217.jpg?width=140&quality=85&auto=format&fit=max&s=e2f4a8eb308c65010f2b5764cde3e8fb",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
+     "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
+     "resume": "When the floods hit Pakistan he went out to help. Then the water reached his own family. This is Imran Lodhi’s story Location: Dera Ghazi Khan, Pakistan Disaster: Pakistan intense monsoon rainfall Imran Lodhi is a university lecturer with a doctorate in climate change and sustainable development . The 41-year-old was living in Dera Ghazi Khan , a city in south-western Punjab, when floods devastate",
+     "date": "2026-11-16T12:00:59+00:00",
+     "image": "https://i.guim.co.uk/img/media/03df085cea47ca4df586d23872f7663cb2637137/320_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=be9cf0165f7c1947cf79549d974164c6",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Catholic priest released from Louisiana prison after serving seven years for sexually abusing altar server",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/louisiana-catholic-priest-prison-sexual-abuse",
+     "resume": "Victim’s father, however, remains excommunicated for joining Anglican church after abuse was discovered A Roman Catholic priest who pleaded guilty to sexually abusing an altar server in south-west Louisiana – before the church then controversially excommunicated the victim’s father – was released from a state prison over the weekend after having completed a seven-year sentence. Michael Guidry’s re",
+     "date": "2026-11-16T12:00:59+00:00",
+     "image": "https://i.guim.co.uk/img/media/cf5f8c71977f0b49095cbe35dfc7f039e7d228cc/458_0_2705_2164/master/2705.jpg?width=140&quality=85&auto=format&fit=max&s=f953b1d2f7b5ca2bab79c21139d70e02",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
+     "url": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
+     "resume": "Agency’s Aspect plane once was a key part of tracking toxic chemicals during disasters – why is it now often grounded? When an ammonia leak outside a hotel in Weatherford, Oklahoma, injured 74 people last November, the federal government’s chemical-detection plane stayed on the ground. It also sat idle during a March fire at a Valero refinery in Port Arthur, Texas, and when blasts at a Toledo, Ohi",
+     "date": "2026-11-16T12:00:58+00:00",
+     "image": "https://i.guim.co.uk/img/media/17ab1c4bad64148a5e104f5bef4f00be6e91167a/66_0_1917_1534/master/1917.jpg?width=140&quality=85&auto=format&fit=max&s=40b99d38afe9e88be2e8049d20b3b7f5",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
+     "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
+     "resume": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds Business live – latest updates Great Britain’s oldest renewable energy projects are likely to rake in a near £9bn windfall next year because of soaring market prices, according to independent analysis. The research has revealed that almost a third of the UK’s wind and solar farms that rely on the governm",
+     "date": "2026-11-16T11:56:20+00:00",
+     "image": "https://i.guim.co.uk/img/media/fadc2a753a2ca35482613659f6d980ad0a106850/141_0_3512_2809/master/3512.jpg?width=140&quality=85&auto=format&fit=max&s=7be6fd9946bb49cd90a7d7e79d6cc9fc",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Trump administration blames travel chaos on former presidents and Congress | First Thing",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
+     "resume": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians Don’t already get First Thing in your inbox? Sign up here Good morning. A four-hour nationwide flight stoppage on Friday threw the entire weekend into chaos, with tho",
+     "date": "2026-11-16T11:46:33+00:00",
+     "image": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=140&quality=85&auto=format&fit=max&s=3029d1ad8d73f54cbd2c9c76388b04d5",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+     "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+     "resume": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
+     "date": "2026-11-16T11:40:25+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Klopp says Infantino worse than Blatter",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+     "resume": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
+     "date": "2026-11-16T11:27:08+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
+     "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
+     "resume": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
+     "date": "2026-11-16T11:23:43+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+     "resume": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokesperson Eurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in Malaysia, apparently removing LGBTQ+ imagery and people from the show. The European Broadcasting Union (EBU), the alliance of public broadcasters that owns Euro",
+     "date": "2026-11-16T11:12:44+00:00",
+     "image": "https://i.guim.co.uk/img/media/aadbe462ac001cb187d32aae61cb263f228a36eb/340_0_3192_2554/master/3192.jpg?width=140&quality=85&auto=format&fit=max&s=32816c79aa7da486780d3d0dacb1c96c",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Yemeni forces retreat to defend port city from Houthis",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+     "resume": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+     "date": "2026-11-16T11:09:38+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
+     "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+     "resume": "Huang's peers, including Elon Musk, have praised his business acumen and potential risks to the US's AI goals.",
+     "date": "2026-11-16T11:05:47+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+     "resume": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts, Xi Jinpi",
+     "date": "2026-11-16T11:00:58+00:00",
+     "image": "https://i.guim.co.uk/img/media/a079ab0a449ab532375e30c24aa3a9afc3fa2d2d/131_0_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=8bded43e353fe0508c8852e7a6576d5e",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+     "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+     "resume": "Upload came as the Israeli military was increasing its reliance on Amazon’s cloud platform to meet the technological demands of its bombardment of Gaza The Israeli military uploaded 3.5m photos to Amazon’s cloud platform in order to use the US company’s facial recognition technology to analyse images of Palestinians, the Guardian can reveal. Leaked documents show the expansive catalogue of images ",
+     "date": "2026-11-16T11:00:56+00:00",
+     "image": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=d4fd5266aa44369a3472db45234f5224",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Two mass shootings in South Africa leave 17 dead",
+     "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+     "resume": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+     "date": "2026-11-16T10:57:48+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Man charged after two people die in Leeds police pursuit crash",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
+     "resume": "Leigh Ross, 39, charged with causing death by dangerous driving after BMW being pursued by police collided with another car A man has been charged with causing death by dangerous driving after two people were killed when their car was hit by a vehicle being chased by police. A 22-year-old man and 23-year-old woman, both from York, died when their car was struck by a BMW being pursued by police in ",
+     "date": "2026-11-16T10:43:11+00:00",
+     "image": "https://i.guim.co.uk/img/media/19d0c0379729b3ff7062983ea32abdcc2ef78628/975_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9d4b29a889a4bcae842caafcb0bd6f91",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Birth keeper told mother of baby who later died to ‘go home and rest’, NSW inquest hears",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
+     "resume": "Sita Kali was involved in care for two of four babies who died between 2022 and 2024 in Lismore after free births or home births Get our breaking news email , free app or daily news podcast A self-described birth keeper advised a pregnant woman whose baby later died to “go home and rest” after she was given urgent medical advice to present to an emergency department, the New South Wales coroner’s ",
+     "date": "2026-11-16T10:41:38+00:00",
+     "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Boots to begin prescribing medical cannabis in UK",
+     "url": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
+     "resume": "Online service will be offered to patients with eligible conditions, in a first for a British high street pharmacy Boots is to start prescribing medical cannabis, it has announced, in a first for a UK high street pharmacy. The online service is being offered to patients in the UK aged 25 and older who have an eligible condition such as chronic pain, anxiety or insomnia. Continue reading...",
+     "date": "2026-11-16T10:32:50+00:00",
+     "image": "https://i.guim.co.uk/img/media/c22b5008b1bee2dbdcfc1f9b7dffadfbb94f981e/511_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=203a3d066a3b402c5582ef934ebe428c",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Lebanon’s second airport could provide economic and political benefits",
+     "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+     "resume": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+     "date": "2026-11-16T10:28:22+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+     "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
+     "resume": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which officials argue is necessary to stop human-wildlife conflict in the city. The 44-member Waterfall troop (named aft",
+     "date": "2026-11-16T10:19:08+00:00",
+     "image": "https://i.guim.co.uk/img/media/2d86a054583a1a5d541606f7e702b5f03c426653/770_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=3225fd899e48e3305f15e48965e30afe",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+     "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+     "resume": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
+     "date": "2026-11-16T10:14:27+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Jordan bans Telegram over national security concerns",
+     "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+     "resume": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
+     "date": "2026-11-16T10:12:28+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+     "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+     "resume": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
+     "date": "2026-11-16T10:03:11+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
+     "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+     "resume": "UN's health agency says growing resistance to antibiotics and other medicines threatens 'future of modern medicine'.",
+     "date": "2026-11-16T09:57:37+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Sadiq Khan: Global North must take responsibility for climate change",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
+     "resume": "At COP31, Sadiq Khan urges wealthy nations to support the Global South, which bears the brunt of climate change.",
+     "date": "2026-11-16T09:52:11+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+     "resume": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the pair meets on Tuesday, arguing for a speedy resolution to the wars in Iran and Ukraine whi",
+     "date": "2026-11-16T09:40:29+00:00",
+     "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+     "resume": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+     "date": "2026-11-16T09:31:36+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Delaware hit by rare November tornado",
+     "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+     "resume": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina The National Weather Service in the US has confirmed that an EF1 tornado touched down south-east of Newark in the Salem Woods neighbourhood, Delaware, on Thursday. The tornado reached 160 metres wide, had a path length of 4.4 miles (7.1km) and reached estimated peak winds of up to 100mph (161km/h). There were no in",
+     "date": "2026-11-16T09:27:06+00:00",
+     "image": "https://i.guim.co.uk/img/media/e86938f808aacaed63529ffbd461f2de4ff10c74/500_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=08baed31878c1dff227aa589c3e71a31",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+     "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+     "resume": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+     "date": "2026-11-16T08:56:04+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+     "resume": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
+     "date": "2026-11-16T08:54:58+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
+     "resume": "Backdown is one of several premier Chris Minns has announced in recent weeks as state prepares for election in March Get our breaking news email , free app or daily news podcast The Minns government has mothballed laws intended to protect homebuyers from underquoting after the premier said real estate agents in his Sydney electorate had raised concerns about their effect amid a housing market down",
+     "date": "2026-11-16T08:53:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/6f6b9ed84a95172b199c1ab51e5f6758027ef874/506_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=d7ccd21554a83fef45aba172d9159f9b",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
+     "resume": "In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.",
+     "date": "2026-11-16T08:49:51+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
+     "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
+     "resume": "Leader of alliance representing Palestinian citizens of Israel says election is 'rightful achievement' for Joint List.",
+     "date": "2026-11-16T08:45:07+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
+     "resume": "Around 2,000 migrants have crossed into Spain’s Canary Islands from Senegal in two days.",
+     "date": "2026-11-16T08:23:19+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Russia out of junior ice hockey worlds after Canada’s entry refusal",
+     "url": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
+     "resume": "Norway back in the tournament after being bumped to make room for Russia after a Court of Arbitration for Sport ruling.",
+     "date": "2026-11-16T08:20:17+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Ecuador’s president denies existence of US military base",
+     "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+     "resume": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
+     "date": "2026-11-16T08:14:48+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Why is China resisting a nuclear treaty with the US and Russia?",
+     "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+     "resume": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+     "date": "2026-11-16T07:54:09+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "At least 11 killed in blaze on Thailand’s Phuket island",
+     "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+     "resume": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
+     "date": "2026-11-16T07:42:48+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+     "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+     "resume": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
+     "date": "2026-11-16T07:24:45+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb80/live/543bf260-e189-11f1-938f-7d0e2ede1ea5.png",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
+     "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
+     "resume": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
+     "date": "2026-11-16T07:13:00+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "The Red Sea cannot be secured without restoring the Yemeni state",
+     "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
+     "resume": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
+     "date": "2026-11-16T07:06:23+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
+     "url": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
+     "resume": "Exclusive: Public institutions get first chance to bid for rare ‘wonderbook’ of apocalyptic visions and extreme weather In one illustration, five suns blaze down on Leipzig in 1551. In another, blood rain falls on Rome in 1456. In a third scene, dated 1552, monstrous hailstones batter the Dutch city of Dordrecht during a storm so fierce people feared Judgment Day had come. Created during the mid-1",
+     "date": "2026-11-16T07:00:38+00:00",
+     "image": "https://i.guim.co.uk/img/media/f8b2283fa6a3fabf06ec11ff644216c30e8310b4/561_87_3198_2558/master/3198.jpg?width=140&quality=85&auto=format&fit=max&s=1feefa0721fbad23b281d9289426e406",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+     "resume": "PM to meet European leaders at summit this week aiming to secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU. It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” throug",
+     "date": "2026-11-16T07:00:38+00:00",
+     "image": "https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=140&quality=85&auto=format&fit=max&s=9a45417adf85d4e3c1c1bd540b62862b",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "How Russia is preparing Iran for the next escalation",
+     "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
+     "resume": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
+     "date": "2026-11-16T06:57:31+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+     "resume": "In today’s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc’s big feelings about the future Good morning. Ahead of the hotly anticipated UK-EU summit this Friday, Andy Burnham is expected to make the reset of our relationship with Europe the pivotal theme of his white-tie speech at the lord mayor’s banquet in London tonight. The prospect of clo",
+     "date": "2026-11-16T06:46:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/6e2cfa54b348df466a21d5a1c4d2bce3e5b12346/1359_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=ae9c6d61d35ff9695d3d3fd72f5c401a",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+     "resume": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanks Australians for charity donations Get our daily political email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the amputation of both her legs. In a",
+     "date": "2026-11-16T05:05:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+     "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+     "resume": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ",
+     "date": "2026-11-16T04:39:20+00:00",
+     "image": "https://i.guim.co.uk/img/media/2e7e78e8ef011abb9ba52ca72738b8f88e4616f9/14_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=e9368d28045faded7e797e118d8254e3",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Watch: New York teen reunites with cat missing after building collapse",
+     "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+     "resume": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
+     "date": "2026-11-16T04:36:45+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de04/live/9f9bf490-e174-11f1-93e1-3b657b665bcf.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Coles investigates cyber-attack and apologises to customers",
+     "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+     "resume": "Supermarket giant says no customer, team or supplier data compromised but recommends updating passwords as a precaution Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to tell whether any of its data has been stolen or compromised. Coles revealed the threat on Monday morning, saying i",
+     "date": "2026-11-16T04:04:37+00:00",
+     "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9918a374d89f099274e3dc1e83cfae34",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+     "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+     "resume": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+     "date": "2026-11-16T03:21:56+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e63/live/e166e240-e19c-11f1-93e1-3b657b665bcf.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+     "resume": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+     "date": "2026-11-16T03:09:49+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+     "resume": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had ",
+     "date": "2026-11-16T01:17:04+00:00",
+     "image": "https://i.guim.co.uk/img/media/2c2f610959bc39253f07a4995c553a3099e2c600/203_0_4826_3863/master/4826.jpg?width=140&quality=85&auto=format&fit=max&s=cfd4682eae9415da0b32b4c20bfbe26a",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+     "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+     "resume": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining. On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon ",
+     "date": "2026-11-16T01:13:44+00:00",
+     "image": "https://i.guim.co.uk/img/media/5656d136eaed416d7dd76ab2932c283b5ce64f39/373_0_3525_2820/master/3525.jpg?width=140&quality=85&auto=format&fit=max&s=b5f344ca36bf7198ae159b63c8dc109a",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Clothing factories shut in Bangladesh as workers strike over pay",
+     "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+     "resume": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+     "date": "2026-11-16T01:05:44+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Russia's mega-rich are already imagining a future after Putin",
+     "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+     "resume": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+     "date": "2026-11-16T00:13:14+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
+     "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
+     "resume": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+     "date": "2026-11-16T00:11:12+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0a/live/616751f0-df68-11f1-b441-2b33b063138f.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Teenager Andreeva caps stunning week with WTA Finals title",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
+     "resume": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
+     "date": "2026-11-15T23:18:38+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dd/live/afd408a0-e1a8-11f1-b0a4-450a350911f4.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+     "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+     "resume": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+     "date": "2026-11-15T19:32:39+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Iran launches drone attacks against US military base in Bahrain",
+     "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+     "resume": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US",
+     "date": "2026-11-15T18:03:56+00:00",
+     "image": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=140&quality=85&auto=format&fit=max&s=a186d5c5f515b7ca0b75c2c9875cf564",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-     "resume": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet Iranian media are reporting that their Foreign Minister Abbas Araqchi will be in Oman on Tuesday for talks with his Omani counterpart. Oman, along with Qatar, has been one of the key negotiators in ceasefire and peace talks between Tehran and Washington. The Southern Armed Forces announce the implementation of a",
-     "date": "2026-11-15T12:21:25+00:00",
+     "resume": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly condemned the attack and expressed solidarity with Bahrain. The Kingdom affirms that the",
+     "date": "2026-11-15T15:59:04+00:00",
      "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
      "source": "The Guardian — World"
-    },
-    {
-     "titre": "Trident nuclear submarine concludes record underwater deployment",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-     "resume": "HMS Vengeance’s 217-day tour raises questions about slow pace of maintenance of ageing fleet and impact on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland, where its crew are expected to be greeted by senior members of the government . HMS Vengeance began its patrol on 12 April and spent 217 days submerged before retur",
-     "date": "2026-11-15T12:09:32+00:00",
-     "image": "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=060b100512481e4a203df065f811f89d",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-     "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
-     "resume": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
-     "date": "2026-11-15T12:02:45+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Obama portrait artist draws Burnham for Big Issue cover to highlight rough sleeping vow",
-     "url": "https://www.theguardian.com/society/2026/nov/15/obama-portrait-artist-draws-burnham-big-issue-rough-sleeping-vow-shepard-fairey",
-     "resume": "Exclusive: Shepard Fairey says image will hold PM accountable over promise to get people off the streets The “Hope” portrait of Barack Obama by the US street artist Shepard Fairey came to symbolise a historic 2008 presidential campaign, became one of the most ubiquitous and reproduced political portraits of modern times, and ended up in the Smithsonian. Fairey’s latest work, of the UK prime minist",
-     "date": "2026-11-15T12:00:15+00:00",
-     "image": "https://i.guim.co.uk/img/media/208466e37890210b61c6218af791b07a065ebe46/0_20_1240_991/master/1240.jpg?width=140&quality=85&auto=format&fit=max&s=ebc8ddf22b9aacce0110fad1b337da33",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
-     "url": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
-     "resume": "Activists have been shouting about economic issues for years – in January they will expect lawmakers to respond Stonecrest is resolutely middle class. About six out of 10 of its voters cast ballots in the 2026 election and about 90% of them voted for Democrats, according to election figures. And they have often been overlooked by Georgia’s Republican establishment. The fundraiser Keisha Lance Bott",
-     "date": "2026-11-15T12:00:15+00:00",
-     "image": "https://i.guim.co.uk/img/media/965398d86ac792d2522a2a4d356cb2d6b2d3f207/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5fffe4e093694f440c987cab686cc54a",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-     "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
-     "resume": "Experts warn that sweeping changes elevate health secretary RFK Jr’s anti-vaccine agenda and personal profit The Trump administration is finalizing a rule to reimburse doctors who diagnose, treat and counsel patients with side effects from vaccines in what experts believe is an attempt to undermine trust in vaccines and to create an evidence base on their purported risks. Robert F Kennedy Jr, the ",
-     "date": "2026-11-15T12:00:15+00:00",
-     "image": "https://i.guim.co.uk/img/media/c0c7f0aaf91798e69f80201767197e8e4968f58b/801_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=26d5f78549ceed7e0f377f38ef6834a3",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
-     "url": "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss",
-     "resume": "Hosts Senegal thrive, and exuberant athletes defy the shadows cast over the Games by politics and history.",
-     "date": "2026-11-15T11:53:39+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
-     "url": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
-     "resume": "MP says party is being squeezed by arrival of ‘more plausible’ Labour leader in Andy Burnham Reform UK has been losing support to Labour after “a very difficult year,” Danny Kruger has admitted, just over 12 months after his defection to Nigel Farage’s party. The MP, who has been tasked with preparing Reform for government, denied that he regretted jumping from the Conservatives as recent polls in",
-     "date": "2026-11-15T11:53:01+00:00",
-     "image": "https://i.guim.co.uk/img/media/69519d357913a1109b72cce7c6bab8d6e86cd732/164_166_2096_1676/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=4dbfdc6c28b3068643580d7502d2717a",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl?traffic_source=rss",
-     "resume": "Ten people have been convicted by the Abu Dhabi Criminal Court over a brawl in a hotel lobby.",
-     "date": "2026-11-15T11:33:49+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
-     "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-     "resume": "Hundreds of thousands expected to rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are expected to rally in Prague on Sunday to protest against what they say is a government attempt to stifle media freedom. The gathering to save the mandatory licence fees that fund Czechia’s public broadcasters could be one of the biggest in the count",
-     "date": "2026-11-15T11:17:18+00:00",
-     "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Three men sentenced to death in Jordan over fatal church mass shooting",
-     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-     "resume": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-     "date": "2026-11-15T11:06:32+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Police confront protesters in clashes across France and Germany",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
-     "resume": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
-     "date": "2026-11-15T11:04:10+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-     "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
-     "resume": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
-     "date": "2026-11-15T10:58:36+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
-     "url": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
-     "resume": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
-     "date": "2026-11-15T10:52:36+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Spain football coach denies racism ahead of England match",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
-     "resume": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
-     "date": "2026-11-15T10:28:28+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Polls open in Cape Verde in race with first female presidential candidate",
-     "url": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
-     "resume": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
-     "date": "2026-11-15T10:03:02+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/15/lucy-beaumont-work-tv-david-walliams",
-     "resume": "Book sells out and tour tickets in demand after comedian reveals she contributed to Walliams investigation When the comedian Lucy Beaumont revealed she had intervened to support a junior TV worker concerned about David Walliams’ behaviour, she feared it would brand her as a troublemaker and ensure she would never work in television again. The immediate response to her actions, however, has been mo",
-     "date": "2026-11-15T10:00:11+00:00",
-     "image": "https://i.guim.co.uk/img/media/de911122cb8d496b0d773a5a8e2e5d29f8241b06/0_202_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=cc66c63f96c9e198c19c1f2efcd7ccd5",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
-     "url": "https://www.theguardian.com/business/2026/nov/15/liberty-steel-dalzell-scotland-royal-navy-contracts-warships",
-     "resume": "Liberty Steel Dalzell plant in Motherwell with order for 34,000 tonnes of metal plate to build three warships has struggled to pay bills The Royal Navy is facing questions over whether three new warships will be built with British steel as its Scottish supplier faces deepening financial difficulties. Liberty Steel Dalzell, a plate mill in Motherwell, has struggled to pay its bills and workers in r",
-     "date": "2026-11-15T10:00:10+00:00",
-     "image": "https://i.guim.co.uk/img/media/fd9cc03035f5c8aec9a54fd8fa5acf1607b2f88c/128_0_4034_3226/master/4034.jpg?width=140&quality=85&auto=format&fit=max&s=e9f16ee11ad823d663aa54287d3c5d42",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-     "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-     "resume": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
-     "date": "2026-11-15T09:59:37+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-     "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-     "resume": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-     "date": "2026-11-15T09:57:25+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Protesters condemn US policies as ASEAN summit begins in Manila",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-     "resume": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
-     "date": "2026-11-15T09:49:43+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Iran says it targets US radar in Bahrain. What do we know?",
-     "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-     "resume": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
-     "date": "2026-11-15T09:41:27+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-     "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-     "resume": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-     "date": "2026-11-15T09:26:37+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "What forced the US to ground all planes? A router switch, we now know",
-     "url": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
-     "resume": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
-     "date": "2026-11-15T09:17:49+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-     "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-     "resume": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he score",
-     "date": "2026-11-15T08:56:11+00:00",
-     "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "India pulled 500m people out of poverty. Many of them still barely survive",
-     "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-     "resume": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
-     "date": "2026-11-15T08:49:47+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Thousands in Portugal protest against surging rental prices",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-     "resume": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
-     "date": "2026-11-15T08:40:37+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-     "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
-     "resume": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
-     "date": "2026-11-15T08:29:18+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-     "resume": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-     "date": "2026-11-15T08:17:41+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Jordan sentences three men to death by hanging after deadly church attack",
-     "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-     "resume": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
-     "date": "2026-11-15T08:15:04+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-     "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-     "resume": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
-     "date": "2026-11-15T08:07:08+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-     "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-     "resume": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
-     "date": "2026-11-15T07:30:21+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "ASEAN summit: Who’s attending and what’s at stake?",
-     "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-     "resume": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-     "date": "2026-11-15T07:11:24+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Copper wire upgrade behind US flight suspension, transport secretary says",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "resume": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-     "date": "2026-11-15T07:10:31+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Israel: Making the Holy Land burn",
-     "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-     "resume": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
-     "date": "2026-11-15T06:49:14+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "The French Republic’s forgotten promise of equality",
-     "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
-     "resume": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
-     "date": "2026-11-15T06:44:27+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-     "resume": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine. The three-way summit is planned to take plac",
-     "date": "2026-11-15T06:22:32+00:00",
-     "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Secret votes and vetoes: How will the next UN chief be picked?",
-     "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-     "resume": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-     "date": "2026-11-15T06:11:00+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-     "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-     "resume": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority, in a landmark case that will set a critical 21st-century benchmark for the gravest of all international crimes. The closely watched jud",
-     "date": "2026-11-15T06:00:05+00:00",
-     "image": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-     "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-     "resume": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-     "date": "2026-11-15T05:05:02+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-     "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-     "resume": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
-     "date": "2026-11-15T04:44:57+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Video shows moment of Brooklyn building collapse from inside",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-     "resume": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
-     "date": "2026-11-15T04:31:55+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "World leaders head to Asia for back-to-back diplomatic summits",
-     "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-     "resume": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings World leaders will fly in to Asia for back-to-back high-level summits this week against the backdrop of the tussle for influence between the superpowers China and the US. Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenz",
-     "date": "2026-11-15T04:00:02+00:00",
-     "image": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
-     "resume": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones Get our daily political email , free app or daily news podcast Anthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Turkey, saying he regretted being overheard discussing mobile phone radiation and “dicks” in a candid conversation. “I of ",
-     "date": "2026-11-15T03:49:21+00:00",
-     "image": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=140&quality=85&auto=format&fit=max&s=4d3cdc60bc8855259dcbf1ab9ce5da75",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "resume": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-     "date": "2026-11-15T03:21:04+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
-     "resume": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’ Get our breaking news email , free app or daily news podcast The failed federal Liberal candidate Katherine Deves, who campaigned to exclude transgender women from women’s sport, will stand for One Nation at next year’s New South Wales election. Deves was among four NSW Legislative Council ",
-     "date": "2026-11-15T02:13:20+00:00",
-     "image": "https://i.guim.co.uk/img/media/d047c76f69b28583bdf6ab81399ed4967ef41dda/836_107_1722_1378/master/1722.jpg?width=140&quality=85&auto=format&fit=max&s=5f594cb51867df53603d74544e8a5ab9",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-     "resume": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential for giant hail and destructive winds were forecast for parts of New South Wales on Sunday, as volatile weather continued in the eastern states",
-     "date": "2026-11-15T01:52:37+00:00",
-     "image": "https://i.guim.co.uk/img/media/0ff1f7cb491d3cea7030874a5781c374e23a49b6/586_0_3258_2608/master/3258.jpg?width=140&quality=85&auto=format&fit=max&s=db2094a4a83783cc718c1ec3227c1976",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-     "resume": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-     "date": "2026-11-15T00:06:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Judo champion shakes up French presidential race with surprise candidacy",
-     "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-     "resume": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-     "date": "2026-11-15T00:06:51+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg",
-     "source": "BBC World"
     },
     {
      "titre": "How telecoms upgrade work sparked US flight chaos",
      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
      "resume": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-     "date": "2026-11-14T23:11:27+00:00",
+     "date": "2026-11-15T14:57:15+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
      "source": "BBC World"
-    },
-    {
-     "titre": "David Jones’ future looks grim. Is Myer next?",
-     "url": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration",
-     "resume": "With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question Get our breaking news email , free app or daily news podcast When the retailer’s doors slide open, shoppers are greeted by rows of slashed price tags, frantic discounting, and all the other hallmarks of a department store closing down. Except this isn’t",
-     "date": "2026-11-14T23:00:01+00:00",
-     "image": "https://i.guim.co.uk/img/media/82c9ce7a67d4a13f3e62473874a5e3ca49f73724/435_0_4348_3478/master/4348.jpg?width=140&quality=85&auto=format&fit=max&s=0b71d0a7d05365bcdc5bd2074d733ce8",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "resume": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-     "date": "2026-11-14T22:37:25+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-     "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-     "resume": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission ",
-     "date": "2026-11-14T22:35:06+00:00",
-     "image": "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=dda7e62a63c3fd758825b1e756002abf",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-     "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-     "resume": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-     "date": "2026-11-14T22:27:06+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-     "resume": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-     "date": "2026-11-14T22:09:40+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-     "resume": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encomp",
-     "date": "2026-11-14T20:14:27+00:00",
-     "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-     "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-     "resume": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-     "date": "2026-11-14T19:14:33+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-     "resume": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and",
-     "date": "2026-11-14T19:01:32+00:00",
-     "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Italy fines Meta €805m over accessing users' photos",
-     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-     "resume": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-     "date": "2026-11-14T18:28:06+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Philippines wins first Eurovision Song Contest Asia",
-     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-     "resume": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-     "date": "2026-11-14T18:17:58+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-     "resume": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-     "date": "2026-11-14T18:00:10+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-     "resume": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flight stemmed from routine maintenance. At a news briefing on Saturday, the US transportation secretary, Sean Duffy, said that the issues began ",
-     "date": "2026-11-14T17:11:18+00:00",
-     "image": "https://i.guim.co.uk/img/media/808a414084cc5e4eb20e336e9f20b5e07f0002d2/718_0_6606_5285/master/6606.jpg?width=140&quality=85&auto=format&fit=max&s=34d68196b6cb53be9d5be43255795f31",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "resume": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-     "date": "2026-11-14T15:53:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-     "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-     "resume": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-     "date": "2026-11-14T15:42:54+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-     "resume": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study in contrasts. Chambers’s defense took most of the session to query the US citizen and detail irregularities in the Trum",
-     "date": "2026-11-14T15:00:47+00:00",
-     "image": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=db6882dd8691cc543d5e94637b3bb040",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
-     "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
-     "resume": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands. That is a conservative estimate and is certain to rise much higher. As Cop31 continues and scientists warn that climate b",
-     "date": "2026-11-14T13:00:44+00:00",
-     "image": "https://i.guim.co.uk/img/media/91a483d5ba6d8f592762c799125eb6366c710585/407_0_2877_2302/master/2877.jpg?width=140&quality=85&auto=format&fit=max&s=32a2aa31dd6ea4bdbb54046bfd1d6540",
-     "source": "The Guardian — World"
     }
    ]
   },
@@ -1748,152 +1811,231 @@
    "lang": "en",
    "sujets": [
     {
-     "titre": "U.S. Congressional Debates Over Iran Conflict Funding",
+     "titre": "Escalating U.S. Political Debates Over War Strategy Regarding Iran",
      "theme": "Politics & Diplomacy",
-     "zone": "Middle East / Iran",
-     "formel": "Following recent midterm elections, U.S. Congressional Democrats are preparing for key legislative tests regarding military funding for potential or ongoing operations against Iran. Meanwhile, veteran neoconservative figures like Douglas Feith and Scooter Libby continue to advocate against ending military engagements in the region. Analysts note a growing rift within Congress between lawmakers seeking to curtail executive war powers and hawkish foreign policy veterans pushing for sustained military pressure against Tehran. Established legislative developments remain contingent on upcoming fiscal votes before the new Congress convenes in January.",
-     "en_clair": "American lawmakers are debating whether to continue funding military actions involving Iran after recent election shifts. Proponents of military restraint want Congress to block new war funds, while long-time foreign policy hawks argue that pulling back would weaken Washington's position. This decision matters because it directly affects whether the United States escalates or de-escalates its military footprint in the Middle East.",
+     "zone": "Middle East",
+     "formel": "Statements by U.S. Ambassador to Israel Mike Huckabee framing opposition to military action against Iran in religious terms have ignited political debates in Washington. Meanwhile, Congressional Democrats face key decisions regarding war funding bills prior to the seating of the new Congress following midterm elections. Former defense officials and neoconservative strategists continue to press for sustained military pressure against Tehran. The outcome will shape U.S. force posture in the Persian Gulf and future diplomatic avenues with Iranian leadership.",
+     "en_clair": "Following recent elections, American lawmakers are debating whether to continue funding military operations targeting Iran. Key political figures and diplomats are split between pursuing aggressive intervention and reining in prolonged regional conflicts. This debate matters because any change in U.S. policy directly affects stability and oil shipping routes throughout the Persian Gulf.",
      "urls": [
-      "https://responsiblestatecraft.org/democrats-funding-iran-war/",
-      "https://responsiblestatecraft.org/neocons-forever-wars/"
+      "https://responsiblestatecraft.org/mike-huckabee-israel-iran-war/",
+      "https://responsiblestatecraft.org/democrats-funding-iran-war/"
      ]
     },
     {
-     "titre": "Erosion of International Law in the Gaza Humanitarian Crisis",
+     "titre": "Legal and Humanitarian Breakdown in the Gaza Conflict",
      "theme": "Conflicts & Security",
-     "zone": "Middle East / Palestine",
-     "formel": "Middle East scholar Jean-Pierre Filiu argues that the military campaign in Gaza has transformed the enclave into a testing ground for war practices that undermine international humanitarian law. The conflict has caused unprecedented civilian casualties and destruction of essential infrastructure, raising concerns among international legal bodies regarding compliance with Geneva Conventions. Observers emphasize that the gradual side-lining of multilateral legal frameworks in Gaza sets a precedent affecting global conflict management. Claims of tactical necessity by combatants contrast with reports from humanitarian organizations detailing systemic rights violations.",
-     "en_clair": "The ongoing conflict in Gaza has led experts to warn that basic international rules protecting civilians during war are being eroded. When global agreements like the Geneva Conventions are ignored without consequence, it makes future international peacekeeping much harder. This situation matters because it challenges the global consensus on how wars must be legally conducted.",
+     "zone": "Middle East",
+     "formel": "French historian Jean-Pierre Filiu highlights the progressive erosion of international humanitarian law through the ongoing conflict in Gaza. The long-term military operations and civilian displacement have created severe structural instability across the Occupied Palestinian Territories and neighboring Lebanon. Observers stress that normalizing legal exceptions in conflict zones undermines global multilateral governance. This crisis continues to destabilize Middle Eastern security frameworks and regional diplomatic normalization initiatives.",
+     "en_clair": "The severe destruction in Gaza is raising major concerns among experts about the weakening of global rules meant to protect civilians during war. When international norms are repeatedly ignored in high-profile conflicts, it sets a dangerous precedent for future global crises. Understanding this breakdown helps explain why broader peace and security efforts in the Middle East remain stalled.",
      "urls": [
       "https://www.iris-france.org/le-laboratoire-infernal-de-gaza-avec-jean-pierre-filiu/"
      ]
     },
     {
-     "titre": "Oman-China Space Cooperation and Technology Transfer Challenges",
-     "theme": "Economy & Energy",
-     "zone": "Middle East / Persian Gulf",
-     "formel": "The Sultanate of Oman has expanded its satellite procurement partnership with Chinese aerospace firms as part of its national space strategy. However, defense analysts point out that purchasing satellite hardware does not automatically confer indigenous technical expertise or operational independence. The deal highlights Beijing's growing technological footprint in the Gulf region while foreign dependencies remain a critical issue for domestic engineers. Operational maintenance and data infrastructure for these systems largely remain tied to Chinese technology providers.",
-     "en_clair": "Oman is buying advanced satellites from China to build up its space program and modern economy. However, owning high-tech satellites isn't the same as having the local engineers needed to build or fix them independently. This matters because it shows how Middle Eastern countries can become reliant on major powers like China for critical technological infrastructure.",
-     "urls": [
-      "https://www.lowyinstitute.org/the-interpreter/owning-a-satellite-isn-t-the-same-as-owning-the-expertise-to-replace-it"
-     ]
-    },
-    {
-     "titre": "Foreign Intervention and UAE Involvement in the Sudan War",
-     "theme": "Conflicts & Security",
-     "zone": "Middle East / East Africa",
-     "formel": "Reports from international crisis analysts highlight the role of external actors, particularly the United Arab Emirates, in providing material support that prolongs the civil war in Sudan. Despite vocal international condemnation of human rights abuses in Sudan, Western partners like Australia remain reluctant to impose direct sanctions on Gulf patrons due to diplomatic and economic ties. The war has displaced millions and caused severe famine, while foreign supply lines sustain armed factions on the ground. Unclassified diplomatic assessments indicate that without addressing external patronage, regional ceasefires remain unlikely.",
-     "en_clair": "The war in Sudan is being prolonged by outside countries, including the United Arab Emirates, which supply weapons and resources to combatants. While Western nations publicly condemn the violence, they are hesitant to sanction influential Gulf partners who fund the fighting. This conflict is critical because it has created one of the world's largest humanitarian disasters and threatens regional stability.",
-     "urls": [
-      "https://www.crisisgroup.org/pod/africa/sudan/uae-sudan",
-      "https://www.lowyinstitute.org/the-interpreter/australia-talks-tough-on-sudan-but-won-t-confront-patrons-in-uae"
-     ]
-    },
-    {
-     "titre": "Kylian Mbappé's Socio-Political Influence in France",
+     "titre": "The Sociopolitical Influence of Kylian Mbappé in Modern France",
      "theme": "Sport",
-     "zone": "Western Europe",
-     "formel": "In an analysis by IRIS following an interview with La Repubblica, French football captain Kylian Mbappé is evaluated as a prominent socio-political figure in contemporary France. Beyond his athletic achievements, Mbappé's public commentary on civic engagement, anti-racism, and national identity positions him as an influential cultural voice for French youth. Political scientists note that elite athletes are increasingly drawn into debates over social mobility and republican values, though their political endorsements remain subject to public polarization. Established polling indicates high public awareness of his statements regarding domestic political issues.",
-     "en_clair": "Kylian Mbappé is not just a world-class soccer player; he has become an influential figure in French public life. He frequently speaks out on topics like racism, voting, and social equality, giving him significant leverage over public debate. This matters because it illustrates how sports stars are increasingly shaping political and cultural conversations in Europe.",
+     "zone": "Europe",
+     "formel": "French football star Kylian Mbappé has increasingly emerged as a prominent figure within national political and social debates. Analysis examines how his public statements on citizenship, equality, and youth representation resonate beyond professional athletics into broader electoral dynamics ahead of the 2027 French presidential campaign. His position reflects a growing trend of elite athletes leveraging global platforms for civic engagement.",
+     "en_clair": "Kylian Mbappé is no longer just a global football star; he has become an influential voice on social and political issues in France. By speaking out on topics like diversity and civic responsibility, he inspires youth while drawing strong reactions from politicians. This highlights how modern sports figures can actively shape public opinion and political culture.",
      "urls": [
       "https://www.iris-france.org/kylian-mbappe-un-acteur-politique/"
      ]
     },
     {
-     "titre": "Geofeminism and Gender Equality in International Diplomacy",
+     "titre": "Geofeminism and Gender Equality in International Security Policy",
      "theme": "Society",
      "zone": "Global",
-     "formel": "In her book 'Géoféminisme', European MP Chloé Ridel argues that integrating gender equality into foreign policy is essential for long-term international peace and security. Discussions hosted by IRIS emphasize that crises disproportionately affect women, yet diplomatic negotiations routinely exclude female representatives. Quantitative research indicates that peace agreements involving women are statistically more durable over multi-year horizons. The framework advocates for structural reform within international institutions to institutionalize feminist diplomacy.",
-     "en_clair": "Geofeminism is an approach to foreign policy that argues true international peace cannot be achieved without gender equality. It highlights how women are often hit hardest by wars and economic crises, yet left out of peace talks. This issue is important because data shows peace treaties last much longer when women participate in their negotiation.",
+     "formel": "In her recent work, European Parliament Member Chloé Ridel advocates for 'geofeminism,' a diplomatic framework placing gender equality at the center of peacebuilding. The approach argues that structural gender inequities directly correlate with increased state fragility and militarized conflicts. Integrating feminist analysis into traditional security institutions aims to reform multilateral conflict resolution mechanisms.",
+     "en_clair": "Geofeminism is an approach to foreign policy that links long-term peace with equal rights for women worldwide. Experts argue that countries with high levels of gender inequality are statistically more prone to internal violence and war. Bringing gender perspectives into diplomacy aims to build more stable and durable peace agreements.",
      "urls": [
       "https://www.iris-france.org/jai-lu-geofeminisme-si-tu-veux-la-paix-prepare-legalite-de-chloe-ridel/"
      ]
     },
     {
-     "titre": "Religious Symbolism and Narrative Framing in Ukrainian War Media",
+     "titre": "Sacred Imagery and Media Symbolism in Ukrainian Public Discourse",
      "theme": "Press · Film · Fashion",
      "zone": "Eastern Europe",
-     "formel": "Analysis of Ukrainian media coverage reveals an increasing reliance on religious motifs, sacred architecture, and stained-glass imagery to frame the ongoing war against Russia. Cultural analysts note that these artistic and visual symbols serve to bolster national resilience and present the defense of sovereign territory in moral terms. The strategic use of traditional iconographic themes helps unify public messaging across both state and independent media outlets during wartime. Research indicates that cultural symbolisms remain central to sustaining domestic morale during prolonged conflicts.",
-     "en_clair": "Ukrainian news and media are using sacred and religious symbols—like stained glass and church iconography—to tell the story of their war for survival. By framing the defense of their country in moral and cultural terms, media creators help maintain national unity and morale. This matters because cultural narratives are a crucial tool for keeping public support strong during long wars.",
+     "formel": "Contemporary Ukrainian media increasingly utilizes religious imagery, stained glass aesthetics, and sacred space symbolism to construct wartime national identity. Analysis reveals how media creators synthesize traditional cultural icons with modern communication channels to maintain public morale amidst armed conflict. This strategic deployment of visual culture plays a crucial role in domestic media narratives during wartime.",
+     "en_clair": "Ukrainian media outlets and artists are heavily incorporating traditional religious and cultural symbols into their modern wartime broadcasts and artwork. This visual storytelling helps build national unity and emotional resilience during a prolonged crisis. It demonstrates how media and art are used as vital tools during times of national defense.",
      "urls": [
       "https://warontherocks.com/stained-glass-and-sacred-spaces-symbolism-abounds-in-ukrainian-media/"
      ]
     },
     {
-     "titre": "Abu Dhabi Peace Negotiations and U.S. Covert History in Ukraine",
-     "theme": "Politics & Diplomacy",
-     "zone": "Eastern Europe",
-     "formel": "Recent diplomatic meetings in Abu Dhabi involving U.S. envoys Steve Witkoff and Jared Kushner indicate renewed momentum toward a negotiated settlement in the Russia-Ukraine war. Concurrently, historical analyses detail how long-standing CIA operations in Ukraine established operational platforms that influenced the broader conflict dynamics with Moscow. Diplomats acknowledge that while secret negotiations advance in the Gulf, resolving territorial disputes and security guarantees remains highly complex. Official confirmations of specific peace terms have not yet been released by the warring parties.",
-     "en_clair": "Diplomats and strategic envoys recently met in Abu Dhabi to explore potential peace agreements to end the war in Ukraine. At the same time, historical reports shed light on decades of intelligence operations that shaped the conflict's background. This matters because finding a realistic diplomatic path requires balancing complex territorial demands with deep security concerns.",
-     "urls": [
-      "https://responsiblestatecraft.org/ukraine-war-abu-dhabi-talks/",
-      "https://responsiblestatecraft.org/ukraine-war-kinzer/"
-     ]
-    },
-    {
-     "titre": "Impeachment Vote Against Defense Secretary Pete Hegseth",
-     "theme": "Politics & Diplomacy",
-     "zone": "North America",
-     "formel": "Representative Thomas Massie introduced eight articles of impeachment against U.S. Secretary of Defense Pete Hegseth in the House of Representatives. The House ultimately voted to block the impeachment attempt after several Democratic members were absent during the procedural vote. Critics accused Hegseth of leveraging military personnel and veterans for political protection amid administrative controversies. The resolution failed to move to a full trial, leaving the Defense Secretary in office as the legislative session nears its conclusion.",
-     "en_clair": "A U.S. lawmaker attempted to impeach Defense Secretary Pete Hegseth over accusations of misusing military personnel for political cover. The attempt failed in the House of Representatives due to absent votes and lack of broad support. This matters because it highlights intense political fights over military leadership and accountability in Washington.",
-     "urls": [
-      "https://responsiblestatecraft.org/massie-hegseth-impeachment/",
-      "https://responsiblestatecraft.org/hegseth-impeachment-veterans-day/"
-     ]
-    },
-    {
-     "titre": "Silicon Valley National Security Risks and Nvidia Counterintelligence Claims",
+     "titre": "Counterintelligence Allegations Surrounding Nvidia CEO Jensen Huang",
      "theme": "Economy & Energy",
-     "zone": "North America / East Asia",
-     "formel": "Allegations linking Nvidia CEO Jensen Huang to contacts associated with Chinese intelligence have raised major national security concerns across Silicon Valley. Despite public scrutiny, major tech executives have maintained solidarity around Huang, emphasizing Nvidia's central role in the U.S. artificial intelligence economy. Reports indicate that federal authorities were aware of the contact months before public disclosures, underscoring systemic gaps in monitoring high-tech supply chain executives. The situation highlights the tension between semiconductor commercial dominance and national security oversight.",
-     "en_clair": "Allegations involving Nvidia CEO Jensen Huang and potential Chinese intelligence contacts have put Silicon Valley under intense scrutiny. Because Nvidia makes the microchips powering most modern AI technology, any security concerns around its leader impact the entire economy. This situation is important because it exposes how difficult it is for governments to manage security risks surrounding top tech CEOs.",
+     "zone": "United States / China",
+     "formel": "Tech executive Jensen Huang, CEO of Nvidia, faces intense scrutiny following reports regarding his contact with an AI executive accused of espionage for Beijing. The intelligence revelations have triggered debates in Washington concerning supply chain vulnerabilities in advanced semiconductors and national security oversight. The incident underscores growing tensions between Silicon Valley tech leadership and U.S. national security regulators regarding dual-use artificial intelligence technologies.",
+     "en_clair": "Nvidia founder Jensen Huang is facing scrutiny after reports revealed past connections with an AI executive linked to Chinese intelligence. Because Nvidia produces the advanced computer chips that power modern artificial intelligence, Washington is worried about foreign espionage risks. This situation shows the growing clash between commercial tech leaders and government national security priorities.",
      "urls": [
       "https://responsiblestatecraft.org/jensen-huang-china-spy/",
       "https://www.lowyinstitute.org/the-interpreter/jensen-huang-s-affair-exposes-silicon-valley-s-national-security-power"
      ]
     },
     {
-     "titre": "Ebola Epidemic and Health System Collapse in DR Congo",
-     "theme": "Society",
-     "zone": "Central Africa",
-     "formel": "The Democratic Republic of Congo is confronting the most severe Ebola epidemic in its history, prompting emergency declarations by the World Health Organization in May 2026. The outbreak has severely strained local healthcare infrastructure, compounded by ongoing armed instability in eastern provinces. International humanitarian organizations report critical shortages in medical supplies and vaccination logistics. The crisis highlights the vulnerability of regional health security in areas affected by persistent governance deficits.",
-     "en_clair": "The Democratic Republic of Congo is suffering from its worst Ebola outbreak ever recorded, overwhelming local doctors and health clinics. Armed conflict in the region makes it dangerous and difficult for international health workers to distribute vaccines and treat patients. This matters because uncontained epidemics present severe humanitarian risks and threaten global public health.",
-     "urls": [
-      "https://www.iris-france.org/les-crises-humanitaires-du-21e-siecle-la-situation-en-republique-democratique-du-congo/"
-     ]
-    },
-    {
-     "titre": "U.S. Suspension of South Africa and Rwanda from AGOA Trade Program",
-     "theme": "Economy & Energy",
-     "zone": "Sub-Saharan Africa",
-     "formel": "The U.S. administration announced that effective January 1, South Africa and Rwanda will be removed from preferential market access under the African Growth and Opportunity Act (AGOA). The decision follows escalating diplomatic friction over trade policies and non-alignment on key international security issues. African trade ministers have voiced concern over the economic disruption to export sectors reliant on duty-free U.S. entry. Economic analysts warn that the decision could accelerate trade diversification toward China and BRICS partners.",
-     "en_clair": "The U.S. government announced it will strip South Africa and Rwanda of duty-free trade privileges starting next year. This penalty comes after political and economic disagreements between Washington and the two African nations. This matters because losing duty-free access hurts local African businesses and may drive them to trade more with countries like China instead.",
-     "urls": [
-      "https://responsiblestatecraft.org/trump-agoa-south-africa/"
-     ]
-    },
-    {
-     "titre": "Australian Cultural Politics and National Music Curation",
-     "theme": "Press · Film · Fashion",
-     "zone": "Oceania",
-     "formel": "An analysis by the Lowy Institute examines the official selection of Australia's national soundtrack and its political implications for national identity. Cultural policy experts highlight that government curation of iconic music elevates specific historical narratives while marginalizing diverse artistic perspectives. While official campaigns attempt to foster social cohesion through shared heritage, critics argue that state selection cannot dictate public interpretation. The debate reflects broader challenges in defining multicultural policy through popular culture.",
-     "en_clair": "Australia's government has curated an official list of national songs to promote cultural identity, but experts debate its effectiveness. While officials hope shared music brings citizens together, critics note that top-down selection often leaves out important voices and perspectives. This issue matters because it touches on how democratic nations define their history and identity through culture.",
-     "urls": [
-      "https://www.lowyinstitute.org/the-interpreter/australia-has-picked-its-national-soundtrack-but-not-its-story"
-     ]
-    },
-    {
-     "titre": "Institutional Integration of Unmanned Systems in Ukraine's Armed Forces",
+     "titre": "Diplomatic Interventions and Foreign Backing in the Sudan Crisis",
      "theme": "Conflicts & Security",
-     "zone": "Eastern Europe",
-     "formel": "Ukraine's military leadership established a dedicated Unmanned Systems Forces branch to centralize drone operations across land, sea, and air domains. Defense analysts note that creating an independent service branch accelerates tactical innovation, procurement efficiency, and specialized drone pilot training. The structural reorganization reflects the transformation of modern warfare toward high-volume autonomous systems. Military planners worldwide are monitoring the operational results of Ukraine's institutional model to inform their own defense reforms.",
-     "en_clair": "Ukraine's military created a brand-new branch of its armed forces specifically dedicated to military drones and unmanned systems. Instead of distributing drones across traditional army units, this specialized branch streamlines training, tech development, and combat deployment. This matters because it sets a new global standard for how modern militaries prepare for drone-based warfare.",
+     "zone": "Africa",
+     "formel": "Special diplomatic envoys from the United States and external regional powers, including the United Arab Emirates, remain central to the ongoing conflict in Sudan. Analysts criticize inconsistent diplomatic efforts and risk-averse sanction regimes targeting local commanders while ignoring external patrons supplying weaponry. Addressing the roles of foreign actors is considered essential to mitigating the severe humanitarian catastrophe in East Africa.",
+     "en_clair": "Sudan's brutal civil conflict is being prolonged by outside countries that provide financial and military support to rival armed factions. While international diplomats are attempting to broker peace, critics argue they are failing to hold powerful foreign sponsors accountable. Without stopping foreign intervention, ending the severe humanitarian crisis remains nearly impossible.",
      "urls": [
-      "https://warontherocks.com/winning-time-ukraines-unmanned-systems-forces-and-the-new-dimension-of-war/"
+      "https://responsiblestatecraft.org/massad-boulos-sudan/",
+      "https://www.crisisgroup.org/pod/africa/sudan/uae-sudan"
+     ]
+    },
+    {
+     "titre": "High-Level Ukraine Peace Negotiations in Abu Dhabi",
+     "theme": "Politics & Diplomacy",
+     "zone": "Middle East / Eastern Europe",
+     "formel": "U.S. negotiators along with European representatives gathered in Abu Dhabi to explore potential diplomatic frameworks for ending the war in Ukraine. Concurrently, leadership challenges within the Organization for Security and Co-operation in Europe (OSCE) threaten the institution's ability to facilitate future peace oversight in 2027. Strategic alignment among mediator states remains a prerequisite for establishing binding ceasefire agreements.",
+     "en_clair": "Key diplomats from the U.S. and Europe recently held talks in Abu Dhabi to discuss possible peace terms for the war in Ukraine. At the same time, major international security organizations like the OSCE are struggling with leadership disputes that could hinder future peace agreements. These meetings show how neutral Middle Eastern capitals are becoming primary centers for global diplomacy.",
+     "urls": [
+      "https://responsiblestatecraft.org/ukraine-war-abu-dhabi-talks/",
+      "https://responsiblestatecraft.org/eurpeans-ukraine-talks-abudhabi/"
+     ]
+    },
+    {
+     "titre": "Expiration of the 1996 Ganges Water Sharing Treaty",
+     "theme": "Economy & Energy",
+     "zone": "South Asia",
+     "formel": "The approaching expiration of the 1996 Ganges Water Sharing Treaty presents significant diplomatic and environmental challenges for India and Bangladesh. Tensions over water management during dry seasons threaten regional economic stability and agricultural output along the shared river basin. Domestic political friction in both nations risks frustrating negotiations required to renew bilateral water-sharing frameworks.",
+     "en_clair": "A landmark 30-year treaty between India and Bangladesh governing how they share water from the Ganges River is about to expire. Without a renewed agreement, millions of farmers face severe water shortages, which could strain relations between the two neighbors. Reaching a new deal is critical for food security and economic stability in South Asia.",
+     "urls": [
+      "https://www.lowyinstitute.org/the-interpreter/ganges-treaty-expiry-tests-a-fragile-bilateral-relationship"
+     ]
+    },
+    {
+     "titre": "Congressional Midterms Derail Proposed $1.45 Trillion U.S. Defense Budget",
+     "theme": "Economy & Energy",
+     "zone": "United States",
+     "formel": "Political shifts following the 2026 U.S. Congressional midterm elections have effectively dismantled the proposed $1.45 trillion Fiscal Year 2027 defense budget request. Legislative realignments on Capitol Hill are forcing military planners to revise long-term procurement programs and weapons modernization efforts. The budget rollback highlights ongoing fiscal friction between executive defense ambitions and congressional spending limits.",
+     "en_clair": "Recent U.S. midterm election results have effectively killed a proposed record $1.45 trillion defense budget for 2027. With power shifting in Congress, military leaders will have to cut spending plans and delay expensive weapons purchases. This outcome demonstrates how domestic politics directly controls the size and direction of U.S. military spending.",
+     "urls": [
+      "https://warontherocks.com/cogs-of-war/rip-to-the-1-45-trillion-fy2027-defense-budget/"
+     ]
+    },
+    {
+     "titre": "Agricultural Policy as a Pillar of European Integration",
+     "theme": "Politics & Diplomacy",
+     "zone": "Europe",
+     "formel": "Historical and structural analysis highlights agriculture as a cornerstone of the European Union's foundational unity, contrasting with narrower industrial sectors like coal and steel. As the EU faces modern challenges regarding environmental regulations and trade disputes, agricultural consensus remains essential for institutional cohesion. Sustaining Common Agricultural Policy frameworks is critical for maintaining political balance among all member states.",
+     "en_clair": "Agriculture has historically been one of the primary binding forces keeping the European Union united across all member countries. Today, balancing farm subsidies with new environmental rules creates big political debates in Brussels. Managing farmland policies fairly is essential to preventing political rifts across Europe.",
+     "urls": [
+      "https://www.iris-france.org/lagriculture-ciment-de-leurope/"
+     ]
+    },
+    {
+     "titre": "Military Purges and Readiness Impact on China's Armed Forces",
+     "theme": "Conflicts & Security",
+     "zone": "East Asia",
+     "formel": "Reports confirm that Chinese General Secretary Xi Jinping has removed over 100 high-ranking military officials since 2022 as part of an anti-corruption campaign. Defense analysts argue these high-level purges significantly disrupt command continuity and operational readiness within the People's Liberation Army (PLA). These internal disruptions could alter Beijing's timeline and tactical planning regarding potential Taiwan contingencies.",
+     "en_clair": "Over the past few years, China's leader has removed more than 100 senior military commanders in a massive anti-corruption sweep. Experts believe these sudden purges are disrupting military leadership and lowering operational readiness. This disruption could delay or complicate any plans China has for potential military operations against Taiwan.",
+     "urls": [
+      "https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/"
+     ]
+    },
+    {
+     "titre": "Water Shortages and Social Crisis in Mauritius",
+     "theme": "Society",
+     "zone": "Indian Ocean",
+     "formel": "Following weeks of civil unrest in late 2026, Mauritius faces a deepening socio-economic crisis stemming from severe water and electricity shortages. The disturbances follow similar youth-led social movements across Indian Ocean island nations, such as Madagascar, driven by failing public infrastructure. The crisis highlights how climate vulnerabilities and public service deficits directly threaten political stability in small island developing states.",
+     "en_clair": "Severe water and power cuts in Mauritius recently sparked violent street protests, exposing deep flaws in the island's public infrastructure and social model. Similar protests in neighboring island nations show growing public anger over poor basic services and rising costs of living. This unrest highlights how environmental strain can quickly destabilize small island nations.",
+     "urls": [
+      "https://www.iris-france.org/maurice-derriere-les-emeutes-doctobre-2026-une-crise-de-leau-et-du-modele-social/"
+     ]
+    },
+    {
+     "titre": "Gene-Edited Rice Development for Climate Resilience in Southeast Asia",
+     "theme": "Economy & Energy",
+     "zone": "Southeast Asia",
+     "formel": "Agronomists and policymakers in Southeast Asia are prioritizing gene-edited rice strains to combat climate shocks caused by recurring El Niño weather cycles. While agricultural technology offers enhanced crop resistance to drought and flooding, regulatory barriers and high costs threaten smallholder access. Broad technological adoption is vital to secure regional food supplies against climate-induced agricultural disruptions.",
+     "en_clair": "Scientists in Southeast Asia are developing advanced gene-edited rice to protect crops against extreme heat and droughts caused by climate change. However, small farmers may struggle to afford this technology without government subsidies and updated regulations. Ensuring widespread access to smart crops is vital to prevent major food shortages in the region.",
+     "urls": [
+      "https://www.lowyinstitute.org/the-interpreter/southeast-asia-must-breed-smarter-rice-to-outlast-el-nino-and-the-next-one"
      ]
     }
    ],
    "articles": [
+    {
+     "titre": "À quoi sert la Politique étrangère et de sécurité commune de l’Union européenne ?",
+     "url": "https://www.iris-france.org/a-quoi-sert-la-politique-etrangere-et-de-securite-commune-de-lunion-europeenne/",
+     "resume": "Les Européens ont finalement tranché : les émissaires chargés de les représenter à la table d’éventuelles négociations sur la guerre en Ukraine seront au nombre de sept. Quatre États membres de l’Union européenne (la France, l’Allemagne, l’Italie et la Pologne), deux représentants des institutions communes (l’un du Conseil, l’autre de la Commission), ainsi que le Royaume-Uni, seront associés aux p",
+     "date": "2026-11-16T10:05:55+00:00",
+     "image": null,
+     "source": "IRIS (France)"
+    },
+    {
+     "titre": "RIP to the $1.45 Trillion FY2027 Defense Budget",
+     "url": "https://warontherocks.com/cogs-of-war/rip-to-the-1-45-trillion-fy2027-defense-budget/",
+     "resume": "The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of Defense budget request. While there remains a path forward to salvage the base budget request of $1.1 trillion, it is exceedingly difficult to envision a legislative pathway for the $350 billion reconciliation request. The reconciliation re",
+     "date": "2026-11-16T09:00:38+00:00",
+     "image": null,
+     "source": "War on the Rocks"
+    },
+    {
+     "titre": "The Limits of Quiet Resignation from the U.S. Military",
+     "url": "https://warontherocks.com/the-limits-of-quiet-resignation-from-the-u-s-military/",
+     "resume": "According to CNN reporting, Joint Chiefs Chairman Gen. Dan Caine recently asked his top lawyer: “How should a military commander respond if they determine they have received an unlawful order?” The lawyer’s answer was reportedly unequivocal: “Request to retire — and refrain from resigning in protest, which could be seen as a political act, or picking a fight to get fired.” In other words, when giv",
+     "date": "2026-11-16T08:30:37+00:00",
+     "image": null,
+     "source": "War on the Rocks"
+    },
+    {
+     "titre": "Could it be satan? No, Huckabee, just the Americans you work for",
+     "url": "https://responsiblestatecraft.org/mike-huckabee-israel-iran-war/",
+     "resume": "“Satan has blinded the minds” of those against the Iran war, said U.S. Israel Ambassador Mike Huckabee in a late October interview . The devil “has captured their thinking,” he claimed. “I see it as spiritual darkness, spiritual blindness.” “I know it sounds a little funny for an ambassador to be talking like this,” he said. Yes, it does . “Israel is not a political issue,” Huckabee also insisted ",
+     "date": "2026-11-16T05:05:04+00:00",
+     "image": "https://responsiblestatecraft.org/media-library/mike-huckabee-in-israel.jpg?id=68691278&width=980",
+     "source": "Responsible Statecraft (Quincy Institute)"
+    },
+    {
+     "titre": "Trump's Africa envoy puts on a masterclass in bad diplomacy",
+     "url": "https://responsiblestatecraft.org/massad-boulos-sudan/",
+     "resume": "Since returning to the White House, President Donald Trump has increasingly relied on special envoys to deal with some of his most vexing foreign policy challenges. While Trump slashed the use of special envoys in his first term, he has come around in his second term, in part because they allow him to bypass his career foreign service officers by compartmentalizing information from “deep state bur",
+     "date": "2026-11-16T05:05:04+00:00",
+     "image": "https://responsiblestatecraft.org/media-library/massad-boulos.jpg?id=68660298&width=980",
+     "source": "Responsible Statecraft (Quincy Institute)"
+    },
+    {
+     "titre": "Squabble over leadership risks plunging the OSCE into crisis",
+     "url": "https://responsiblestatecraft.org/eurpeans-ukraine-talks-abudhabi/",
+     "resume": "The Organization for Security and Cooperation in Europe (OSCE) is staring down the barrel of entering 2027 without a chair for the first time in its 51-year history. The Europeans are wrestling Turkey to drop its veto over Cyprus’ bid, raising the stakes by loudly opposing the only other candidate, Georgia. Unable to win over Ankara, Europe should drop its objections to Tbilisi to avert a crisis. ",
+     "date": "2026-11-16T05:05:04+00:00",
+     "image": "https://responsiblestatecraft.org/media-library/osce-georgia.jpg?id=68666746&width=980",
+     "source": "Responsible Statecraft (Quincy Institute)"
+    },
+    {
+     "titre": "Ganges treaty expiry tests a fragile bilateral relationship",
+     "url": "https://www.lowyinstitute.org/the-interpreter/ganges-treaty-expiry-tests-a-fragile-bilateral-relationship",
+     "resume": "With the 1996 agreement due to end, India and Bangladesh risk letting politics sink cooperation.",
+     "date": "2026-11-16T14:00:00+11:00",
+     "image": "https://cdn.sanity.io/images/5dcouzig/production/eba000de77784c1e5ba30aae39006b75b9673884-3454x2303.jpg?rect=0,246,3454,1813&w=1200&h=630&fm=webp&q=85&fit=crop",
+     "source": "Lowy Institute (Australie)"
+    },
+    {
+     "titre": "AUKUS inquiry scepticism runs only one way",
+     "url": "https://www.lowyinstitute.org/the-interpreter/aukus-inquiry-scepticism-runs-only-one-way",
+     "resume": "The AUKUS Public Inquiry doubts Washington’s motives at length – and barely questions Beijing’s.",
+     "date": "2026-11-16T13:00:00+11:00",
+     "image": "https://cdn.sanity.io/images/5dcouzig/production/b43c80b5c9071522bf5fa524195518d049f3939b-2646x1936.jpg?rect=0,274,2646,1389&w=1200&h=630&fm=webp&q=85&fit=crop",
+     "source": "Lowy Institute (Australie)"
+    },
+    {
+     "titre": "Japan wants satellite sovereignty",
+     "url": "https://www.lowyinstitute.org/the-interpreter/japan-wants-satellite-sovereignty",
+     "resume": "Public funding and Japanese control underpin Rakuten’s new satellite venture. American technology will make it work.",
+     "date": "2026-11-16T11:00:00+11:00",
+     "image": "https://cdn.sanity.io/images/5dcouzig/production/5276dfa29871359b6cfafe72de5403dfef4f9b49-3341x2227.jpg?rect=0,237,3341,1754&w=1200&h=630&fm=webp&q=85&fit=crop",
+     "source": "Lowy Institute (Australie)"
+    },
+    {
+     "titre": "First Nations IP protection risks going from “miracle to mirage”",
+     "url": "https://www.lowyinstitute.org/the-interpreter/first-nations-ip-protection-risks-going-from-miracle-to-mirage",
+     "resume": "A new international treaty strengthens Australia’s case for domestic reform – but only if major economies sign on too.",
+     "date": "2026-11-16T09:00:00+11:00",
+     "image": "https://cdn.sanity.io/images/5dcouzig/production/bab3a2e4cd4ae4230a027bccf7750ae80b7cb291-6653x4438.jpg?rect=0,473,6653,3493&w=1200&h=630&fm=webp&q=85&fit=crop",
+     "source": "Lowy Institute (Australie)"
+    },
     {
      "titre": "Kylian Mbappe, un acteur politique ?",
      "url": "https://www.iris-france.org/kylian-mbappe-un-acteur-politique/",
@@ -2175,14 +2317,6 @@
      "source": "Responsible Statecraft (Quincy Institute)"
     },
     {
-     "titre": "Recompositions géopolitique et politique aux États-Unis ?",
-     "url": "https://www.iris-france.org/recompositions-geopolitique-et-politique-aux-etats-unis/",
-     "resume": "Chaque mardi, Pascal Boniface reçoit un membre de l’équipe de recherche de l’‪IRIS pour décrypter un fait d’actualité internationale. Aujourd’hui, échange avec Marie-Cécile Naves, directrice de recherche à l’IRIS, autour des résultats des élections de mi-mandat aux États-Unis. Alors que les démocrates remportent une majorité dans les deux chambres du Congrès américain, cette défaite pour le camp r",
-     "date": "2026-11-10T16:55:09+00:00",
-     "image": null,
-     "source": "IRIS (France)"
-    },
-    {
      "titre": "After midterm disaster, can Rubio still get Cuba regime change?",
      "url": "https://responsiblestatecraft.org/trump-marco-rubio-cuba-invasion/",
      "resume": "After Democrats dominated last week’s midterm elections, retaking control of the House and Senate, President Donald Trump has turned his attention southward. “Cuba is falling. It’s a failing nation. It’s got an ideology very similar to what the Democrat ideology is,” he said Monday. “I would imagine it will fall fairly soon.” The comments suggest that, despite facing a stunning rebuke of his forei",
@@ -2276,78 +2410,6 @@
      "resume": "A trilateral summit lets Washington look powerful, but it could cost Beijing dearly with Europe.",
      "date": "2026-11-10T03:00:00+11:00",
      "image": "https://cdn.sanity.io/images/5dcouzig/production/d30dcab683a794cc244c3571c102dcff4207c3cd-1640x924.jpg?rect=0,32,1640,861&w=1200&h=630&fm=webp&q=85&fit=crop",
-     "source": "Lowy Institute (Australie)"
-    },
-    {
-     "titre": "Russia is courting African states. The US shouldn't overreact.",
-     "url": "https://responsiblestatecraft.org/africa-russia-summit/",
-     "resume": "As part of an effort to keep Russia on the radar of African countries still struggling from some of the negative externalities of Russia’s continuing war in Ukraine, Russian President Vladimir Putin hosted African leaders in Moscow last week for the third Russia-Africa summit . Between October 28 and 29, Russian officials met with their African counterparts in high-level discussions covering a wid",
-     "date": "2026-11-09T13:00:46+00:00",
-     "image": "https://responsiblestatecraft.org/media-library/russian-president-vladimir-putin-attends-a-meeting-with-south-sudanese-president-salva-kiir.jpg?id=68618067&width=980",
-     "source": "Responsible Statecraft (Quincy Institute)"
-    },
-    {
-     "titre": "The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp",
-     "url": "https://warontherocks.com/cogs-of-war/the-record-budgets-and-missing-suppliers-shaping-americas-munitions-ramp/",
-     "resume": "The Pentagon is sending a record demand signal for munitions, but turning it into deliveries depends on suppliers several tiers below the primes, many of which disappeared over the last two decades. Marc Andersen (Army assistant secretary and chief investment officer of the Strategic Capital Initiative), Brandon Daniels (Exiger), and Joseph “Gus” Guastella (Voyager Technologies) join Jonathan in t",
-     "date": "2026-11-09T09:00:45+00:00",
-     "image": null,
-     "source": "War on the Rocks"
-    },
-    {
-     "titre": "Rethinking Strategic Stability with China: From Coercion to Constructivism",
-     "url": "https://warontherocks.com/rethinking-strategic-stability-with-china-from-coercion-to-constructivism/",
-     "resume": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China. Spanning containment and normalization to opening and reform, U.S. policymakers have long hoped that China would fulfill its place in the international order and transform itself into a “responsible stakeholder.” Despite years of pivots, new visions, trade arguments and agreements, an",
-     "date": "2026-11-09T08:30:24+00:00",
-     "image": null,
-     "source": "War on the Rocks"
-    },
-    {
-     "titre": "The vindication of Marjorie Taylor Greene",
-     "url": "https://responsiblestatecraft.org/majorie-taylor-greene-trump-elections/",
-     "resume": "Ten weeks ago, Donald Trump called Marjorie Taylor Greene, his former ally and a former Georgia Republican congresswoman, a “LOSER.” Greene shot back that Trump was a “neocon puppet for Israel.” Both of them do this a lot these days . Last week, it was Republicans who were big losers in the midterm elections. The president might have been the biggest loser of them all. Greene knew why. “Look, if y",
-     "date": "2026-11-09T05:05:05+00:00",
-     "image": "https://responsiblestatecraft.org/media-library/marjorie-taylor-greene-iran.jpg?id=68632921&width=980",
-     "source": "Responsible Statecraft (Quincy Institute)"
-    },
-    {
-     "titre": "Is Haiti becoming a front in a multinational conflict?",
-     "url": "https://responsiblestatecraft.org/haiti-el-salvador-gangs/",
-     "resume": "On October 18, four Salvadoran airmen vanished after gunmen ambushed their armored vehicle in Croix-des-Bouquets, a gang-held suburb about seven kilometers outside Port-au-Prince, Haiti’s capital. They were in Haiti as part of a UN-authorized multinational force sent to retake territory from the armed gangs that now dominate large swathes of the Caribbean nation. El Salvador’s hardline president, ",
-     "date": "2026-11-09T05:05:05+00:00",
-     "image": "https://responsiblestatecraft.org/media-library/el-salvador-haiti.jpg?id=68620316&width=980",
-     "source": "Responsible Statecraft (Quincy Institute)"
-    },
-    {
-     "titre": "New Zealand’s foreign policy could change – but we won’t know for weeks",
-     "url": "https://www.lowyinstitute.org/the-interpreter/new-zealand-s-foreign-policy-could-change-but-we-won-t-know-for-weeks",
-     "resume": "And the election limbo will cost New Zealand a voice at APEC and COP.",
-     "date": "2026-11-09T16:00:00+11:00",
-     "image": "https://cdn.sanity.io/images/5dcouzig/production/ab6bef29599e72599854c493e6a9781547f789a4-6883x4591.jpg?rect=0,489,6883,3614&w=1200&h=630&fm=webp&q=85&fit=crop",
-     "source": "Lowy Institute (Australie)"
-    },
-    {
-     "titre": "The Philippines is looking to develop an “expeditionary navy”",
-     "url": "https://www.lowyinstitute.org/the-interpreter/the-philippines-is-looking-to-develop-an-expeditionary-navy",
-     "resume": "Manila is chasing a blue-water navy, but its frigates lack weapons and its fleet lacks the fuel to go the distance.",
-     "date": "2026-11-09T14:00:00+11:00",
-     "image": "https://cdn.sanity.io/images/5dcouzig/production/8b5841f7ad066eef0274d4a8e405f26e328a53a7-5086x3072.jpg?rect=0,201,5086,2670&w=1200&h=630&fm=webp&q=85&fit=crop",
-     "source": "Lowy Institute (Australie)"
-    },
-    {
-     "titre": "Owning a satellite isn’t the same as owning the expertise to replace it",
-     "url": "https://www.lowyinstitute.org/the-interpreter/owning-a-satellite-isn-t-the-same-as-owning-the-expertise-to-replace-it",
-     "resume": "Oman’s expanding satellite partnership with China offers a test for emerging space economies: can buying foreign technology give countries greater control over their next purchase?",
-     "date": "2026-11-09T11:00:00+11:00",
-     "image": "https://cdn.sanity.io/images/5dcouzig/production/0a8e85b782380bc37ed2c44a9a5a865f22dee6bc-6641x3996.jpg?rect=0,255,6641,3487&w=1200&h=630&fm=webp&q=85&fit=crop",
-     "source": "Lowy Institute (Australie)"
-    },
-    {
-     "titre": "Beijing’s new “common language” law doesn’t sound so common",
-     "url": "https://www.lowyinstitute.org/the-interpreter/beijing-s-new-common-language-law-doesn-t-sound-so-common",
-     "resume": "China’s bid for one national language rests on an old idea – that some cultures remain less developed – and coincides with a push for global status.",
-     "date": "2026-11-09T03:00:00+11:00",
-     "image": "https://cdn.sanity.io/images/5dcouzig/production/81a2fe2b1a77ef946dc57cde905dd1266a349476-3000x2023.jpg?rect=0,225,3000,1575&w=1200&h=630&fm=webp&q=85&fit=crop",
      "source": "Lowy Institute (Australie)"
     },
     {
