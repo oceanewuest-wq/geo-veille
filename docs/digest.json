@@ -1,7 +1,9 @@
 {
- "genere_le": "2026-11-16T13:30:45.823394+00:00",
+ "genere_le": "2026-11-17T14:18:54.626940+00:00",
  "mode_brut": false,
  "erreurs": [
+  "France 24 — Moyen-Orient: HTTPError",
+  "France 24 — Monde: HTTPError",
   "ISW: HTTPError",
   "ECFR (Europe): HTTPError"
  ],
@@ -840,742 +842,743 @@
    "lang": "en",
    "sujets": [
     {
-     "titre": "US Aircraft Carrier Arrives in Middle East Amid Tensions with Iran",
-     "theme": "Conflicts & Security",
-     "zone": "Middle East / Iran",
-     "formel": "The USS Theodore Roosevelt has arrived in the Middle East, becoming the third US aircraft carrier deployed to the US Central Command area of responsibility. The naval reinforcement comes amid heightened tensions with Iran and potential risks of regional military escalation. US officials cited force protection and deterrence as primary objectives for the increased naval presence. Meanwhile, reports indicate Russian space intelligence sharing with Tehran could influence Iranian defensive preparations.",
-     "en_clair": "The US military has moved a third aircraft carrier, the USS Theodore Roosevelt, into the Middle East to strengthen its presence. This deployment highlights growing concerns about potential military conflict between the US and Iran. The extra naval power aims to deter attacks and protect international shipping lanes in strategic waters.",
-     "urls": [
-      "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Israel Military Cloud Surveillance via Amazon Facial Recognition",
-     "theme": "Conflicts & Security",
-     "zone": "Israel / Palestine",
-     "formel": "Reports reveal that the Israeli military uploaded approximately 3.5 million facial images to Amazon's Rekognition platform to track Palestinians. The data integration occurred alongside an increased reliance on Amazon Web Services cloud infrastructure during military operations in Gaza and the West Bank. Civil liberties groups have raised concerns over privacy violations and mass automated surveillance. Neither Amazon nor the Israeli Defense Forces have publicly clarified the contractual terms governing the biometric processing.",
-     "en_clair": "Israel's military reportedly uploaded millions of photos of Palestinians onto Amazon's cloud platform to use automated facial recognition tools. This allowed military systems to quickly track and identify individuals across Gaza and the West Bank. The news has sparked debates over how major tech companies supply surveillance technology used in conflict zones.",
-     "urls": [
-      "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians"
-     ]
-    },
-    {
-     "titre": "Israeli Settler Attacks and Home Seizures in Jericho",
-     "theme": "Conflicts & Security",
-     "zone": "Israel / Palestine",
-     "formel": "Israeli settlers seized eight Palestinian residences in Jericho, West Bank, prompting fears among local residents of an expanded territorial takeover. During the incidents, journalists and residents were harassed, and several structures were leveled by settler groups. Local Palestinian authorities have reported an increase in systematic property confiscations across the occupied territory. Human rights organizations continue to document forced displacement and physical altercations surrounding these land seizures.",
-     "en_clair": "In the West Bank city of Jericho, Israeli settlers have taken over several Palestinian homes, causing heightened fear among local communities. Journalists covering the events were harassed as residents reported property destruction. The incidents reflect growing tensions and disputes over land ownership in the occupied West Bank.",
-     "urls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/16/jericho-settlers-harass-al-jazeera-reporter-after-stealing-palestinian-home?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Ahmad Tibi Elected Deputy Speaker of Israel's Knesset",
-     "theme": "Politics & Diplomacy",
-     "zone": "Israel",
-     "formel": "Ahmad Tibi, a veteran lawmaker representing Palestinian citizens of Israel, has been elected as deputy speaker of the Knesset. Tibi, who has served in the Israeli parliament for 27 years and previously acted as an adviser to Yasser Arafat, hailed the appointment as a significant political achievement for his parliamentary alliance. The position involves presiding over legislative sessions and managing administrative parliamentary duties. His election highlights shifting political dynamics within Israel's legislative assembly.",
-     "en_clair": "Ahmad Tibi, a long-serving Arab-Israeli politician, has been chosen as deputy speaker of Israel's parliament, the Knesset. Tibi has been a lawmaker for nearly three decades and represents Arab citizens of Israel. His new role gives him a prominent position in managing parliamentary debates and administrative work.",
-     "urls": [
-      "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Saudi-Backed Yemeni Forces Reposition to Defend Aden",
-     "theme": "Conflicts & Security",
-     "zone": "Yemen / Red Sea",
-     "formel": "Saudi-backed Yemeni military forces have begun withdrawing troops from positions near the Bab al-Mandab Strait to reinforce defenses around the interim capital of Aden. The strategic redeployment is aimed at countering potential Houthi advances threatening southern government strongholds. Officials emphasized that consolidating control around Aden takes priority amid shifting frontline dynamics. Maritime security analysts note that the movement could impact coastal patrols along critical Red Sea shipping corridors.",
-     "en_clair": "Yemeni government troops backed by Saudi Arabia are moving back from the strategic Bab al-Mandab Strait to defend the city of Aden. They fear that Houthi rebels might push toward the temporary capital. This repositioning shifts military focus toward city defense, which could affect security along nearby sea routes.",
-     "urls": [
-      "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "titre": "Lebanon Plans Second Airport to Aid Economic Recovery",
-     "theme": "Economy & Energy",
-     "zone": "Lebanon",
-     "formel": "Lebanese officials are advancing plans to establish a second commercial airport to reduce single-point dependency on Beirut-Rafic Hariri International Airport. Economists project that a secondary aviation hub could improve national logistical resilience, facilitate humanitarian transport, and spur economic recovery following prolonged conflict. Feasibility studies focus on converting existing airbases to handle civilian passenger and cargo traffic. Political analysts suggest the project could also decentralize regional infrastructure development.",
-     "en_clair": "Lebanon is looking to build or convert a second commercial airport to expand its travel and transport options beyond Beirut. Currently, the country relies on just one major international airport, which creates vulnerabilities during crises. A second hub could boost the economy, improve transport links, and help rebuild trade.",
-     "urls": [
-      "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Ukraine Targets Kerch Bridge in Crimean Drone Barrage",
+     "titre": "Kerch Bridge Attack",
      "theme": "Conflicts & Security",
      "zone": "Ukraine / Russia",
-     "formel": "Ukrainian forces launched an overnight drone barrage targeting the Kerch Strait Bridge, connecting Russia to occupied Crimea, temporarily disrupting vehicular traffic. Russian authorities reported active air defenses and imposed temporary transit restrictions along the strategic link. The Kerch Bridge serves as a vital logistical corridor for Russian military supply lines into southern Ukraine. Concurrently, diplomatic negotiations remain stalled as Moscow signals reluctance to engage in unified European security framework talks.",
-     "en_clair": "Ukraine carried out a drone attack against the Kerch Bridge, which links Russia to occupied Crimea. The bridge is a crucial route for moving Russian troops and military supplies. Traffic was temporarily halted, marking another strategic strike against key Russian infrastructure.",
+     "formel": "On November 17, 2026, Ukrainian forces launched an unprecedented attack that critically damaged the strategic Kerch Bridge linking Russia and occupied Crimea. Ukrainian President Volodymyr Zelenskyy praised the operation, while Kremlin officials asserted that the bridge would be fully restored and improved.",
+     "en_clair": "Ukraine launched a major attack on the vital bridge connecting Russia to Crimea, causing severe damage. While Ukraine celebrated the successful strike, Russia promised to rebuild the structure.",
      "urls": [
-      "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
-      "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss"
+      "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+      "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
      ]
     },
     {
-     "titre": "Silicon Valley Campaign Seeks Reinstatement of Ex-Nvidia CEO",
+     "titre": "Naval Mine Blast in Hormuz Strait",
+     "theme": "Conflicts & Security",
+     "zone": "Strait of Hormuz / Persian Gulf",
+     "formel": "Iranian state reports confirmed that two vessels caught fire following a naval mine explosion in the strategic Strait of Hormuz on November 17, 2026. The incident exacerbates security concerns regarding commercial navigation and energy transit routes in the Persian Gulf amid heightened regional tensions.",
+     "en_clair": "Two ships caught fire after hitting a naval mine in the Strait of Hormuz, a critical waterway for global oil shipments. This event raises serious security fears for ships passing through the Persian Gulf.",
+     "urls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss"
+     ]
+    },
+    {
+     "titre": "West Bank Settler Violence and UK Sanctions",
+     "theme": "Conflicts & Security",
+     "zone": "Israel / Palestine",
+     "formel": "On November 17, 2026, a 72-year-old Palestinian woman was shot dead during clashes involving Israeli settlers in al-Duyuk al-Tahta in the West Bank, with conflicting accounts over the instigation of gunfire. Concurrently, UK Minister Ed Miliband announced the first British sanctions targeting Israeli firms operating in the West Bank over illegal settlement expansion.",
+     "en_clair": "A 72-year-old Palestinian woman was killed in the West Bank during a clash involving Israeli settlers and the military. Meanwhile, the UK government announced new sanctions against Israeli companies operating in the West Bank.",
+     "urls": [
+      "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions"
+     ]
+    },
+    {
+     "titre": "US-Iran Conflict Stalemate",
+     "theme": "Conflicts & Security",
+     "zone": "Iran / Middle East",
+     "formel": "As of November 17, 2026, analysts note that the US-Israeli confrontation with Iran risks devolving into a frozen conflict. US President Donald Trump stated that Washington does not require a diplomatic deal with Tehran, while Iranian authorities reject an intermediate 'no war, no peace' paradigm, leaving civilians fearful of targeted infrastructure strikes.",
+     "en_clair": "The military standoff between the US, Israel, and Iran appears stuck in a prolonged stalemate. President Trump says the US doesn't need a deal, while Iran refuses a partial truce, leaving local civilians anxious about ongoing infrastructure attacks.",
+     "urls": [
+      "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss"
+     ]
+    },
+    {
+     "titre": "UK Youth Unemployment and Milburn Report",
      "theme": "Economy & Energy",
-     "zone": "United States",
-     "formel": "Prominent technology leaders, including Elon Musk, have launched a high-profile campaign titled 'Bring Jensen Back' to reinstate former Nvidia CEO Jensen Huang following his ouster by the board. Industry figures argue that Huang's departure poses strategic risks to US leadership in artificial intelligence hardware and semiconductor design. Nvidia's board has faced market pressure and scrutiny over corporate governance following the leadership rift. The dispute underscores tensions between corporate boards and visionary tech executives.",
-     "en_clair": "Top tech figures, including Elon Musk, are campaigning to bring Jensen Huang back as CEO of chipmaking giant Nvidia after he was removed by the board. Supporters believe his leadership is crucial for maintaining the US lead in artificial intelligence chips. The push highlights high stakes and board drama within one of the world's most valuable tech companies.",
+     "zone": "United Kingdom",
+     "formel": "Published on November 17, 2026, the major youth unemployment report by Alan Milburn projects that proposed benefit cuts will save approximately £200 million annually to fund a new job support system. Simultaneously, official data released by the UK government showed that national unemployment unexpectedly eased to 4.6% in September, with wage growth softening to 3.5%.",
+     "en_clair": "A major new report by Alan Milburn outlines plans to help young unemployed people into work through targeted support funded by benefit savings. At the same time, official figures showed UK unemployment unexpectedly dropping to 4.6%.",
      "urls": [
-      "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss"
+      "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+      "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report"
      ]
     },
     {
-     "titre": "Gérard Depardieu Drops Appeal Against Sexual Assault Conviction",
-     "theme": "Press · Film · Fashion",
-     "zone": "France",
-     "formel": "French actor Gérard Depardieu has formally withdrawn his appeal against a conviction for sexually assaulting two women on a film set in 2021. Depardieu issued an apology to both victims, bringing an end to legal proceedings that had drawn significant media attention to French cinema culture. Legal representatives confirmed the decision renders his criminal conviction final under French law. The case has intensified scrutiny regarding workplace safety and conduct in the entertainment industry.",
-     "en_clair": "Actor Gérard Depardieu has dropped his appeal against a sexual assault conviction stemming from an incident on a 2021 film set. He also issued an apology to the two women involved, making the court's guilty ruling official and final. The decision marks a major moment in France's ongoing efforts to address workplace harassment in the film industry.",
-     "urls": [
-      "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction"
-     ]
-    },
-    {
-     "titre": "Eurovision Organizers Criticize Censorship in First Asian Contest",
-     "theme": "Streamers & Gaming",
-     "zone": "Malaysia / Global",
-     "formel": "Eurovision organizers expressed disappointment after Malaysian broadcaster TV3 removed footage featuring drag performers and LGBTQ+ spokespersons during the first Eurovision Asia broadcast. The European Broadcasting Union highlighted that structural edits violated transmission guidelines designed to ensure editorial integrity across international partners. Malaysian regulators defended the cuts under local broadcasting decency laws prohibiting explicit content. The incident underscores cultural friction as European entertainment franchises expand into Asian markets.",
-     "en_clair": "Organizers of the Eurovision Song Contest criticized a Malaysian TV station for cutting out performances by drag artists and LGBTQ+ representatives during the show's Asian debut. The broadcaster stated the edits were necessary to comply with national content laws. The dispute highlights the challenges media franchises face when adapting Western programming for conservative international markets.",
-     "urls": [
-      "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest"
-     ]
-    },
-    {
-     "titre": "Five EU Nations Propose Asylum Deportation Hub in Rwanda",
+     "titre": "US Chip Restrictions and Asian Trade Protests",
      "theme": "Politics & Diplomacy",
-     "zone": "Europe / Rwanda",
-     "formel": "Germany, Denmark, Austria, Greece, and the Netherlands are expected to announce a joint initiative establishing an offshore 'return hub' in Rwanda for rejected asylum seekers. The proposal aims to streamline external deportations and deter irregular migration into the European Union. Human rights organizations have raised legal and humanitarian objections regarding third-country processing and standards of protection. The plan reflects a broader shift toward externalizing asylum management among EU member states.",
-     "en_clair": "Five European countries—including Germany and Denmark—are planning to build a center in Rwanda where asylum seekers whose applications were rejected can be sent. The goal is to make it easier to deport people who do not qualify to stay in Europe. However, human rights groups argue that sending migrants to third countries raises legal and safety concerns.",
+     "zone": "Asia-Pacific / United States",
+     "formel": "On November 17, 2026, US President Donald Trump arrived in Manila ahead of the ASEAN summit and addressed leaders at the Quad security bloc summit. Concurrently, US export authorities launched investigations into Singapore-based firms like Megaspeed for allegedly circumventing restrictions by shipping high-end Nvidia AI chips to China, sparking regional trade tensions and protests in Manila.",
+     "en_clair": "President Trump traveled to Asia for regional summits, while Washington cracked down on companies suspected of secretly supplying advanced US computer chips to China. These tech restrictions and geopolitical policies triggered protests and arrests in the Philippines.",
      "urls": [
-      "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+      "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
      ]
     },
     {
-     "titre": "WHO Warns Antimicrobial Resistance Could Cause 39 Million Deaths",
+     "titre": "US Senate Midterm Races and Leadership",
+     "theme": "Politics & Diplomacy",
+     "zone": "United States",
+     "formel": "Following the 2026 US midterm elections, Democrat Mary Peltola closed in on a crucial victory in the Alaska Senate race on November 17, 2026. Meanwhile, Senate Democrats prepared for congressional control as lawmakers such as Chris Van Hollen mobilized to challenge incumbent Chuck Schumer for the Senate Majority Leader post.",
+     "en_clair": "Democrats are solidifying their legislative standing following midterm wins, with a tight Senate race in Alaska nearing a final result. Inside the party, lawmakers are beginning contests to choose their next Senate leader as they prepare to take control of Congress.",
+     "urls": [
+      "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+      "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss"
+     ]
+    },
+    {
+     "titre": "School Phone Bans Academic Study",
      "theme": "Society",
-     "zone": "Global",
-     "formel": "The World Health Organization (WHO) has issued a warning stating that antimicrobial resistance (AMR) could cause up to 39 million direct deaths over the next 25 years if unchecked. Overuse of antibiotics in healthcare and agriculture is accelerating drug-resistant bacterial strains worldwide. The UN agency urged governments to invest in new antimicrobial therapies, strengthen stewardship programs, and enforce global surveillance protocols. Experts emphasize that AMR poses a systemic threat to modern clinical medicine and global health security.",
-     "en_clair": "The World Health Organization warned that superbugs resistant to existing medicines could cause 39 million deaths over the next 25 years. Because bacteria are becoming resistant to common antibiotics, routine medical treatments could become dangerous or ineffective. The UN is calling on nations to limit antibiotic overuse and invest urgently in developing new drugs.",
+     "zone": "United States",
+     "formel": "A comprehensive large-scale study published on November 17, 2026, revealed that strict cellphone restrictions implemented across schools in over 40 US states have resulted in 'modest' academic gains and improved student focus. The findings arrive as lawmakers continue to weigh legislative measures regarding digital device usage in educational environments.",
+     "en_clair": "A new study shows that banning mobile phones in schools across more than 40 US states has led to modest improvements in student concentration and academic performance. This provides valuable data for policymakers debating classroom technology rules.",
      "urls": [
-      "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss"
+      "https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students"
      ]
     },
     {
-     "titre": "Malawian Innovator Develops AI Learning Tool for Blind Students",
-     "theme": "Society",
-     "zone": "Malawi",
-     "formel": "A 25-year-old Malawian innovator has created an artificial intelligence learning tool tailored specifically to assist visually impaired students in educational environments. The software converts printed text and visual study materials into real-time interactive audio and tactile feedback. Educational authorities in Malawi have initiated pilot implementations in specialized schools to measure improvements in academic performance. The project demonstrates the growing role of accessible technology in addressing educational inequality across developing regions.",
-     "en_clair": "A young innovator in Malawi has developed a new AI tool designed to help blind students learn more easily in school. The tool converts written text and images into audio descriptions so students can follow along with lessons. It is currently being tested in schools to help bridge the learning gap for students with visual impairments.",
-     "urls": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss"
-     ]
-    },
-    {
-     "titre": "Jürgen Klopp Publicly Criticizes FIFA President Gianni Infantino",
+     "titre": "FIFA Leadership Challenge",
      "theme": "Sport",
-     "zone": "Global",
-     "formel": "Germany national team manager Jürgen Klopp launched strong public criticism against FIFA President Gianni Infantino, calling for his replacement at the helm of world football's governing body. Klopp stated that administrative governance under Infantino has deteriorated beyond the tenure of former president Sepp Blatter. The remarks follow widespread debate over expanding tournament calendars, international scheduling congestion, and commercialization strategies. FIFA has not issued an official response to the manager's comments.",
-     "en_clair": "Germany football manager Jürgen Klopp strongly criticized FIFA President Gianni Infantino, arguing he should be replaced. Klopp claimed that decision-making in world football management has gotten worse in recent years. His public comments reflect growing frustration among top coaches over congested match schedules and political leadership in sports.",
+     "zone": "Europe / International",
+     "formel": "Philippe Diallo, head of French football and challenger to FIFA President Gianni Infantino, claimed on November 17, 2026, to have secured spontaneous and robust support from member associations beyond Europe ahead of upcoming administrative elections.",
+     "en_clair": "French football chief Philippe Diallo, who is running against current FIFA President Gianni Infantino, stated he is gaining strong backing from countries outside Europe for his leadership bid.",
      "urls": [
-      "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss"
+      "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss"
+     ]
+    },
+    {
+     "titre": "GTA 6 Pre-Order Sales Milestones",
+     "theme": "Streamers & Gaming",
+     "zone": "Global",
+     "formel": "Market intelligence firm Sensor Tower reported on November 17, 2026, that pre-orders for the highly anticipated video game Grand Theft Auto VI have generated an estimated $1.18 billion across PlayStation and Xbox platforms, highlighting unprecedented consumer demand and lengths to which fans go to secure early access.",
+     "en_clair": "Data estimates show that pre-orders for the upcoming video game Grand Theft Auto VI have already surpassed $1.18 billion on consoles, reflecting massive global excitement and commercial success even before release.",
+     "urls": [
+      "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "titre": "Journalist Murder in Costa Rica",
+     "theme": "Press · Film · Fashion",
+     "zone": "Costa Rica",
+     "formel": "On November 17, 2026, international press freedom organizations condemned the assassination of a Costa Rican journalist, identified as Rodríguez, who was killed by gunmen after publishing investigative reports exposing alleged links between powerful figures and the illicit drug trade.",
+     "en_clair": "An investigative journalist in Costa Rica who reported on drug trafficking and corruption has been shot and killed by gunmen, sparking widespread condemnation and concerns over press safety.",
+     "urls": [
+      "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "titre": "Deutsche Bank Compliance Investigation",
+     "theme": "Economy & Energy",
+     "zone": "Germany / International",
+     "formel": "An international investigative report published on November 17, 2026, utilizing leaked internal data alleged that Deutsche Bank repeatedly dismissed compliance warnings regarding high-risk clients in order to prioritize profitability.",
+     "en_clair": "Leaked internal documents suggest that Deutsche Bank ignored warnings from its own compliance staff about risky clients to safeguard its financial profits, raising fresh concerns over banking governance.",
+     "urls": [
+      "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim"
+     ]
+    },
+    {
+     "titre": "Serbian Student List MPs Sworn In",
+     "theme": "Politics & Diplomacy",
+     "zone": "Serbia",
+     "formel": "On November 17, 2026, candidates from Serbia's grassroots political movement 'Student List' were officially sworn in as members of parliament following an electoral breakthrough, as ousted populist leader Aleksandar Vučić threatened counter-protests.",
+     "en_clair": "Independent candidates from Serbia's student-led political movement officially took their seats in parliament after a surprise election success, amid threats of protests from the ousted former populist leadership.",
+     "urls": [
+      "https://www.theguardian.com/world/2026/nov/17/serbias-student-list-candidates-sworn-in-as-mps-after-election-triumph"
+     ]
+    },
+    {
+     "titre": "Freedive World Record by Nataliia Zharkova",
+     "theme": "Sport",
+     "zone": "Ukraine / International",
+     "formel": "Ukrainian competitive freediver Nataliia Zharkova established a new world record on November 17, 2026, by reaching a depth of 124 meters in the constant weight category during an international event.",
+     "en_clair": "Ukrainian freediver Nataliia Zharkova set a new world record by diving 124 meters deep on a single breath in a constant weight competition.",
+     "urls": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive"
      ]
     }
    ],
    "articles": [
     {
-     "titre": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
-     "resume": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone in any researcher’s career. She planned to study basic income as a medical intervention: her randomized control trial would test whether monthly grants of $500-c",
-     "date": "2026-11-16T13:00:01+00:00",
-     "image": "https://i.guim.co.uk/img/media/7bc9d1e5a2fcc38b045fd00a8be51070726c9d56/435_0_4353_3483/master/4353.jpg?width=140&quality=85&auto=format&fit=max&s=caaf91097142d920be5e8e873fd2fecd",
+     "titre": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+     "resume": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published",
+     "date": "2026-11-17T13:49:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/f8e6eaf79324f25aaac018727ee7f3f4bcbfe879/650_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=9e79cf673fffa865aa17fda73e58956b",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-     "resume": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-     "date": "2026-11-16T12:54:44+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
+     "titre": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
+     "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+     "resume": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts Business live – latest updates The UK unemployment rate has unexpectedly fallen as the government released an important report on the youth jobs crisis . The unemployment rate was 4.6% in Se",
+     "date": "2026-11-17T13:44:09+00:00",
+     "image": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=52028965ab5e15a0547c89e69e1919f6",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+     "resume": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to 62. She also set out plans to create a fund worth",
+     "date": "2026-11-17T13:44:01+00:00",
+     "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+     "resume": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Two departments have confirmed they are investigating computing company Megaspeed, suspecting it of violating US export controls by helping to ship tech giant Nvidia’s chips to China. A joint statement issued by the Department of Commerc",
+     "date": "2026-11-17T13:42:54+00:00",
+     "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+     "resume": "Kentucky Republican Rep. Thomas Massie is pushing for justice for victims of the Epstein files.",
+     "date": "2026-11-17T13:37:51+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+     "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+     "resume": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits Deutsche Bank reportedly dismissed warnings about its dealings with risky clients, including high-profile Russian oligarchs, to protect profits, the findings of an investigation into a trove of leaked bank documents indicate. A leak of 15m internal files i",
+     "date": "2026-11-17T13:35:39+00:00",
+     "image": "https://i.guim.co.uk/img/media/21474d52763b44585b74c4c50325ba4c99235bdd/247_0_2961_2369/master/2961.jpg?width=140&quality=85&auto=format&fit=max&s=788fab996ab2d7f1de0ae9cee69c3eb8",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
+     "resume": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.",
+     "date": "2026-11-17T13:29:27+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+     "resume": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zelenskyy hailed as an “unprecedented” military operation. Footage showed a Ukrainian Flamingo cruise missile seconds befor",
+     "date": "2026-11-17T13:25:02+00:00",
+     "image": "https://i.guim.co.uk/img/media/99e6f379e7967f001cc660aae2f7b71f118e92a8/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=34a5e025e259306bc7b9b667b3d11c0e",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "School phone bans result in ‘modest’ academic gains for students, study shows",
+     "url": "https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students",
+     "resume": "More than 40 US states have passed laws restricting phones at schools with goal of boosting students’ focus and learning A large-scale study published Tuesday found strict cellphone restrictions in US schools – ones that require students to put phones in locked pouches for the entire academic day – result in small academic gains. And there could be further gains if schools continue banning phones,",
+     "date": "2026-11-17T13:22:40+00:00",
+     "image": "https://i.guim.co.uk/img/media/26b9c49af1bdad6138eca93a0ce498b711f0fe13/0_0_4903_3924/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=30ab186ac125010b3d929aabf413f1dd",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "At the origin of France’s education protests, students refuse to give up",
+     "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+     "resume": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
+     "date": "2026-11-17T13:14:25+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
+     "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+     "resume": "French football chief Philippe Diallo says he has received 'spontaneous signs of strong support' against Infantino.",
+     "date": "2026-11-17T13:09:31+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Why do governments switch off the internet?",
+     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
+     "resume": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
+     "date": "2026-11-17T13:03:39+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+     "resume": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+     "date": "2026-11-17T13:02:17+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "‘Visceral response’: flag campaigns inspire anti-racism organising across England",
-     "url": "https://www.theguardian.com/world/2026/nov/16/visceral-response-flag-campaigns-inspire-anti-racism-organising-across-england",
-     "resume": "Exclusive: Study shows people taking action against far-right intimidation such as 75-year-old taking to his bike at 2am to remove flags Flag campaigns and far-right intimidation have sparked a wave of grassroots anti-racism organising across England in the past 12 months, according to new research. The Institute of Race Relations (IRR) warns that the widespread displays of St George’s cross and u",
-     "date": "2026-11-16T12:54:27+00:00",
-     "image": "https://i.guim.co.uk/img/media/56ba62f39579dad429dd9d386c394486ed21d838/510_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=48fa365e6fea1c99f449f4710100dede",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-     "resume": "Brand’s wife Laura read out a message from him on their YouTube show At the lobby briefing, the PM’s spokesperson also played down the prospect of the government introducing a staggered age of consent. (See 11.30am .) Asked about the proposal, the PM’s spokesperson said the government would “always look at what more can be done to protect young people” but that changes in this area of law were “co",
-     "date": "2026-11-16T12:47:52+00:00",
-     "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
-     "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
-     "resume": "Traffic temporarily restricted on key connection after bridge targeted during overnight drone barrage by Ukraine Ukraine has hit the Kerch bridge connecting occupied Crimea with Russia, in a symbolic blow that temporarily paralysed road traffic and left thousands of drivers stranded. A Ukrainian kamikaze drone crashed into one of the bridge’s arches at 5.38am local time, local channels reported. E",
-     "date": "2026-11-16T12:45:09+00:00",
-     "image": "https://i.guim.co.uk/img/media/5d9bc8ebc5b7c43c5302bea08323e6024d72f453/860_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=7704ea25baced0d528d3fa4575ad26ad",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-     "url": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
-     "resume": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
-     "date": "2026-11-16T12:42:14+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da54/live/f1263820-e1b5-11f1-9a3f-99aca912798e.jpg",
+     "titre": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "resume": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+     "date": "2026-11-17T13:01:11+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
      "source": "BBC World"
     },
     {
-     "titre": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-     "resume": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email US air travel was slowly returning to normal on Monday after three days of widespread disruption following an extraordinary no-takeoff order issued by US aviation authorities. The ground stop issued on Friday afterno",
-     "date": "2026-11-16T12:39:35+00:00",
-     "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4",
+     "titre": "Santander allows staff to count holidays and sick leave as days worked in office",
+     "url": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
+     "resume": "News of Spanish-owned lender’s policy emerges as other banks are toughening their stance on working from home Business live – latest updates Staff at the high street bank Santander have been permitted to log holiday and sick leave as days worked in the office, helping them to meet workplace attendance requirements. Back-office staff at the Spanish-owned lender have been expected to spend at least ",
+     "date": "2026-11-17T13:01:08+00:00",
+     "image": "https://i.guim.co.uk/img/media/48f5af3037791bfd816e5a92bc2f9f88c46a5b32/497_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=05cc561d70346e66b02fbf38e2a84afd",
      "source": "The Guardian — World"
     },
     {
-     "titre": "British farmers hope UK-EU deal with revive post-Brexit trade",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade?traffic_source=rss",
-     "resume": "Al Jazeera’s Charlie Angela speaks to a farmer in Sussex, who hopes a proposed UK-EU deal will ease trade barriers.",
-     "date": "2026-11-16T12:38:20+00:00",
+     "titre": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
+     "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+     "resume": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
+     "date": "2026-11-17T12:55:07+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "AI learning tool helps blind students excel in Malawi",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss",
-     "resume": "An artificial intelligence tool developed by a 25-year-old Malawian innovator is being used to help blind students.",
-     "date": "2026-11-16T12:35:44+00:00",
+     "titre": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
+     "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
+     "resume": "Brazil's star forward scored a 12-minute hat-trick in the record world champions' thumping of the hosts in a friendly.",
+     "date": "2026-11-17T12:54:04+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Man sentenced over 'horrific' attempted murder of three children",
-     "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
-     "resume": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
-     "date": "2026-11-16T12:27:15+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5a/live/9c3bd7d0-e1af-11f1-9a3f-99aca912798e.jpg",
+     "titre": "Iranians fear more civilian infrastructure could be targeted in new US war",
+     "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+     "resume": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
+     "date": "2026-11-17T12:50:12+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "How is US Senate majority leader chosen?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+     "resume": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+     "date": "2026-11-17T12:38:39+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+     "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+     "resume": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+     "date": "2026-11-17T12:35:57+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Jericho settlers harass Al Jazeera reporter after stealing Palestinian home",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jericho-settlers-harass-al-jazeera-reporter-after-stealing-palestinian-home?traffic_source=rss",
-     "resume": "Israeli settlers who took over 8 homes in Jericho harassed Al Jazeera’s Nour Odeh.",
-     "date": "2026-11-16T12:25:54+00:00",
+     "titre": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+     "resume": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+     "date": "2026-11-17T12:33:51+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "resume": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-     "date": "2026-11-16T12:20:49+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dc/live/86b75570-e1b8-11f1-9a3f-99aca912798e.jpg",
+     "titre": "Serbia’s Student List candidates sworn in as MPs after election triumph",
+     "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+     "resume": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić threatens mass protests of his own Candidates for Serbia’s Student List, the grassroots movement of political outsiders that pulled off a spectacular victory in last month’s elections over the party of the populist leader Aleksandar Vučić, have been sworn in as MPs as they begin the process of forming a government. The 140 c",
+     "date": "2026-11-17T12:31:56+00:00",
+     "image": "https://i.guim.co.uk/img/media/3fd406c80b12642e836ed680f572f9f3958bdec9/516_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=b1981b6458a3f713bc99944b8605e854",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Trump addresses Quad leaders at first summit since 2024",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+     "resume": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
+     "date": "2026-11-17T12:25:33+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+     "resume": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged to try to prevent settlements that destroy the chances of a two-state solution. The U",
+     "date": "2026-11-17T12:18:08+00:00",
+     "image": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=140&quality=85&auto=format&fit=max&s=021f9a4119628590d1131a080748867b",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
+     "url": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
+     "resume": "Venancio Mondlane faces five charges, the most serious being instigating 'terrorism'.",
+     "date": "2026-11-17T12:10:53+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "India vs Pakistan live: SAFF Championship final",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
+     "resume": "Follow updates from the match, including the build-up, analysis and text commentary.",
+     "date": "2026-11-17T12:00:00+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+     "resume": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+     "date": "2026-11-17T11:58:16+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb5/live/140763d0-e26c-11f1-b19c-7b42f37bea48.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Which cricket teams can qualify for the LA 2028 Olympics and how?",
-     "url": "https://www.aljazeera.com/sports/2026/11/16/which-cricket-teams-can-qualify-for-the-la-2028-olympics-and-how?traffic_source=rss",
-     "resume": "Six men's and six women's teams will compete for the medals in T20 format as cricket returns to the Olympics in 2028.",
-     "date": "2026-11-16T12:15:59+00:00",
+     "titre": "Voldemort, Gotham City and the Greens: Victorian election gets a jolt of life as leaders face off in sole debate",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
+     "resume": "Ben Carroll, Jess Wilson, Ellen Sandell and Warren Pickering grilled by undecided voters – and each other – as state prepares to head to the polls For a brief moment on Tuesday night, the Victorian election looked like it might actually get interesting. Two weeks into the offical campaign, with early voting opening on Wednesday, the contest has been pretty short on excitement. The Labor government",
+     "date": "2026-11-17T11:55:28+00:00",
+     "image": "https://i.guim.co.uk/img/media/53cb86f3e0f17d0ab957cefe806573c93042cd44/1079_0_6267_5016/master/6267.jpg?width=140&quality=85&auto=format&fit=max&s=949b8c9d1bf74ecc75496a52c0ca2ef5",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Rebeca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+     "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+     "resume": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
+     "date": "2026-11-17T11:49:39+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Gérard Depardieu drops appeal against sexual assault conviction",
-     "url": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
-     "resume": "French actor apologises to two women he was convicted of assaulting on a film set in 2021 The French actor Gérard Depardieu has dropped his appeal against a conviction for sexually assaulting two women on a film set, and has for the first time apologised to the victims. “I was found guilty. I hear it and I accept this conviction,” Depardieu, 77, said in a written statement. “I address my deep and ",
-     "date": "2026-11-16T12:10:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/8645152ecf7185cd8b3f83c5e21adaaddb0697bc/480_355_3217_2574/master/3217.jpg?width=140&quality=85&auto=format&fit=max&s=e2f4a8eb308c65010f2b5764cde3e8fb",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
-     "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
-     "resume": "When the floods hit Pakistan he went out to help. Then the water reached his own family. This is Imran Lodhi’s story Location: Dera Ghazi Khan, Pakistan Disaster: Pakistan intense monsoon rainfall Imran Lodhi is a university lecturer with a doctorate in climate change and sustainable development . The 41-year-old was living in Dera Ghazi Khan , a city in south-western Punjab, when floods devastate",
-     "date": "2026-11-16T12:00:59+00:00",
-     "image": "https://i.guim.co.uk/img/media/03df085cea47ca4df586d23872f7663cb2637137/320_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=be9cf0165f7c1947cf79549d974164c6",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Catholic priest released from Louisiana prison after serving seven years for sexually abusing altar server",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/louisiana-catholic-priest-prison-sexual-abuse",
-     "resume": "Victim’s father, however, remains excommunicated for joining Anglican church after abuse was discovered A Roman Catholic priest who pleaded guilty to sexually abusing an altar server in south-west Louisiana – before the church then controversially excommunicated the victim’s father – was released from a state prison over the weekend after having completed a seven-year sentence. Michael Guidry’s re",
-     "date": "2026-11-16T12:00:59+00:00",
-     "image": "https://i.guim.co.uk/img/media/cf5f8c71977f0b49095cbe35dfc7f039e7d228cc/458_0_2705_2164/master/2705.jpg?width=140&quality=85&auto=format&fit=max&s=f953b1d2f7b5ca2bab79c21139d70e02",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
-     "url": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
-     "resume": "Agency’s Aspect plane once was a key part of tracking toxic chemicals during disasters – why is it now often grounded? When an ammonia leak outside a hotel in Weatherford, Oklahoma, injured 74 people last November, the federal government’s chemical-detection plane stayed on the ground. It also sat idle during a March fire at a Valero refinery in Port Arthur, Texas, and when blasts at a Toledo, Ohi",
-     "date": "2026-11-16T12:00:58+00:00",
-     "image": "https://i.guim.co.uk/img/media/17ab1c4bad64148a5e104f5bef4f00be6e91167a/66_0_1917_1534/master/1917.jpg?width=140&quality=85&auto=format&fit=max&s=40b99d38afe9e88be2e8049d20b3b7f5",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
-     "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
-     "resume": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds Business live – latest updates Great Britain’s oldest renewable energy projects are likely to rake in a near £9bn windfall next year because of soaring market prices, according to independent analysis. The research has revealed that almost a third of the UK’s wind and solar farms that rely on the governm",
-     "date": "2026-11-16T11:56:20+00:00",
-     "image": "https://i.guim.co.uk/img/media/fadc2a753a2ca35482613659f6d980ad0a106850/141_0_3512_2809/master/3512.jpg?width=140&quality=85&auto=format&fit=max&s=7be6fd9946bb49cd90a7d7e79d6cc9fc",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Trump administration blames travel chaos on former presidents and Congress | First Thing",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
-     "resume": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians Don’t already get First Thing in your inbox? Sign up here Good morning. A four-hour nationwide flight stoppage on Friday threw the entire weekend into chaos, with tho",
-     "date": "2026-11-16T11:46:33+00:00",
-     "image": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=140&quality=85&auto=format&fit=max&s=3029d1ad8d73f54cbd2c9c76388b04d5",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
-     "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
-     "resume": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
-     "date": "2026-11-16T11:40:25+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Klopp says Infantino worse than Blatter",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-     "resume": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-     "date": "2026-11-16T11:27:08+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+     "titre": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+     "resume": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+     "date": "2026-11-17T11:49:01+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
-     "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
-     "resume": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
-     "date": "2026-11-16T11:23:43+00:00",
+     "titre": "Ukrainian breaks world record for deepest competitive freedive",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
+     "resume": "Ukrainian freediver Nataliia Zharkova has broken the world record, reaching 124 metres in constant weight.",
+     "date": "2026-11-17T11:37:13+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
-     "resume": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokesperson Eurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in Malaysia, apparently removing LGBTQ+ imagery and people from the show. The European Broadcasting Union (EBU), the alliance of public broadcasters that owns Euro",
-     "date": "2026-11-16T11:12:44+00:00",
-     "image": "https://i.guim.co.uk/img/media/aadbe462ac001cb187d32aae61cb263f228a36eb/340_0_3192_2554/master/3192.jpg?width=140&quality=85&auto=format&fit=max&s=32816c79aa7da486780d3d0dacb1c96c",
+     "titre": "Alan Milburn says his plan to get young people into work will save only £200m a year",
+     "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
+     "resume": "Author of long-awaited report says money saved in benefit cuts will mostly be used to fund new job support system UK politics live – latest updates Neet ideas: what’s in Milburn’s report? Alan Milburn has said his plan to get more young people into work will save the government only £200m a year as the cost of job support swallows up almost all of the anticipated cuts to benefits. The former healt",
+     "date": "2026-11-17T11:30:35+00:00",
+     "image": "https://i.guim.co.uk/img/media/99467bad0e9304257b52da1b6811383998f5ce7a/920_0_4584_3669/master/4584.jpg?width=140&quality=85&auto=format&fit=max&s=7ca53658582cf9fd65b37ecc994fa69b",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Yemeni forces retreat to defend port city from Houthis",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-     "resume": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-     "date": "2026-11-16T11:09:38+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+     "titre": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
+     "resume": "Blow to Kremlin as prestigious bridge linking occupied Ukrainian peninsula struck by missile. Plus, what is in store for Robert Pattinson, the new 007? Don’t already get First Thing in your inbox? Sign up here Good morning. Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kr",
+     "date": "2026-11-17T11:26:49+00:00",
+     "image": "https://i.guim.co.uk/img/media/b81e5455ebbad6816681f82294b54492aeed57cb/610_75_2367_1894/master/2367.jpg?width=140&quality=85&auto=format&fit=max&s=097de10289e9cc58d49d43b3c76aef01",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+     "resume": "Two vessels have caught fire after hitting a naval mine in the Strait of Hormuz.",
+     "date": "2026-11-17T11:19:04+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+     "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+     "resume": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific ",
+     "date": "2026-11-17T11:18:26+00:00",
+     "image": "https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=140&quality=85&auto=format&fit=max&s=ed6d728039eaaf2cd4498d9ce9ba4655",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+     "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+     "resume": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+     "date": "2026-11-17T11:17:32+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
-     "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
-     "resume": "Huang's peers, including Elon Musk, have praised his business acumen and potential risks to the US's AI goals.",
-     "date": "2026-11-16T11:05:47+00:00",
+     "titre": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
+     "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
+     "resume": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
+     "date": "2026-11-17T11:17:07+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
-     "resume": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts, Xi Jinpi",
-     "date": "2026-11-16T11:00:58+00:00",
-     "image": "https://i.guim.co.uk/img/media/a079ab0a449ab532375e30c24aa3a9afc3fa2d2d/131_0_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=8bded43e353fe0508c8852e7a6576d5e",
+     "titre": "Ikea ditches plans for new UK stores, blaming high business taxes",
+     "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+     "resume": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes , which it said were the highest in Europe. As its annual UK sales little more than flatlined at the Swedish flatpack furniture retailer, its UK boss, David McCabe, said: “There a",
+     "date": "2026-11-17T11:13:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/60243a831d5ef922d9f0eadb7a91a383b5617367/1272_635_4806_3845/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=118d38f6964ee29f9f67c9ccd6bdadbe",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-     "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-     "resume": "Upload came as the Israeli military was increasing its reliance on Amazon’s cloud platform to meet the technological demands of its bombardment of Gaza The Israeli military uploaded 3.5m photos to Amazon’s cloud platform in order to use the US company’s facial recognition technology to analyse images of Palestinians, the Guardian can reveal. Leaked documents show the expansive catalogue of images ",
-     "date": "2026-11-16T11:00:56+00:00",
-     "image": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=d4fd5266aa44369a3472db45234f5224",
+     "titre": "Bangladesh police clash with garment workers amid protests over wages",
+     "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+     "resume": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
+     "date": "2026-11-17T11:06:12+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+     "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+     "resume": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit. Organisers claimed as many as 10,000 people would be joining protests against Trump in t",
+     "date": "2026-11-17T11:00:39+00:00",
+     "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Two mass shootings in South Africa leave 17 dead",
-     "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-     "resume": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-     "date": "2026-11-16T10:57:48+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+     "titre": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
+     "resume": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversight The Democrats’ midterm “blue wave” wins gave them strong majorities in both chambers of Congress, new governors’ mansions and power in some unexpected places. Voters dealt a stunning rebuke to Donald Trump – and his ruthless deportation campaign and violent ICE",
+     "date": "2026-11-17T11:00:35+00:00",
+     "image": "https://i.guim.co.uk/img/media/348a69448387c2ea2ec024ee0dd0d209e02dbf12/499_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7d6a0e872dffe4a30e57dda463ab60e0",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-police-homeless-man-death",
+     "resume": "Police say David Hyde, 68, left with shoe prints in face from kicks to head and prescription medication stolen in attack A man who was unhoused and “unable to defend himself due to health issues” was recently beaten to death and had his prescription medication taken outside a pharmacy in New Orleans , according to authorities. The killing of 68-year-old David Hyde led police to arrest Antonio Myle",
+     "date": "2026-11-17T11:00:34+00:00",
+     "image": "https://i.guim.co.uk/img/media/be6001b3ad1b5bfbe3de398413e6d4e2be1cb098/289_124_1667_1335/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=d90b6365a3d3ec0eef4c550ee31f1fb1",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+     "resume": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+     "date": "2026-11-17T10:53:42+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+     "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+     "resume": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+     "date": "2026-11-17T10:42:42+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
+     "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+     "resume": "Rwanda again proposed as a 'return hub' for deported migrants, but critics warn of potential human rights abuses.",
+     "date": "2026-11-17T10:22:52+00:00",
+     "image": null,
+     "source": "Al Jazeera English"
+    },
+    {
+     "titre": "How new US chip restrictions on South East Asia will hit China",
+     "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+     "resume": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+     "date": "2026-11-17T10:22:09+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Man charged after two people die in Leeds police pursuit crash",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
-     "resume": "Leigh Ross, 39, charged with causing death by dangerous driving after BMW being pursued by police collided with another car A man has been charged with causing death by dangerous driving after two people were killed when their car was hit by a vehicle being chased by police. A 22-year-old man and 23-year-old woman, both from York, died when their car was struck by a BMW being pursued by police in ",
-     "date": "2026-11-16T10:43:11+00:00",
-     "image": "https://i.guim.co.uk/img/media/19d0c0379729b3ff7062983ea32abdcc2ef78628/975_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9d4b29a889a4bcae842caafcb0bd6f91",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Birth keeper told mother of baby who later died to ‘go home and rest’, NSW inquest hears",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
-     "resume": "Sita Kali was involved in care for two of four babies who died between 2022 and 2024 in Lismore after free births or home births Get our breaking news email , free app or daily news podcast A self-described birth keeper advised a pregnant woman whose baby later died to “go home and rest” after she was given urgent medical advice to present to an emergency department, the New South Wales coroner’s ",
-     "date": "2026-11-16T10:41:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Boots to begin prescribing medical cannabis in UK",
-     "url": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
-     "resume": "Online service will be offered to patients with eligible conditions, in a first for a British high street pharmacy Boots is to start prescribing medical cannabis, it has announced, in a first for a UK high street pharmacy. The online service is being offered to patients in the UK aged 25 and older who have an eligible condition such as chronic pain, anxiety or insomnia. Continue reading...",
-     "date": "2026-11-16T10:32:50+00:00",
-     "image": "https://i.guim.co.uk/img/media/c22b5008b1bee2dbdcfc1f9b7dffadfbb94f981e/511_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=203a3d066a3b402c5582ef934ebe428c",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Lebanon’s second airport could provide economic and political benefits",
-     "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-     "resume": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
-     "date": "2026-11-16T10:28:22+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-     "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-     "resume": "Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which officials argue is necessary to stop human-wildlife conflict in the city. The 44-member Waterfall troop (named aft",
-     "date": "2026-11-16T10:19:08+00:00",
-     "image": "https://i.guim.co.uk/img/media/2d86a054583a1a5d541606f7e702b5f03c426653/770_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=3225fd899e48e3305f15e48965e30afe",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-     "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-     "resume": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
-     "date": "2026-11-16T10:14:27+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Jordan bans Telegram over national security concerns",
-     "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
-     "resume": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
-     "date": "2026-11-16T10:12:28+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-     "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
-     "resume": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
-     "date": "2026-11-16T10:03:11+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
-     "url": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
-     "resume": "UN's health agency says growing resistance to antibiotics and other medicines threatens 'future of modern medicine'.",
-     "date": "2026-11-16T09:57:37+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Sadiq Khan: Global North must take responsibility for climate change",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
-     "resume": "At COP31, Sadiq Khan urges wealthy nations to support the Global South, which bears the brunt of climate change.",
-     "date": "2026-11-16T09:52:11+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-     "resume": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the pair meets on Tuesday, arguing for a speedy resolution to the wars in Iran and Ukraine whi",
-     "date": "2026-11-16T09:40:29+00:00",
-     "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
-     "resume": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
-     "date": "2026-11-16T09:31:36+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Delaware hit by rare November tornado",
-     "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
-     "resume": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina The National Weather Service in the US has confirmed that an EF1 tornado touched down south-east of Newark in the Salem Woods neighbourhood, Delaware, on Thursday. The tornado reached 160 metres wide, had a path length of 4.4 miles (7.1km) and reached estimated peak winds of up to 100mph (161km/h). There were no in",
-     "date": "2026-11-16T09:27:06+00:00",
-     "image": "https://i.guim.co.uk/img/media/e86938f808aacaed63529ffbd461f2de4ff10c74/500_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=08baed31878c1dff227aa589c3e71a31",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-     "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-     "resume": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
-     "date": "2026-11-16T08:56:04+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
+     "titre": "Will President Trump meet Kim Jong Un?",
+     "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+     "resume": "President Trump says he would be keen to meet the North Korea leader in China.",
+     "date": "2026-11-17T10:13:27+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
-     "resume": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
-     "date": "2026-11-16T08:54:58+00:00",
+     "titre": "US President Trump arrives in Manila ahead of ASEAN summit",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+     "resume": "US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.",
+     "date": "2026-11-17T10:13:12+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
-     "resume": "Backdown is one of several premier Chris Minns has announced in recent weeks as state prepares for election in March Get our breaking news email , free app or daily news podcast The Minns government has mothballed laws intended to protect homebuyers from underquoting after the premier said real estate agents in his Sydney electorate had raised concerns about their effect amid a housing market down",
-     "date": "2026-11-16T08:53:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/6f6b9ed84a95172b199c1ab51e5f6758027ef874/506_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=d7ccd21554a83fef45aba172d9159f9b",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
-     "resume": "In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.",
-     "date": "2026-11-16T08:49:51+00:00",
+     "titre": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
+     "resume": "Afghan women risk their lives to pursue their dreams, despite strict Taliban restrictions.",
+     "date": "2026-11-17T09:53:31+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
-     "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-     "resume": "Leader of alliance representing Palestinian citizens of Israel says election is 'rightful achievement' for Joint List.",
-     "date": "2026-11-16T08:45:07+00:00",
+     "titre": "Powering towns on pig manure: How Denmark has transformed energy generation",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+     "resume": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
+     "date": "2026-11-17T09:51:02+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
-     "resume": "Around 2,000 migrants have crossed into Spain’s Canary Islands from Senegal in two days.",
-     "date": "2026-11-16T08:23:19+00:00",
+     "titre": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+     "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+     "resume": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
+     "date": "2026-11-17T09:29:28+00:00",
      "image": null,
      "source": "Al Jazeera English"
     },
     {
-     "titre": "Russia out of junior ice hockey worlds after Canada’s entry refusal",
-     "url": "https://www.aljazeera.com/sports/2026/11/16/russia-out-of-iihf-world-junior-ice-hockey-as-canada-refuses-entry?traffic_source=rss",
-     "resume": "Norway back in the tournament after being bumped to make room for Russia after a Court of Arbitration for Sport ruling.",
-     "date": "2026-11-16T08:20:17+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Ecuador’s president denies existence of US military base",
-     "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
-     "resume": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
-     "date": "2026-11-16T08:14:48+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Why is China resisting a nuclear treaty with the US and Russia?",
-     "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
-     "resume": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-     "date": "2026-11-16T07:54:09+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "At least 11 killed in blaze on Thailand’s Phuket island",
-     "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
-     "resume": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
-     "date": "2026-11-16T07:42:48+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
-     "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
-     "resume": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
-     "date": "2026-11-16T07:24:45+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb80/live/543bf260-e189-11f1-938f-7d0e2ede1ea5.png",
+     "titre": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+     "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+     "resume": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+     "date": "2026-11-17T09:27:44+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
-     "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
-     "resume": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
-     "date": "2026-11-16T07:13:00+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "The Red Sea cannot be secured without restoring the Yemeni state",
-     "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
-     "resume": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
-     "date": "2026-11-16T07:06:23+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
-     "url": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
-     "resume": "Exclusive: Public institutions get first chance to bid for rare ‘wonderbook’ of apocalyptic visions and extreme weather In one illustration, five suns blaze down on Leipzig in 1551. In another, blood rain falls on Rome in 1456. In a third scene, dated 1552, monstrous hailstones batter the Dutch city of Dordrecht during a storm so fierce people feared Judgment Day had come. Created during the mid-1",
-     "date": "2026-11-16T07:00:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/f8b2283fa6a3fabf06ec11ff644216c30e8310b4/561_87_3198_2558/master/3198.jpg?width=140&quality=85&auto=format&fit=max&s=1feefa0721fbad23b281d9289426e406",
+     "titre": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
+     "resume": "Crossbenchers say the proposals could allow an ‘uncapped amount of money’ to flow to major parties through investment funds Get our daily political email , free app or daily news podcast Independent MPs say the government’s last-minute changes to controversial election funding laws would allow “an uncapped amount of money” to flow to the major parties through investment funds. The amendments to th",
+     "date": "2026-11-17T08:50:38+00:00",
+     "image": "https://i.guim.co.uk/img/media/a96c54d2157d7d99b1d0f9e10b3de8605acc182b/533_0_5333_4266/master/5333.jpg?width=140&quality=85&auto=format&fit=max&s=18eb830ced185c00c7937317cc767cdb",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-     "resume": "PM to meet European leaders at summit this week aiming to secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU. It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” throug",
-     "date": "2026-11-16T07:00:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=140&quality=85&auto=format&fit=max&s=9a45417adf85d4e3c1c1bd540b62862b",
+     "titre": "Communications watchdog leadership reversed findings of draft report into ABC Four Corners program, FoI documents reveal",
+     "url": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
+     "resume": "Documents show draft Acma reports backed reporting of Gold Walkley award-winning journalist Mark Willacy about Australian War Memorial Sign up for Guardian Australia’s free weekly media newsletter here An investigation by staff of the Australian Media and Communications Authority (Acma) cleared an ABC Four Corners program over its War Memorial reporting – only for the draft report findings to be r",
+     "date": "2026-11-17T08:33:52+00:00",
+     "image": "https://i.guim.co.uk/img/media/0d764c3a0b9d99b7b928bcf01f38f03905f158e8/508_0_5033_4024/master/5033.jpg?width=140&quality=85&auto=format&fit=max&s=35d0a5e1eb4afe82a74ffb9f392e7165",
      "source": "The Guardian — World"
     },
     {
-     "titre": "How Russia is preparing Iran for the next escalation",
-     "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
-     "resume": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
-     "date": "2026-11-16T06:57:31+00:00",
-     "image": null,
-     "source": "Al Jazeera English"
-    },
-    {
-     "titre": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-     "resume": "In today’s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc’s big feelings about the future Good morning. Ahead of the hotly anticipated UK-EU summit this Friday, Andy Burnham is expected to make the reset of our relationship with Europe the pivotal theme of his white-tie speech at the lord mayor’s banquet in London tonight. The prospect of clo",
-     "date": "2026-11-16T06:46:27+00:00",
-     "image": "https://i.guim.co.uk/img/media/6e2cfa54b348df466a21d5a1c4d2bce3e5b12346/1359_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=ae9c6d61d35ff9695d3d3fd72f5c401a",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-     "resume": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanks Australians for charity donations Get our daily political email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the amputation of both her legs. In a",
-     "date": "2026-11-16T05:05:07+00:00",
-     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-     "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-     "resume": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed to preserve an integrated North American auto industry. Carney’s comments in Cambodia on Monday came ",
-     "date": "2026-11-16T04:39:20+00:00",
-     "image": "https://i.guim.co.uk/img/media/2e7e78e8ef011abb9ba52ca72738b8f88e4616f9/14_0_3840_3072/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=e9368d28045faded7e797e118d8254e3",
-     "source": "The Guardian — World"
-    },
-    {
-     "titre": "Watch: New York teen reunites with cat missing after building collapse",
-     "url": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-     "resume": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-     "date": "2026-11-16T04:36:45+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de04/live/9f9bf490-e174-11f1-93e1-3b657b665bcf.jpg",
+     "titre": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+     "resume": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+     "date": "2026-11-17T08:11:20+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5db/live/3bffede0-e252-11f1-876d-1dfc6cf3b709.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Coles investigates cyber-attack and apologises to customers",
-     "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
-     "resume": "Supermarket giant says no customer, team or supplier data compromised but recommends updating passwords as a precaution Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to tell whether any of its data has been stolen or compromised. Coles revealed the threat on Monday morning, saying i",
-     "date": "2026-11-16T04:04:37+00:00",
-     "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9918a374d89f099274e3dc1e83cfae34",
+     "titre": "Japan sends up jets after alleged Russian incursion of its airspace",
+     "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+     "resume": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+     "date": "2026-11-17T07:44:17+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
+     "url": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
+     "resume": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here • Don’t get This is India delivered to your inbox? Sign up here The 13th-century Persian scholar Zakariyya al-Qazwini never travelled to India. But he catalogued it in his famous work The Wonders of Creation and Rarities of Existence, which drew on accounts of a distant land filled with",
+     "date": "2026-11-17T07:30:06+00:00",
+     "image": "https://i.guim.co.uk/img/media/4cdd84133510738974db495a193fc868b59b2361/540_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=13b5f5a75084a4469af2c2a0171a206e",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-     "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-     "resume": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-     "date": "2026-11-16T03:21:56+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e63/live/e166e240-e19c-11f1-93e1-3b657b665bcf.jpg",
+     "titre": "Body of Melbourne Cup horse found dumped in Sydney skip",
+     "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+     "resume": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+     "date": "2026-11-17T07:01:00+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-     "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-     "resume": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-     "date": "2026-11-16T03:09:49+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
-     "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
-     "resume": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had ",
-     "date": "2026-11-16T01:17:04+00:00",
-     "image": "https://i.guim.co.uk/img/media/2c2f610959bc39253f07a4995c553a3099e2c600/203_0_4826_3863/master/4826.jpg?width=140&quality=85&auto=format&fit=max&s=cfd4682eae9415da0b32b4c20bfbe26a",
+     "titre": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
+     "resume": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently fell ill has been found dumped in skip bin in Sydney. The horse So You Are, a five-year-old gelding, was put down after it suffered from a sever",
+     "date": "2026-11-17T06:39:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/dd139e0696a494665b7aa4358ff2cd286e480999/407_0_4073_3258/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=31270a1214954a3ec58fd6b946ef4c61",
      "source": "The Guardian — World"
     },
     {
-     "titre": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-     "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-     "resume": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining. On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon ",
-     "date": "2026-11-16T01:13:44+00:00",
-     "image": "https://i.guim.co.uk/img/media/5656d136eaed416d7dd76ab2932c283b5ce64f39/373_0_3525_2820/master/3525.jpg?width=140&quality=85&auto=format&fit=max&s=b5f344ca36bf7198ae159b63c8dc109a",
+     "titre": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+     "resume": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour after having no pregnancy scans, the New South Wales coroner’s court has heard. The inquest will examine the deaths of fou",
+     "date": "2026-11-17T06:33:13+00:00",
+     "image": "https://i.guim.co.uk/img/media/6f2f5f79b230afbd1349d9a2efe3436da90ab4dc/655_0_3790_3033/master/3790.jpg?width=140&quality=85&auto=format&fit=max&s=feb915597ad3a87178a8fb0ad355a7ae",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Clothing factories shut in Bangladesh as workers strike over pay",
-     "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-     "resume": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-     "date": "2026-11-16T01:05:44+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+     "titre": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+     "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+     "resume": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+     "date": "2026-11-17T06:23:51+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2905/live/37886bc0-e1df-11f1-99a1-253766e7ad8b.jpg",
      "source": "BBC World"
     },
     {
-     "titre": "Russia's mega-rich are already imagining a future after Putin",
-     "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-     "resume": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-     "date": "2026-11-16T00:13:14+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-     "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
-     "resume": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
-     "date": "2026-11-16T00:11:12+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f0a/live/616751f0-df68-11f1-b441-2b33b063138f.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Teenager Andreeva caps stunning week with WTA Finals title",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
-     "resume": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
-     "date": "2026-11-15T23:18:38+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dd/live/afd408a0-e1a8-11f1-b0a4-450a350911f4.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-     "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-     "resume": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-     "date": "2026-11-15T19:32:39+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
-     "source": "BBC World"
-    },
-    {
-     "titre": "Iran launches drone attacks against US military base in Bahrain",
-     "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-     "resume": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US",
-     "date": "2026-11-15T18:03:56+00:00",
-     "image": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=140&quality=85&auto=format&fit=max&s=a186d5c5f515b7ca0b75c2c9875cf564",
+     "titre": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+     "url": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+     "resume": "About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye Pesticides sold by European chemical companies were named in more than 1,600 poisoning reports in Brazil last year, an investigation has found. About a third of the cases involved chemicals banned from use on farms in the EU because of the risks they pose to people and the e",
+     "date": "2026-11-17T06:00:05+00:00",
+     "image": "https://i.guim.co.uk/img/media/bb1079d7b1b05f3a9af68af148e1b5ef166362d5/584_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=eda43a93133416061307f9758513ca0d",
      "source": "The Guardian — World"
     },
     {
-     "titre": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-     "resume": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly condemned the attack and expressed solidarity with Bahrain. The Kingdom affirms that the",
-     "date": "2026-11-15T15:59:04+00:00",
-     "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+     "titre": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+     "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+     "resume": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+     "date": "2026-11-17T05:59:01+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers",
+     "resume": "Many of those onboard are being deported for second time after fleeing threats from people smugglers in France Many of the asylum seekers on Tuesday’s final “one in, one out” deportation flight are people who returned to the UK fleeing threats from smugglers after they were already forcibly returned to France. Hundreds of asylum seekers who were sent back to France are thought to have returned to ",
+     "date": "2026-11-17T05:00:06+00:00",
+     "image": "https://i.guim.co.uk/img/media/dac37f478ef7d47640a3bc5acc16af3f65584177/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=86d660e1f5fa7613d61ac99d005c909c",
      "source": "The Guardian — World"
     },
     {
-     "titre": "How telecoms upgrade work sparked US flight chaos",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "resume": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-     "date": "2026-11-15T14:57:15+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+     "titre": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+     "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+     "resume": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+     "date": "2026-11-17T02:38:08+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
+     "url": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
+     "resume": "Community leader says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’ Anglo-Australian miner Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up of the toxic Panguna mine site it abandoned more than three decades ago. Panguna, once one of the world’s most profitable gold and copper mines, was shutte",
+     "date": "2026-11-17T02:02:30+00:00",
+     "image": "https://i.guim.co.uk/img/media/8b6e5cb5abf829af76f5ebcfe3c864c525dd5235/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f50df09a317aa88ccdc9d333e1f80a8",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+     "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+     "resume": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+     "date": "2026-11-17T01:26:01+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+     "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+     "resume": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austr",
+     "date": "2026-11-17T01:10:59+00:00",
+     "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
+     "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+     "resume": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
+     "date": "2026-11-17T00:08:19+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f550/live/94dd3480-e1ae-11f1-b0a4-450a350911f4.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Taking Korea's toughest exam from behind bars",
+     "url": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+     "resume": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+     "date": "2026-11-16T23:09:49+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ce/live/66eb6250-e1ad-11f1-8ee3-23d0d09d2796.png",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Third US aircraft carrier brings thousands more troops to Middle East",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+     "resume": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as Donald Trump keeps his options open for next steps in the Iran war. The USS Theodore Roosevelt brings thousands of additiona",
+     "date": "2026-11-16T21:13:02+00:00",
+     "image": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=e5f5afca13cfe9bfc8bbfadae70fd1db",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+     "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+     "resume": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
+     "date": "2026-11-16T21:12:13+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0861/live/f40b1380-e200-11f1-ba8d-01314a590f72.jpg",
+     "source": "BBC World"
+    },
+    {
+     "titre": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+     "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+     "resume": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the r",
+     "date": "2026-11-16T19:04:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=2beb9c59f77d4a48f505b75c6220edf0",
+     "source": "The Guardian — World"
+    },
+    {
+     "titre": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+     "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+     "resume": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+     "date": "2026-11-16T15:08:59+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890e/live/2da1ec70-e1db-11f1-a094-5fdc692f3e33.jpg",
      "source": "BBC World"
     }
    ]
@@ -1586,222 +1589,334 @@
    "lang": "en",
    "sujets": [
     {
-     "titre": "UN Calls for Unrestricted Transit of Fertilizer Shipments Through the Strait of Hormuz",
-     "theme": "Economy & Energy",
-     "zone": "Strait of Hormuz / Middle East",
-     "formel": "The United Nations has issued a formal appeal to both Iran and the United States to ensure the unhindered maritime passage of agricultural fertilizers through the Strait of Hormuz. International officials emphasized that disruptions in this strategic waterway threaten global food security and supply chain stability. The request comes amid heightened geopolitical tensions and naval friction in the Persian Gulf region. The UN reiterated that civilian commodity transport must remain insulated from ongoing bilateral military confrontations.",
-     "en_clair": "The UN is asking the US and Iran to keep the Strait of Hormuz open for ships carrying fertilizer. This narrow sea passage is crucial for world trade, and blocking agricultural goods could cause food prices to rise globally. It matters because farmers worldwide rely on these shipments to grow crops, even while political conflict continues nearby.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuek43RllOY3k4OGxwdHV6SmlnMmRmRU5GUWFpX0tfbm9xZ3dNSUpnalB1TmkwdmREeVEzdGUwd2JGNkc4Q2ZOU3cxNnNTMXZQSXBkQklfN3VpSThz?oc=5"
-     ]
-    },
-    {
-     "titre": "Iranian Drone Strike Allegations and Disputed Radar Destruction in Bahrain",
+     "titre": "Iranian Drone Attack on US Base in Bahrain",
      "theme": "Conflicts & Security",
-     "zone": "Bahrain / Persian Gulf",
-     "formel": "Iran's Islamic Revolutionary Guard Corps claimed to have launched six drones targeting a military installation in Bahrain, alleging the destruction of a U.S. radar facility. However, U.S. Central Command explicitly denied the assertion, stating that operational capabilities remain intact. The incident triggered diplomatic reactions across the region, including statements from Egypt regarding regional stability. Independent verification of physical damage at the Bahraini site has not been publicly established.",
-     "en_clair": "Iran claimed its drones attacked a military base in Bahrain and destroyed an American radar system, but the US military denies that any radar was damaged. Nearby countries like Egypt expressed concern over the rising tension in the Gulf. This shows how conflicting reports often emerge during military standoffs, making accurate information hard to verify immediately.",
+     "zone": "Bahrain / Iran",
+     "formel": "The Iranian military claimed responsibility for a drone strike targeting a US military base in Bahrain amid escalating regional tensions. Local authorities reported hearing explosions, while international observers evaluate the security implications of this direct cross-border escalation. The incident follows a series of maritime disruptions in the Persian Gulf, increasing friction between Tehran and Washington. Neither the US Department of Defense nor Bahraini officials have immediately confirmed the extent of the structural damage or potential casualties.",
+     "en_clair": "Iran said it launched a drone attack against an American military base in Bahrain, causing explosions in the area. This event marks a direct escalation between Iran and the US forces stationed in the region. Security experts are closely watching how Washington might respond to this provocation.",
      "urls": [
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjkwMjd5bEJNeld2Zlh6VXFPaE5aZjJBb0g5Xy1JUW5kSzRTSUxJQ2MteUliR0lNU1ZoVjhtQ1RpdllFVXJwVlhGN2p3TDFpQ3JFVXdMV1ZEVmVEbW14RnFPVkpvQlJJS0YxamZfX1J3Tk9KbUt3NV93NllJYWdNbDZnbUgwcG5Ha3hIeFZnUGhsWGFzWjVYWU1R?oc=5",
-      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2t5TW53VVhKTmFFRExUQVhucC1hOU9KUVhiN0Q2aE9nMFZoNEE1ZFlhNEg4VC1MZmxtRC00ektTeTRfdFN5ZWNoXzhJa0hJWGxKVmhNUUNfU2U2b19GNUsyRUJqTDltQUF1bWthZVR0aEptQVNxVlRqcTBHUnVVRk1mZmNWU2RhaGIzeVMyeE1nQ1JpZXdFY1_yd09BUkZ3Q0FTblRoY1RKb0pmemlSZ3Y3YjdSekZkSW1wUnpxU3JFel9KRjVmckZNeUV0UlRQUmc?oc=5"
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZDdmSVBGeG5oR3g2UW42WjhzRFFSQk5VQmF6OUdLVjVIVFNHUUVJVEY5QzM4UFBCUEpROFBXbFRfOW1XbV9pdVBIRUhEdlpYOE0zRUdJZWVHazJjcDNpb25UYVZUUW5oLVdWTElwX2NZeFlYLUtPYkpha1lUWEFQRmZ1VlZSbzE4Nkk1NThzekF3UHA4dVo0S0g1VENmU0FLdWhOdy1lMW1pOHVva1Z4UXR2SjRFTnBtT2ExSnU1aVhPR0kxT1l6cEp2b2traDh1ekVVNg?oc=5",
+      "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYWQwM3J1a2g3c0NySTM2YjBzTjVPcnlhUnRLVHQ4VEdNcXplMVZZLWs1MExIemlqSUNmZms3Q2xyWTNhZm42dWpFY3B1UHFuS1g2TDdWcnBLVVMyUWN0WldYRFl0TFJSUF9YNnBRcmhDUHF6a2hvSFlfLW5EUjlFTzNpMnV4UC1zbFF4bnJOZlZLekprYU55c2FJRFpUYmtHYWNDZ2VCQkZTeU5SV0hQbER3V1phRmwyd3NpTFZWakhaS3ZvQS13SmtPRnE3eHRRZWFLQWgzdTJyRWtTRVctSjZLcFdEZw?oc=5"
      ]
     },
     {
-     "titre": "Regional Diplomacy Strained by US-Iran Escalation and Nuclear Deadlock",
-     "theme": "Politics & Diplomacy",
-     "zone": "Middle East / Iran",
-     "formel": "Diplomatic efforts to resolve the US-Iranian impasse remain stalled as regional actors react to recent military incidents around Bahrain. Egyptian officials expressed growing concern regarding regional escalation and the persistent deadlock surrounding Iran's nuclear negotiations. Washington and Tehran remain divided over sanction relief mechanisms and security guarantees. The lack of diplomatic progress heightens the risk of wider regional instability.",
-     "en_clair": "Tensions between the US and Iran are worsening, leaving negotiations over Iran's nuclear program stuck in a stalemate. Neighboring countries like Egypt are worried that conflict could spread across the Middle East. It matters because without diplomatic dialogue, small skirmishes could easily escalate into a wider regional war.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0tvamx4VVRIZGk3VjNyY3JxU3pWM2N3c0Q1ZGZDQkNVb3hFSko4Wk1fXzJkOThCclgyWUNMN3R1dFlwc2hWczNXNFRSdjY1Sk9yajdoSy1TWEJBNGdTbjI4UHVhWU5PeU9HbTNOb0xsVklfMXI2c1h6cWk3MnBlRHdmdWNRcThNazhSSDZQTWxVLU5yeXZTVkpovanpXdXA3MWdnWkVKUmQzbkJC?oc=5"
-     ]
-    },
-    {
-     "titre": "US Intelligence Estimates Iranian Ballistic Missile Stockpile at 2,500 Units",
-     "theme": "Conflicts & Security",
-     "zone": "Iran",
-     "formel": "United States intelligence assessments indicate that Iran retains an estimated inventory of up to 2,500 ballistic missiles. This figure contradicts recent political assertions suggesting Tehran's missile capabilities had been substantially depleted. Defense analysts emphasize that Iran's operational arsenal presents a sustained strategic challenge to regional security infrastructure. Intelligence agencies continue to monitor Iranian production facilities and deployment sites.",
-     "en_clair": "US intelligence agencies believe Iran still has around 2,500 ballistic missiles ready for use, despite statements claiming its arsenal was largely destroyed. Ballistic missiles are long-range weapons capable of carrying heavy warheads across vast distances. This matters because it means Iran maintains significant military power despite international pressure.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KQTNHZG5qd0VQSzFKWUlvV0xtUUZSR3VUUE9sR3h0M1JFVVRtQ0NOUmlWZFl2YXNJWW9SZDFJRDRod2lycTZuMTJaeDNpV2xQWFJfd28yZWVvTGhOcW5NTEItSW5WUDlsQV9DTUxsbW9IVWNUZzZsd0FfYndfQQ?oc=5",
-      "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQk9uSlpGUWZfVHdYVDhteEFRMFB1MlZMRUdrT0ZSRHBMdmpabDBDNUc4aWdZWW15ZHJtdTF6aXBVQzFpZElUQ01PdFAtV0lNdjZ1Q1Q3STZCOXRyeUEyT2dITlAzM2xkXzBqU3RUSWJqdjFORFhFQUVsTHUzNWRLWmRCUDJHSjZvSzQxUGozMVQ4b2V3OGt3VnVaVVpwQ3A2dERHM2M5Q2o0bUQ4bFpGajNpdVZEOUljUVRuY2R2dEtwUnd3Z0hiOW5QYmZCMkNQcDU0TDdKSDgzdw?oc=5"
-     ]
-    },
-    {
-     "titre": "1.7 Billion Barrels of Oil Transited Strait of Hormuz Under US Escort",
+     "titre": "Tanker Explosions and Maritime Traffic Collapse in the Strait of Hormuz",
      "theme": "Economy & Energy",
      "zone": "Strait of Hormuz / Persian Gulf",
-     "formel": "According to maritime transport reports, approximately 1.7 billion barrels of crude oil have passed through the Strait of Hormuz under the protection of U.S. naval forces. The naval escorts aim to deter asymmetric attacks and secure vital global energy corridors amid heightened regional instability. Energy analysts note that uninterrupted transit through this choke point remains critical for stabilizing international crude oil markets. The military presence highlights the high economic stakes involved in Persian Gulf maritime security.",
-     "en_clair": "US warships have protected commercial ships carrying 1.7 billion barrels of oil through the Strait of Hormuz to prevent attacks. A choke point is a narrow sea route essential for global trade. Protecting this corridor matters because any disruption can cause oil prices around the world to surge instantly.",
+     "formel": "Multiple explosions involving oil and gas tankers have been reported in the Strait of Hormuz, with Iranian authorities attributing the incidents to marine mines. Consequently, maritime traffic through this critical energy chokepoint has plummeted by approximately 65% since the onset of the current conflict. Shipping insurers and international bodies like the UK Maritime Trade Operations (UKMTO) have issued severe warnings regarding navigation safety. These disruptions pose a substantial threat to global energy supplies and crude oil distribution prices.",
+     "en_clair": "Several fuel tankers have been hit or caught fire near the Strait of Hormuz, a vital narrow sea channel for global oil transport. Because of these dangers, cargo and oil shipping through the area has dropped by 65%. This crisis is causing major concerns for worldwide energy prices and maritime safety.",
      "urls": [
-      "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZWV1SERPcXlvUTF1VXlUQVB2WVNSeU41WWpOSUdBeElHOGxheHZrRTlLNjFodjJwc01rTS00cW9IVm93TEpqOW5zTXFPcnU4eVNj?oc=5"
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDVMSkljSXZTb0Z0MEJCbnp4TWZPUEZMUlM4SUdlOW5OampxNWFNMU9kN3VNVFFva3o4cDdGWXlCV0lScF9sNHhfUEN3Rnl3bFJuRzhIQU9tWW9jS1pBaVRWOG9JV2VMLWNlcXo4ZkdBZE5KdXRDMGVFZC1uanFkSmxQYTVyd0stdFlIekdEbVhaUDRjRThQUHkyanNHVFJVbmdSSDZlNHJBWllJWVRpNEJRY1VLR1k?oc=5",
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0gwclBMcjZncWowVDNDWEZ4MzJUWmF4bmQ1WmVZMGhZSWFOTjBWTW9IQ0F1aHN6c0dUR2VyUDRMWHZ5Q2RCUXJxdFZUV3RIQzdTWXFZSzZQUm5EX1VDRXIyTlpubl84ZnVOVlBvU1pOMHdJZjBNMXcxTkYwMlluZFRuSEY5YUtsNjdVMk5qWTlzWV9KMk8yQkc2VUtpNDJpX3R0VjVBc29Qbkl2M2lycFB1NUJuX0NwbGVZTUZBS0s?oc=5"
      ]
     },
     {
-     "titre": "Trump Warns US May Be Forced to Execute Military Strikes Against Iran",
+     "titre": "Iran Claims Regional Support for Reopening the Strait of Hormuz",
      "theme": "Politics & Diplomacy",
+     "zone": "Iran / Middle East",
+     "formel": "The Iranian Ministry of Foreign Affairs announced that ten regional countries have endorsed a diplomatic proposal aimed at reopening the Strait of Hormuz to secure navigation. While Tehran attempts to project a cooperative stance to de-escalate maritime blockades, Western analysts remain skeptical about the practical implementation of this initiative. The proposal seeks to reassure neighboring states economically affected by the plummeting regional trade. Formal responses from the concerned regional capitals have varied in diplomatic intensity.",
+     "en_clair": "Iran's foreign minister stated that ten countries in the region support an Iranian plan to safely reopen the Strait of Hormuz. Tehran is trying to ease economic pressure and show cooperation with its neighbors. However, foreign experts are waiting to see how concrete this diplomatic initiative really is.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlJQZ3NNUDVUN1hnMkZQM2lFU3Q1QmJTVno2SGFNb2Q3ODRUU2xQVERrTjlOYXBCZVlaQmt4MEcxSkNIYXVtUGFmWnh0RW1NelJZNWU4b2dfMWhmNTJtcTZrMVBoM3pQbEFJLUFSYmFZRHdZWTFUclNINmdhbTJjdUs2dS0yRnZ2ZWhCSXZZaGZlak00a1l2Yw?oc=5",
+      "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFBEb3duM3BzeXo0R21ZNGtadTZZSG1ILUNuN3FfWThfaU4wVTBuQlJfWGlfQ1dDWXZVeDVzX25aU3NtTms0WXNoNEZ6NTVVdkdFYmo3WHpXTm9TT0xMbFNsTG5jcGZuUmFkY1ppUVpkVFNGN3dmdzk0OWw5RW1JODJKTkZ0cmRIcHVZZzEtSUtVSFRTbDFtTGZRMXBBWWtwMU1MVXZ3S2dFdnpSMC1PTGoxVkdxd1BhcEdyWjYxWEZ5d3dJY2U0Wi03bTYzRVlYQjFNVmZiVUxmZW94YUE?oc=5"
+     ]
+    },
+    {
+     "titre": "Trilateral Summit Between Trump, Putin, and Xi Jinping in China",
+     "theme": "Politics & Diplomacy",
+     "zone": "China / International",
+     "formel": "Chinese state media confirmed that US President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping will convene for a rare trilateral summit. The high-stakes agenda is expected to cover global trade tariffs, nuclear arms control, and geopolitical crises including the ongoing wars in Ukraine and Iran. This diplomatic encounter represents a significant alignment of major global powers amid mounting international instability. Observers will monitor whether tangible agreements can emerge from talks involving such adversarial leaderships.",
+     "en_clair": "The leaders of the US, Russia, and China—Donald Trump, Vladimir Putin, and Xi Jinping—are holding a rare summit in China. They plan to discuss major global issues, including international trade tariffs, nuclear weapons, and ongoing wars like those in Ukraine and the Middle East. It is a critical meeting to watch for the future of global politics.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTUZqNzJyalpFMHk1T05jUEMyTU1uVGp6X3BtR2l3NkJCMVRVU1FVeHZiUnFVekVwUkNkbHlLVXB3ODBKMVUxX0thamVZXzQtY3U2YU5LRmRUZEpULTY4U2JuTVdfN1BCUlpXUWlkZ2gwdzVIZjlfTWhBNjNKelNnQWZpU01vdXpUc2xxV09NdS1qcEl3T1U0cDJLZWNvNWxMYlQ0VHNhZE9tM0Fzb3hNcW4yS1pfV0JabDJ6WmtjSEZabEdFRmFmZUo4OXdZU0h2ZGMxM0xZRmcybmhDWV9WVkY3VFJpejM4eVlFR1lyMTNmODdodUp5Yk5qemIyc0JmVUpUUVVOalFobWlfc0FiYS0wN2ZVeDNwdEFvSlE3U1dtNk9Gdk1rOElWTVEyekE?oc=5",
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejVneWJWdjdjX0EtWHNuODFKeFh1VW9EV0tRRWdFbktvbkZzSE50N2s5eEl5R21XQjlIUjFNWkNrSGtqTzFIWlh0N0hmWE44UE83U3J4MXZhZDZZVE9rck1nVHZkYkVwSVQxdzFfamdkSnhIcVhiU0JVY01tQXVsbjhNQXQycXJCUnQ1NGhCLTNaeUNRdUduVVRVRE9MMmFJblB2YmtCdmtON2tEZGo5SGtZbG1UVlhGRnJYZUk1aw?oc=5"
+     ]
+    },
+    {
+     "titre": "Debate Over Iran's Nuclear Ambitions and Deterrence Strategy",
+     "theme": "Conflicts & Security",
+     "zone": "Iran / International",
+     "formel": "Amid escalating hostilities with Western powers, Iranian political discourse has increasingly questioned the long-standing taboo against acquiring nuclear weapons. Officials in Tehran have explicitly referenced external security examples, signaling that conventional deterrence may no longer suffice against potential foreign interventions. International atomic energy monitors and Western governments view these rhetorical shifts with extreme alarm regarding regional proliferation risks. The debate underscores the erosion of diplomatic restraint as conventional conflict thresholds are crossed.",
+     "en_clair": "Inside Iran, politicians and commentators are openly questioning the country's historic ban on developing nuclear weapons, arguing that standard defense is no longer enough. This shift worries Western governments and international monitors who fear a renewed push toward a nuclear bomb. It shows how close the region is to throwing out old diplomatic rules.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWJxRzF0YTNtN0JjZmhoRDlaMUhLZklRN2l1cEpPNlpFNk92TU91b1FWemV0UzNzZm5PWk5GbWozcXlNQWxPb3J1MHR6WXlPUGVrWjdrdk9fb2EzTUNsTDhFc0EyOW1nNFhsM3pyOW1rVjk1RXVzQnpaNlAtakFHZE9SUlhMMW8wekpWUHZSTHY4RXZIelpSV28ycFlCQTFHY3lQSS1hWlFER20xWWtNMWxianh4S21PQ2lCSFVUU3NVYjRLS0JPakZ2R2t3bDBMTU9zLWdJdEtGbUU?oc=5"
+     ]
+    },
+    {
+     "titre": "Ecological Vulnerability of the Persian Gulf Amid Military Conflict",
+     "theme": "Society",
+     "zone": "Persian Gulf / Strait of Hormuz",
+     "formel": "Environmental scientists have raised serious concerns regarding the severe collateral damage inflicted on the Persian Gulf ecosystem by military hostilities. The proliferation of maritime attacks, burning oil tankers, and potential toxic spills threaten fragile marine habitats, including coral reefs, sea turtles, dolphins, and endangered Arabian humpback whales. Local conservationists lack safe access to mitigate environmental degradation due to active combat zones in the Strait of Hormuz. The long-term ecological recovery of this unique marine biodiversity hotspot remains highly compromised.",
+     "en_clair": "The ongoing war in the Persian Gulf is causing a major environmental disaster for local marine life. Burning oil tankers and ship attacks are threatening rare species like dolphins, sea turtles, and whales in the region. Because of the fighting, environmentalists cannot easily reach the area to clean up or protect nature.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc3RVWW9yZFhXQlVob2RobFBwY1F5MUFHUGZlWFFDRXRHclY3MnJoOGJHZTlVWkVMOGluUU5ZU3BDZ3hrdUpNc2pnbGdSQUt2YXJrZkgyYXBrZTc4WUJvYlVMSnl2UExuWHFrZDRSYTFDQTR0eFJsN2N2MzJ5bGlXaWd5ODF1MTZ2SkJxek5NcERZV1BLVDFVelpCZnN6dXQ3Sm5CTFphX2lzN2s4ak9zMDhlQjBsaWg2LXBCelk3SDFYODZiZU9jQWhjc0E2aU0zbWVScnZhQmdaNnRUR1RfOG1Gakc3ZGZzNmNkdXdCcjZvTWN4UGtHNUVaeVVLakV6SkJFag?oc=5"
+     ]
+    },
+    {
+     "titre": "Middle East Conflict Threatens the Conclusion of the Formula 1 Season",
+     "theme": "Sport",
+     "zone": "Middle East",
+     "formel": "The escalating geopolitical instability and military conflicts across the Middle East are casting doubt on the logistical feasibility of upcoming Formula 1 Grand Prix events scheduled in the region. Racing organizers and team principals are evaluating security risks for personnel, equipment transport, and spectator safety. While no formal cancellations have been enacted, contingency plans are being discussed in coordination with international sports federations. The situation highlights how widespread regional warfare impacts global sporting calendars.",
+     "en_clair": "The growing conflict in the Middle East is putting upcoming Formula 1 racing events in the region at risk. Organizers are currently reviewing safety measures for teams, fans, and equipment transport. It's an example of how regional wars can disrupt major international sports schedules.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWlNpanVEVWxDaGtvNjZCT3hfYU11MjZpRFVDaFAxY0pGdzlkUHVTb1BsQ3NHMGpPeXFEY0RMUTNaMl9raEgyY1RkVUJpbXdfOWVKdlBPRUdlN3lrN0w2V0R1RV9ST2IwR2JrRmtzcU9xX0QwS3dTb0tscGZUVkt5SnVMZndXS3lrYnd3MlNPN3ljWGlIMHlSS3pzLVpQcDZMRnhOcWpXbkt6N09RWG1kdQ?oc=5"
+     ]
+    },
+    {
+     "titre": "West Bank Violence: Settler Attack Leaves Palestinians Injured",
+     "theme": "Conflicts & Security",
+     "zone": "Israel / Palestine",
+     "formel": "In the occupied West Bank, five Palestinian civilians sustained injuries following an assault attributed to an Israeli settler amid heightened regional tensions. Human rights organizations note a continuous spike in localized violence alongside the broader Middle East conflict. Israeli security forces have faced scrutiny regarding their response time and enforcement measures in settler-related incidents. Palestinian officials demand greater international protection against escalating community friction in the territory.",
+     "en_clair": "In the West Bank, five Palestinians were injured following an attack by an Israeli settler. This incident adds to a troubling rise in local violence happening alongside the broader Middle East conflict. Human rights groups say attacks like this highlight ongoing safety risks for civilians in the area.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVEwYzNwd0tlRFdpdnV3X1M5bkVpQzdBNTBhN2FqX01oaW1YcVp2cnlCS1dtSTlxc1dlWGlJdUtCNHo3TWF0U244cERFQy01U0tjcUxuLVoycVMzYlYwVzRpVEdjZURPZC1VTFNNc1g0bWY5VXJhNUViOEFFWjZWZGwwYVhDWmVuTHpFUDgtbTNUanVOcndzUHlxdHM2dVAxU3BPTEpkYUpyRUN6TkNReVlhYmJ0eGhtM3B1ZFhGUHg?oc=5"
+     ]
+    },
+    {
+     "titre": "France Seeks EU Sanctions Against Iran Following Supermarket Cyberattacks",
+     "theme": "Economy & Energy",
+     "zone": "France / Iran / European Union",
+     "formel": "The French government has formally requested the European Union to impose targeted sanctions against Iran following sophisticated cyberattacks directed at commercial supermarket refrigeration systems. French cybersecurity agencies traced the digital intrusions to state-backed actors linked to Tehran, aiming to disrupt civilian retail infrastructure. European diplomats are reviewing the proposal to establish a deterrent response against non-kinetic cyber warfare. Iran has denied involvement in the digital sabotage operations.",
+     "en_clair": "France is asking the European Union to punish Iran with new sanctions after cyberattacks targeted supermarket cooling systems in France. French authorities believe Iranian state-backed hackers were behind the digital sabotage of commercial infrastructure. European leaders are now considering how to respond to this type of cyber warfare.",
+     "urls": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWNUTjh6VkN4RkZPa1lueHFtQTU5UFhqQVhPNFBLd2l5cTRmc05YMHBfUjl4bVNfMWxxX2ZxbzNFYm5oUUtVbDV0UUJQRDRSOWgtUERzV0kzODhkT2RodTVtQ0hGWmh3YXo2eXZtNU1NNC00aDFDTllzeVhuRnUwWkpEOGVHcThIRVNkMV9CcktNRHo2UkQ3aW4xNGFCeEpx?oc=5"
+     ]
+    },
+    {
+     "titre": "US Policy Dilemma Regarding Military Options Against Iran",
+     "theme": "Conflicts & Security",
      "zone": "United States / Iran",
-     "formel": "Former US President Donald Trump publicly warned that the United States would eventually be compelled to deliver a major military blow to Iran. The remarks reflect escalating political rhetoric surrounding Washington's strategic posture toward Tehran. Critics argue such statements increase the likelihood of miscalculation, while proponents view them as necessary deterrence. Washington has not officially announced changes to its immediate operational directives.",
-     "en_clair": "Donald Trump stated that the United States will eventually need to hit Iran with a heavy military strike. Deterrence means using threats of force to stop an adversary from taking aggressive action. This statement highlights the growing willingness among some political leaders to consider direct military action against Iran.",
+     "formel": "The United States administration is reportedly debating potential military engagement strategies against Iran, carefully weighing the tactical efficacy against severe regional repercussions. Strategic planners are analyzing the risk of a broader multi-front war, energy market shocks, and allied security vulnerabilities in the Persian Gulf. While hawkish factions advocate for a decisive kinetic response, diplomatic advisors urge caution to prevent uncontrolled escalation. No definitive operational timeline has been officially confirmed by the Pentagon.",
+     "en_clair": "Washington is currently debating whether and how to launch military strikes against Iran, worrying about the dangerous ripple effects across the Middle East. US officials are trying to balance taking a tough military stance against the risk of starting a much larger war. Decisions are heavily weighed against potential disruptions to global oil and security.",
      "urls": [
-      "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYl9qQm1vSXJBVFVoMnluT0tXdDVTS0RORl_zdkJMY2t1S3dtcE1vNEhtTjdTV3MxZ09raGNYVkFsb0JsR3dLZ2hvMHp0dGdUbFktLXV0MldzclJ6X2didkZGY2lsa0dDSkNhUS12MTNtMXVLM29UX09iSjhUT3NzbmJuSUE0RHdoNFotZVl4b1QwelBvRnNhZ0V6cXVydXFWRlhfSGEwazdMWEVIZ1pWeFVsdTFkTTV0SHRMN3hGZ3hVZzZ6dEJIdHZ3Wl_xUVlkZXBuWjRGN09UVlUzZWtMQk5vSlpndWhQQk1OZ012NWsyRzNCV29iSUVGVThwVW5SWGtRN05FeTB4QnV1aU1oTHlIRngxQWFRUkNqOGpHY21YMEEyREFWdGJRS29PZw?oc=5"
-     ]
-    },
-    {
-     "titre": "Iran Claims Modified Ballistic Missiles Could Reach the United Kingdom",
-     "theme": "Conflicts & Security",
-     "zone": "Iran / United Kingdom",
-     "formel": "Iranian military officials issued a statement alleging that modified variants of their ballistic missile arsenal possess the range required to reach targets in Great Britain. Defense experts view the claim as part of Tehran's ongoing strategic messaging aimed at European NATO members. Western intelligence services have not officially verified the technical capability of these modified systems. The statement coincides with diplomatic pressure from European capitals over Iran's regional activities.",
-     "en_clair": "Iran claims it has upgraded some of its long-range missiles so they could strike as far as the United Kingdom. Ballistic missiles follow a high trajectory to hit distant targets quickly. This matters because it extends Iran's potential threat beyond the Middle East into Western Europe, raising concerns for NATO security.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUNGeUpRdS12amxDalM5Zmlvc05HV0RnOTJuby1jWnRydzZuNjlCcTFPMDVHbGNrTjF5MG92ZWVfei02ZXUyaFRncUNPc0pvQjZwYVd1eFk4eXUtNGtqTTJtQ1VhcFdxSUN2dHVxbmFRdkxuZEI0MVBDbk1kTGh1SnFn?oc=5"
-     ]
-    },
-    {
-     "titre": "Senator Rubio Asserts Economic Sanctions Eliminate the Need for War With Iran",
-     "theme": "Politics & Diplomacy",
-     "zone": "United States / Iran",
-     "formel": "US Senator Marco Rubio stated that targeted economic sanctions against Iran render direct military confrontation unnecessary. Rubio argued that rigorous enforcement of financial restrictions effectively curtails Tehran's regional influence without risking armed conflict. Opponents of this view contend that sanctions alone have historically failed to halt Iran's nuclear and military developments. The debate underscores competing approaches within Washington regarding US Middle East policy.",
-     "en_clair": "US Senator Marco Rubio argued that tough financial sanctions are enough to weaken Iran without needing to go to war. Sanctions are economic penalties imposed on a country to force a change in its behavior. This matters because it highlights a major debate in Washington over whether economic pressure or military force is the best way to handle Iran.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnVjLVhPTE9oal93NTdFb25rR1lUVmlncHcxb0VPY2VOSUNMZE5zYU9zdGJBeFhkNHduNlM5MGFuSFg1VXIteWE1WVY3MTMzeW1ZNlB6Wl9VdDVaSVYwUjZzRlYwelhPM3FxMHZ5NXEwTEhoWTk4S2ZqS2NfMzE4SlBLbGFGbTV4X0dRX0JlNTdmeXlWd1QxeQ?oc=5"
-     ]
-    },
-    {
-     "titre": "Trump, Xi Jinping, and Putin Prepare for Unprecedented Trilateral Summit in China",
-     "theme": "Politics & Diplomacy",
-     "zone": "Global / China",
-     "formel": "Donald Trump, Xi Jinping, and Vladimir Putin are scheduled to convene in China for an unprecedented trilateral summit. Agenda items reportedly include nuclear non-proliferation, the crisis in Iran, and international technology trade concerning companies like Nvidia. The meeting represents a significant geopolitical convergence among the world's leading nuclear powers. Official agendas remain subject to final diplomatic negotiations between Washington, Beijing, and Moscow.",
-     "en_clair": "Donald Trump, Xi Jinping, and Vladimir Putin are planning a high-level summit in China to discuss nuclear weapons, Iran, and global technology trade. A trilateral summit is a formal meeting between leaders of three major nations. This is important because decisions made by these three global powers could shape international security and the global economy.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGwwM3Y4dFpzcng5cEhuLW1rUXlvd0NWU1JNU1YyZlVzcmdpUlhrejhtQnYya0ZORHNzREw4aHBaTDhDWmZCa3FVSUR4R3gyVnNfMFJwM0daczJHMXdXLWlPVnV3VTg3c0JkSURoTWFqYzktTWFSTXRJbGQ0SXluS3owR1dtVnJEc3VZT05tcFJ3LTR6QndFelBZeTFkSFk3Smh2MGh1S25WVG5GdkpaZTRCNUFUUEVYeF_w?oc=5"
-     ]
-    },
-    {
-     "titre": "Two Commercial Tankers Catch Fire After Striking Mines in the Strait of Hormuz",
-     "theme": "Conflicts & Security",
-     "zone": "Strait of Hormuz",
-     "formel": "Two commercial oil tankers caught fire in the Strait of Hormuz after detonating naval mines placed in the shipping channel. Emergency response operations were dispatched to suppress the blazes and assist affected crew members. Maritime safety authorities have warned shipping companies of heightened explosive risks in the passage. No entity has officially claimed responsibility for deploying the naval ordnance.",
-     "en_clair": "Two oil tankers caught fire in the Strait of Hormuz after hitting underwater mines. Naval mines are explosive devices placed in the water to destroy ships. This matters because attacks on commercial vessels disrupt oil transport and risk spilling dangerous materials into vital waterways.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWkg1c010czhMYjk4eVBVdm1ZWVR5Nkwwd3c1Tk5uQ2VCRWE4Ukk0anlJLW5RUnRXeGFnTVljYzZabEVJM2V5OXF5dDg4LVh1MXpsc3A2UEdqVmNxeHV0Nzc2RDRpZFhDSG13UXFnQzczS3dLeFVybjJKai1zcnBIZzc5YzI0MUp4a2Z6N2ZOLTZ4M3lSN2JHMFJfd2FjZUlrMXdJYkE5MmdSYWNCZDJVTXE0TUVrSE5lOUFwTUNXNmM1WFdlSF84ZFFNSE1mZGQwTlh4Vnp4bksxazQ2SDhDbWNuRHB0OGNpc3BPTkdKQU5fZ0ZETG9EVHMxUWhqeWJTYWNLNVQzdnZkeEJ3YUw1WTlVUQ?oc=5"
-     ]
-    },
-    {
-     "titre": "Escalating Attacks Threaten Strategic Maritime Lanes From Hormuz to the Red Sea",
-     "theme": "Conflicts & Security",
-     "zone": "Strait of Hormuz / Red Sea",
-     "formel": "Maritime security agencies report a sharp surge in coordinated attacks targeting commercial shipping corridors stretching from the Strait of Hormuz to the Red Sea. Shipping lines have adjusted transit routes and increased insurance coverage to mitigate risks in Southwest Asian waters. Naval coalitions continue patrolling the region to safeguard commercial traffic. Analysts warn that prolonged insecurity along these routes could disrupt global supply chains.",
-     "en_clair": "Commercial ships travel through vital sea lanes from the Strait of Hormuz to the Red Sea under increasing threat of attacks. Sea lanes are heavily used ocean routes for commercial shipping. This matters because if these routes become too dangerous, global shipping costs and delivery times for everyday goods will rise.",
-     "urls": [
-      "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMGhseXltbFNpaWVpWllyYWdEYk5OMTlGM24wZHZGSFFKN3pXMlFSUVlDbUVEdlRqNUpjNjV1YWtOdGFnWFBIQy1FTnFkNl_GYk5UZmRRRlNiNzhzbVNxcVg2bjcwbmVmNkl6ZmJ2bWkzNEJ4UHFpVzBIMWt5aHNEYWJPM2RQQ3EwNkRGSG43RndVcnBEZjMtZk5iX2dQUDUzQTBvcXBpLTVOM2thRGxGVVJLYlFockQ2RFFCM0N1WXlQWUR2c3pCY1FiemZqbHRIOWttenlncW9EZ2pUdGhjM3dJS3pxZlB0MlNfODE4a1FQTS1TMlpfU1BVdnpXNUVieTVSTm5jeUJ0RGhQUy1NVEl3OTZ4ZnByb3ZrQlhHdw?oc=5"
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYi1CLUNDLWctSUcwZU5sS3EyRHhVTFhzTWw1UjdhUG5fWjZLbjlrNFN1S1N3c1d6Wk9JQ2RCWlFxYzFySGZlRjBJWEZvV1VyN3Nva1ExVmg3V05fTGdsLWNsc2doT1F2cjFmbkVTcEczOC1ZM2pvUkNlN2VESUlUUUVNa0ZVak0?oc=5"
      ]
     }
    ],
    "articles": [
     {
-     "titre": "Détroit d’Ormuz: l’ONU presse l’Iran et les États-Unis de laisser passer les engrais - TRT Français",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuek43RllOY3k4OGxwdHV6SmlnMmRmRU5GUWFpX0tfbm9xZ3dNSUpnalB1TmkwdmREeVEzdGUwd2JGNkc4Q2ZOU3cxNnNTMXZQSXBkQklfN3VpSThz?oc=5",
-     "resume": "Détroit d’Ormuz: l’ONU presse l’Iran et les États-Unis de laisser passer les engrais TRT Français",
-     "date": "2026-11-15T10:52:01+00:00",
+     "titre": "L'Iran attaque une base américaine à Bahreïn et revendique des frappes contre deux pétroliers dans le détroit d'Ormuz - 21News",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZDdmSVBGeG5oR3g2UW42WjhzRFFSQk5VQmF6OUdLVjVIVFNHUUVJVEY5QzM4UFBCUEpROFBXbFRfOW1XbV9pdVBIRUhEdlpYOE0zRUdJZWVHazJjcDNpb25UYVZUUW5oLVdWTElwX2NZeFlYLUtPYkpha1lUWEFQRmZ1VlZSbzE4Nkk1NThzekF3UHA4dVo0S0g1VENmU0FLdWhOdy1lMW1pOHVva1Z4UXR2SjRFTnBtT2ExSnU1aVhPR0kxT1l6cEp2b2traDh1ekVVNg?oc=5",
+     "resume": "L'Iran attaque une base américaine à Bahreïn et revendique des frappes contre deux pétroliers dans le détroit d'Ormuz 21News",
+     "date": "2026-11-17T14:07:08+00:00",
      "image": null,
-     "source": "TRT Français"
+     "source": "21News"
     },
     {
-     "titre": "Iran–États-Unis : Bahreïn visé, l’Egypte réagit et l’impasse nucléaire persiste - Tunisie Numerique",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0tvamx4VVRIZGk3VjNyY3JxU3pWM2N3c0Q1ZGZDQkNVb3hFSko4Wk1fXzJkOThCclgyWUNMN3R1dFlwc2hWczNXNFRSdjY1Sk9yajdoSy1TWEJBNGdTbjI4UHVhWU5PeU9HbTNOb0xsVklfMXI2c1h6cWk3MnBlRHdmdWNRcThNazhSSDZQTWxVLU5yeXZTVkpvanpXdXA3MWdnWkVKUmQzbkJC?oc=5",
-     "resume": "Iran–États-Unis : Bahreïn visé, l’Egypte réagit et l’impasse nucléaire persiste Tunisie Numerique",
-     "date": "2026-11-15T10:31:00+00:00",
+     "titre": "Guerre au Moyen-Orient: l'Iran revendique une attaque de drones contre une base américaine à Bahreïn - tv5monde",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYWQwM3J1a2g3c0NySTM2YjBzTjVPcnlhUnRLVHQ4VEdNcXplMVZZLWs1MExIemlqSUNmZms3Q2xyWTNhZm42dWpFY3B1UHFuS1g2TDdWcnBLVVMyUWN0WldYRFl0TFJSUF9YNnBRcmhDUHF6a2hvSFlfLW5EUjlFTzNpMnV4UC1zbFF4bnJOZlZLekprYU55c2FJRFpUYmtHYWNDZ2VCQkZTeU5SV0hQbER3V1phRmwyd3NpTFZWakhaS3ZvQS13SmtPRnE3eHRRZWFLQWgzdTJyRWtTRVctSjZLcFdEZw?oc=5",
+     "resume": "Guerre au Moyen-Orient: l'Iran revendique une attaque de drones contre une base américaine à Bahreïn tv5monde",
+     "date": "2026-11-17T13:52:30+00:00",
      "image": null,
-     "source": "Tunisie Numerique"
+     "source": "tv5monde"
     },
     {
-     "titre": "Les services de renseignement américains estiment que l'Iran possède encore jusqu'à 2 500 missiles. - Vietnam.vn",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KQTNHZG5qd0VQSzFKWUlvV0xtUUZSR3VUUE9sR3h0M1JFVVRtQ0NOUmlWZFl2YXNJWW9SZDFJRDRod2lycTZuMTJaeDNpV2xQWFJfd28yZWVvTGhOcW5NTEItSW5WUDlsQV9DTUxsbW9IVWNUZzZsd0FfYndfQQ?oc=5",
-     "resume": "Les services de renseignement américains estiment que l'Iran possède encore jusqu'à 2 500 missiles. Vietnam.vn",
-     "date": "2026-11-15T10:25:48+00:00",
+     "titre": "Les États-Unis sont aux prises avec la question de savoir comment attaquer l'Iran et quelles en seraient les conséquences. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYi1CLUNDLWctSUcwZU5sS3EyRHhVTFhzTWw1UjdhUG5fWjZLbjlrNFN1S1N3c1d6Wk9JQ2RCWlFxYzFySGZlRjBJWEZvV1VyN3Nva1ExVmg3V05fTGdsLWNsc2doT1F2cjFmbkVTcEczOC1ZM2pvUkNlN2VESUlUUUVNa0ZVak0?oc=5",
+     "resume": "Les États-Unis sont aux prises avec la question de savoir comment attaquer l'Iran et quelles en seraient les conséquences. Vietnam.vn",
+     "date": "2026-11-17T13:11:43+00:00",
      "image": null,
      "source": "Vietnam.vn"
     },
     {
-     "titre": "1,7 milliard de barils de pétrole ont transité via Ormuz sous protection américaine - سانا",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZWV1SERPcXlvUTF1VXlUQVB2WVNSeU41WWpOSUdBeElHOGxheHZrRTlLNjFodjJwc01rTS00cW9IVm93TEpqOW5zTXFPcnU4eVNj?oc=5",
-     "resume": "1,7 milliard de barils de pétrole ont transité via Ormuz sous protection américaine سانا",
-     "date": "2026-11-15T09:27:06+00:00",
+     "titre": "Détroit d'Ormuz: un navire gazier attaqué, incertitudes sur l'équipage - Prix du baril",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDVMSkljSXZTb0Z0MEJCbnp4TWZPUEZMUlM4SUdlOW5OampxNWFNMU9kN3VNVFFva3o4cDdGWXlCV0lScF9sNHhfUEN3Rnl3bFJuRzhIQU9tWW9jS1pBaVRWOG9JV2VMLWNlcXo4ZkdBZE5KdXRDMGVFZC1uanFkSmxQYTVyd0stdFlIekdEbVhaUDRjRThQUHkyanNHVFJVbmdSSDZlNHJBWllJWVRpNEJRY1VLR1k?oc=5",
+     "resume": "Détroit d'Ormuz: un navire gazier attaqué, incertitudes sur l'équipage Prix du baril",
+     "date": "2026-11-17T12:44:10+00:00",
      "image": null,
-     "source": "سانا"
+     "source": "Prix du baril"
     },
     {
-     "titre": "Trump avertit que les Etats-Unis devront, «à un moment, donner un coup de massue» à l’Iran - Le Vif",
-     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYl9qQm1vSXJBVFVoMnluT0tXdDVTS0RORl9zdkJMY2t1S3dtcE1vNEhtTjdTV3MxZ09raGNYVkFsb0JsR3dLZ2hvMHp0dGdUbFktLXV0MldzclJ6X2didkZGY2lsa0dDSkNhUS12MTNtMXVLM29UX09iSjhUT3NzbmJuSUE0RHdoNFotZVl4b1QwelBvRnNhZ0V6cXVydXFWRlhfSGEwazdMWEVIZ1pWeFVsdTFkTTV0SHRMN3hGZ3hVZzZ6dEJIdHZ3Wl94UVlkZXBuWjRGN09UVlUzZWtMQk5vSlpndWhQQk1OZ012NWsyRzNCV29iSUVGVThwVW5SWGtRN05FeTB4QnV1aU1oTHlIRngxQWFRUkNqOGpHY21YMEEyREFWdGJRS29PZw?oc=5",
-     "resume": "Trump avertit que les Etats-Unis devront, «à un moment, donner un coup de massue» à l’Iran Le Vif",
-     "date": "2026-11-15T07:27:42+00:00",
+     "titre": "Marine de l'armée iranienne : un autre pétrolier en infraction prend feu à l'est du détroit d'Ormuz - وكالة سبأ",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44eEhQa3VZWlVyU3VWeFZfUzd4bDd0ZjVVWFp0UVJmUzVlWHNlQU1DR3hhYjBuZ3AybXROWmJWQ3hCVWN2QVRyU0dBT3lKN1k?oc=5",
+     "resume": "Marine de l'armée iranienne : un autre pétrolier en infraction prend feu à l'est du détroit d'Ormuz وكالة سبأ",
+     "date": "2026-11-17T12:18:56+00:00",
      "image": null,
-     "source": "Le Vif"
+     "source": "وكالة سبأ"
     },
     {
-     "titre": "L’Iran affirme avoir attaqué une base militaire au Bahreïn avec six drones - Atlasinfo",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjkwMjd5bEJNeld2Zlh6VXFPaE5aZjJBb0g5Xy1JUW5kSzRTSUxJQ2MteUliR0lNU1ZoVjhtQ1RpdllFVXJwVlhGN2p3TDFpQ3JFVXdMV1ZEVmVEbW14RnFPVkpvQlJJS0YxamZfX1J3Tk9KbUt3NV93NllJYWdNbDZnbUgwcG5Ha3hIeFZnUGhsWGFzWjVYWU1R?oc=5",
-     "resume": "L’Iran affirme avoir attaqué une base militaire au Bahreïn avec six drones Atlasinfo",
-     "date": "2026-11-15T06:56:39+00:00",
+     "titre": "L’Iran fait état d’explosions sur deux pétroliers dans le détroit d’Ormuz - Le Soir",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzVEVFNoTUJ6SE9sWUFGaFkwcHZPRjRKREtkTDZRaUF2Sk9DaUdMMWRVdHJSRjBnTV9PSnZlSkFIN2swMjRIUDlhYlRsTF9FY25veUY0akJVanR1SHJOLTVrdGxSTFE2TDNKYkk1X3pPWEZLdGtEZ2FGbGtHbldnOXBTN0V5cXZERkM5Q2Z3ZVJneGhYQ1hOdGg3N2NBVDc1d1V3MHdPU0lMd2hUSGNyMUJ5Y0hWbng2UGc?oc=5",
+     "resume": "L’Iran fait état d’explosions sur deux pétroliers dans le détroit d’Ormuz Le Soir",
+     "date": "2026-11-17T11:52:17+00:00",
      "image": null,
-     "source": "Atlasinfo"
+     "source": "Le Soir"
     },
     {
-     "titre": "L’Iran avertit que des missiles balistiques modifiés pourraient atteindre la Grande-Bretagne - Infos-Israel.News",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUNGeUpRdS12amxDalM5Zmlvc05HV0RnOTJuby1jWnRydzZuNjlCcTFPMDVHbGNrTjF5MG92ZWVfei02ZXUyaFRncUNPc0pvQjZwYVd1eFk4eXUtNGtqTTJtQ1VhcFdxSUN2dHVxbmFRdkxuZEI0MVBDbk1kTGh1SnFn?oc=5",
-     "resume": "L’Iran avertit que des missiles balistiques modifiés pourraient atteindre la Grande-Bretagne Infos-Israel.News",
-     "date": "2026-11-15T06:00:30+00:00",
+     "titre": "Détroit d’Ormuz : le trafic maritime chute de 65 % depuis le début de la guerre - Leconomiste Maghrebin",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0gwclBMcjZncWowVDNDWEZ4MzJUWmF4bmQ1WmVZMGhZSWFOTjBWTW9IQ0F1aHN6c0dUR2VyUDRMWHZ5Q2RCUXJxdFZUV3RIQzdTWXFZSzZQUm5EX1VDRXIyTlpubl84ZnVOVlBvU1pOMHdJZjBNMXcxTkYwMlluZFRuSEY5YUtsNjdVMk5qWTlzWV9KMk8yQkc2VUtpNDJpX3R0VjVBc29Qbkl2M2lycFB1NUJuX0NwbGVZTUZBS0s?oc=5",
+     "resume": "Détroit d’Ormuz : le trafic maritime chute de 65 % depuis le début de la guerre Leconomiste Maghrebin",
+     "date": "2026-11-17T11:41:44+00:00",
      "image": null,
-     "source": "Infos-Israel.News"
+     "source": "Leconomiste Maghrebin"
     },
     {
-     "titre": "Iran : Téhéran disposerait encore de 2 500 missiles, contrairement aux affirmations de Trump - i24NEWS",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQk9uSlpGUWZfVHdYVDhteEFRMFB1MlZMRUdrT0ZSRHBMdmpabDBDNUc4aWdZWW15ZHJtdTF6aXBVQzFpZElUQ01PdFAtV0lNdjZ1Q1Q3STZCOXRyeUEyT2dITlAzM2xkXzBqU3RUSWJqdjFORFhFQUVsTHUzNWRLWmRCUDJHSjZvSzQxUGozMVQ4b2V3OGt3VnVaVVpwQ3A2dERHM2M5Q2o0bUQ4bFpGajNpdVZEOUljUVRuY2R2dEtwUnd3Z0hiOW5QYmZCMkNQcDU0TDdKSDgzdw?oc=5",
-     "resume": "Iran : Téhéran disposerait encore de 2 500 missiles, contrairement aux affirmations de Trump i24NEWS",
-     "date": "2026-11-15T05:30:00+00:00",
+     "titre": "Conflit au Moyen-Orient | L’Iran vise une base américaine à Bahreïn - La Presse",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkZsSnN1M0lOUUlwaWpQSUd3cktOX011U0NUOHRhQkNaZGRKQTJjd2otTGtUUHNyTkpUa09iN0plQ0R2QXpXekVvaUI5RGFfdzdNTy0xOWkzWkVGM2o1LWtjbEgxVFBFMGIzRlpaNFhjZHBRQmM4N0o4by1kSTNGZ1NRT1pMLTNpc3VCZjJtSnplWlhocG52N1lacnpIblViMDFqQk9hVzlDWjJkQzZfRVR6eGpWQlQ5bFhTSnkzNTdoSklaSldBTVBOYw?oc=5",
+     "resume": "Conflit au Moyen-Orient | L’Iran vise une base américaine à Bahreïn La Presse",
+     "date": "2026-11-17T11:27:54+00:00",
      "image": null,
-     "source": "i24NEWS"
+     "source": "La Presse"
     },
     {
-     "titre": "Rubio : sanctions contre l'Iran rendent guerre inutile - Daily Beirut",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnVjLVhPTE9oal93NTdFb25rR1lUVmlncHcxb0VPY2VOSUNMZE5zYU9zdGJBeFhkNHduNlM5MGFuSFg1VXIteWE1WVY3MTMzeW1ZNlB6Wl9VdDVaSVYwUjZzRlYwelhPM3FxMHZ5NXEwTEhoWTk4S2ZqS2NfMzE4SlBLbGFGbTV4X0dRX0JlNTdmeXlWd1QxeQ?oc=5",
-     "resume": "Rubio : sanctions contre l'Iran rendent guerre inutile Daily Beirut",
-     "date": "2026-11-14T17:38:41+00:00",
+     "titre": "Guerre au Moyen-Orient : attaque iranienne à Bahreïn ; 5 Palestiniens blessés par un colon - La Croix",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVEwYzNwd0tlRFdpdnV3X1M5bkVpQzdBNTBhN2FqX01oaW1YcVp2cnlCS1dtSTlxc1dlWGlJdUtCNHo3TWF0U244cERFQy01U0tjcUxuLVoycVMzYlYwVzRpVEdjZURPZC1VTFNNc1g0bWY5VXJhNUViOEFFWjZWZGwwYVhDWmVuTHpFUDgtbTNUanVOcndzUHlxdHM2dVAxU3BPTEpkYUpyRUN6TkNReVlhYmJ0eGhtM3B1ZFhGUHg?oc=5",
+     "resume": "Guerre au Moyen-Orient : attaque iranienne à Bahreïn ; 5 Palestiniens blessés par un colon La Croix",
+     "date": "2026-11-17T10:22:01+00:00",
      "image": null,
-     "source": "Daily Beirut"
+     "source": "La Croix"
     },
     {
-     "titre": "Iran — Détroit d’Ormuz: Les Gardiens disent avoir détruit un radar américain à Bahreïn, le Centcom dément - La Presse de Tunisie",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2t5TW53VVhKTmFFRExUQVhucC1hOU9KUVhiN0Q2aE9nMFZoNEE1ZFlhNEg4VC1MZmxtRC00ektTeTRfdFN5ZWNoXzhJa0hJWGxKVmhNUUNfU2U2b19GNUsyRUJqTDltQUF1bWthZVR0aEptQVNxVlRqcTBHUnVVRk1mZmNWU2RhaGIzeVMyeE1nQ1JpZXdFY19yd09BUkZ3Q0FTblRoY1RKb0pmemlSZ3Y3YjdSekZkSW1wUnpxU3JFel9KRjVmckZNeUV0UlRQUmc?oc=5",
-     "resume": "Iran — Détroit d’Ormuz: Les Gardiens disent avoir détruit un radar américain à Bahreïn, le Centcom dément La Presse de Tunisie",
-     "date": "2026-11-14T17:15:52+00:00",
+     "titre": "Détroit d'Ormuz: dauphins, tortues, baleines à bosse d'Arabie... Comment la guerre en Iran fragilise le joyau écologique du Golfe - tv5monde",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc3RVWW9yZFhXQlVob2RobFBwY1F5MUFHUGZlWFFDRXRHclY3MnJoOGJHZTlVWkVMOGluUU5ZU3BDZ3hrdUpNc2pnbGdSQUt2YXJrZkgyYXBrZTc4WUJvYlVMSnl2UExuWHFrZDRSYTFDQTR0eFJsN2N2MzJ5bGlXaWd5ODF1MTZ2SkJxek5NcERZV1BLVDFVelpCZnN6dXQ3Sm5CTFphX2lzN2s4ak9zMDhlQjBsaWg2LXBCelk3SDFYODZiZU9jQWhjc0E2aU0zbWVScnZhQmdaNnRUR1RfOG1Gakc3ZGZzNmNkdXdCcjZvTWN4UGtHNUVaeVVLakV6SkJFag?oc=5",
+     "resume": "Détroit d'Ormuz: dauphins, tortues, baleines à bosse d'Arabie... Comment la guerre en Iran fragilise le joyau écologique du Golfe tv5monde",
+     "date": "2026-11-17T09:26:00+00:00",
+     "image": null,
+     "source": "tv5monde"
+    },
+    {
+     "titre": "Guerre au Moyen-Orient : des explosions entendues à Bahreïn, l’Iran y revendique une attaque contre une base américaine - lanouvellerepublique.fr",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQmFoSTVUalFIOE9kQW1EVnZxaTlnMzExQl9jX0F3VFd6dndyLTlkdFF1OHBGYTIzU1oyWWt4ZUhrakZLemVCUnRVZjgwaEVvOG5HZm1LaW8ycGVBaS13ejl5UUlWbFE0N2JxcW0yS01WSUZWQ1luOGZvV3liWDVNcloycUVpV054Y0NTTlJQN0UzaFNtcFB1RUZKVDFFNEpmUkVZajFaM1BvNjRwUkowYkdndXFzV0JreERqanJEbXFSYTdqdG8wRTllX1dMcWJnMzV1Y0ZqTURyb282U0ZqN1J0UHBiS2lzNjNOTXJ2MWVTZXlyRDAyQ1I2Wm91VzlsdlE?oc=5",
+     "resume": "Guerre au Moyen-Orient : des explosions entendues à Bahreïn, l’Iran y revendique une attaque contre une base américaine lanouvellerepublique.fr",
+     "date": "2026-11-17T08:30:08+00:00",
+     "image": null,
+     "source": "lanouvellerepublique.fr"
+    },
+    {
+     "titre": "Incendie d'un troisième pétrolier en infraction à l'est du détroit d'Ormuz en moins de 24 heures - وكالة سبأ",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MeEw3cTM4dndmZGRBWlM3MTAtRTVpUFpySmtfY3ItVE9BWHNZVHF4VlBSMXNRdkZoSFRXZnVucjRZZzFmUzBMTFc0V2VEb2JjY3YxNW9rdFU?oc=5",
+     "resume": "Incendie d'un troisième pétrolier en infraction à l'est du détroit d'Ormuz en moins de 24 heures وكالة سبأ",
+     "date": "2026-11-17T07:33:54+00:00",
+     "image": null,
+     "source": "وكالة سبأ"
+    },
+    {
+     "titre": "Donald Trump relancera-t-il sa guerre contre l'Iran ?, par Thierry Meyssan - Réseau Voltaire",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13UGxVWmVwSUdsUlBNNmYtWTR6T0hmU2JxNTlzLWo3Zzlxc2x3N3ZpLXo1dTdZLTNZUU5ac0hGQnNrZGxrZlVSb1luVlV3ak02N01DUFhuZ2Jvdw?oc=5",
+     "resume": "Donald Trump relancera-t-il sa guerre contre l'Iran ?, par Thierry Meyssan Réseau Voltaire",
+     "date": "2026-11-17T05:58:44+00:00",
+     "image": null,
+     "source": "Réseau Voltaire"
+    },
+    {
+     "titre": "Droits de douane, Iran, intelligence artificielle et armes nucléaires: ce dont vont parler Trump, Jinping et Poutine qui se rencontrent ce jeudi - BFM",
+     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTUZqNzJyalpFMHk1T05jUEMyTU1uVGp6X3BtR2l3NkJCMVRVU1FVeHZiUnFVekVwUkNkbHlLVXB3ODBKMVUxX0thamVZXzQtY3U2YU5LRmRUZEpULTY4U2JuTVdfN1BCUlpXUWlkZ2gwdzVIZjlfTWhBNjNKelNnQWZpU01vdXpUc2xxV09NdS1qcEl3T1U0cDJLZWNvNWxMYlQ0VHNhZE9tM0Fzb3hNcW4yS1pfV0JabDJ6WmtjSEZabEdFRmFmZUo4OXdZU0h2ZGMxM0xZRmcybmhDWV9WVkY3VFJpejM4eVlFR1lyMTNmODdodUp5Yk5qemIyc0JmVUpUUVVOalFobWlfc0FiYS0wN2ZVeDNwdEFvSlE3U1dtNk9Gdk1rOElWTVEyekE?oc=5",
+     "resume": "Droits de douane, Iran, intelligence artificielle et armes nucléaires: ce dont vont parler Trump, Jinping et Poutine qui se rencontrent ce jeudi BFM",
+     "date": "2026-11-17T05:26:41+00:00",
+     "image": null,
+     "source": "BFM"
+    },
+    {
+     "titre": "Guerre au Moyen-Orient : pétrolier attaqué près du détroit d’Ormuz, porte-avions américain… Le point sur la nuit - Ouest-France",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOV19pU2c0SnFqTnhpNDhualIwQndzeU9EZ25kQkIwVzFWTFV5TkZ3UVFKSmJfamNhVG16bWluNFQxbEJONkJkMDlwU2hBQ0dlejJLWndTOVNVMmdITElmQ1M0SkF6eEJKQXJyY0NpNWZPT1dES1FYSjhMSC1mOHBCaGFaRHZfRkQ0SjlhVmxKMDVQaVZnbzBKLVdMUktUMkxVTzZxNE9sczdmZnYwaDI3TUVLbXRMN0dXME5kLTZBVHlURzIyRWJXLWhmYlY1Vy1JbXZUMW1WOTlTUTl2Yk5TQTFBMkYtWkNwa0FTN2lrRVFIN1NLUF9FTVlsU0dvbTJ5azB2NEdnbmxVbFl4azNQdw?oc=5",
+     "resume": "Guerre au Moyen-Orient : pétrolier attaqué près du détroit d’Ormuz, porte-avions américain… Le point sur la nuit Ouest-France",
+     "date": "2026-11-17T05:18:01+00:00",
+     "image": null,
+     "source": "Ouest-France"
+    },
+    {
+     "titre": "\"Paix mondiale\", armes nucléaires, guerre en Iran, Ukraine... Ce qui se joue au sommet inédit entre Trump, Poutine et Xi Jinping en Chine - RTL",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQUpOSmlkWVphSlRSZFFGam1CY3RLdGFXX3YyRFYzZ0lYVFIySVlGQjJEMHZVV2xTYWw1b2FvalA4M2xqTFMxeTh5bWg0SlJ2clJoUFRZNDVZa1hBaVFpZnJwNW9FZDcySUJ6dHhNdEQzb0lXT3pIRzJTWTRCVG9veWphOVBGdGxnZGZ3SUxLX3JwNWxreUNNX3FhWE9lV3hPd3V1YTNDaDJOYUlqMnRORUR1ZHpsWkdzazNiZWtaR1pEcHNHS0RiM3RUaU40MmpITENhQkNyai04VVB6c1BuLU5KX3huLTBnMzJLaUhhYy1sODdDbUc1RzdwSmlQOHkybTg1MTNSWGQ?oc=5",
+     "resume": "\"Paix mondiale\", armes nucléaires, guerre en Iran, Ukraine... Ce qui se joue au sommet inédit entre Trump, Poutine et Xi Jinping en Chine RTL",
+     "date": "2026-11-17T05:16:00+00:00",
+     "image": null,
+     "source": "RTL"
+    },
+    {
+     "titre": "Série d'incendies sur des pétroliers dans le détroit d'Ormuz : l'Iran évoque des \"mines marines\" - 재경일보",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzMjVwejVmRldQRjUxZkdMNkVkYTR1aXk4LW9leWlLU29PUVkydU0wNTE1aGVUYkprOENfWHhBYS16NEFlcTBDb1ZUMk1yMU1UcjV5STdRR2dqS1VXQVZWcQ?oc=5",
+     "resume": "Série d'incendies sur des pétroliers dans le détroit d'Ormuz : l'Iran évoque des \"mines marines\" 재경일보",
+     "date": "2026-11-17T01:10:22+00:00",
+     "image": null,
+     "source": "재경일보"
+    },
+    {
+     "titre": "Dix pays de la région approuvent la proposition iranienne de rouvrir le détroit d'Ormuz. - Vietnam.vn",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlJQZ3NNUDVUN1hnMkZQM2lFU3Q1QmJTVno2SGFNb2Q3ODRUU2xQVERrTjlOYXBCZVlaQmt4MEcxSkNIYXVtUGFmWnh0RW1NelJZNWU4b2dfMWhmNTJtcTZrMVBoM3pQbEFJLUFSYmFZRHdZWTFUclNINmdhbTJjdUs2dS0yRnZ2ZWhCSXZZaGZlak00a1l2Yw?oc=5",
+     "resume": "Dix pays de la région approuvent la proposition iranienne de rouvrir le détroit d'Ormuz. Vietnam.vn",
+     "date": "2026-11-17T01:06:49+00:00",
+     "image": null,
+     "source": "Vietnam.vn"
+    },
+    {
+     "titre": "Internationale - Un pétrolier frappé à la sortie du détroit d’Ormuz - L'Expression",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2pmZFlFMlV0M25CWnhZOTRNNHNrUWdSaWFuTWlsZnRqYUdZdG9yRy1HUW80VVpHZS1wbVZkNEV4SEZNWjRBQThSVlNLSXBCMzcycnhnSDFRQ0szeWRpWnFxR1VCMlQ2dEYwMmc5S1VMc2o1V2NfZmIxVEdMUjdLOUpMTEdhc1Rfdk9uSGJTSVlxTkNnSm14OXZqS3BXdUFwaVZQcg?oc=5",
+     "resume": "Internationale - Un pétrolier frappé à la sortie du détroit d’Ormuz L'Expression",
+     "date": "2026-11-16T22:30:23+00:00",
+     "image": null,
+     "source": "L'Expression"
+    },
+    {
+     "titre": "Un pétrolier attaqué près du détroit d'Ormuz, selon l'UKMTO - Boursorama",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMndxZkdmYjYwVkgxQkN4Si1VREo5N1hDNzdMeGlub3oyc3ZSWmJ3N2VsT0c1dEhBRnhXbHhiTEN5MGxEWkhLTTdVWEJSdmlOUkxsSTRxSmJkbkREUmlTQnV6U1o5cHoyYlFQdFdVWThyOUhoNmZScGRHS20wTkgxMS1xMnJsWDlfckRFWFFrSFJfOU13NUswNVZ2Mi03UUVoX2Z3aVNWbGQ4dXJUUFJqeDVta1Z4OEF4d1g4RzNxUXMzOHhaTUZxTFNhQlJNeDZDNXpzUE9YNVlKQ3o0Z1VicEJzdXPSAeoBQVVfeXFMT1FGX2hyNGJjanpCZ25haHd3aEFMaHBQNTB4RkZBdVZ5bFhvM1dMMTdmbXhHQ1MxX0VBajJZZGdRMG1mNFpXTzlMWTRlbUxNVWp3SXlvT0xBX0ZDR0FQa1FadGd1Uno5NS1qUk5ReWtveVJmWFlsXzBBbEFWR2Ytam5waVpwbzhTTTVteklFRF9KdWFQd0lkM3dTejcxZE9GREVGcEJEelJJb1cwYzFxMkttdTNoOG9aSWNnNjBSUEIxZnJSV0tUaEhlMHhDT0NIYW5nUVc4QnJYVURsNU00X1VORW5qYXB3V0V3?oc=5",
+     "resume": "Un pétrolier attaqué près du détroit d'Ormuz, selon l'UKMTO Boursorama",
+     "date": "2026-11-16T22:29:03+00:00",
+     "image": null,
+     "source": "Boursorama"
+    },
+    {
+     "titre": "Réouverture du détroit d’Ormuz: «nous avons le soutien de neuf pays de la région» (Ministre iranien des Affaires étrangères) - ACP | Agence Congolaise de Presse",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFBEb3duM3BzeXo0R21ZNGtadTZZSG1ILUNuN3FfWThfaU4wVTBuQlJfWGlfQ1dDWXZVeDVzX25aU3NtTms0WXNoNEZ6NTVVdkdFYmo3WHpXTm9TT0xMbFNsTG5jcGZuUmFkY1ppUVpkVFNGN3dmdzk0OWw5RW1JODJKTkZ0cmRIcHVZZzEtSUtVSFRTbDFtTGZRMXBBWWtwMU1MVXZ3S2dFdnpSMC1PTGoxVkdxd1BhcEdyWjYxWEZ5d3dJY2U0Wi03bTYzRVlYQjFNVmZiVUxmZW94YUE?oc=5",
+     "resume": "Réouverture du détroit d’Ormuz: «nous avons le soutien de neuf pays de la région» (Ministre iranien des Affaires étrangères) ACP | Agence Congolaise de Presse",
+     "date": "2026-11-16T21:22:56+00:00",
+     "image": null,
+     "source": "ACP | Agence Congolaise de Presse"
+    },
+    {
+     "titre": "Détroit d’Ormuz : L’Iran fait état de deux pétroliers en feu - La Presse de Tunisie",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNel9vclZzeElrZi1RY2NzQ1cxTXRvdEROY2V6MHBKdmtWd1haOEFQVGRsbExaRFdlREpoaUZ5bGVPWV9CbVRUUTdMQndNLTZibW4xa2VDdlgxYm9rUkQ2TnRYTktsS1RVZmpVQ09VLU1xUWJydms1ckt6TzF4UjVaVWxpandMeWJWRmtpWDM0MlJfcXVadGZV?oc=5",
+     "resume": "Détroit d’Ormuz : L’Iran fait état de deux pétroliers en feu La Presse de Tunisie",
+     "date": "2026-11-16T18:49:44+00:00",
      "image": null,
      "source": "La Presse de Tunisie"
     },
     {
-     "titre": "Arme nucléaire, Iran, Nvidia... Ce que l'on sait du sommet inédit entre Donald Trump, Xi Jinping et Vladimir Poutine jeudi en Chine - CNews",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGwwM3Y4dFpzcng5cEhuLW1rUXlvd0NWU1JNU1YyZlVzcmdpUlhrejhtQnYya0ZORHNzREw4aHBaTDhDWmZCa3FVSUR4R3gyVnNfMFJwM0daczJHMXdXLWlPVnV3VTg3c0JkSURoTWFqYzktTWFSTXRJbGQ0SXluS3owR1dtVnJEc3VZT05tcFJ3LTR6QndFelBZeTFkSFk3Smh2MGh1S25WVG5GdkpaZTRCNUFUUEVYeF93?oc=5",
-     "resume": "Arme nucléaire, Iran, Nvidia... Ce que l'on sait du sommet inédit entre Donald Trump, Xi Jinping et Vladimir Poutine jeudi en Chine CNews",
-     "date": "2026-11-14T13:38:12+00:00",
+     "titre": "Détroit d'Ormuz : l'Iran dit avoir le soutien de neuf pays de la région - blue News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWllHbXVNQmctZDJPQnNFa3ZHNmhrYUhxazlaQ1ZWRkhTWEdXSy1faTVsNEFTS3hFMzFRMnNtZGJ4ZElRSXlHLWtIaXp5WERhZV9DRTY4VXRCMmxINGJ5dHVCNEFvVEE4SDJNSWJLdEZYbHFwY1RacFZFb2t6MkdxcHhMSHRDVGxMOXEtSnFtaW9obEh2MnhYakFEOGlCWExKODM1NEM1bVNlSTBp?oc=5",
+     "resume": "Détroit d'Ormuz : l'Iran dit avoir le soutien de neuf pays de la région blue News",
+     "date": "2026-11-16T18:46:00+00:00",
      "image": null,
-     "source": "CNews"
+     "source": "blue News"
     },
     {
-     "titre": "Détroit d'Ormuz : deux pétroliers en flammes après avoir heurté des mines, ce que l'on sait de la situation en Iran et au Moyen-Orient - Linternaute.com",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWkg1c010czhMYjk4eVBVdm1ZWVR5Nkwwd3c1Tk5uQ2VCRWE4Ukk0anlJLW5RUnRXeGFnTVljYzZabEVJM2V5OXF5dDg4LVh1MXpsc3A2UEdqVmNxeHV0Nzc2RDRpZFhDSG13UXFnQzczS3dLeFVybjJKai1zcnBIZzc5YzI0MUp4a2Z6N2ZOLTZ4M3lSN2JHMFJfd2FjZUlrMXdJYkE5MmdSYWNCZDJVTXE0TUVrSE5lOUFwTUNXNmM1WFdlSF84ZFFNSE1mZGQwTlh4Vnp4bksxazQ2SDhDbWNuRHB0OGNpc3BPTkdKQU5fZ0ZETG9EVHMxUWhqeWJTYWNLNVQzdnZkeEJ3YUw1WTlVUQ?oc=5",
-     "resume": "Détroit d'Ormuz : deux pétroliers en flammes après avoir heurté des mines, ce que l'on sait de la situation en Iran et au Moyen-Orient Linternaute.com",
-     "date": "2026-11-14T12:56:27+00:00",
+     "titre": "Le conflit au Moyen-Orient menace la fin de la saison de F1 - Blick",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWlNpanVEVWxDaGtvNjZCT3hfYU11MjZpRFVDaFAxY0pGdzlkUHVTb1BsQ3NHMGpPeXFEY0RMUTNaMl9raEgyY1RkVUJpbXdfOWVKdlBPRUdlN3lrN0w2V0R1RV9ST2IwR2JrRmtzcU9xX0QwS3dTb0tscGZUVkt5SnVMZndXS3lrYnd3MlNPN3ljWGlIMHlSS3pzLVpQcDZMRnhOcWpXbkt6N09RWG1kdQ?oc=5",
+     "resume": "Le conflit au Moyen-Orient menace la fin de la saison de F1 Blick",
+     "date": "2026-11-16T18:15:00+00:00",
      "image": null,
-     "source": "Linternaute.com"
+     "source": "Blick"
     },
     {
-     "titre": "Du détroit d’Ormuz à la mer Rouge, les voies maritimes stratégiques sont sous le feu des attaques en Asie du sud-ouest - Le marin",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMGhseXltbFNpaWVpWllyYWdEYk5OMTlGM24wZHZGSFFKN3pXMlFSUVlDbUVEdlRqNUpjNjV1YWtOdGFnWFBIQy1FTnFkNl9GYk5UZmRRRlNiNzhzbVNxcVg2bjcwbmVmNkl6ZmJ2bWkzNEJ4UHFpVzBIMWt5aHNEYWJPM2RQQ3EwNkRGSG43RndVcnBEZjMtZk5iX2dQUDUzQTBvcXBpLTVOM2thRGxGVVJLYlFockQ2RFFCM0N1WXlQWUR2c3pCY1FiemZqbHRIOWttenlncW9EZ2pUdGhjM3dJS3pxZlB0MlNfODE4a1FQTS1TMlpfU1BVdnpXNUVieTVSTm5jeUJ0RGhQUy1NVEl3OTZ4ZnByb3ZrQlhHdw?oc=5",
-     "resume": "Du détroit d’Ormuz à la mer Rouge, les voies maritimes stratégiques sont sous le feu des attaques en Asie du sud-ouest Le marin",
-     "date": "2026-11-14T12:51:02+00:00",
+     "titre": "Détroit d’Ormuz : Les explosions de pétroliers se multiplient - L'Opinion",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUtrRWtKeEp2WVc1TENucjFINDlGRmJYMTMwVlFsdHdiZmxvUWpjTDhuNVNVWVJxdmo1RjA4NmkxRlI3emZYbEd5QjRzc2IwY3o5ckZ6RGU2MFYxa1FaaXM1RXNiSlpYSnlYR1l3M1ZadVVjQ1dNUTNkbUI3VUV3dnR3WE5HZ1ZzUk9nMS0wczRwaHBjRVdKNWM4ZW56SWh1ZmFDb1pOOV8zaWJIWklNYkZUOVFySkVLRkdDN3JVX0IydWpXYThZRU4tYzJQT1hfc2tDVUpTcEtVZDd4NXJDTk5kUmY?oc=5",
+     "resume": "Détroit d’Ormuz : Les explosions de pétroliers se multiplient L'Opinion",
+     "date": "2026-11-16T18:04:45+00:00",
      "image": null,
-     "source": "Le marin"
+     "source": "L'Opinion"
+    },
+    {
+     "titre": "« Nous ne suivrons pas la voie de la Libye » : en Iran, le tabou de la bombe atomique vacille - Le Point",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWJxRzF0YTNtN0JjZmhoRDlaMUhLZklRN2l1cEpPNlpFNk92TU91b1FWemV0UzNzZm5PWk5GbWozcXlNQWxPb3J1MHR6WXlPUGVrWjdrdk9fb2EzTUNsTDhFc0EyOW1nNFhsM3pyOW1rVjk1RXVzQnpaNlAtakFHZE9SUlhMMW8wekpWUHZSTHY4RXZIelpSV28ycFlCQTFHY3lQSS1hWlFER20xWWtNMWxianh4S21PQ2lCSFVUU3NVYjRLS0JPakZ2R2t3bDBMTU9zLWdJdEtGbUU?oc=5",
+     "resume": "« Nous ne suivrons pas la voie de la Libye » : en Iran, le tabou de la bombe atomique vacille Le Point",
+     "date": "2026-11-16T16:00:00+00:00",
+     "image": null,
+     "source": "Le Point"
+    },
+    {
+     "titre": "La Chine confirme un sommet trilatéral entre Xi, Trump et Poutine jeudi - Virgule.lu",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejVneWJWdjdjX0EtWHNuODFKeFh1VW9EV0tRRWdFbktvbkZzSE50N2s5eEl5R21XQjlIUjFNWkNrSGtqTzFIWlh0N0hmWE44UE83U3J4MXZhZDZZVE9rck1nVHZkYkVwSVQxdzFfamdkSnhIcVhiU0JVY01tQXVsbjhNQXQycXJCUnQ1NGhCLTNaeUNRdUduVVRVRE9MMmFJblB2YmtCdmtON2tEZGo5SGtZbG1UVlhGRnJYZUk1aw?oc=5",
+     "resume": "La Chine confirme un sommet trilatéral entre Xi, Trump et Poutine jeudi Virgule.lu",
+     "date": "2026-11-16T14:36:33+00:00",
+     "image": null,
+     "source": "Virgule.lu"
+    },
+    {
+     "titre": "La France réclame des sanctions de l'UE contre l'Iran après les attaques contre les systèmes de réfrigération des supermarchés - Business AM",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWNUTjh6VkN4RkZPa1lueHFtQTU5UFhqQVhPNFBLd2l5cTRmc05YMHBfUjl4bVNfMWxxX2ZxbzNFYm5oUUtVbDV0UUJQRDRSOWgtUERzV0kzODhkT2RodTVtQ0hGWmh3YXo2eXZtNU1NNC00aDFDTllzeVhuRnUwWkpEOGVHcThIRVNkMV9CcktNRHo2UkQ3aW4xNGFCeEpx?oc=5",
+     "resume": "La France réclame des sanctions de l'UE contre l'Iran après les attaques contre les systèmes de réfrigération des supermarchés Business AM",
+     "date": "2026-11-16T14:33:00+00:00",
+     "image": null,
+     "source": "Business AM"
     }
    ]
   },
