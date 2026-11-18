@@ -1,9 +1,7 @@
 {
- "genere_le": "2026-11-17T14:18:54.626940+00:00",
+ "genere_le": "2026-11-18T13:43:38.729143+00:00",
  "mode_brut": false,
  "erreurs": [
-  "France 24 — Moyen-Orient: HTTPError",
-  "France 24 — Monde: HTTPError",
   "ISW: HTTPError",
   "ECFR (Europe): HTTPError"
  ],
