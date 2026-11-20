@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-19T14:17:23+00:00",
+ "genere_le": "2026-11-20T14:01:10+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Impasse politique en Israël : Eisenkot accuse Netanyahu",
-   "zone": "Moyen-Orient / Israël",
-   "resume": "En Israël, former un gouvernement est devenu un véritable casse-tête politique. Le responsable désigné pour créer cette nouvelle alliance accuse Benjamin Netanyahu de bloquer les négociations en coulisses tout en réclama",
-   "source": "© Ohad Zwigenberg, AP · 14/11 21:14"
+   "titre": "Sommet trilatéral entre Donald Trump, Xi Jinping et Vladimir Poutine à Shenzhen",
+   "zone": "Asie-Pacifique / Chine - USA - Russie",
+   "resume": "Les présidents américain, chinois et russe se sont rencontrés en Chine pour une réunion diplomatique très médiatisée. Bien qu'ils aient signé un document symbolique prônant la paix, aucun accord majeur n'a été conclu sur",
+   "source": "© Captures d'écran/ Montage RFI · 20/11 13:16"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "L'Arabie saoudite sous la pression des conflits régionaux",
-   "zone": "Moyen-Orient / Arabie saoudite",
-   "resume": "L'Arabie saoudite essaie de transformer son économie, mais elle est coincée entre les tensions avec l'Iran et la guerre au Yémen voisin. Ces conflits menacent sa sécurité et effraient les investisseurs étrangers. Pour Ri",
-   "source": "Le Monde — International · 15/11 05:30"
+   "titre": "Condamnation de la Birmanie pour génocide contre les Rohingya par la CIJ",
+   "zone": "Asie du Sud-Est / Birmanie",
+   "resume": "La plus haute juridiction de l'ONU a officiellement reconnu que la Birmanie a commis un génocide contre la population musulmane rohingya en 2017. Cette décision historique donne un fondement juridique international pour ",
+   "source": "Le Monde — International · 20/11 11:00"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions entre la RDC et le Rwanda au Sommet de la Francophonie",
-   "zone": "Afrique / Asie",
-   "resume": "Le Sommet de la Francophonie qui réunit les pays francophones au Cambodge se déroule sur fond de dispute politique. La RDC ne veut pas que la dirigeante rwandaise actuelle soit reconduite à la tête de l'organisation à ca",
-   "source": "France 24 — Monde · 15/11 11:06"
+   "titre": "Candidature de Dominique de Villepin à la présidentielle française de 2027",
+   "zone": "France",
+   "resume": "L'ancien chef du gouvernement français Dominique de Villepin se lance dans la course pour l'élection présidentielle de 2027. Il souhaite proposer une troisième voie entre le gouvernement actuel et les partis d'opposition",
+   "source": "France 24 — Monde · 20/11 11:42"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Sommet bilatéral Royaume-Uni / UE pour relancer l'entente post-Brexit",
+   "zone": "Europe / Royaume-Uni - Union européenne",
+   "resume": "Le Royaume-Uni et l'Union européenne ont tenu une réunion officielle pour relancer leurs relations après les années de tensions nées du Brexit. L'objectif est de trouver de nouveaux accords de coopération sur l'économie ",
+   "source": "France 24 — Monde · 20/11 10:54"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes iraniennes contre une base américaine au Bahreïn",
-   "zone": "Moyen-Orient / Golfe Persique",
-   "resume": "L'Iran a lancé des attaques de drones contre des installations militaires des États-Unis stationnées au Bahreïn. C'est une escalade importante car Téhéran frappe directement les forces américaines dans les pays voisins d",
-   "source": "© 2026 Planet Labs PBC, AFP · 15/11 10:21"
+   "titre": "Déploiement de l'armée irakienne dans un bastion du Kataeb Hezbollah",
+   "zone": "Irak / Moyen-Orient",
+   "resume": "Le gouvernement irakien a envoyé son armée dans une zone contrôlée par le Kataeb Hezbollah, un groupe armé soutenu par l'Iran. Le Premier ministre tente ainsi d'imposer l'autorité de l'État sur des milices puissantes qui",
+   "source": "© Anmar Khalil, AP · 20/11 08:39"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Un commandant du Hamas éliminé dans le sud de Gaza",
-   "zone": "Moyen-Orient / Palestine",
-   "resume": "L'armée israélienne a mené un raid ciblé qui a coûté la vie à Samir Abou Younis, l'un des responsables militaires du Hamas à Gaza. La mort de ce cadre a été confirmée par le groupe armé lui-même. Ces frappes ciblées vise",
-   "source": "Le Monde — International · 15/11 03:57"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Jordanie : Peine de mort pour l'attaque contre l'église de Karak",
-   "zone": "Moyen-Orient / Jordanie",
-   "resume": "La justice de Jordanie a condamné à mort les trois auteurs d'une attaque ayant fait neuf morts dans une église orthodoxe en octobre. C'est un drame majeur dans un pays habituellement très stable au Moyen-Orient. Le pouvo",
-   "source": "© Raad Adayleh, AP Photo · 15/11 09:49"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Guerre en Ukraine : Pistes de négociations et concessions territorial",
-   "zone": "Europe de l'Est / Ukraine",
-   "resume": "Des émissaires américains ont évoqué l'idée que l'Ukraine cède certains territoires en échange d'une protection par l'alliance de l'OTAN. Le président Zelensky estime que toute décision capitale sur les frontières devra ",
-   "source": "France 24 — Monde · 15/11 10:09"
+   "titre": "Incursion de missiles russes en Pologne et frappes d'ampleur sur Kiev",
+   "zone": "Europe de l'Est / Pologne - Ukraine",
+   "resume": "Deux missiles russes ont atterri en Pologne, un pays membre de l'Otan, alors que la Russie menait des frappes destructrices sur la capitale ukrainienne. Ces tirs ont causé des dégâts importants à Kiev et touché des bâtim",
+   "source": "© Ludovic Marin, AFP · 20/11 13:03"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Ralentissement économique de la France par rapport à l'Europe",
-   "zone": "France / Union Européenne",
-   "resume": "La croissance économique de la France ralentit plus nettement que celle de ses voisins européens. En conséquence, la richesse moyenne produite par habitant passe sous la moyenne de la zone euro. Cela pose problème pour f",
-   "source": "Le Monde — International · 15/11 05:15"
+   "titre": "Retrait des énergies fossiles du projet d'accord de la COP31",
+   "zone": "International / Turquie",
+   "resume": "Les représentants réunis à la conférence sur le climat en Turquie ont effacé la référence à la sortie du pétrole, du gaz et du charbon dans le dernier texte de négociation. Les associations de protection de l'environneme",
+   "source": "France 24 — Monde · 20/11 11:15"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "SpaceX réussit la récupération de l'étage supérieur de Starship",
-   "zone": "États-Unis / Espace",
-   "resume": "La société d'Elon Musk a réussi à attraper le deuxième morceau de sa fusée géante Starship lors de son retour sur Terre. C'est un exploit technique très difficile qui n'avait jamais été accompli auparavant. À terme, rend",
-   "source": "France 24 — Monde · 15/11 09:47"
+   "titre": "Introduction en Bourse historique de la start-up Anthropic",
+   "zone": "États-Unis",
+   "resume": "Anthropic, l'une des entreprises leaders dans le domaine de l'intelligence artificielle, est désormais cotée en Bourse aux États-Unis. Son action a grimpé dès ses premiers pas sur les marchés financiers malgré les inquié",
+   "source": "France 24 — Monde · 20/11 11:14"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Adoption par décret du budget rectificatif 2026 au Sénégal",
+   "zone": "Sénégal / Afrique de l'Ouest",
+   "resume": "Le président du Sénégal a fait passer le budget révisé de l'État directement par décret sans obtenir l'accord du Parlement. La décision a été prise pour faire face aux difficultés financières urgentes du pays, malgré les",
+   "source": "France 24 — Monde · 20/11 11:05"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Vol de données de 22 millions de personnes chez Maileva",
-   "zone": "France",
-   "resume": "Une filiale de La Poste spécialisée dans le courrier d'entreprise s'est fait pirater ses serveurs. Résultat : les informations personnelles de 22 millions de personnes ont été volées. Les autorités recommandent la plus g",
-   "source": "© Joel Saget, AFP · 14/11 20:50"
+   "titre": "Réapparition inquiétante d'un groupe isolé du peuple Awa en Amazonie",
+   "zone": "Brésil / Amérique du Sud",
+   "resume": "Des membres de la tribu Awa en Amazonie, qui vivaient coupés de la civilisation depuis un demi-siècle, sont brutalement sortis de leur isolement. Les défenseurs des peuples autochtones craignent qu'ils aient été chassés ",
+   "source": "France 24 — Monde · 20/11 12:04"
   }
  ]
 }
