@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-21T13:21:44+00:00",
+ "genere_le": "2026-11-22T13:06:20+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Négociations à l'ONU sur l'encadrement des « robots tueurs » autonomes",
-   "zone": "International",
-   "resume": "Les diplomates du monde entier n'ont pas réussi à s'entendre pour interdire les armes de guerre capables de décider de tuer sans intervention humaine direct. Malgré les craintes suscitées par l'utilisation de l'intellige",
-   "source": "Le Monde — International · 21/11 12:36"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Donald Trump défend ses échanges avec Poutine et Xi Jinping sur l'Ukraine",
-   "zone": "États-Unis",
-   "resume": "Le président américain a mis en avant la qualité de ses relations directes avec les dirigeants russe et chinois au sujet de la guerre en Ukraine. Cette approche personnelle inquiète les pays européens qui craignent un ac",
-   "source": "Le Monde — International · 21/11 04:30"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Tensions diplomatiques et coupure média entre la Guinée et le Burkina Faso",
-   "zone": "Afrique de l'Ouest",
-   "resume": "Une querelle diplomatique a éclaté entre la Guinée et le Burkina Faso après la diffusion à la télévision burkinabè d'un dessin satirique se moquant du dirigeant guinéen. En réponse immédiate, Conakry a coupé la diffusion",
-   "source": "France 24 — Monde · 20/11 21:40"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Interception de missiles houthis par l'Arabie saoudite",
-   "zone": "Moyen-Orient",
-   "resume": "Le conflit au Yémen connaît un nouvel épisode de tension directe avec des tirs de missiles visant la capitale saoudienne. L'Arabie saoudite a affirmé avoir détruit ces engins en vol avant qu'ils ne touchent leur cible. C",
-   "source": "France 24 — Monde · 21/11 12:11"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Tensions sécuritaires en Cisjordanie et crise humanitaire à Gaza",
+   "titre": "Négociations de coalition en Israël",
    "zone": "Israël / Palestine",
-   "resume": "Les violences persistent dans les territoires palestiniens, marquées par des morts mortels lors de confrontations avec des gardes de colonies en Cisjordanie. Au même moment, la situation sanitaire et matérielle des habit",
-   "source": "Le Monde — International · 20/11 22:38"
+   "resume": "Le centriste israélien Gadi Eisenkot cherche à former un gouvernement et invite le parti de Benyamin Nétanyahou à négocier. Les dernières élections n'ayant donné aucune majorité claire, les partis doivent s'allier pour g",
+   "source": "© Ilia Yefimovich, AFP · 21/11 20:29"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Arrivée de la sonde BepiColombo en orbite de Mercure",
+   "zone": "Espace / International",
+   "resume": "Après huit ans de voyage dans l'espace, la sonde spatiale conjointe de l'Europe et du Japon est enfin entrée en orbite autour de Mercure. C'est une première technologique majeure pour observer de près cette petite planèt",
+   "source": "RFI — Monde · 22/11 06:24"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Démission du ministre de l'Éducation en Corée du Sud",
+   "zone": "Corée du Sud",
+   "resume": "Le ministre de l'Éducation sud-coréen a démissionné après un scandale de triche aux examens utilisant l'intelligence artificielle. Cette affaire secoue le pays juste avant les épreuves déterminantes pour l'entrée à l'uni",
+   "source": "Le Monde — International · 22/11 05:55"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Arrestation au Mexique du narcotrafiquant « Chapo Isidro »",
-   "zone": "Mexique",
-   "resume": "Les autorités mexicaines ont capturé l'un des plus grands chefs de cartel de la drogue du pays, recherché depuis des années aux États-Unis. La capture du narcotrafiquant a immédiatement déclenché de très violents combats",
-   "source": "Le Monde — International · 21/11 12:49"
+   "titre": "Tensions entre l'Iran et Bahreïn",
+   "zone": "Golfe Persique",
+   "resume": "Bahreïn accuse l'Iran d'avoir bombardé l'un de ses sites industriels, tandis que Téhéran affirme qu'il s'agit d'une riposte face aux États-Unis. Ces tensions s'inscrivent dans une escalade militaire plus large autour du ",
+   "source": "France 24 — Monde · 22/11 11:15"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Violences de colons en Cisjordanie",
+   "zone": "Israël / Palestine",
+   "resume": "Des colons israéliens ont attaqué et brûlé des biens palestiniens en Cisjordanie. Face à ces violences nocturnes, certaines personnalités politiques israéliennes dénoncent ouvertement le terrorisme mené par des extrémist",
+   "source": ""
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Frappes et tensions en Ukraine et mer Baltique",
+   "zone": "Europe de l'Est",
+   "resume": "Un immeuble près de Kiev s'est effondré après une frappe de drone russe, faisant 14 disparus. Au même moment, la Finlande a confirmé qu'un cargo russe avait été touché par un drone ukrainien en mer Baltique, illustrant l",
+   "source": "© Thomas Peter, Reuters · 22/11 05:55"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Wall Street chute sous le poids des inquiétudes sur l'intelligence artificielle",
-   "zone": "États-Unis",
-   "resume": "Les investisseurs en Bourse ont brusquement vendu leurs actions liées à l'IA après des mois de hausse spectaculaire. Le marché commence à se demander si les investissements gigantesques réalisés dans les serveurs et les ",
-   "source": "Le Monde — International · 21/11 00:33"
+   "titre": "Échec de la COP31 en Turquie",
+   "zone": "Turquie / International",
+   "resume": "La conférence mondiale sur le climat (COP31) s'est soldée par un échec en Turquie après des négociations interminables. L'Union européenne a refusé de signer le texte final car il ne prévoyait pas clairement l'abandon de",
+   "source": "France 24 — Monde · 22/11 12:38"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Budget de l'UE : proposition de 204 milliards d'économies et taxe numérique",
-   "zone": "Union européenne",
-   "resume": "Pour financer les priorités de l'Union européenne, son président propose d'effectuer d'importantes économies tout en prélevant une taxe sur les géants du Web. La France rejette cette approche, estimant qu'elle ne répond ",
-   "source": "Le Monde — International · 21/11 11:01"
+   "titre": "Crise de gouvernance au sein du groupe Castel",
+   "zone": "France / International",
+   "resume": "La onzième fortune de France, le groupe de boissons Castel, traverse une crise interne majeure. La fille du fondateur tente de renverser la direction actuelle à travers un imbroglio juridique et financier très complexe.",
+   "source": "Le Monde — International · 22/11 05:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Débat national en Israël sur le statut des juifs ultraorthodoxes",
-   "zone": "Israël",
-   "resume": "En Israël, la plupart des citoyens effectuent un service militaire obligatoire, à l'exception des juifs ultraorthodoxes bénéficiant d'exemptions religieuses. Cette différence de traitement crée de fortes rancœurs au sein",
-   "source": "Le Monde — International · 21/11 05:00"
+   "titre": "Manifestations contre le coût de la vie au Portugal",
+   "zone": "Portugal",
+   "resume": "Des habitants ont manifesté à Lisbonne pour dénoncer la faiblesse des salaires et la crise du logement, juste avant l'examen du budget national. La vie chère pèse lourdement sur le quotidien des Portugais.",
+   "source": "Le Monde — International · 22/11 04:15"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Prison ferme retenue au procès des policiers impliqués dans l'affaire Zecler",
-   "zone": "France",
-   "resume": "Trois agents de police ayant passé à tabac le producteur de musique noir Michel Zecler dans son studio ont été condamnés à des peines d'emprisonnement ferme. Les juges ont reconnu que les violences étaient motivées par d",
-   "source": "France 24 — Monde · 21/11 10:27"
+   "titre": "Pauvreté et précarité des jeunes au Japon",
+   "zone": "Japon",
+   "resume": "Au Japon, malgré un chômage très bas, de nombreux jeunes vivent dans une grande pauvreté et peinent à se nourrir correctement. Les aides sociales s'avèrent insuffisantes pour faire face au coût de la vie.",
+   "source": "Le Monde — International · 22/11 09:30"
   }
  ]
 }
