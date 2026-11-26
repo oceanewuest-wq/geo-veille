@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-25T15:15:52+00:00",
+ "genere_le": "2026-11-26T14:43:15+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Négociations de coalition en Israël",
-   "zone": "Israël / Palestine",
-   "resume": "Le centriste israélien Gadi Eisenkot cherche à former un gouvernement et invite le parti de Benyamin Nétanyahou à négocier. Les dernières élections n'ayant donné aucune majorité claire, les partis doivent s'allier pour g",
-   "source": "© Ilia Yefimovich, AFP · 21/11 20:29"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Arrivée de la sonde BepiColombo en orbite de Mercure",
-   "zone": "Espace / International",
-   "resume": "Après huit ans de voyage dans l'espace, la sonde spatiale conjointe de l'Europe et du Japon est enfin entrée en orbite autour de Mercure. C'est une première technologique majeure pour observer de près cette petite planèt",
-   "source": "RFI — Monde · 22/11 06:24"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Démission du ministre de l'Éducation en Corée du Sud",
-   "zone": "Corée du Sud",
-   "resume": "Le ministre de l'Éducation sud-coréen a démissionné après un scandale de triche aux examens utilisant l'intelligence artificielle. Cette affaire secoue le pays juste avant les épreuves déterminantes pour l'entrée à l'uni",
-   "source": "Le Monde — International · 22/11 05:55"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Tensions entre l'Iran et Bahreïn",
-   "zone": "Golfe Persique",
-   "resume": "Bahreïn accuse l'Iran d'avoir bombardé l'un de ses sites industriels, tandis que Téhéran affirme qu'il s'agit d'une riposte face aux États-Unis. Ces tensions s'inscrivent dans une escalade militaire plus large autour du ",
-   "source": "France 24 — Monde · 22/11 11:15"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Violences de colons en Cisjordanie",
-   "zone": "Israël / Palestine",
-   "resume": "Des colons israéliens ont attaqué et brûlé des biens palestiniens en Cisjordanie. Face à ces violences nocturnes, certaines personnalités politiques israéliennes dénoncent ouvertement le terrorisme mené par des extrémist",
+   "titre": "Tensions entre l'Algérie et le Maroc sur le narcotrafic",
+   "zone": "Afrique du Nord",
+   "resume": "Deux contrebandiers marocains présumés ont été tués par l'armée en Algérie, provoquant de nouvelles tensions politiques entre les deux pays. Le président algérien durcit le ton contre le trafic de stupéfiants qu'il imput",
    "source": ""
   },
   {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Avertissement conjoint de l'Otan et des États-Unis à la Russie",
+   "zone": "Europe / Ukraine",
+   "resume": "L'Otan et les États-Unis somment la Russie de ne pas élargir le champ de la guerre en Ukraine, alors que Moscou multiplie les bombardements contre les infrastructures civiles et énergétiques ukrainiennes. En réaction, la",
+   "source": "© Francisco Seco, AP · 26/11 10:37"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Élections législatives anticipées en Espagne",
+   "zone": "Espagne",
+   "resume": "Les Espagnols votent pour des législatives anticipées dans un climat marqué par la crise immobilière et la cherté de la vie. Le scrutin sert de test grandeur nature pour mesurer le poids des alliances entre la droite cla",
+   "source": "France 24 — Monde · 26/11 13:30"
+  },
+  {
+   "emoji": "🕊️",
+   "theme": "Politique & Diplomatie",
+   "titre": "Nouvelles accusations contre Jordan Bardella",
+   "zone": "France",
+   "resume": "De nouveaux documents publiés par la presse relancent les accusations d'écrits antisémites visant le responsable politique Jordan Bardella. Ce dernier crie à l'acharnement politique et dénonce une machination. L'affaire ",
+   "source": "France 24 — Monde · 26/11 11:14"
+  },
+  {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Frappes et tensions en Ukraine et mer Baltique",
-   "zone": "Europe de l'Est",
-   "resume": "Un immeuble près de Kiev s'est effondré après une frappe de drone russe, faisant 14 disparus. Au même moment, la Finlande a confirmé qu'un cargo russe avait été touché par un drone ukrainien en mer Baltique, illustrant l",
-   "source": "© Thomas Peter, Reuters · 22/11 05:55"
+   "titre": "Menace de déplacement massif à Gaza",
+   "zone": "Israël / Palestine",
+   "resume": "Le ministre de la Défense israélien prévient qu'un million de Palestiniens pourraient être chassés de chez eux si le Hamas refuse de rendre les armes. C'est une menace très lourde qui aggraverait encore la crise humanita",
+   "source": "© Mahmoud Issa, Reuters · 26/11 12:39"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Condamnation à perpétuité de djihadistes français en Irak",
+   "zone": "Irak / Syrie",
+   "resume": "Huit Français partis rejoindre Daech ont été condamnés à vie par un tribunal en Irak. Ils font partie d'un groupe de 47 prisonniers transférés de Syrie pour y être jugés. La justice irakienne applique ainsi des peines ma",
+   "source": "© Khalid Mohammed, AP · 26/11 07:51"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Ultimatum du JNIM à Tonka au Mali",
+   "zone": "Mali / Sahel",
+   "resume": "Les terroristes du JNIM liés à al-Qaïda ordonnent aux habitants de la ville malienne de Tonka de fuir avant un blocus imminent. Cette méthode barbare vise à terroriser les populations locales et à étendre le contrôle des",
+   "source": "France 24 — Monde · 26/11 11:20"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Échec de la COP31 en Turquie",
-   "zone": "Turquie / International",
-   "resume": "La conférence mondiale sur le climat (COP31) s'est soldée par un échec en Turquie après des négociations interminables. L'Union européenne a refusé de signer le texte final car il ne prévoyait pas clairement l'abandon de",
-   "source": "France 24 — Monde · 22/11 12:38"
+   "titre": "Nouvelle politique tarifaire et douanière des États-Unis",
+   "zone": "États-Unis / Chine / International",
+   "resume": "Washington impose de nouvelles taxes douanières sur les produits de ses partenaires, menaçant de relancer une véritable guerre commerciale avec la Chine. Pékin promet de riposter pour défendre ses intérêts économiques. C",
+   "source": "France 24 — Monde · 26/11 10:14"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Crise de gouvernance au sein du groupe Castel",
-   "zone": "France / International",
-   "resume": "La onzième fortune de France, le groupe de boissons Castel, traverse une crise interne majeure. La fille du fondateur tente de renverser la direction actuelle à travers un imbroglio juridique et financier très complexe.",
-   "source": "Le Monde — International · 22/11 05:00"
+   "titre": "Contamination aux PFAS dans le projet immobilier de luxe à Athènes",
+   "zone": "Grèce",
+   "resume": "Le chantier pharaonique de l'ancien aéroport d'Athènes, destiné à devenir un quartier ultra-luxueux, est lourdement pollué par des substances chimiques persistantes appelées PFAS. Ce scandale sanitaire remet en cause la ",
+   "source": "Le Monde — International · 26/11 12:00"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Manifestations contre le coût de la vie au Portugal",
-   "zone": "Portugal",
-   "resume": "Des habitants ont manifesté à Lisbonne pour dénoncer la faiblesse des salaires et la crise du logement, juste avant l'examen du budget national. La vie chère pèse lourdement sur le quotidien des Portugais.",
-   "source": "Le Monde — International · 22/11 04:15"
-  },
-  {
-   "emoji": "🎭",
-   "theme": "Société",
-   "titre": "Pauvreté et précarité des jeunes au Japon",
-   "zone": "Japon",
-   "resume": "Au Japon, malgré un chômage très bas, de nombreux jeunes vivent dans une grande pauvreté et peinent à se nourrir correctement. Les aides sociales s'avèrent insuffisantes pour faire face au coût de la vie.",
-   "source": "Le Monde — International · 22/11 09:30"
+   "titre": "Procès en appel de Gérard Depardieu confirmé",
+   "zone": "France",
+   "resume": "La justice française confirme que Gérard Depardieu sera bien jugé pour des accusations de viol et d'agression sexuelle portées par Charlotte Arnould pour des faits datant de 2018. C'est une étape judiciaire majeure dans ",
+   "source": "© Aurélien Morissard, AP · 26/11 13:46"
   }
  ]
 }
