@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-26T14:43:15+00:00",
+ "genere_le": "2026-11-27T14:44:10+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Tensions entre l'Algérie et le Maroc sur le narcotrafic",
-   "zone": "Afrique du Nord",
-   "resume": "Deux contrebandiers marocains présumés ont été tués par l'armée en Algérie, provoquant de nouvelles tensions politiques entre les deux pays. Le président algérien durcit le ton contre le trafic de stupéfiants qu'il imput",
-   "source": ""
+   "titre": "Accord de coalition gouvernementale en Israël",
+   "zone": "Israël / Moyen-Orient",
+   "resume": "En Israël, l'opposant Gadi Eisenkot s'associe avec le parti de gauche Les Démocrates pour tenter d'écarter Benjamin Netanyahu du pouvoir. Après un premier accord avec les nationalistes d'Avigdor Liberman, l'opposition ré",
+   "source": "France 24 — Moyen-Orient · 27/11 04:46"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Avertissement conjoint de l'Otan et des États-Unis à la Russie",
-   "zone": "Europe / Ukraine",
-   "resume": "L'Otan et les États-Unis somment la Russie de ne pas élargir le champ de la guerre en Ukraine, alors que Moscou multiplie les bombardements contre les infrastructures civiles et énergétiques ukrainiennes. En réaction, la",
-   "source": "© Francisco Seco, AP · 26/11 10:37"
+   "titre": "Le Costa Rica refoule la rapporteure de l'ONU pour la Palestine",
+   "zone": "Palestine / Costa Rica",
+   "resume": "L'envoyée spéciale des Nations unies pour les territoires palestiniens, Francesca Albanese, s'est vue refuser l'entrée sur le territoire du Costa Rica. L'ONU a aussitôt réagi pour demander aux autorités locales de s'expl",
+   "source": "© AP/Tatan Syuflana · 27/11 13:44"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Élections législatives anticipées en Espagne",
-   "zone": "Espagne",
-   "resume": "Les Espagnols votent pour des législatives anticipées dans un climat marqué par la crise immobilière et la cherté de la vie. Le scrutin sert de test grandeur nature pour mesurer le poids des alliances entre la droite cla",
-   "source": "France 24 — Monde · 26/11 13:30"
+   "titre": "La junte de Guinée-Bissau reporte les élections à 2028",
+   "zone": "Guinée-Bissau / Afrique",
+   "resume": "En Guinée-Bissau, les militaires au pouvoir ont décidé de repousser les prochaines élections de deux ans. Alors que le pouvoir devait être remis aux civils en décembre, la junte prolonge sa transition jusqu'en novembre 2",
+   "source": "Le Monde — International · 27/11 11:06"
   },
   {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "Nouvelles accusations contre Jordan Bardella",
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Débat sur l'impact des frappes militaires en Iran",
+   "zone": "Iran / Moyen-Orient",
+   "resume": "Des chercheurs s'interrogent sur les conséquences des récents bombardements américains en Iran. Selon eux, ces attaques ont eu l'effet inverse de celui espéré : elles ont permis au régime de Téhéran d'accentuer la répres",
+   "source": "Le Monde — International · 27/11 08:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Intensification des attaques russes et des opérations maritimes ukrainiennes",
+   "zone": "Ukraine / Russie",
+   "resume": "La Russie poursuit ses bombardements contre le réseau électrique et les villes ukrainiennes, provoquant de nouvelles victimes civiles. Dans le même temps, l'armée ukrainienne mène des attaques maritimes audacieuses loin ",
+   "source": "Le Monde — International · 27/11 14:21"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Échec des négociations sur le budget de l'Union européenne",
+   "zone": "Union européenne",
+   "resume": "Les 27 pays membres de l'Union européenne ne sont pas parvenus à s'entendre sur les grandes lignes de leur futur budget de 2028 à 2034. En raison de vifs désaccords sur l'ampleur des économies à réaliser, le sommet de Br",
+   "source": "France 24 — Monde · 27/11 11:19"
+  },
+  {
+   "emoji": "📈",
+   "theme": "Économie & Énergie",
+   "titre": "Entrée officielle de la France en récession économique",
    "zone": "France",
-   "resume": "De nouveaux documents publiés par la presse relancent les accusations d'écrits antisémites visant le responsable politique Jordan Bardella. Ce dernier crie à l'acharnement politique et dénonce une machination. L'affaire ",
-   "source": "France 24 — Monde · 26/11 11:14"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Menace de déplacement massif à Gaza",
-   "zone": "Israël / Palestine",
-   "resume": "Le ministre de la Défense israélien prévient qu'un million de Palestiniens pourraient être chassés de chez eux si le Hamas refuse de rendre les armes. C'est une menace très lourde qui aggraverait encore la crise humanita",
-   "source": "© Mahmoud Issa, Reuters · 26/11 12:39"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Condamnation à perpétuité de djihadistes français en Irak",
-   "zone": "Irak / Syrie",
-   "resume": "Huit Français partis rejoindre Daech ont été condamnés à vie par un tribunal en Irak. Ils font partie d'un groupe de 47 prisonniers transférés de Syrie pour y être jugés. La justice irakienne applique ainsi des peines ma",
-   "source": "© Khalid Mohammed, AP · 26/11 07:51"
-  },
-  {
-   "emoji": "🛡️",
-   "theme": "Conflits & Sécurité",
-   "titre": "Ultimatum du JNIM à Tonka au Mali",
-   "zone": "Mali / Sahel",
-   "resume": "Les terroristes du JNIM liés à al-Qaïda ordonnent aux habitants de la ville malienne de Tonka de fuir avant un blocus imminent. Cette méthode barbare vise à terroriser les populations locales et à étendre le contrôle des",
-   "source": "France 24 — Monde · 26/11 11:20"
+   "resume": "L'économie française ralentit nettement : le produit intérieur brut a baissé pour le deuxième trimestre d'affilée, plaçant officiellement le pays en récession. Ce recul s'explique principalement par le manque de consomma",
+   "source": "© Hugo Mathy, AFP · 27/11 10:20"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Nouvelle politique tarifaire et douanière des États-Unis",
-   "zone": "États-Unis / Chine / International",
-   "resume": "Washington impose de nouvelles taxes douanières sur les produits de ses partenaires, menaçant de relancer une véritable guerre commerciale avec la Chine. Pékin promet de riposter pour défendre ses intérêts économiques. C",
-   "source": "France 24 — Monde · 26/11 10:14"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Contamination aux PFAS dans le projet immobilier de luxe à Athènes",
-   "zone": "Grèce",
-   "resume": "Le chantier pharaonique de l'ancien aéroport d'Athènes, destiné à devenir un quartier ultra-luxueux, est lourdement pollué par des substances chimiques persistantes appelées PFAS. Ce scandale sanitaire remet en cause la ",
-   "source": "Le Monde — International · 26/11 12:00"
+   "titre": "Perturbations maritimes mondiales et essor du fret aérien",
+   "zone": "International / Moyen-Orient",
+   "resume": "Les guerres au Moyen-Orient et les hausse des taxes douanières compliquent le passage des bateaux de marchandises. Pour éviter les retards et les blocages sur les mers, de nombreux commerçants choisissent désormais de fa",
+   "source": "Le Monde — International · 27/11 09:30"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Procès en appel de Gérard Depardieu confirmé",
-   "zone": "France",
-   "resume": "La justice française confirme que Gérard Depardieu sera bien jugé pour des accusations de viol et d'agression sexuelle portées par Charlotte Arnould pour des faits datant de 2018. C'est une étape judiciaire majeure dans ",
-   "source": "© Aurélien Morissard, AP · 26/11 13:46"
+   "titre": "Journée internationale de l'ONU contre les mariages forcés",
+   "zone": "International",
+   "resume": "L'ONU organise pour la première fois une journée mondiale consacrée à la fin des mariages forcés et des unions d'enfants. Les Nations unies souhaitent attirer l'attention des gouvernements sur ce phénomène qui prive enco",
+   "source": "© AFP/Barbara Debout · 27/11 06:06"
+  },
+  {
+   "emoji": "⚽",
+   "theme": "Sport",
+   "titre": "Violents incidents lors du match OM-Levski Sofia au Vélodrome",
+   "zone": "France / Marseille",
+   "resume": "La rencontre d'Europe de football opposant Marseille aux Bulgares du Levski Sofia a été marquée par de très graves incidents. Des bagarres et des jets d'objets dans le stade ont fait au moins onze blessés, assombrissant ",
+   "source": "France 24 — Monde · 27/11 12:09"
   }
  ]
 }
