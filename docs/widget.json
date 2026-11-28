@@ -1,86 +1,86 @@
 {
- "genere_le": "2026-11-27T14:44:10+00:00",
+ "genere_le": "2026-11-28T13:57:02+00:00",
  "url": "https://oceanewuest-wq.github.io/geo-veille/",
  "sujets": [
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Accord de coalition gouvernementale en Israël",
-   "zone": "Israël / Moyen-Orient",
-   "resume": "En Israël, l'opposant Gadi Eisenkot s'associe avec le parti de gauche Les Démocrates pour tenter d'écarter Benjamin Netanyahu du pouvoir. Après un premier accord avec les nationalistes d'Avigdor Liberman, l'opposition ré",
-   "source": "France 24 — Moyen-Orient · 27/11 04:46"
+   "titre": "La rapporteuse de l'ONU Francesca Albanese refoulée au Costa Rica",
+   "zone": "Israël / Palestine / Costa Rica",
+   "resume": "Une experte mandatée par l'ONU pour observer la situation dans les territoires palestiniens a été bloquée à la frontière du Costa Rica. Les autorités locales ont affirmé suivre un signalement international pour des soupç",
+   "source": "Le Monde — International · 28/11 13:07"
   },
   {
    "emoji": "🕊️",
    "theme": "Politique & Diplomatie",
-   "titre": "Le Costa Rica refoule la rapporteure de l'ONU pour la Palestine",
-   "zone": "Palestine / Costa Rica",
-   "resume": "L'envoyée spéciale des Nations unies pour les territoires palestiniens, Francesca Albanese, s'est vue refuser l'entrée sur le territoire du Costa Rica. L'ONU a aussitôt réagi pour demander aux autorités locales de s'expl",
-   "source": "© AP/Tatan Syuflana · 27/11 13:44"
-  },
-  {
-   "emoji": "🕊️",
-   "theme": "Politique & Diplomatie",
-   "titre": "La junte de Guinée-Bissau reporte les élections à 2028",
-   "zone": "Guinée-Bissau / Afrique",
-   "resume": "En Guinée-Bissau, les militaires au pouvoir ont décidé de repousser les prochaines élections de deux ans. Alors que le pouvoir devait être remis aux civils en décembre, la junte prolonge sa transition jusqu'en novembre 2",
-   "source": "Le Monde — International · 27/11 11:06"
+   "titre": "L'immigration au centre des élections législatives en Espagne",
+   "zone": "Espagne / Îles Canaries",
+   "resume": "Les Espagnols votent pour leurs députés dans un climat de vive campagne électorale axée sur le thème de l'immigration. La mort récente de plusieurs personnes tentant de rejoindre les Canaries rappelle les périls de la ro",
+   "source": "Le Monde — International · 28/11 11:21"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Débat sur l'impact des frappes militaires en Iran",
-   "zone": "Iran / Moyen-Orient",
-   "resume": "Des chercheurs s'interrogent sur les conséquences des récents bombardements américains en Iran. Selon eux, ces attaques ont eu l'effet inverse de celui espéré : elles ont permis au régime de Téhéran d'accentuer la répres",
-   "source": "Le Monde — International · 27/11 08:00"
+   "titre": "Gaza : deux employés de MSF tués par une frappe israélienne",
+   "zone": "Israël / Palestine / Gaza",
+   "resume": "Deux travailleurs humanitaires de l'association Médecins sans frontières ont perdu la vie après un tir de l'armée israélienne près d'un centre de soins à Gaza. Israël affirme qu'ils étaient liés à un groupe armé, mais MS",
+   "source": "© Omar Al-Qattaa, AFP · 28/11 12:23"
   },
   {
    "emoji": "🛡️",
    "theme": "Conflits & Sécurité",
-   "titre": "Intensification des attaques russes et des opérations maritimes ukrainiennes",
-   "zone": "Ukraine / Russie",
-   "resume": "La Russie poursuit ses bombardements contre le réseau électrique et les villes ukrainiennes, provoquant de nouvelles victimes civiles. Dans le même temps, l'armée ukrainienne mène des attaques maritimes audacieuses loin ",
-   "source": "Le Monde — International · 27/11 14:21"
+   "titre": "Extension des fronts navals dans la guerre en Ukraine",
+   "zone": "Ukraine / Russie / Méditerranée",
+   "resume": "L'Ukraine ne se contente plus du front terrestre classique et mène désormais des attaques contre la flotte russe loin de ses frontières, notamment en Méditerranée. De son côté, l'armée russe annonce avoir abattu une vagu",
+   "source": "Le Monde — International · 28/11 05:00"
+  },
+  {
+   "emoji": "🛡️",
+   "theme": "Conflits & Sécurité",
+   "titre": "Suspicions de cyberattaque contre le cloud de l'US Air Force",
+   "zone": "États-Unis",
+   "resume": "Des informations de presse affirment que des hackeurs ont réussi à pénétrer dans les serveurs en ligne de l'armée de l'air américaine. Le ministère de la Défense des États-Unis assure quant à lui que la sécurité de ses r",
+   "source": "© Dado Ruvic, Reuters · 28/11 05:59"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Échec des négociations sur le budget de l'Union européenne",
+   "titre": "Binance prépare la fermeture de ses services dans l'Union européenne",
    "zone": "Union européenne",
-   "resume": "Les 27 pays membres de l'Union européenne ne sont pas parvenus à s'entendre sur les grandes lignes de leur futur budget de 2028 à 2034. En raison de vifs désaccords sur l'ampleur des économies à réaliser, le sommet de Br",
-   "source": "France 24 — Monde · 27/11 11:19"
+   "resume": "Le géant mondial des cryptomonnaies Binance s'apprête à quitter le marché européen avant la fin de l'année. N'ayant pas réussi à obtenir l'autorisation administrative obligatoire imposée par l'Union européenne, la platef",
+   "source": "Le Monde — International · 28/11 13:00"
   },
   {
    "emoji": "📈",
    "theme": "Économie & Énergie",
-   "titre": "Entrée officielle de la France en récession économique",
+   "titre": "S&P abaisse la perspective financière de la France après son entrée en récession",
    "zone": "France",
-   "resume": "L'économie française ralentit nettement : le produit intérieur brut a baissé pour le deuxième trimestre d'affilée, plaçant officiellement le pays en récession. Ce recul s'explique principalement par le manque de consomma",
-   "source": "© Hugo Mathy, AFP · 27/11 10:20"
-  },
-  {
-   "emoji": "📈",
-   "theme": "Économie & Énergie",
-   "titre": "Perturbations maritimes mondiales et essor du fret aérien",
-   "zone": "International / Moyen-Orient",
-   "resume": "Les guerres au Moyen-Orient et les hausse des taxes douanières compliquent le passage des bateaux de marchandises. Pour éviter les retards et les blocages sur les mers, de nombreux commerçants choisissent désormais de fa",
-   "source": "Le Monde — International · 27/11 09:30"
+   "resume": "L'agence d'évaluation financière S&P a révisé défavorablement les perspectives financières de la France. Même si la note de crédit du pays reste pour l'instant inchangée, la perspective négative signale un risque élevé d",
+   "source": "© Henny Ray Abrams, AP · 27/11 21:57"
   },
   {
    "emoji": "🎭",
    "theme": "Société",
-   "titre": "Journée internationale de l'ONU contre les mariages forcés",
-   "zone": "International",
-   "resume": "L'ONU organise pour la première fois une journée mondiale consacrée à la fin des mariages forcés et des unions d'enfants. Les Nations unies souhaitent attirer l'attention des gouvernements sur ce phénomène qui prive enco",
-   "source": "© AFP/Barbara Debout · 27/11 06:06"
+   "titre": "Inquiétudes de l'OMS et épidémie de rougeole aux États-Unis",
+   "zone": "États-Unis / International",
+   "resume": "L'OMS tire la sonnette d'alarme face à la hausse des cas de rougeole dans plusieurs pays du monde. Aux États-Unis, le refus ou l'hésitation face aux vaccins accélère la propagation de cette maladie pourtant évitable. Les",
+   "source": "Le Monde — International · 28/11 10:30"
+  },
+  {
+   "emoji": "🎭",
+   "theme": "Société",
+   "titre": "Mobilisation nationale en France contre les violences faites aux femmes",
+   "zone": "France",
+   "resume": "De nombreuses manifestations se sont tenues à travers la France pour dire non aux violences faites aux femmes. Les associations demandent des actions concrètes et plus de moyens financiers pour protéger les victimes et p",
+   "source": "France 24 — Monde · 28/11 10:15"
   },
   {
    "emoji": "⚽",
    "theme": "Sport",
-   "titre": "Violents incidents lors du match OM-Levski Sofia au Vélodrome",
-   "zone": "France / Marseille",
-   "resume": "La rencontre d'Europe de football opposant Marseille aux Bulgares du Levski Sofia a été marquée par de très graves incidents. Des bagarres et des jets d'objets dans le stade ont fait au moins onze blessés, assombrissant ",
-   "source": "France 24 — Monde · 27/11 12:09"
+   "titre": "Ligue 1 : le Stade Brestois bat le Paris FC et monte sur le podium",
+   "zone": "France",
+   "resume": "Le Stade brestois a réussi un joli coup en battant le Paris FC lors du championnat de France de football. Ce succès permet au club breton de se hisser sur le podium de la Ligue 1. Le championnat réserve cette saison des ",
+   "source": "France 24 — Monde · 28/11 12:30"
   }
  ]
 }
